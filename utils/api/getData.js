@@ -1,5 +1,5 @@
 const axios = require('axios');
-const config = require('../data/config.json');
+const config = require('../db/config.json');
 const baseUrl = 'https://api-football-v1.p.rapidapi.com/v3';
 
 const getData = async (endpoint, apiKey, apiHost, method, params, body) => {
