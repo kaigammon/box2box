@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 157,
+      "name": "Bayern Munich",
+      "code": "BAY",
+      "country": "Germany",
+      "founded": 1900,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/157.png"
+   }
+}

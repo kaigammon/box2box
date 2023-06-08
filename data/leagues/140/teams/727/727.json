@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 727,
+      "name": "Osasuna",
+      "code": "OSA",
+      "country": "Spain",
+      "founded": 1920,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/727.png"
+   }
+}

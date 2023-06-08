@@ -1,0 +1,13 @@
+{
+    "league": {
+        "id": 140,
+        "name": "La Liga",
+        "type": "League",
+        "logo": "https://media-3.api-sports.io/football/leagues/140.png"
+    },
+    "country": {
+        "name": "Spain",
+        "code": "ES",
+        "flag": "https://media-2.api-sports.io/flags/es.svg"
+    }
+}

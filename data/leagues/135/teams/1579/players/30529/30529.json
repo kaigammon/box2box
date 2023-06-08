@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30529,
+      "name": "Marlon",
+      "firstname": "Marlon",
+      "lastname": "Santos da Silva Barbosa",
+      "age": 28,
+      "birth": {
+         "date": "1995-09-07",
+         "place": "Duque de Caxias",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "182 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30529.png"
+   }
+}

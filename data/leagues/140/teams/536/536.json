@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 536,
+      "name": "Sevilla",
+      "code": "SEV",
+      "country": "Spain",
+      "founded": 1890,
+      "national": false,
+      "logo": "https://media-1.api-sports.io/football/teams/536.png"
+   }
+}

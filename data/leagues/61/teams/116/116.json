@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 116,
+      "name": "Lens",
+      "code": "LEN",
+      "country": "France",
+      "founded": 1906,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/116.png"
+   }
+}

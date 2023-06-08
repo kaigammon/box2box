@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 168,
+      "name": "Bayer Leverkusen",
+      "code": "BAY",
+      "country": "Germany",
+      "founded": 1904,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/168.png"
+   }
+}

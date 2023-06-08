@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 543,
+      "name": "Real Betis",
+      "code": "BET",
+      "country": "Spain",
+      "founded": 1907,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/543.png"
+   }
+}

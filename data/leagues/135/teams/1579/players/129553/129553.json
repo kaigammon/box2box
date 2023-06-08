@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 129553,
+      "name": "A. Sorrentino",
+      "firstname": "Alessandro",
+      "lastname": "Sorrentino",
+      "age": 21,
+      "birth": {
+         "date": "2002-04-03",
+         "place": "Guardiagrele",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "190 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/129553.png"
+   }
+}

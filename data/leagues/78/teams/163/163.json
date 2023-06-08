@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 163,
+      "name": "Borussia Monchengladbach",
+      "code": "MOE",
+      "country": "Germany",
+      "founded": 1900,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/163.png"
+   }
+}

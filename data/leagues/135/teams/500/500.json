@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 500,
+      "name": "Bologna",
+      "code": "BOL",
+      "country": "Italy",
+      "founded": 1909,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/500.png"
+   }
+}

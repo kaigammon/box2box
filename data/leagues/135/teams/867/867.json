@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 867,
+      "name": "Lecce",
+      "code": "LEC",
+      "country": "Italy",
+      "founded": 1908,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/867.png"
+   }
+}

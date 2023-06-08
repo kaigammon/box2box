@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 98,
+      "name": "Ajaccio",
+      "code": "AJA",
+      "country": "France",
+      "founded": 1910,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/98.png"
+   }
+}

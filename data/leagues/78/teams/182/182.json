@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 182,
+      "name": "Union Berlin",
+      "code": "UNI",
+      "country": "Germany",
+      "founded": 1966,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/182.png"
+   }
+}

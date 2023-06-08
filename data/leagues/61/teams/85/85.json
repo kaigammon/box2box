@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 85,
+      "name": "Paris Saint Germain",
+      "code": "PAR",
+      "country": "France",
+      "founded": 1970,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/85.png"
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 532,
+      "name": "Valencia",
+      "code": "VAL",
+      "country": "Spain",
+      "founded": 1919,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/532.png"
+   }
+}

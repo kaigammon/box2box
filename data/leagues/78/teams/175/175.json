@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 175,
+      "name": "Hamburger SV",
+      "code": "HAM",
+      "country": "Germany",
+      "founded": 1887,
+      "national": false,
+      "logo": "https://media-1.api-sports.io/football/teams/175.png"
+   }
+}

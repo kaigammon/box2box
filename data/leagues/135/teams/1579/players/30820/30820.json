@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30820,
+      "name": "E. Lamanna",
+      "firstname": "Eugenio",
+      "lastname": "Lamanna",
+      "age": 34,
+      "birth": {
+         "date": "1989-08-07",
+         "place": "Como",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "185 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30820.png"
+   }
+}

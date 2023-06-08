@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 81,
+      "name": "Marseille",
+      "code": "MAR",
+      "country": "France",
+      "founded": 1899,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/81.png"
+   }
+}

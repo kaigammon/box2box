@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 172,
+      "name": "VfB Stuttgart",
+      "code": "STU",
+      "country": "Germany",
+      "founded": 1893,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/172.png"
+   }
+}

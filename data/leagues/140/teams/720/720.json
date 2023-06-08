@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 720,
+      "name": "Valladolid",
+      "code": "VAL",
+      "country": "Spain",
+      "founded": 1928,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/720.png"
+   }
+}

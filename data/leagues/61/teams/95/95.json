@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 95,
+      "name": "Strasbourg",
+      "code": "STR",
+      "country": "France",
+      "founded": 1906,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/95.png"
+   }
+}

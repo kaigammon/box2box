@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 192,
+      "name": "FC Koln",
+      "code": "KOL",
+      "country": "Germany",
+      "founded": 1948,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/192.png"
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 170,
+      "name": "FC Augsburg",
+      "code": "AUG",
+      "country": "Germany",
+      "founded": 1907,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/170.png"
+   }
+}

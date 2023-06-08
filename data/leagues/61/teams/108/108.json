@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 108,
+      "name": "Auxerre",
+      "code": "AUX",
+      "country": "France",
+      "founded": 1905,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/108.png"
+   }
+}

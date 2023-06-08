@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 51,
+      "name": "Brighton",
+      "code": "BRI",
+      "country": "England",
+      "founded": 1901,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/51.png"
+   }
+}

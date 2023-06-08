@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 33,
+      "name": "Manchester United",
+      "code": "MUN",
+      "country": "England",
+      "founded": 1878,
+      "national": false,
+      "logo": "https://media-1.api-sports.io/football/teams/33.png"
+   }
+}

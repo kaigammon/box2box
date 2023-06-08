@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 35,
+      "name": "Bournemouth",
+      "code": "BOU",
+      "country": "England",
+      "founded": 1899,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/35.png"
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 498,
+      "name": "Sampdoria",
+      "code": "SAM",
+      "country": "Italy",
+      "founded": 1946,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/498.png"
+   }
+}

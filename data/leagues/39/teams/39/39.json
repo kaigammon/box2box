@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 39,
+      "name": "Wolves",
+      "code": "WOL",
+      "country": "England",
+      "founded": 1877,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/39.png"
+   }
+}

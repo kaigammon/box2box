@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30754,
+      "name": "N. Rigoni",
+      "firstname": "Nicola",
+      "lastname": "Rigoni",
+      "age": 33,
+      "birth": {
+         "date": "1990-11-12",
+         "place": "Schio",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "185 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30754.png"
+   }
+}

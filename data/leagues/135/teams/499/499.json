@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 499,
+      "name": "Atalanta",
+      "code": "ATA",
+      "country": "Italy",
+      "founded": 1907,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/499.png"
+   }
+}

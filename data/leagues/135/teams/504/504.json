@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 504,
+      "name": "Verona",
+      "code": "VER",
+      "country": "Italy",
+      "founded": 1903,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/504.png"
+   }
+}

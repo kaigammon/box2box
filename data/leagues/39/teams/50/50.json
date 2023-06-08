@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 50,
+      "name": "Manchester City",
+      "code": "MAC",
+      "country": "England",
+      "founded": 1880,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/50.png"
+   }
+}

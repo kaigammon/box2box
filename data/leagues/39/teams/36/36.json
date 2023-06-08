@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 36,
+      "name": "Fulham",
+      "code": "FUL",
+      "country": "England",
+      "founded": 1879,
+      "national": false,
+      "logo": "https://media-1.api-sports.io/football/teams/36.png"
+   }
+}

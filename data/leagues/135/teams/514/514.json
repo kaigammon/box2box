@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 514,
+      "name": "Salernitana",
+      "code": "SAL",
+      "country": "Italy",
+      "founded": 2011,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/514.png"
+   }
+}

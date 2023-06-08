@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 93,
+      "name": "Reims",
+      "code": "REI",
+      "country": "France",
+      "founded": 1909,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/93.png"
+   }
+}

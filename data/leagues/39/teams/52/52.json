@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 52,
+      "name": "Crystal Palace",
+      "code": "CRY",
+      "country": "England",
+      "founded": 1905,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/52.png"
+   }
+}

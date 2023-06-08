@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 99,
+      "name": "Clermont Foot",
+      "code": "CLE",
+      "country": "France",
+      "founded": 1990,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/99.png"
+   }
+}

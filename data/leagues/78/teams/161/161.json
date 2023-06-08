@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 161,
+      "name": "VfL Wolfsburg",
+      "code": "WOL",
+      "country": "Germany",
+      "founded": 1945,
+      "national": false,
+      "logo": "https://media-1.api-sports.io/football/teams/161.png"
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 91,
+      "name": "Monaco",
+      "code": "MON",
+      "country": "France",
+      "founded": 1919,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/91.png"
+   }
+}
