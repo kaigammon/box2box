@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47511,
+      "name": "Juanpe",
+      "firstname": "Juan Pedro",
+      "lastname": "Ramírez López",
+      "age": 32,
+      "birth": {
+         "date": "1991-04-30",
+         "place": "Las Palmas de Gran Canaria",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "190 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47511.png"
+   }
+}

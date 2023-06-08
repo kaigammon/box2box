@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47277,
+      "name": "Unai Núñez",
+      "firstname": "Unai",
+      "lastname": "Núñez Gestoso",
+      "age": 26,
+      "birth": {
+         "date": "1997-01-30",
+         "place": "Portugalete",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "186 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47277.png"
+   }
+}

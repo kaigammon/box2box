@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 166,
+      "name": "J. Foyth",
+      "firstname": "Juan Marcos",
+      "lastname": "Foyth",
+      "age": 25,
+      "birth": {
+         "date": "1998-01-12",
+         "place": "La Plata",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "187 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/166.png"
+   }
+}

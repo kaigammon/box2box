@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2480,
+      "name": "I. Arboleda",
+      "firstname": "Iván Mauricio",
+      "lastname": "Arboleda",
+      "age": 27,
+      "birth": {
+         "date": "1996-04-21",
+         "place": "Tumáco",
+         "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "183 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2480.png"
+   }
+}

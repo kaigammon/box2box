@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 755,
+      "name": "Jaime Seoane",
+      "firstname": "Jaime",
+      "lastname": "Seoane Valenciano",
+      "age": 26,
+      "birth": {
+         "date": "1997-01-22",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "175 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/755.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1560,
+      "name": "Barragán",
+      "firstname": "Antonio",
+      "lastname": "Barragán Fernández",
+      "age": 35,
+      "birth": {
+         "date": "1987-06-12",
+         "place": "Pontedeume",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "182 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1560.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 189832,
+      "name": "Unai Marrero",
+      "firstname": "Unai",
+      "lastname": "Marrero Larrañaga",
+      "age": 22,
+      "birth": {
+         "date": "2001-10-09",
+         "place": "San Sebastián",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "189 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/189832.png"
+   }
+}

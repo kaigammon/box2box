@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20520,
+      "name": "I. Balliu",
+      "firstname": "Iván",
+      "lastname": "Balliu Campeny",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-01",
+         "place": "Caldas de Malavella",
+         "country": "Spain"
+      },
+      "nationality": "Albania",
+      "height": "172 cm",
+      "weight": "63 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20520.png"
+   }
+}

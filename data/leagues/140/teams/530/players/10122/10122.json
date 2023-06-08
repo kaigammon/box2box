@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 10122,
+      "name": "Renan Lodi",
+      "firstname": "Renan Augusto",
+      "lastname": "Lodi dos Santos",
+      "age": 25,
+      "birth": {
+         "date": "1998-04-08",
+         "place": "Serrana",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "173 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/10122.png"
+   }
+}

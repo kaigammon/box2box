@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46931,
+      "name": "Álvaro Giménez",
+      "firstname": "Álvaro",
+      "lastname": "Giménez Candela",
+      "age": 32,
+      "birth": {
+         "date": "1991-05-19",
+         "place": "Elche",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "183 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/46931.png"
+   }
+}

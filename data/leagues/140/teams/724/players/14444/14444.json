@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 14444,
+      "name": "M. Mbaye",
+      "firstname": "Mamadou",
+      "lastname": "Mbaye",
+      "age": 25,
+      "birth": {
+         "date": "1998-06-28",
+         "place": "Dakar",
+         "country": "Senegal"
+      },
+      "nationality": "Senegal",
+      "height": "192 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/14444.png"
+   }
+}

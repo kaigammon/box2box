@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 336560,
+      "name": "Álex Valle",
+      "firstname": "Álex",
+      "lastname": "Valle Gómez",
+      "age": 19,
+      "birth": {
+         "date": "2004-04-25",
+         "place": "Badalona",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/336560.png"
+   }
+}

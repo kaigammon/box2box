@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47262,
+      "name": "Portillo",
+      "firstname": "Francisco",
+      "lastname": "Portillo Soler",
+      "age": 33,
+      "birth": {
+         "date": "1990-06-13",
+         "place": "Málaga",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "169 cm",
+      "weight": "60 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47262.png"
+   }
+}

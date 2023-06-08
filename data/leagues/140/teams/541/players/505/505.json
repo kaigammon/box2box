@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 505,
+      "name": "D. Alaba",
+      "firstname": "David",
+      "lastname": "Olatukunbo Alaba",
+      "age": 31,
+      "birth": {
+         "date": "1992-06-24",
+         "place": "Wien",
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "180 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/505.png"
+   }
+}

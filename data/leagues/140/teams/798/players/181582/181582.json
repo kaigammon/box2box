@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 181582,
+      "name": "Copete",
+      "firstname": "José Manuel",
+      "lastname": "Arias Copete",
+      "age": 24,
+      "birth": {
+         "date": "1999-10-10",
+         "place": "Écija",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "192 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/181582.png"
+   }
+}

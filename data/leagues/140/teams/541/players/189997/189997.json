@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 189997,
+      "name": "Mario de Luis",
+      "firstname": "Mario",
+      "lastname": "de Luis Jiménez",
+      "age": 21,
+      "birth": {
+         "date": "2002-06-05",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "184 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/189997.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 105081,
+      "name": "Gianni",
+      "firstname": "Ian",
+      "lastname": "Cassaro Usart",
+      "age": 31,
+      "birth": {
+         "date": "1992-04-10",
+         "place": "Lloret de Mar",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/105081.png"
+   }
+}

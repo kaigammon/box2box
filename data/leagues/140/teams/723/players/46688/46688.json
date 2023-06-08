@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46688,
+      "name": "Alejandro Pozo",
+      "firstname": "Alejandro",
+      "lastname": "Pozo Pozo",
+      "age": 24,
+      "birth": {
+         "date": "1999-02-22",
+         "place": "Huévar del Aljarafe",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "174 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/46688.png"
+   }
+}

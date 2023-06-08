@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 206260,
+      "name": "Lucas Cañizares",
+      "firstname": "Lucas",
+      "lastname": "Cañizares Conchello",
+      "age": 21,
+      "birth": {
+         "date": "2002-05-10",
+         "place": "Valencia",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "186 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/206260.png"
+   }
+}

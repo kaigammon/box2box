@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 182664,
+      "name": "Gaizka Ayesa",
+      "firstname": "Gaizka",
+      "lastname": "Ayesa Burgui",
+      "age": 22,
+      "birth": {
+         "date": "2001-04-02",
+         "place": "Ansoáin",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "182 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/182664.png"
+   }
+}

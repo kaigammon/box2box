@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47541,
+      "name": "Santi Comesaña",
+      "firstname": "Santiago",
+      "lastname": "Comesaña Veiga",
+      "age": 27,
+      "birth": {
+         "date": "1996-10-05",
+         "place": "Vigo",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "184 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47541.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47505,
+      "name": "B. Espinosa",
+      "firstname": "Bernardo José",
+      "lastname": "Espinosa Zúñiga",
+      "age": 34,
+      "birth": {
+         "date": "1989-07-11",
+         "place": "Cali",
+         "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "192 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47505.png"
+   }
+}

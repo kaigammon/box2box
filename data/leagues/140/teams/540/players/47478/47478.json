@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47478,
+      "name": "Fernando Calero",
+      "firstname": "Fernando",
+      "lastname": "Calero Villa",
+      "age": 28,
+      "birth": {
+         "date": "1995-09-14",
+         "place": "Boecillo",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "183 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47478.png"
+   }
+}

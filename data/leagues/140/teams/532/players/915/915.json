@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 915,
+      "name": "Gabriel Paulista",
+      "firstname": "Gabriel Armando",
+      "lastname": "de Abreu",
+      "age": 33,
+      "birth": {
+         "date": "1990-11-26",
+         "place": "São Paulo",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "185 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/915.png"
+   }
+}

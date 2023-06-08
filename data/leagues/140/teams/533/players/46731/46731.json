@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46731,
+      "name": "P. Estupiñán",
+      "firstname": "Pervis Josué",
+      "lastname": "Estupiñán Tenorio",
+      "age": 25,
+      "birth": {
+         "date": "1998-01-21",
+         "place": "Esmeraldas",
+         "country": "Ecuador"
+      },
+      "nationality": "Ecuador",
+      "height": "175 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/46731.png"
+   }
+}

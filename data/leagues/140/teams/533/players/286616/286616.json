@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 286616,
+      "name": "F. Jörgensen",
+      "firstname": "Filip",
+      "lastname": "Jörgensen",
+      "age": 21,
+      "birth": {
+         "date": "2002-04-16",
+         "place": null,
+         "country": "Sweden"
+      },
+      "nationality": "Denmark",
+      "height": "190 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/286616.png"
+   }
+}

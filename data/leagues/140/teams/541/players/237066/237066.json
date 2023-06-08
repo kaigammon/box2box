@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 237066,
+      "name": "Rafa Marín",
+      "firstname": "Rafael",
+      "lastname": "Marín Zamora",
+      "age": 21,
+      "birth": {
+         "date": "2002-05-19",
+         "place": "Guadajoz",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/237066.png"
+   }
+}

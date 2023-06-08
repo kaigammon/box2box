@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47297,
+      "name": "Andoni Zubiaurre",
+      "firstname": "Andoni",
+      "lastname": "Zubiaurre Dorronsoro",
+      "age": 27,
+      "birth": {
+         "date": "1996-12-04",
+         "place": "Ordizia",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "190 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47297.png"
+   }
+}

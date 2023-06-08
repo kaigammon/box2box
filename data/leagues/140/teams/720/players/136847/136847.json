@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 136847,
+      "name": "Y. Meykher",
+      "firstname": "Yaroslav",
+      "lastname": "Meykher",
+      "age": 23,
+      "birth": {
+         "date": "2000-03-21",
+         "place": "Ternopil",
+         "country": "Ukraine"
+      },
+      "nationality": "Ukraine",
+      "height": "184 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/136847.png"
+   }
+}

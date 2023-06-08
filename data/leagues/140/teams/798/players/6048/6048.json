@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 6048,
+      "name": "B. Cufré",
+      "firstname": "Braian Ezequiel",
+      "lastname": "Cufré",
+      "age": 27,
+      "birth": {
+         "date": "1996-12-15",
+         "place": "Mar del Plata",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "179 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/6048.png"
+   }
+}

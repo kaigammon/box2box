@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47356,
+      "name": "Rodrigo Ely",
+      "firstname": "Rodrigo",
+      "lastname": "Ely",
+      "age": 30,
+      "birth": {
+         "date": "1993-11-03",
+         "place": "Lajeado",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "188 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47356.png"
+   }
+}

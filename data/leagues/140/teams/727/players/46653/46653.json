@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46653,
+      "name": "David García",
+      "firstname": "David",
+      "lastname": "García Zubiria",
+      "age": 29,
+      "birth": {
+         "date": "1994-02-14",
+         "place": "Pamplona",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/46653.png"
+   }
+}

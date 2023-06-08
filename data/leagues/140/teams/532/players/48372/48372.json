@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 48372,
+      "name": "E. Cömert",
+      "firstname": "Eray Ervin",
+      "lastname": "Cömert",
+      "age": 25,
+      "birth": {
+         "date": "1998-02-04",
+         "place": "Rheinfelden",
+         "country": "Switzerland"
+      },
+      "nationality": "Switzerland",
+      "height": "183 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/48372.png"
+   }
+}

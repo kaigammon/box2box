@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1983,
+      "name": "E. Roco",
+      "firstname": "Enzo Pablo",
+      "lastname": "Roco Roco",
+      "age": 31,
+      "birth": {
+         "date": "1992-08-16",
+         "place": "Ovalle",
+         "country": "Chile"
+      },
+      "nationality": "Chile",
+      "height": "192 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1983.png"
+   }
+}

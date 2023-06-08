@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 51449,
+      "name": "G. Álvarez",
+      "firstname": "Pedro Gastón",
+      "lastname": "Álvarez Sosa",
+      "age": 23,
+      "birth": {
+         "date": "2000-03-24",
+         "place": "Melo",
+         "country": "Uruguay"
+      },
+      "nationality": "Uruguay",
+      "height": "184 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/51449.png"
+   }
+}

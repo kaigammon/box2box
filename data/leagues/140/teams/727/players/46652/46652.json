@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46652,
+      "name": "Unai García",
+      "firstname": "Unai",
+      "lastname": "García Lugea",
+      "age": 31,
+      "birth": {
+         "date": "1992-02-03",
+         "place": "Esquiroz",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "186 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/46652.png"
+   }
+}

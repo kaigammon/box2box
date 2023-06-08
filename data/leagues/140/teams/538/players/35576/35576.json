@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 35576,
+      "name": "O. Pineda",
+      "firstname": "Orbelín",
+      "lastname": "Pineda Alvarado",
+      "age": 27,
+      "birth": {
+         "date": "1996-03-24",
+         "place": "Ciudad de México",
+         "country": "Mexico"
+      },
+      "nationality": "Mexico",
+      "height": "169 cm",
+      "weight": "63 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/35576.png"
+   }
+}

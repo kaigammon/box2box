@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47432,
+      "name": "Hugo Mallo",
+      "firstname": "Hugo",
+      "lastname": "Mallo Novegil",
+      "age": 32,
+      "birth": {
+         "date": "1991-06-22",
+         "place": "Marín",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "173 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47432.png"
+   }
+}

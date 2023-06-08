@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 363331,
+      "name": "Juan Martín Ginzo",
+      "firstname": "Juan Martín",
+      "lastname": "Ginzo",
+      "age": 20,
+      "birth": {
+         "date": "2002-03-05",
+         "place": null,
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "176 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/363331.png"
+   }
+}

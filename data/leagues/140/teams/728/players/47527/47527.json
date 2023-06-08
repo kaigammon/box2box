@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47527,
+      "name": "S. Dimitrievski",
+      "firstname": "Stole",
+      "lastname": "Dimitrievski",
+      "age": 30,
+      "birth": {
+         "date": "1993-12-25",
+         "place": "Kumanovo",
+         "country": "North Macedonia"
+      },
+      "nationality": "North Macedonia",
+      "height": "188 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47527.png"
+   }
+}

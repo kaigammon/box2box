@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47274,
+      "name": "Capa",
+      "firstname": "Ander",
+      "lastname": "Capa Rodríguez",
+      "age": 31,
+      "birth": {
+         "date": "1992-02-08",
+         "place": "Portugalete",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "175 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47274.png"
+   }
+}

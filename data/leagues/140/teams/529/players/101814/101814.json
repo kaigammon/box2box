@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 101814,
+      "name": "R. Araujo",
+      "firstname": "Ronald Federico",
+      "lastname": "Araujo da Silva",
+      "age": 24,
+      "birth": {
+         "date": "1999-03-07",
+         "place": "Rivera",
+         "country": "Uruguay"
+      },
+      "nationality": "Uruguay",
+      "height": "188 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/101814.png"
+   }
+}

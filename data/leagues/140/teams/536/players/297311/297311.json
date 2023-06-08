@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 297311,
+      "name": "Kike Salas",
+      "firstname": "Enrique Jesús",
+      "lastname": "Salas Valiente",
+      "age": 21,
+      "birth": {
+         "date": "2002-04-23",
+         "place": "Morón de la Frontera",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/297311.png"
+   }
+}

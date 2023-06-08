@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 334575,
+      "name": "Diego Piñeiro",
+      "firstname": "Diego",
+      "lastname": "Piñeiro del Álamo",
+      "age": 19,
+      "birth": {
+         "date": "2004-02-13",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/334575.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 314,
+      "name": "Raúl Albiol",
+      "firstname": "Raúl",
+      "lastname": "Albiol i Tortajada",
+      "age": 38,
+      "birth": {
+         "date": "1985-09-04",
+         "place": "Villamarchante",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "187 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/314.png"
+   }
+}

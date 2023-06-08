@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31386,
+      "name": "J. El Yamiq",
+      "firstname": "Jawad",
+      "lastname": "El Yamiq",
+      "age": 31,
+      "birth": {
+         "date": "1992-02-29",
+         "place": "Khouribga",
+         "country": "Morocco"
+      },
+      "nationality": "Morocco",
+      "height": "193 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/31386.png"
+   }
+}

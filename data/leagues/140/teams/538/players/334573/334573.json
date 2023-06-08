@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 334573,
+      "name": "Martín Conde",
+      "firstname": "Martín",
+      "lastname": "Conde Gómez",
+      "age": 20,
+      "birth": {
+         "date": "2003-03-25",
+         "place": "Ourense",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/334573.png"
+   }
+}

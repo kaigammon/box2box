@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 353463,
+      "name": "M. Diakité",
+      "firstname": "Moussa",
+      "lastname": "Diakité",
+      "age": 20,
+      "birth": {
+         "date": "2003-11-04",
+         "place": null,
+         "country": "Mali"
+      },
+      "nationality": "Mali",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/353463.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2278,
+      "name": "Marcos Alonso",
+      "firstname": "Marcos",
+      "lastname": "Alonso Mendoza",
+      "age": 33,
+      "birth": {
+         "date": "1990-12-28",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "188 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2278.png"
+   }
+}

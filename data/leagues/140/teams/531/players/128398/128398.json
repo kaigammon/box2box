@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 128398,
+      "name": "Oihan Sancet",
+      "firstname": "Oihan",
+      "lastname": "Sancet Tirapu",
+      "age": 23,
+      "birth": {
+         "date": "2000-04-25",
+         "place": "Pamplona",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "188 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/128398.png"
+   }
+}

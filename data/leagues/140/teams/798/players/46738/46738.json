@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46738,
+      "name": "M. Valjent",
+      "firstname": "Martin",
+      "lastname": "Valjent",
+      "age": 28,
+      "birth": {
+         "date": "1995-12-11",
+         "place": "Dubnica nad Vahom",
+         "country": "Slovakia"
+      },
+      "nationality": "Slovakia",
+      "height": "187 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/46738.png"
+   }
+}

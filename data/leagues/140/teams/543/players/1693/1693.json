@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1693,
+      "name": "Víctor Ruiz",
+      "firstname": "Víctor",
+      "lastname": "Ruíz Torre",
+      "age": 34,
+      "birth": {
+         "date": "1989-01-25",
+         "place": "Esplugues de Llobregat",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "184 cm",
+      "weight": "95 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1693.png"
+   }
+}

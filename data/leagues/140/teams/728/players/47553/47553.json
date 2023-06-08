@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47553,
+      "name": "Bebé",
+      "firstname": "Tiago Manuel",
+      "lastname": "Dias Correia",
+      "age": 33,
+      "birth": {
+         "date": "1990-07-12",
+         "place": "Agualva-Cacém",
+         "country": "Portugal"
+      },
+      "nationality": "Cape Verde",
+      "height": "190 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47553.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46870,
+      "name": "Diego Mariño",
+      "firstname": "Diego",
+      "lastname": "Mariño Villar",
+      "age": 33,
+      "birth": {
+         "date": "1990-05-09",
+         "place": "Vigo",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "187 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/46870.png"
+   }
+}

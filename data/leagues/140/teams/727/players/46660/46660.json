@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46660,
+      "name": "Javi Martínez",
+      "firstname": "Javier",
+      "lastname": "Martínez Calvo",
+      "age": 24,
+      "birth": {
+         "date": "1999-12-22",
+         "place": "Ólvega",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "180 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/46660.png"
+   }
+}

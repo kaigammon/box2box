@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1484,
+      "name": "R. Battaglia",
+      "firstname": "Rodrigo Andrés",
+      "lastname": "Battaglia",
+      "age": 32,
+      "birth": {
+         "date": "1991-07-12",
+         "place": "Morón",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "187 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1484.png"
+   }
+}

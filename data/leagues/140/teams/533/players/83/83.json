@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 83,
+      "name": "A. Danjuma",
+      "firstname": "Arnaut",
+      "lastname": "Danjuma Adam Groeneveld",
+      "age": 26,
+      "birth": {
+         "date": "1997-01-31",
+         "place": "Lagos",
+         "country": "Nigeria"
+      },
+      "nationality": "Netherlands",
+      "height": "178 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/83.png"
+   }
+}

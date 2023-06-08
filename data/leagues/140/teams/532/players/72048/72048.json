@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 72048,
+      "name": "C. Özkacar",
+      "firstname": "Cenk",
+      "lastname": "Özkacar",
+      "age": 23,
+      "birth": {
+         "date": "2000-10-06",
+         "place": "İzmir",
+         "country": "Türkiye"
+      },
+      "nationality": "Türkiye",
+      "height": "190 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/72048.png"
+   }
+}

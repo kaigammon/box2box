@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 614,
+      "name": "C. Bravo",
+      "firstname": "Claudio Andrés",
+      "lastname": "Bravo Muñoz",
+      "age": 40,
+      "birth": {
+         "date": "1983-04-13",
+         "place": "Buin",
+         "country": "Chile"
+      },
+      "nationality": "Chile",
+      "height": "184 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/614.png"
+   }
+}

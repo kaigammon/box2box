@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22225,
+      "name": "Reinildo",
+      "firstname": "Reinildo Isnard",
+      "lastname": "Mandava",
+      "age": 29,
+      "birth": {
+         "date": "1994-01-21",
+         "place": "Beira",
+         "country": "Mozambique"
+      },
+      "nationality": "Mozambique",
+      "height": "180 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/22225.png"
+   }
+}

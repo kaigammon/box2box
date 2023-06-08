@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 183748,
+      "name": "Jon Karrikaburu",
+      "firstname": "Jon",
+      "lastname": "Karrikaburu Jaimerena",
+      "age": 21,
+      "birth": {
+         "date": "2002-09-19",
+         "place": "Elizondo",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/183748.png"
+   }
+}

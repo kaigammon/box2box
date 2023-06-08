@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47334,
+      "name": "David López",
+      "firstname": "David",
+      "lastname": "López Silva",
+      "age": 34,
+      "birth": {
+         "date": "1989-10-09",
+         "place": "Barcelona",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "183 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47334.png"
+   }
+}

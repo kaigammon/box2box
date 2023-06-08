@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18742,
+      "name": "M. Doherty",
+      "firstname": "Matthew James",
+      "lastname": "Doherty",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-16",
+         "place": "Dublin",
+         "country": "Republic of Ireland"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "185 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18742.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46904,
+      "name": "Fernando Martínez",
+      "firstname": "Fernando",
+      "lastname": "Martínez Rubio",
+      "age": 33,
+      "birth": {
+         "date": "1990-06-10",
+         "place": "Murcia",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/46904.png"
+   }
+}

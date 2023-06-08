@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 29,
+      "name": "J. Oblak",
+      "firstname": "Jan",
+      "lastname": "Oblak",
+      "age": 30,
+      "birth": {
+         "date": "1993-01-07",
+         "place": "Škofja Loka",
+         "country": "Slovenia"
+      },
+      "nationality": "Slovenia",
+      "height": "188 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/29.png"
+   }
+}

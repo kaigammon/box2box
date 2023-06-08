@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47296,
+      "name": "G. Rulli",
+      "firstname": "Gerónimo",
+      "lastname": "Rulli",
+      "age": 31,
+      "birth": {
+         "date": "1992-05-20",
+         "place": "La Plata",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "189 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47296.png"
+   }
+}

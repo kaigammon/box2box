@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 237252,
+      "name": "Pere García",
+      "firstname": "Pere Joan",
+      "lastname": "García Bauzà",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-22",
+         "place": null,
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "193 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/237252.png"
+   }
+}

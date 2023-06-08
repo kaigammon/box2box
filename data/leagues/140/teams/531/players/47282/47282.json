@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47282,
+      "name": "Raúl García",
+      "firstname": "Raúl",
+      "lastname": "García Escudero",
+      "age": 37,
+      "birth": {
+         "date": "1986-07-11",
+         "place": "Pamplona",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "184 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47282.png"
+   }
+}

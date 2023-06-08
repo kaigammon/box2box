@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 53517,
+      "name": "D. Hadžikadunić",
+      "firstname": "Dennis",
+      "lastname": "Hadžikadunić",
+      "age": 25,
+      "birth": {
+         "date": "1998-07-09",
+         "place": "Malmö",
+         "country": "Sweden"
+      },
+      "nationality": "Bosnia and Herzegovina",
+      "height": "191 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/53517.png"
+   }
+}

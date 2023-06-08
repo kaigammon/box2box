@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 913,
+      "name": "Cristian Rivero",
+      "firstname": "Cristian",
+      "lastname": "Rivero Sabater",
+      "age": 25,
+      "birth": {
+         "date": "1998-03-21",
+         "place": "Gandía",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "188 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/913.png"
+   }
+}

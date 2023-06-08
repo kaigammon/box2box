@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 126,
+      "name": "Iñaki Peña",
+      "firstname": "Ignacio",
+      "lastname": "Peña Sotorres",
+      "age": 24,
+      "birth": {
+         "date": "1999-03-02",
+         "place": "Alicante",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "184 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/126.png"
+   }
+}

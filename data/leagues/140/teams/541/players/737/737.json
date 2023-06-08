@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 737,
+      "name": "Odriozola",
+      "firstname": "Álvaro",
+      "lastname": "Odriozola Arzallus",
+      "age": 28,
+      "birth": {
+         "date": "1995-12-14",
+         "place": "San Sebastián",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "176 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/737.png"
+   }
+}

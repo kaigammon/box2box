@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47342,
+      "name": "Víctor Sánchez Mata",
+      "firstname": "Víctor",
+      "lastname": "Sánchez Mata",
+      "age": 35,
+      "birth": {
+         "date": "1987-09-08",
+         "place": "Terrassa",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "174 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47342.png"
+   }
+}

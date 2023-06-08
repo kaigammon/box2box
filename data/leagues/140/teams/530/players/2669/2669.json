@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2669,
+      "name": "Hermoso",
+      "firstname": "Mario",
+      "lastname": "Hermoso Canseco",
+      "age": 28,
+      "birth": {
+         "date": "1995-06-18",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "184 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2669.png"
+   }
+}

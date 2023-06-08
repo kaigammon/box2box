@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47391,
+      "name": "Rubén Peña",
+      "firstname": "Rubén",
+      "lastname": "Peña Jiménez",
+      "age": 32,
+      "birth": {
+         "date": "1991-07-18",
+         "place": "Ávila",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "170 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47391.png"
+   }
+}

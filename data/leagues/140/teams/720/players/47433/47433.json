@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47433,
+      "name": "L. Olaza",
+      "firstname": "Lucas René",
+      "lastname": "Olaza Catrofe",
+      "age": 29,
+      "birth": {
+         "date": "1994-07-21",
+         "place": "Montevideo",
+         "country": "Uruguay"
+      },
+      "nationality": "Uruguay",
+      "height": "173 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47433.png"
+   }
+}

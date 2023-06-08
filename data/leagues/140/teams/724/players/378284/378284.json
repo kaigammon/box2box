@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 378284,
+      "name": "Etta Eyong",
+      "firstname": "Karl Edouard Blaise",
+      "lastname": "Etta Eyong",
+      "age": 20,
+      "birth": {
+         "date": "2003-10-14",
+         "place": null,
+         "country": "Cameroon"
+      },
+      "nationality": "Cameroon",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/378284.png"
+   }
+}

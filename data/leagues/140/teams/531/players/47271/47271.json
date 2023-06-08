@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47271,
+      "name": "Yeray",
+      "firstname": "Yeray",
+      "lastname": "Álvarez López",
+      "age": 28,
+      "birth": {
+         "date": "1995-01-24",
+         "place": "Barakaldo",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "182 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47271.png"
+   }
+}

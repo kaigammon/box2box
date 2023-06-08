@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 187987,
+      "name": "Ramón Terrats",
+      "firstname": "Ramón",
+      "lastname": "Terrats Espacio",
+      "age": 23,
+      "birth": {
+         "date": "2000-10-18",
+         "place": null,
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "181 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/187987.png"
+   }
+}

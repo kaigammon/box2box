@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 6492,
+      "name": "J. Ledesma",
+      "firstname": "Jeremías Conan",
+      "lastname": "Ledesma",
+      "age": 30,
+      "birth": {
+         "date": "1993-02-13",
+         "place": "Pergamino",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "187 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/6492.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1701,
+      "name": "Manu Morlanes",
+      "firstname": "Manuel",
+      "lastname": "Morlanes Ariño",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-12",
+         "place": "Zaragoza",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "178 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1701.png"
+   }
+}

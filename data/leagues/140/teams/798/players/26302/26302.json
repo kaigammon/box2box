@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26302,
+      "name": "Pablo Maffeo",
+      "firstname": "Pablo Carmine",
+      "lastname": "Maffeo Becerra",
+      "age": 26,
+      "birth": {
+         "date": "1997-07-12",
+         "place": "Sant Joan Despí",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "172 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/26302.png"
+   }
+}

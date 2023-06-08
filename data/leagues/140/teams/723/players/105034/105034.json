@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 105034,
+      "name": "Juanjo Nieto",
+      "firstname": "Juan José",
+      "lastname": "Nieto Zarzoso",
+      "age": 29,
+      "birth": {
+         "date": "1994-10-03",
+         "place": "Castellón de la Plana",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "175 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/105034.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 310609,
+      "name": "Gui",
+      "firstname": "Guilherme",
+      "lastname": "Borges Guedes",
+      "age": 21,
+      "birth": {
+         "date": "2002-04-17",
+         "place": null,
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "185 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/310609.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2701,
+      "name": "Y. Bounou",
+      "firstname": "Yassine",
+      "lastname": "Bounou",
+      "age": 32,
+      "birth": {
+         "date": "1991-04-05",
+         "place": "Montréal",
+         "country": "Canada"
+      },
+      "nationality": "Morocco",
+      "height": "195 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2701.png"
+   }
+}

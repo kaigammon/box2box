@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22015,
+      "name": "B. Dia",
+      "firstname": "Boulaye",
+      "lastname": "Dia",
+      "age": 27,
+      "birth": {
+         "date": "1996-11-16",
+         "place": "Oyonnax",
+         "country": "France"
+      },
+      "nationality": "Senegal",
+      "height": "180 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/22015.png"
+   }
+}

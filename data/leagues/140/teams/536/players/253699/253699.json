@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 253699,
+      "name": "Antonio Zarzana",
+      "firstname": "Antonio",
+      "lastname": "Zarzana Pérez",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-21",
+         "place": "Jerez de la Frontera",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "177 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/253699.png"
+   }
+}

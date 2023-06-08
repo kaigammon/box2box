@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 15900,
+      "name": "A. Mumin",
+      "firstname": "Khalid Abdul",
+      "lastname": "Mumin Suleman",
+      "age": 25,
+      "birth": {
+         "date": "1998-06-06",
+         "place": "Accra",
+         "country": "Ghana"
+      },
+      "nationality": "Ghana",
+      "height": "188 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/15900.png"
+   }
+}

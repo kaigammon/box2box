@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 735,
+      "name": "Nacho",
+      "firstname": "José Ignacio",
+      "lastname": "Fernández Iglesias",
+      "age": 33,
+      "birth": {
+         "date": "1990-01-18",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "180 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/735.png"
+   }
+}

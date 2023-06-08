@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46968,
+      "name": "Óscar Gil",
+      "firstname": "Óscar",
+      "lastname": "Gil Regaño",
+      "age": 25,
+      "birth": {
+         "date": "1998-04-26",
+         "place": "Elche",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "173 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/46968.png"
+   }
+}

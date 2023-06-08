@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46922,
+      "name": "J. Narváez",
+      "firstname": "Juan José",
+      "lastname": "Narváez Solarte",
+      "age": 28,
+      "birth": {
+         "date": "1995-02-12",
+         "place": "Pasto",
+         "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "181 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/46922.png"
+   }
+}

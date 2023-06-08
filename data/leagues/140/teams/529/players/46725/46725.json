@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46725,
+      "name": "R. Manaj",
+      "firstname": "Rey Aldo",
+      "lastname": "Manaj",
+      "age": 26,
+      "birth": {
+         "date": "1997-02-24",
+         "place": "Lushnje",
+         "country": "Albania"
+      },
+      "nationality": "Albania",
+      "height": "182 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/46725.png"
+   }
+}

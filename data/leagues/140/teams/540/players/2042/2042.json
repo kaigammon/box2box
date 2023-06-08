@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2042,
+      "name": "Sergi Gómez",
+      "firstname": "Sergi",
+      "lastname": "Gómez Solà",
+      "age": 31,
+      "birth": {
+         "date": "1992-03-28",
+         "place": "Arenys de Mar",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2042.png"
+   }
+}

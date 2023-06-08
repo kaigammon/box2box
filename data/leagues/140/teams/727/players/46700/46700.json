@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46700,
+      "name": "Darío",
+      "firstname": "Darío",
+      "lastname": "Ramos Pinazo",
+      "age": 24,
+      "birth": {
+         "date": "1999-10-19",
+         "place": "Valencia",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "191 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/46700.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 11471,
+      "name": "T. Alarcón",
+      "firstname": "Tomás Jesús",
+      "lastname": "Alarcón Vergara",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-19",
+         "place": "Rancagua",
+         "country": "Chile"
+      },
+      "nationality": "Chile",
+      "height": "174 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/11471.png"
+   }
+}

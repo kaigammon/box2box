@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47299,
+      "name": "Gorosabel",
+      "firstname": "Andoni",
+      "lastname": "Gorosabel Espinosa",
+      "age": 27,
+      "birth": {
+         "date": "1996-08-04",
+         "place": "Arrasate",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "174 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47299.png"
+   }
+}

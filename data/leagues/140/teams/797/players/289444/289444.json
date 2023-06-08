@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 289444,
+      "name": "L. Blanco",
+      "firstname": "Lautaro Emanuel",
+      "lastname": "Blanco",
+      "age": 24,
+      "birth": {
+         "date": "1999-02-19",
+         "place": "Rosario",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "176 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/289444.png"
+   }
+}

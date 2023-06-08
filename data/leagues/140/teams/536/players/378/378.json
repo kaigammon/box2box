@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 378,
+      "name": "Alex Telles",
+      "firstname": "Alex",
+      "lastname": "Nicolao Telles",
+      "age": 31,
+      "birth": {
+         "date": "1992-12-15",
+         "place": "Caxias do Sul",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "181 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/378.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 291225,
+      "name": "Ibon Ispizua",
+      "firstname": "Ibon",
+      "lastname": "Ispizua Helguera",
+      "age": 20,
+      "birth": {
+         "date": "2003-04-08",
+         "place": "Mundaka",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/291225.png"
+   }
+}

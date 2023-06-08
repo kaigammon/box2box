@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 104865,
+      "name": "S. Gassama",
+      "firstname": "Sekou",
+      "lastname": "Gassama Cissokho",
+      "age": 28,
+      "birth": {
+         "date": "1995-05-06",
+         "place": "Granollers",
+         "country": "Spain"
+      },
+      "nationality": "Senegal",
+      "height": "189 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/104865.png"
+   }
+}

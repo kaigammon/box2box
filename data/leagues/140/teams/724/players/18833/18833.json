@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18833,
+      "name": "Lucas Pérez",
+      "firstname": "Lucas",
+      "lastname": "Pérez Martínez",
+      "age": 35,
+      "birth": {
+         "date": "1988-09-10",
+         "place": "A Coruña",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "180 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18833.png"
+   }
+}

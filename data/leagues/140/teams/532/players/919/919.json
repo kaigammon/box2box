@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 919,
+      "name": "Hugo Guillamón",
+      "firstname": "Hugo",
+      "lastname": "Guillamón Sanmartín",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-31",
+         "place": "L'Eliana",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "178 cm",
+      "weight": "62 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/919.png"
+   }
+}

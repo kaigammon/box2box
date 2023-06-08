@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162529,
+      "name": "Luis López",
+      "firstname": "Luis Federico",
+      "lastname": "López Andúgar",
+      "age": 22,
+      "birth": {
+         "date": "2001-05-08",
+         "place": "Murcia",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "192 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/162529.png"
+   }
+}

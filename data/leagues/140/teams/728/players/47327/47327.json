@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47327,
+      "name": "Diego López",
+      "firstname": "Diego",
+      "lastname": "López Rodríguez",
+      "age": 42,
+      "birth": {
+         "date": "1981-11-03",
+         "place": "Paradela",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "196 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47327.png"
+   }
+}

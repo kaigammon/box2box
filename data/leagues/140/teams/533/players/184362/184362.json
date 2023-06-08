@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 184362,
+      "name": "Dani Tasende",
+      "firstname": "Daniel",
+      "lastname": "Esmorís Tasende",
+      "age": 23,
+      "birth": {
+         "date": "2000-07-06",
+         "place": "Coristanco",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/184362.png"
+   }
+}

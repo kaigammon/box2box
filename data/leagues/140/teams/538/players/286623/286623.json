@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 286623,
+      "name": "Coke Carrillo",
+      "firstname": "Jorge",
+      "lastname": "Carrillo Balea",
+      "age": 21,
+      "birth": {
+         "date": "2002-01-07",
+         "place": "Poio",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/286623.png"
+   }
+}

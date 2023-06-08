@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47495,
+      "name": "Sergi Guardiola",
+      "firstname": "Sergio",
+      "lastname": "Guardiola Navarro",
+      "age": 32,
+      "birth": {
+         "date": "1991-05-29",
+         "place": "Manacor",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "184 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47495.png"
+   }
+}

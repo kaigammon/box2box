@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 396475,
+      "name": "Fran González",
+      "firstname": "Francisco Javier",
+      "lastname": "González Pérez",
+      "age": 18,
+      "birth": {
+         "date": "2005-06-24",
+         "place": "León",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/396475.png"
+   }
+}

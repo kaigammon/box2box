@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 128,
+      "name": "Jordi Alba",
+      "firstname": "Jordi",
+      "lastname": "Alba Ramos",
+      "age": 34,
+      "birth": {
+         "date": "1989-03-21",
+         "place": "L'Hospitalet de Llobregat",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "170 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/128.png"
+   }
+}

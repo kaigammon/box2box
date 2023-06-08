@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 185075,
+      "name": "Ruly García",
+      "firstname": "Raúl",
+      "lastname": "García González",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-27",
+         "place": "León",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "188 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/185075.png"
+   }
+}

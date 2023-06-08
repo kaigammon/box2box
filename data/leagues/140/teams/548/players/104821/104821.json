@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 104821,
+      "name": "Jon Guridi",
+      "firstname": "Jon",
+      "lastname": "Guridi Aldalur",
+      "age": 28,
+      "birth": {
+         "date": "1995-02-28",
+         "place": "Azpeitia",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "179 cm",
+      "weight": "64 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/104821.png"
+   }
+}

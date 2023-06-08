@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46657,
+      "name": "Nacho Vidal",
+      "firstname": "Ignacio",
+      "lastname": "Vidal Miralles",
+      "age": 28,
+      "birth": {
+         "date": "1995-01-24",
+         "place": "Campello",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "180 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/46657.png"
+   }
+}

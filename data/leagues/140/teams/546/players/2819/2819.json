@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2819,
+      "name": "S. Mitrović",
+      "firstname": "Stefan",
+      "lastname": "Mitrović",
+      "age": 33,
+      "birth": {
+         "date": "1990-05-22",
+         "place": "Beograd",
+         "country": "Serbia"
+      },
+      "nationality": "Serbia",
+      "height": "189 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2819.png"
+   }
+}

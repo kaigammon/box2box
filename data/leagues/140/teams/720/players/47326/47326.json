@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47326,
+      "name": "Roberto Jiménez",
+      "firstname": "Roberto",
+      "lastname": "Jiménez Gago",
+      "age": 36,
+      "birth": {
+         "date": "1986-02-10",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "192 cm",
+      "weight": "94 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47326.png"
+   }
+}

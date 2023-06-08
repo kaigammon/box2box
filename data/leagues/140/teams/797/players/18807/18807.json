@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18807,
+      "name": "Domingos Quina",
+      "firstname": "Domingos",
+      "lastname": "Quina",
+      "age": 24,
+      "birth": {
+         "date": "1999-11-18",
+         "place": "Bissau",
+         "country": "Guinea-Bissau"
+      },
+      "nationality": "Portugal",
+      "height": "179 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18807.png"
+   }
+}

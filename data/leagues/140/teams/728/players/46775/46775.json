@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46775,
+      "name": "Salvi",
+      "firstname": "Salvador",
+      "lastname": "Sánchez Ponce",
+      "age": 32,
+      "birth": {
+         "date": "1991-03-30",
+         "place": "El Puerto de Santa María",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "175 cm",
+      "weight": "64 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/46775.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 182181,
+      "name": "Jesús Areso",
+      "firstname": "Jesús",
+      "lastname": "Areso Blanco",
+      "age": 24,
+      "birth": {
+         "date": "1999-07-02",
+         "place": "Cascante",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "182 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/182181.png"
+   }
+}

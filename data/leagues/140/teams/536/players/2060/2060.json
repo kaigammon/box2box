@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2060,
+      "name": "M. El Haddadi",
+      "firstname": "Munir",
+      "lastname": "El Haddadi Mohamed",
+      "age": 28,
+      "birth": {
+         "date": "1995-09-01",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Morocco",
+      "height": "175 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2060.png"
+   }
+}

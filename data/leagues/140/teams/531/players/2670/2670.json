@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2670,
+      "name": "Íñigo Martínez",
+      "firstname": "Íñigo",
+      "lastname": "Martínez Berridi",
+      "age": 32,
+      "birth": {
+         "date": "1991-05-17",
+         "place": "Ondarroa",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "182 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2670.png"
+   }
+}

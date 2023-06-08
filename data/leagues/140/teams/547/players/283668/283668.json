@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 283668,
+      "name": "Arnau Martínez",
+      "firstname": "Arnau",
+      "lastname": "Martínez López",
+      "age": 20,
+      "birth": {
+         "date": "2003-04-25",
+         "place": null,
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/283668.png"
+   }
+}

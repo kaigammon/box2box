@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162712,
+      "name": "Óscar Mingueza",
+      "firstname": "Óscar",
+      "lastname": "Mingueza García",
+      "age": 24,
+      "birth": {
+         "date": "1999-05-13",
+         "place": "Santa Perpètua de Mogoda",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "184 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/162712.png"
+   }
+}

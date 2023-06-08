@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 107207,
+      "name": "Mario Hernández",
+      "firstname": "Mario",
+      "lastname": "Hernández Fernández",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-25",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/107207.png"
+   }
+}

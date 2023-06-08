@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 143,
+      "name": "Carles Aleñá",
+      "firstname": "Carles",
+      "lastname": "Aleña Castillo",
+      "age": 25,
+      "birth": {
+         "date": "1998-01-05",
+         "place": "Mataró",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "180 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/143.png"
+   }
+}

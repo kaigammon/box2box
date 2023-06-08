@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 179139,
+      "name": "Leo Román",
+      "firstname": "Leonardo",
+      "lastname": "Román Riquelme",
+      "age": 23,
+      "birth": {
+         "date": "2000-07-06",
+         "place": "Ibiza",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "189 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/179139.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47400,
+      "name": "A. Lunin",
+      "firstname": "Andrii",
+      "lastname": "Lunin",
+      "age": 24,
+      "birth": {
+         "date": "1999-02-11",
+         "place": "Krasnohrad",
+         "country": "Ukraine"
+      },
+      "nationality": "Ukraine",
+      "height": "191 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47400.png"
+   }
+}
