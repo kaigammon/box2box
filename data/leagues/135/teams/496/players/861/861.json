@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 861,
+      "name": "D. Rugani",
+      "firstname": "Daniele",
+      "lastname": "Rugani",
+      "age": 29,
+      "birth": {
+         "date": "1994-07-29",
+         "place": "Sesto di Moriano",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "190 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/861.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 341918,
+      "name": "E. Hasić",
+      "firstname": "Emin",
+      "lastname": "Hasić",
+      "age": 19,
+      "birth": {
+         "date": "2003-02-08",
+         "place": null,
+         "country": "Sweden"
+      },
+      "nationality": "Sweden",
+      "height": "191 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/341918.png"
+   }
+}

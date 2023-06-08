@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30446,
+      "name": "A. Ferrari",
+      "firstname": "Alex",
+      "lastname": "Ferrari",
+      "age": 29,
+      "birth": {
+         "date": "1994-07-01",
+         "place": "Modena",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "191 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30446.png"
+   }
+}

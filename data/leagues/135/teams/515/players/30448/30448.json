@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30448,
+      "name": "J. Sala",
+      "firstname": "Jacopo",
+      "lastname": "Sala",
+      "age": 32,
+      "birth": {
+         "date": "1991-12-05",
+         "place": "Bergamo",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "181 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30448.png"
+   }
+}

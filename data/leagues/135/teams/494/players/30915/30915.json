@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30915,
+      "name": "M. Silvestri",
+      "firstname": "Marco",
+      "lastname": "Silvestri",
+      "age": 32,
+      "birth": {
+         "date": "1991-03-02",
+         "place": "Castelnovo nè Monti",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "191 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30915.png"
+   }
+}

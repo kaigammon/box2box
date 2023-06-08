@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1314,
+      "name": "A. Rrahmani",
+      "firstname": "Amir",
+      "lastname": "Rrahmani",
+      "age": 29,
+      "birth": {
+         "date": "1994-02-24",
+         "place": "Prishtinë",
+         "country": "Kosovo"
+      },
+      "nationality": "Kosovo",
+      "height": "192 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1314.png"
+   }
+}

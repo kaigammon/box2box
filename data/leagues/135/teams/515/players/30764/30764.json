@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30764,
+      "name": "F. Marchetti",
+      "firstname": "Federico",
+      "lastname": "Marchetti",
+      "age": 40,
+      "birth": {
+         "date": "1983-02-07",
+         "place": "Bassano del Grappa",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "188 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30764.png"
+   }
+}

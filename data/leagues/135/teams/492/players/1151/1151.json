@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1151,
+      "name": "D. Demme",
+      "firstname": "Diego",
+      "lastname": "Demme",
+      "age": 32,
+      "birth": {
+         "date": "1991-11-21",
+         "place": "Herford",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "172 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1151.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30803,
+      "name": "A. Barák",
+      "firstname": "Antonín",
+      "lastname": "Barák",
+      "age": 29,
+      "birth": {
+         "date": "1994-12-03",
+         "place": "Pribram",
+         "country": "Czech Republic"
+      },
+      "nationality": "Czech Republic",
+      "height": "190 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30803.png"
+   }
+}

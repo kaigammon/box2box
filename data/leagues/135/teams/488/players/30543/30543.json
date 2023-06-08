@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30543,
+      "name": "G. Raspadori",
+      "firstname": "Giacomo",
+      "lastname": "Raspadori",
+      "age": 23,
+      "birth": {
+         "date": "2000-02-18",
+         "place": "Bentivoglio",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "172 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30543.png"
+   }
+}

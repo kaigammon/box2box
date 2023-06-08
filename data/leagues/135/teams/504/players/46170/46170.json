@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46170,
+      "name": "I. Ilić",
+      "firstname": "Ivan",
+      "lastname": "Ilić",
+      "age": 22,
+      "birth": {
+         "date": "2001-03-17",
+         "place": "Niš",
+         "country": "Serbia"
+      },
+      "nationality": "Serbia",
+      "height": "182 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/46170.png"
+   }
+}

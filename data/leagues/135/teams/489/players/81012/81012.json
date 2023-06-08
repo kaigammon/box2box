@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 81012,
+      "name": "D. Vásquez",
+      "firstname": "Devis Estiven",
+      "lastname": "Vásquez Llach",
+      "age": 25,
+      "birth": {
+         "date": "1998-05-12",
+         "place": "Barranquilla",
+         "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "195 cm",
+      "weight": "93 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/81012.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 289513,
+      "name": "M. Turk",
+      "firstname": "Martin",
+      "lastname": "Turk",
+      "age": 20,
+      "birth": {
+         "date": "2003-08-21",
+         "place": null,
+         "country": "Slovenia"
+      },
+      "nationality": "Slovenia",
+      "height": "190 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/289513.png"
+   }
+}

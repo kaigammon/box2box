@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 350539,
+      "name": "G. Toniolo",
+      "firstname": "Giacomo",
+      "lastname": "Toniolo",
+      "age": 19,
+      "birth": {
+         "date": "2004-04-01",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/350539.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1858,
+      "name": "Lucas Leiva",
+      "firstname": "Lucas",
+      "lastname": "Pezzini Leiva",
+      "age": 36,
+      "birth": {
+         "date": "1987-01-09",
+         "place": "Dourados",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "179 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1858.png"
+   }
+}

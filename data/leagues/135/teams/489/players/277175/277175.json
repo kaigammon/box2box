@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 277175,
+      "name": "A. Jungdal",
+      "firstname": "Andreas Kristoffer",
+      "lastname": "Jungdal",
+      "age": 21,
+      "birth": {
+         "date": "2002-02-22",
+         "place": "Singapore",
+         "country": "Singapore"
+      },
+      "nationality": "Denmark",
+      "height": "195 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/277175.png"
+   }
+}

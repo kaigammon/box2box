@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30394,
+      "name": "P. Terracciano",
+      "firstname": "Pietro",
+      "lastname": "Terracciano",
+      "age": 33,
+      "birth": {
+         "date": "1990-03-08",
+         "place": "San Felice a Cancello",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "193 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30394.png"
+   }
+}

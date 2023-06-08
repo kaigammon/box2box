@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 322,
+      "name": "Mário Rui",
+      "firstname": "Mário Rui",
+      "lastname": "Silva Duarte",
+      "age": 32,
+      "birth": {
+         "date": "1991-05-27",
+         "place": "Sines",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "170 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/322.png"
+   }
+}

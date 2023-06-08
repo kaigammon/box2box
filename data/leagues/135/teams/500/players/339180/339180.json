@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 339180,
+      "name": "N. Bagnolini",
+      "firstname": "Nicola",
+      "lastname": "Bagnolini",
+      "age": 19,
+      "birth": {
+         "date": "2004-03-14",
+         "place": "Cesena",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "194 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/339180.png"
+   }
+}

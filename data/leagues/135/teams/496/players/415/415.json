@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 415,
+      "name": "W. McKennie",
+      "firstname": "Weston James Earl",
+      "lastname": "McKennie",
+      "age": 25,
+      "birth": {
+         "date": "1998-08-28",
+         "place": "Little Elm",
+         "country": "USA"
+      },
+      "nationality": "USA",
+      "height": "183 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/415.png"
+   }
+}

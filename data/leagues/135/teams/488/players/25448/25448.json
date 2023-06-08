@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25448,
+      "name": "K. Ayhan",
+      "firstname": "Kaan",
+      "lastname": "Ayhan",
+      "age": 29,
+      "birth": {
+         "date": "1994-11-10",
+         "place": "Gelsenkirchen",
+         "country": "Germany"
+      },
+      "nationality": "Türkiye",
+      "height": "184 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25448.png"
+   }
+}

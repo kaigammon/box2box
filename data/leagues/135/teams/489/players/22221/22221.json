@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22221,
+      "name": "M. Maignan",
+      "firstname": "Mike Peterson",
+      "lastname": "Maignan",
+      "age": 28,
+      "birth": {
+         "date": "1995-07-03",
+         "place": "Cayenne",
+         "country": "Guyana"
+      },
+      "nationality": "France",
+      "height": "191 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/22221.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30797,
+      "name": "B. Nuytinck",
+      "firstname": "Bram",
+      "lastname": "Nuytinck",
+      "age": 33,
+      "birth": {
+         "date": "1990-05-04",
+         "place": "Malden",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "190 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30797.png"
+   }
+}

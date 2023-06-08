@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30495,
+      "name": "S. Sirigu",
+      "firstname": "Salvatore",
+      "lastname": "Sirigu",
+      "age": 36,
+      "birth": {
+         "date": "1987-01-12",
+         "place": "Nuoro",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "192 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30495.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 194670,
+      "name": "E. Toçi",
+      "firstname": "Eljon",
+      "lastname": "Toçi",
+      "age": 19,
+      "birth": {
+         "date": "2003-01-09",
+         "place": null,
+         "country": "Albania"
+      },
+      "nationality": "Albania",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/194670.png"
+   }
+}

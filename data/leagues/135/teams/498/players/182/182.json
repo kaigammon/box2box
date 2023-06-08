@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 182,
+      "name": "H. Winks",
+      "firstname": "Harry Billy",
+      "lastname": "Winks",
+      "age": 27,
+      "birth": {
+         "date": "1996-02-02",
+         "place": "Hemel Hempstead",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "178 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/182.png"
+   }
+}

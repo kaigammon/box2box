@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 14329,
+      "name": "A. Ismajli",
+      "firstname": "Ardian",
+      "lastname": "Ismajli",
+      "age": 27,
+      "birth": {
+         "date": "1996-09-30",
+         "place": "Majac",
+         "country": "Kosovo"
+      },
+      "nationality": "Albania",
+      "height": "185 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/14329.png"
+   }
+}

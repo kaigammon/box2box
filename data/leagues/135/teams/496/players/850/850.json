@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 850,
+      "name": "C. Pinsoglio",
+      "firstname": "Carlo",
+      "lastname": "Pinsoglio",
+      "age": 33,
+      "birth": {
+         "date": "1990-03-16",
+         "place": "Moncalieri",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "194 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/850.png"
+   }
+}

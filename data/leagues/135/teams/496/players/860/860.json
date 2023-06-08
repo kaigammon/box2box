@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 860,
+      "name": "Alex Sandro",
+      "firstname": "Alex Sandro",
+      "lastname": "Lobo Silva",
+      "age": 32,
+      "birth": {
+         "date": "1991-01-26",
+         "place": "Catanduva",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "180 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/860.png"
+   }
+}

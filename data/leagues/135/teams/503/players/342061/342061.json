@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 342061,
+      "name": "A. Anton",
+      "firstname": "Andrei",
+      "lastname": "Anton",
+      "age": 19,
+      "birth": {
+         "date": "2003-08-23",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/342061.png"
+   }
+}

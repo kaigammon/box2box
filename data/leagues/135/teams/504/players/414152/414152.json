@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 414152,
+      "name": "M. Ravasio",
+      "firstname": "Manuel",
+      "lastname": "Ravasio",
+      "age": 18,
+      "birth": {
+         "date": "2005-07-07",
+         "place": "Bergamo",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "185 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/414152.png"
+   }
+}

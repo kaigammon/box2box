@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 8864,
+      "name": "S. Sy",
+      "firstname": "Sanasi Mahamadou",
+      "lastname": "Sy",
+      "age": 24,
+      "birth": {
+         "date": "1999-04-04",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "174 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/8864.png"
+   }
+}

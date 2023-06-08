@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 343194,
+      "name": "N. Botis",
+      "firstname": "Nikolaos Nestoras",
+      "lastname": "Botis",
+      "age": 19,
+      "birth": {
+         "date": "2004-03-31",
+         "place": null,
+         "country": "Greece"
+      },
+      "nationality": "Greece",
+      "height": "196 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/343194.png"
+   }
+}

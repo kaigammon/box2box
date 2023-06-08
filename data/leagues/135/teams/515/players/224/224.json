@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 224,
+      "name": "J. Zoet",
+      "firstname": "Jeroen",
+      "lastname": "Zoet",
+      "age": 32,
+      "birth": {
+         "date": "1991-01-06",
+         "place": "Veendam",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "189 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/224.png"
+   }
+}

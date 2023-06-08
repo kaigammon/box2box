@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 264857,
+      "name": "L. Bernasconi",
+      "firstname": "Lorenzo",
+      "lastname": "Bernasconi",
+      "age": 20,
+      "birth": {
+         "date": "2003-11-16",
+         "place": "Crema",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "190 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/264857.png"
+   }
+}

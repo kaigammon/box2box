@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31099,
+      "name": "N. Casale",
+      "firstname": "Nicolò",
+      "lastname": "Casale",
+      "age": 25,
+      "birth": {
+         "date": "1998-02-14",
+         "place": "Negrar",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "191 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/31099.png"
+   }
+}

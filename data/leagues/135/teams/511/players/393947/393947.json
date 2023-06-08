@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 393947,
+      "name": "J. Seghetti",
+      "firstname": "Jacopo",
+      "lastname": "Seghetti",
+      "age": 18,
+      "birth": {
+         "date": "2005-02-17",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "180 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/393947.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30974,
+      "name": "A. Cordaz",
+      "firstname": "Alex",
+      "lastname": "Cordaz",
+      "age": 40,
+      "birth": {
+         "date": "1983-01-01",
+         "place": "Vittorio Veneto",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "188 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30974.png"
+   }
+}

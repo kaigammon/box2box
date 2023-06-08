@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20927,
+      "name": "A. Nguiamba",
+      "firstname": "Aurélien",
+      "lastname": "Nguiamba",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-18",
+         "place": "Colmar",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "179 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/20927.png"
+   }
+}

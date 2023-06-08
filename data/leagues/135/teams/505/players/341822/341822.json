@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 341822,
+      "name": "S. Andersen",
+      "firstname": "Silas Sinan Erhen Thorup",
+      "lastname": "Andersen",
+      "age": 19,
+      "birth": {
+         "date": "2004-06-13",
+         "place": null,
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/341822.png"
+   }
+}

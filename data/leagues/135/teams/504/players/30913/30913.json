@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30913,
+      "name": "M. Chiesa",
+      "firstname": "Mattia",
+      "lastname": "Chiesa",
+      "age": 23,
+      "birth": {
+         "date": "2000-07-16",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30913.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30533,
+      "name": "M. Locatelli",
+      "firstname": "Manuel",
+      "lastname": "Locatelli",
+      "age": 25,
+      "birth": {
+         "date": "1998-01-08",
+         "place": "Lecco",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "185 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30533.png"
+   }
+}

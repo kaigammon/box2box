@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18967,
+      "name": "L. Østigård",
+      "firstname": "Leo",
+      "lastname": "Skiri Østigård",
+      "age": 24,
+      "birth": {
+         "date": "1999-11-28",
+         "place": "Molde",
+         "country": "Norway"
+      },
+      "nationality": "Norway",
+      "height": "182 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18967.png"
+   }
+}

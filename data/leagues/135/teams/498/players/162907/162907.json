@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162907,
+      "name": "A. Zanoli",
+      "firstname": "Alessandro",
+      "lastname": "Zanoli",
+      "age": 23,
+      "birth": {
+         "date": "2000-10-03",
+         "place": "Carpi",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "188 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/162907.png"
+   }
+}

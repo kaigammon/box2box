@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 50023,
+      "name": "S. Ujkani",
+      "firstname": "Samir",
+      "lastname": "Ujkani",
+      "age": 35,
+      "birth": {
+         "date": "1988-07-05",
+         "place": "Resnik",
+         "country": "Kosovo"
+      },
+      "nationality": "Kosovo",
+      "height": "188 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/50023.png"
+   }
+}

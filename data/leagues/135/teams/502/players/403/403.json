@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 403,
+      "name": "M. Nastasić",
+      "firstname": "Matija",
+      "lastname": "Nastasić",
+      "age": 30,
+      "birth": {
+         "date": "1993-03-28",
+         "place": "Valjevo",
+         "country": "Serbia"
+      },
+      "nationality": "Serbia",
+      "height": "188 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/403.png"
+   }
+}

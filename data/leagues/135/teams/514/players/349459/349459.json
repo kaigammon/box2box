@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 349459,
+      "name": "Lorenzo Cannavale",
+      "firstname": "Lorenzo",
+      "lastname": "Cannavale",
+      "age": 20,
+      "birth": {
+         "date": "2002-01-29",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/349459.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47985,
+      "name": "E. Holm",
+      "firstname": "Emil Alfons",
+      "lastname": "Holm",
+      "age": 23,
+      "birth": {
+         "date": "2000-05-13",
+         "place": null,
+         "country": "Sweden"
+      },
+      "nationality": "Sweden",
+      "height": "191 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47985.png"
+   }
+}

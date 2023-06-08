@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 342990,
+      "name": "G. Fantoni",
+      "firstname": "Gian Marco",
+      "lastname": "Fantoni",
+      "age": 19,
+      "birth": {
+         "date": "2004-01-24",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/342990.png"
+   }
+}

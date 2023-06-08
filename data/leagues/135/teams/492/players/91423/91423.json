@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 91423,
+      "name": "D. Marfella",
+      "firstname": "Davide",
+      "lastname": "Marfella",
+      "age": 24,
+      "birth": {
+         "date": "1999-09-15",
+         "place": "Pozzuoli",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "182 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/91423.png"
+   }
+}

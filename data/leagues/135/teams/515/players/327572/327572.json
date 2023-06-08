@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 327572,
+      "name": "P. Zovko",
+      "firstname": "Petar",
+      "lastname": "Zovko",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-25",
+         "place": null,
+         "country": "Bosnia and Herzegovina"
+      },
+      "nationality": "Bosnia and Herzegovina",
+      "height": "192 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/327572.png"
+   }
+}

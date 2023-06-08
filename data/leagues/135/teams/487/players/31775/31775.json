@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31775,
+      "name": "M. Adamonis",
+      "firstname": "Marius",
+      "lastname": "Adamonis",
+      "age": 26,
+      "birth": {
+         "date": "1997-05-13",
+         "place": "Panevėžys",
+         "country": "Lithuania"
+      },
+      "nationality": "Lithuania",
+      "height": "187 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/31775.png"
+   }
+}

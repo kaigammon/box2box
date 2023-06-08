@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162141,
+      "name": "K. De Winter",
+      "firstname": "Koni",
+      "lastname": "De Winter",
+      "age": 21,
+      "birth": {
+         "date": "2002-06-12",
+         "place": null,
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "188 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/162141.png"
+   }
+}

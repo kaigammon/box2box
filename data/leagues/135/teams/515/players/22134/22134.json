@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22134,
+      "name": "K. Amian",
+      "firstname": "Kelvin",
+      "lastname": "Amian Adou",
+      "age": 25,
+      "birth": {
+         "date": "1998-02-08",
+         "place": "Toulouse",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "180 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/22134.png"
+   }
+}

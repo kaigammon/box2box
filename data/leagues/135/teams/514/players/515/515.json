@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 515,
+      "name": "F. Ribéry",
+      "firstname": "Franck Henry",
+      "lastname": "Pierre Bilal Ribéry",
+      "age": 39,
+      "birth": {
+         "date": "1983-04-07",
+         "place": "Boulogne-sur-Mer",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "170 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/515.png"
+   }
+}

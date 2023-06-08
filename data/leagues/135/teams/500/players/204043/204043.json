@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 204043,
+      "name": "A. Theate",
+      "firstname": "Arthur Nicolas",
+      "lastname": "Theate",
+      "age": 23,
+      "birth": {
+         "date": "2000-05-25",
+         "place": null,
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "185 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/204043.png"
+   }
+}

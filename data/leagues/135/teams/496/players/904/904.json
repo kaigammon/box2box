@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 904,
+      "name": "P. Pogba",
+      "firstname": "Paul Labile",
+      "lastname": "Pogba",
+      "age": 30,
+      "birth": {
+         "date": "1993-03-15",
+         "place": "Lagny-sur-Marne",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "191 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/904.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162045,
+      "name": "M. Lazetić",
+      "firstname": "Marko",
+      "lastname": "Lazetić",
+      "age": 19,
+      "birth": {
+         "date": "2004-01-22",
+         "place": "Belgrade",
+         "country": "Serbia"
+      },
+      "nationality": "Serbia",
+      "height": "190 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/162045.png"
+   }
+}

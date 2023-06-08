@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 38735,
+      "name": "S. Dest",
+      "firstname": "Sergiño Gianni",
+      "lastname": "Dest",
+      "age": 23,
+      "birth": {
+         "date": "2000-11-03",
+         "place": "Almere",
+         "country": "Netherlands"
+      },
+      "nationality": "USA",
+      "height": "173 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/38735.png"
+   }
+}

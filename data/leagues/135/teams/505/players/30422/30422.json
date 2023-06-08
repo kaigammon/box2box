@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30422,
+      "name": "R. Gosens",
+      "firstname": "Robin Everardus",
+      "lastname": "Gosens",
+      "age": 29,
+      "birth": {
+         "date": "1994-07-05",
+         "place": "Emmerich",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "183 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30422.png"
+   }
+}

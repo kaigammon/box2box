@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26828,
+      "name": "G. Kiriakopoulos",
+      "firstname": "Giorgos",
+      "lastname": "Kiriakopoulos",
+      "age": 27,
+      "birth": {
+         "date": "1996-02-05",
+         "place": "Patras",
+         "country": "Greece"
+      },
+      "nationality": "Greece",
+      "height": "178 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/26828.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30416,
+      "name": "E. Berisha",
+      "firstname": "Etrit",
+      "lastname": "Berisha",
+      "age": 34,
+      "birth": {
+         "date": "1989-03-10",
+         "place": "Prishtinë",
+         "country": "Kosovo"
+      },
+      "nationality": "Albania",
+      "height": "194 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30416.png"
+   }
+}

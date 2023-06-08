@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31156,
+      "name": "V. Milinković-Savić",
+      "firstname": "Vanja",
+      "lastname": "Milinković-Savić",
+      "age": 26,
+      "birth": {
+         "date": "1997-02-20",
+         "place": "Ourense",
+         "country": "Spain"
+      },
+      "nationality": "Serbia",
+      "height": "202 cm",
+      "weight": "96 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/31156.png"
+   }
+}

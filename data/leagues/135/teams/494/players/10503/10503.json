@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 10503,
+      "name": "Felipe Vizeu",
+      "firstname": "Felipe",
+      "lastname": "dos Reis Pereira Vizeu do Carm",
+      "age": 26,
+      "birth": {
+         "date": "1997-03-12",
+         "place": "Três Rios",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "185 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/10503.png"
+   }
+}

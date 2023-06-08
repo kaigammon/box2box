@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21081,
+      "name": "C. Tătărușanu",
+      "firstname": "Anton Ciprian",
+      "lastname": "Tătărușanu",
+      "age": 37,
+      "birth": {
+         "date": "1986-02-09",
+         "place": "București",
+         "country": "Romania"
+      },
+      "nationality": "Romania",
+      "height": "198 cm",
+      "weight": "90 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/21081.png"
+   }
+}

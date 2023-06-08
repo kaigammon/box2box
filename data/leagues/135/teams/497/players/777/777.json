@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 777,
+      "name": "A. Ćorić",
+      "firstname": "Ante",
+      "lastname": "Ćorić",
+      "age": 26,
+      "birth": {
+         "date": "1997-04-14",
+         "place": "Zagreb",
+         "country": "Croatia"
+      },
+      "nationality": "Croatia",
+      "height": "172 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/777.png"
+   }
+}

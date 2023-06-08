@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 320335,
+      "name": "J. Abankwah",
+      "firstname": "James Bright",
+      "lastname": "Adusei Abankwah",
+      "age": 19,
+      "birth": {
+         "date": "2004-01-16",
+         "place": null,
+         "country": "Republic of Ireland"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "182 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/320335.png"
+   }
+}

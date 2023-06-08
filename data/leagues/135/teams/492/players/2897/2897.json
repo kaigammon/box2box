@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2897,
+      "name": "Kim Min-Jae",
+      "firstname": "Min-Jae",
+      "lastname": "Kim",
+      "age": 27,
+      "birth": {
+         "date": "1996-11-15",
+         "place": "Tongyeong",
+         "country": "Korea Republic"
+      },
+      "nationality": "Korea Republic",
+      "height": "190 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2897.png"
+   }
+}

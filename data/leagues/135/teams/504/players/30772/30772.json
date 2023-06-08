@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30772,
+      "name": "K. Günter",
+      "firstname": "Koray",
+      "lastname": "Günter",
+      "age": 29,
+      "birth": {
+         "date": "1994-08-16",
+         "place": "Höxter",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "184 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30772.png"
+   }
+}

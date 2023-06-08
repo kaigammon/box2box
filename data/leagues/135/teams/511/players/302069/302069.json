@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 302069,
+      "name": "S. Angori",
+      "firstname": "Samuele",
+      "lastname": "Angori",
+      "age": 20,
+      "birth": {
+         "date": "2003-10-07",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/302069.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 595,
+      "name": "M. Oikonomou",
+      "firstname": "Marios",
+      "lastname": "Oikonomou",
+      "age": 31,
+      "birth": {
+         "date": "1992-10-06",
+         "place": "Ioannina",
+         "country": "Greece"
+      },
+      "nationality": "Greece",
+      "height": "189 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/595.png"
+   }
+}

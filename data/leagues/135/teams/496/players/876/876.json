@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 876,
+      "name": "N. Fagioli",
+      "firstname": "Nicolò",
+      "lastname": "Fagioli",
+      "age": 22,
+      "birth": {
+         "date": "2001-02-12",
+         "place": "Piacenza",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "178 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/876.png"
+   }
+}

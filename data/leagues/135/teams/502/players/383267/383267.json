@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 383267,
+      "name": "T. Martinelli",
+      "firstname": "Tommaso",
+      "lastname": "Martinelli",
+      "age": 17,
+      "birth": {
+         "date": "2006-01-06",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "194 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/383267.png"
+   }
+}

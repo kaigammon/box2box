@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 7719,
+      "name": "E. Aiwu",
+      "firstname": "Emanuel",
+      "lastname": "Aiwu",
+      "age": 23,
+      "birth": {
+         "date": "2000-12-25",
+         "place": "Innsbruck",
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "185 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/7719.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1470,
+      "name": "Luís Maximiano",
+      "firstname": "Luís Manuel",
+      "lastname": "Arantes Maximiano",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-05",
+         "place": "Braga",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "190 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1470.png"
+   }
+}

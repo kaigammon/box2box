@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 556,
+      "name": "M. Svilar",
+      "firstname": "Mile",
+      "lastname": "Svilar",
+      "age": 24,
+      "birth": {
+         "date": "1999-08-27",
+         "place": "Antwerpen",
+         "country": "Belgium"
+      },
+      "nationality": "Serbia",
+      "height": "189 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/556.png"
+   }
+}

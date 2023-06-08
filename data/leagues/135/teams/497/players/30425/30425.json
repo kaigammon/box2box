@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30425,
+      "name": "G. Mancini",
+      "firstname": "Gianluca",
+      "lastname": "Mancini",
+      "age": 27,
+      "birth": {
+         "date": "1996-04-17",
+         "place": "Pontedera",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "190 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30425.png"
+   }
+}

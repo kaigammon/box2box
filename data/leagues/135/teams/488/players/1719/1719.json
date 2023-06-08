@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1719,
+      "name": "M. Müldür",
+      "firstname": "Mert",
+      "lastname": "Müldür",
+      "age": 24,
+      "birth": {
+         "date": "1999-04-03",
+         "place": "Wien",
+         "country": "Austria"
+      },
+      "nationality": "Türkiye",
+      "height": "188 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1719.png"
+   }
+}

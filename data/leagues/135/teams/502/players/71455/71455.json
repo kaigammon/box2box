@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 71455,
+      "name": "D. Krastev",
+      "firstname": "Dimo",
+      "lastname": "Nikolaev Krastev",
+      "age": 20,
+      "birth": {
+         "date": "2003-02-10",
+         "place": null,
+         "country": "Bulgaria"
+      },
+      "nationality": "Bulgaria",
+      "height": "195 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/71455.png"
+   }
+}

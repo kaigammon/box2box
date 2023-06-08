@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 341836,
+      "name": "F. Migliardi",
+      "firstname": "Francesco",
+      "lastname": "Migliardi",
+      "age": 19,
+      "birth": {
+         "date": "2003-03-19",
+         "place": "Genoa",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/341836.png"
+   }
+}

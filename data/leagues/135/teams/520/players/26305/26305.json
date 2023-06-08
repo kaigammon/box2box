@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26305,
+      "name": "S. Ascacíbar",
+      "firstname": "Santiago Lionel",
+      "lastname": "Ascacíbar",
+      "age": 26,
+      "birth": {
+         "date": "1997-02-25",
+         "place": "La Plata",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "168 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/26305.png"
+   }
+}

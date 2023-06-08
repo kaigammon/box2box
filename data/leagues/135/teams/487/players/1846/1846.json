@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1846,
+      "name": "Ş. Radu",
+      "firstname": "Ştefan Daniel",
+      "lastname": "Radu",
+      "age": 37,
+      "birth": {
+         "date": "1986-10-22",
+         "place": "București",
+         "country": "Romania"
+      },
+      "nationality": "Romania",
+      "height": "183 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1846.png"
+   }
+}

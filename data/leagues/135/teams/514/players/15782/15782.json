@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 15782,
+      "name": "J. Kristoffersen",
+      "firstname": "Julian",
+      "lastname": "Kristoffersen",
+      "age": 26,
+      "birth": {
+         "date": "1997-05-10",
+         "place": "Horten",
+         "country": "Norway"
+      },
+      "nationality": "Norway",
+      "height": "198 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/15782.png"
+   }
+}

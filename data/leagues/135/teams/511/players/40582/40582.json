@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 40582,
+      "name": "S. Walukiewicz",
+      "firstname": "Sebastian Wiktor",
+      "lastname": "Walukiewicz",
+      "age": 23,
+      "birth": {
+         "date": "2000-04-05",
+         "place": "Gorzów Wielkopolski",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "188 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/40582.png"
+   }
+}

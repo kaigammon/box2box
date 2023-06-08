@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 312999,
+      "name": "E. Piana",
+      "firstname": "Edoardo",
+      "lastname": "Piana",
+      "age": 20,
+      "birth": {
+         "date": "2003-09-29",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "197 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/312999.png"
+   }
+}

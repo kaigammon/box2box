@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30534,
+      "name": "Francesco Magnanelli",
+      "firstname": "Francesco",
+      "lastname": "Magnanelli",
+      "age": 38,
+      "birth": {
+         "date": "1984-11-12",
+         "place": "Umbertide",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "181 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30534.png"
+   }
+}

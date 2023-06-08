@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1836,
+      "name": "F. Acerbi",
+      "firstname": "Francesco Ace",
+      "lastname": "Acerbi",
+      "age": 35,
+      "birth": {
+         "date": "1988-02-10",
+         "place": "Vizzolo Predabissi",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "192 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1836.png"
+   }
+}

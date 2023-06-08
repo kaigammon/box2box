@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 765,
+      "name": "A. Mirante",
+      "firstname": "Antonio",
+      "lastname": "Mirante",
+      "age": 40,
+      "birth": {
+         "date": "1983-07-08",
+         "place": "Castellamare di Stabia",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "193 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/765.png"
+   }
+}

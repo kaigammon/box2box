@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 535,
+      "name": "P. Schuurs",
+      "firstname": "Perr",
+      "lastname": "Schuurs",
+      "age": 24,
+      "birth": {
+         "date": "1999-11-26",
+         "place": "Nieuwstadt",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "191 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/535.png"
+   }
+}

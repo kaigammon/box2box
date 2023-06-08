@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30424,
+      "name": "Ibañez",
+      "firstname": "Roger",
+      "lastname": "Ibañez da Silva",
+      "age": 25,
+      "birth": {
+         "date": "1998-11-23",
+         "place": "Canela",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "185 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30424.png"
+   }
+}

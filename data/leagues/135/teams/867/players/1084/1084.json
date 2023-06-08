@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1084,
+      "name": "M. Pongračić",
+      "firstname": "Marin",
+      "lastname": "Pongračić",
+      "age": 26,
+      "birth": {
+         "date": "1997-09-11",
+         "place": "Landshut",
+         "country": "Germany"
+      },
+      "nationality": "Croatia",
+      "height": "190 cm",
+      "weight": "95 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1084.png"
+   }
+}

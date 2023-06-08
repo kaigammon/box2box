@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25353,
+      "name": "V. Lazaro",
+      "firstname": "Valentino Lando",
+      "lastname": "Lazaro",
+      "age": 27,
+      "birth": {
+         "date": "1996-03-24",
+         "place": "Graz",
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "180 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25353.png"
+   }
+}

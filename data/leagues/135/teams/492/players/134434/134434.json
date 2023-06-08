@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 134434,
+      "name": "H. Idasiak",
+      "firstname": "Hubert Dawid",
+      "lastname": "Idasiak",
+      "age": 21,
+      "birth": {
+         "date": "2002-02-03",
+         "place": "Sławno",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "185 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/134434.png"
+   }
+}

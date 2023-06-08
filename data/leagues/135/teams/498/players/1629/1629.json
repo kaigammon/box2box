@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1629,
+      "name": "A. Conti",
+      "firstname": "Andrea",
+      "lastname": "Conti",
+      "age": 29,
+      "birth": {
+         "date": "1994-03-02",
+         "place": "Lecco",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "184 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1629.png"
+   }
+}

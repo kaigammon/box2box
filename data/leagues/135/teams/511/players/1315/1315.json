@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1315,
+      "name": "P. Stojanović",
+      "firstname": "Petar",
+      "lastname": "Stojanović",
+      "age": 28,
+      "birth": {
+         "date": "1995-10-07",
+         "place": "Ljubljana",
+         "country": "Slovenia"
+      },
+      "nationality": "Slovenia",
+      "height": "178 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1315.png"
+   }
+}

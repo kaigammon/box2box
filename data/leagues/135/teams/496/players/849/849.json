@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 849,
+      "name": "M. Perin",
+      "firstname": "Mattia",
+      "lastname": "Perin",
+      "age": 31,
+      "birth": {
+         "date": "1992-11-10",
+         "place": "Latina",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "188 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/849.png"
+   }
+}

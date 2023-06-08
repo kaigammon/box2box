@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30784,
+      "name": "N. Rovella",
+      "firstname": "Nicolò",
+      "lastname": "Rovella",
+      "age": 22,
+      "birth": {
+         "date": "2001-12-04",
+         "place": "Segrate",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "179 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30784.png"
+   }
+}

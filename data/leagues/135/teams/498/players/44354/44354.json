@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 44354,
+      "name": "S. Giovinco",
+      "firstname": "Sebastian",
+      "lastname": "Giovinco",
+      "age": 35,
+      "birth": {
+         "date": "1987-01-26",
+         "place": "Torino",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "163 cm",
+      "weight": "61 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/44354.png"
+   }
+}

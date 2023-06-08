@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 324322,
+      "name": "J. Tenkorang",
+      "firstname": "Joshua",
+      "lastname": "Tenkorang",
+      "age": 23,
+      "birth": {
+         "date": "2000-05-26",
+         "place": "Novara",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "184 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/324322.png"
+   }
+}

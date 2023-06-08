@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 226,
+      "name": "D. Dumfries",
+      "firstname": "Denzel Justus Morris",
+      "lastname": "Dumfries",
+      "age": 27,
+      "birth": {
+         "date": "1996-04-18",
+         "place": "Rotterdam",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "188 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/226.png"
+   }
+}

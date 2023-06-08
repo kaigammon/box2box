@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30429,
+      "name": "R. Tolói",
+      "firstname": "Rafael",
+      "lastname": "Tolói",
+      "age": 33,
+      "birth": {
+         "date": "1990-10-10",
+         "place": "Glória d'Oeste",
+         "country": "Brazil"
+      },
+      "nationality": "Italy",
+      "height": "185 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30429.png"
+   }
+}

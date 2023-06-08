@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30428,
+      "name": "J. Palomino",
+      "firstname": "José Luis",
+      "lastname": "Palomino",
+      "age": 33,
+      "birth": {
+         "date": "1990-01-05",
+         "place": "Esquina",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "188 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30428.png"
+   }
+}

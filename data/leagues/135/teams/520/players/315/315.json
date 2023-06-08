@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 315,
+      "name": "V. Chiricheș",
+      "firstname": "Vlad Iulian",
+      "lastname": "Chiricheș",
+      "age": 34,
+      "birth": {
+         "date": "1989-11-14",
+         "place": "Bacău",
+         "country": "Romania"
+      },
+      "nationality": "Romania",
+      "height": "184 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/315.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 289761,
+      "name": "G. Scalvini",
+      "firstname": "Giorgio",
+      "lastname": "Scalvini",
+      "age": 20,
+      "birth": {
+         "date": "2003-12-11",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "194 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/289761.png"
+   }
+}

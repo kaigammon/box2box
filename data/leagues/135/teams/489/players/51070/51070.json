@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 51070,
+      "name": "Z. Ibrahimović",
+      "firstname": "Zlatan",
+      "lastname": "Ibrahimović",
+      "age": 42,
+      "birth": {
+         "date": "1981-10-03",
+         "place": "Malmö",
+         "country": "Sweden"
+      },
+      "nationality": "Sweden",
+      "height": "195 cm",
+      "weight": "95 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/51070.png"
+   }
+}

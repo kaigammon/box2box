@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 350609,
+      "name": "L. Codutti",
+      "firstname": "Lorenzo",
+      "lastname": "Codutti",
+      "age": 19,
+      "birth": {
+         "date": "2003-06-27",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/350609.png"
+   }
+}

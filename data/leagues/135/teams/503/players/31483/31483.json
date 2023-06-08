@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31483,
+      "name": "A. Gravillon",
+      "firstname": "Andreaw Rayan",
+      "lastname": "Gravillon",
+      "age": 25,
+      "birth": {
+         "date": "1998-02-08",
+         "place": "Pointe-à-Pitre",
+         "country": "Guadeloupe"
+      },
+      "nationality": "Guadeloupe",
+      "height": "188 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/31483.png"
+   }
+}

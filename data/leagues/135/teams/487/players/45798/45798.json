@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 45798,
+      "name": "D. Kamenović",
+      "firstname": "Dimitrije",
+      "lastname": "Kamenović",
+      "age": 23,
+      "birth": {
+         "date": "2000-07-16",
+         "place": "Pirot",
+         "country": "Serbia"
+      },
+      "nationality": "Serbia",
+      "height": "188 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/45798.png"
+   }
+}

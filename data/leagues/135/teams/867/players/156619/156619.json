@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 156619,
+      "name": "J. Samooja",
+      "firstname": "Jasper Lauri Petteri",
+      "lastname": "Samooja",
+      "age": 20,
+      "birth": {
+         "date": "2003-07-21",
+         "place": null,
+         "country": "Finland"
+      },
+      "nationality": "Finland",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/156619.png"
+   }
+}

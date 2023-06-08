@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 384664,
+      "name": "M. Fiorenza",
+      "firstname": "Matteo",
+      "lastname": "Fiorenza",
+      "age": 20,
+      "birth": {
+         "date": "2003-06-15",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "195 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/384664.png"
+   }
+}

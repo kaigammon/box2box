@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 341995,
+      "name": "J. Kumi",
+      "firstname": "Justin",
+      "lastname": "Kumi",
+      "age": 18,
+      "birth": {
+         "date": "2004-07-16",
+         "place": null,
+         "country": "Ghana"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/341995.png"
+   }
+}

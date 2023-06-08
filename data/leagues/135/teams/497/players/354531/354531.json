@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 354531,
+      "name": "C. Cassano",
+      "firstname": "Claudio",
+      "lastname": "Cassano",
+      "age": 19,
+      "birth": {
+         "date": "2003-07-22",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/354531.png"
+   }
+}

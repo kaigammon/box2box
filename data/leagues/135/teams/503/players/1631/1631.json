@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1631,
+      "name": "R. Rodríguez",
+      "firstname": "Ricardo Iván",
+      "lastname": "Rodríguez Araya",
+      "age": 31,
+      "birth": {
+         "date": "1992-08-25",
+         "place": "Zürich",
+         "country": "Switzerland"
+      },
+      "nationality": "Switzerland",
+      "height": "180 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1631.png"
+   }
+}

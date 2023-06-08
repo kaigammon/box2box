@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 336573,
+      "name": "E. İlkhan",
+      "firstname": "Emirhan",
+      "lastname": "İlkhan",
+      "age": 19,
+      "birth": {
+         "date": "2004-06-01",
+         "place": "İstanbul",
+         "country": "Türkiye"
+      },
+      "nationality": "Türkiye",
+      "height": "175 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/336573.png"
+   }
+}

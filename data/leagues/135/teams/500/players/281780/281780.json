@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 281780,
+      "name": "M. Angeli",
+      "firstname": "Matteo",
+      "lastname": "Angeli",
+      "age": 21,
+      "birth": {
+         "date": "2002-12-30",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "185 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/281780.png"
+   }
+}

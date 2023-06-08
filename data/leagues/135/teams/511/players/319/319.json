@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 319,
+      "name": "S. Luperto",
+      "firstname": "Sebastiano",
+      "lastname": "Luperto",
+      "age": 27,
+      "birth": {
+         "date": "1996-09-06",
+         "place": "Lecce",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "191 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/319.png"
+   }
+}

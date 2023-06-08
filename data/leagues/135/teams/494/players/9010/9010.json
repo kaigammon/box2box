@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 9010,
+      "name": "M. Jajalo",
+      "firstname": "Mato",
+      "lastname": "Jajalo",
+      "age": 35,
+      "birth": {
+         "date": "1988-05-25",
+         "place": "Jajce",
+         "country": "Bosnia and Herzegovina"
+      },
+      "nationality": "Bosnia and Herzegovina",
+      "height": "182 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/9010.png"
+   }
+}

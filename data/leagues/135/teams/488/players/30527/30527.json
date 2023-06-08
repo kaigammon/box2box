@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30527,
+      "name": "Rogério",
+      "firstname": "Rogério",
+      "lastname": "Oliveira da Silva",
+      "age": 25,
+      "birth": {
+         "date": "1998-01-13",
+         "place": "Nobres",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "178 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30527.png"
+   }
+}

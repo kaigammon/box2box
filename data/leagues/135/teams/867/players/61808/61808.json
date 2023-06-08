@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 61808,
+      "name": "M. Çetin",
+      "firstname": "Yıldırım Mert",
+      "lastname": "Çetin",
+      "age": 26,
+      "birth": {
+         "date": "1997-01-01",
+         "place": "Ankara",
+         "country": "Türkiye"
+      },
+      "nationality": "Türkiye",
+      "height": "189 cm",
+      "weight": "90 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/61808.png"
+   }
+}

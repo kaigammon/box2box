@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 383018,
+      "name": "M. Palestra",
+      "firstname": "Marco",
+      "lastname": "Palestra",
+      "age": 18,
+      "birth": {
+         "date": "2005-03-03",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/383018.png"
+   }
+}

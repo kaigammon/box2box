@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1930,
+      "name": "J. Mæhle",
+      "firstname": "Joakim",
+      "lastname": "Mæhle Pedersen",
+      "age": 26,
+      "birth": {
+         "date": "1997-05-20",
+         "place": "Østervrå",
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "185 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1930.png"
+   }
+}

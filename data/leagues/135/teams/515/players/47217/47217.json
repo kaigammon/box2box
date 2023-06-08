@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47217,
+      "name": "Salvador Ferrer",
+      "firstname": "Salvador",
+      "lastname": "Ferrer Canals",
+      "age": 25,
+      "birth": {
+         "date": "1998-01-21",
+         "place": "Martorell",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "184 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47217.png"
+   }
+}

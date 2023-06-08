@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 325399,
+      "name": "T. Berti",
+      "firstname": "Tommaso",
+      "lastname": "Berti",
+      "age": 18,
+      "birth": {
+         "date": "2004-03-07",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/325399.png"
+   }
+}

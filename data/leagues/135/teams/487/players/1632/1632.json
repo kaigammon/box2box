@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1632,
+      "name": "A. Romagnoli",
+      "firstname": "Alessio",
+      "lastname": "Romagnoli",
+      "age": 28,
+      "birth": {
+         "date": "1995-01-12",
+         "place": "Roma",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "185 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1632.png"
+   }
+}

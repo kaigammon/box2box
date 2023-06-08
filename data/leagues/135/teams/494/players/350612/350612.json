@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 350612,
+      "name": "M. Damiani",
+      "firstname": "Mattia",
+      "lastname": "Damiani",
+      "age": 19,
+      "birth": {
+         "date": "2003-02-25",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/350612.png"
+   }
+}

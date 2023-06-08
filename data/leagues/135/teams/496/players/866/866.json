@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 866,
+      "name": "J. Cuadrado",
+      "firstname": "Juan Guillermo",
+      "lastname": "Cuadrado Bello",
+      "age": 35,
+      "birth": {
+         "date": "1988-05-26",
+         "place": "Necoclí",
+         "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "179 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/866.png"
+   }
+}

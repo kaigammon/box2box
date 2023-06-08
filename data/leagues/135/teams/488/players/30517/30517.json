@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30517,
+      "name": "G. Pegolo",
+      "firstname": "Gianluca",
+      "lastname": "Pegolo",
+      "age": 42,
+      "birth": {
+         "date": "1981-03-25",
+         "place": "Bassano del Grappa",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "184 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30517.png"
+   }
+}

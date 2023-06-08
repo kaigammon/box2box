@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162347,
+      "name": "B. Soppy",
+      "firstname": "Beanou-Junior Brandon",
+      "lastname": "Deflo Soppy",
+      "age": 21,
+      "birth": {
+         "date": "2002-02-21",
+         "place": "Aubervilliers",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "181 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/162347.png"
+   }
+}

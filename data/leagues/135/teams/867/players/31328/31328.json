@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31328,
+      "name": "K. Dermaku",
+      "firstname": "Kastriot",
+      "lastname": "Luan Dermaku",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-15",
+         "place": "Scandiano",
+         "country": "Italy"
+      },
+      "nationality": "Albania",
+      "height": "195 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/31328.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30447,
+      "name": "N. Murru",
+      "firstname": "Nicola",
+      "lastname": "Murru",
+      "age": 29,
+      "birth": {
+         "date": "1994-12-16",
+         "place": "Cagliari",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "180 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30447.png"
+   }
+}

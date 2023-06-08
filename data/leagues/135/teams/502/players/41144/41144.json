@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 41144,
+      "name": "Dodô",
+      "firstname": "Domilson",
+      "lastname": "Cordeiro dos Santos",
+      "age": 25,
+      "birth": {
+         "date": "1998-11-17",
+         "place": "Taubate",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "166 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/41144.png"
+   }
+}

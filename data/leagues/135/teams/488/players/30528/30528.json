@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30528,
+      "name": "Federico Peluso",
+      "firstname": "Federico",
+      "lastname": "Peluso",
+      "age": 38,
+      "birth": {
+         "date": "1984-01-20",
+         "place": "Roma",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "187 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30528.png"
+   }
+}

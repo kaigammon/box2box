@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47439,
+      "name": "S. Lobotka",
+      "firstname": "Stanislav",
+      "lastname": "Lobotka",
+      "age": 29,
+      "birth": {
+         "date": "1994-11-25",
+         "place": "Trencin",
+         "country": "Slovakia"
+      },
+      "nationality": "Slovakia",
+      "height": "170 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47439.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2286,
+      "name": "D. Zappacosta",
+      "firstname": "Davide",
+      "lastname": "Zappacosta",
+      "age": 31,
+      "birth": {
+         "date": "1992-06-11",
+         "place": "Sora",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "185 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2286.png"
+   }
+}

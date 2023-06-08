@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31136,
+      "name": "S. Romagnoli",
+      "firstname": "Simone",
+      "lastname": "Romagnoli",
+      "age": 33,
+      "birth": {
+         "date": "1990-02-09",
+         "place": "Cremona",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "193 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/31136.png"
+   }
+}

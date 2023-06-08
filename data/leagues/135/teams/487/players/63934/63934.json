@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 63934,
+      "name": "A. Furlanetto",
+      "firstname": "Alessio",
+      "lastname": "Furlanetto",
+      "age": 21,
+      "birth": {
+         "date": "2002-02-07",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "191 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/63934.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 128461,
+      "name": "N. Zortea",
+      "firstname": "Nadir",
+      "lastname": "Zortea",
+      "age": 24,
+      "birth": {
+         "date": "1999-06-19",
+         "place": "Feltre",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "175 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/128461.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 38120,
+      "name": "D. Zeefuik",
+      "firstname": "Deyovaisio",
+      "lastname": "Zeefuik",
+      "age": 25,
+      "birth": {
+         "date": "1998-03-11",
+         "place": "Amsterdam",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "178 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/38120.png"
+   }
+}

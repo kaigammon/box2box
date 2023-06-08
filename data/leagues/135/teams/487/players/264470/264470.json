@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 264470,
+      "name": "Raul Moro",
+      "firstname": "Raul",
+      "lastname": "Moro Prescoli",
+      "age": 21,
+      "birth": {
+         "date": "2002-12-05",
+         "place": null,
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "169 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/264470.png"
+   }
+}
