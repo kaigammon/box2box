@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18894,
+      "name": "J. Lascelles",
+      "firstname": "Jamaal",
+      "lastname": "Lascelles",
+      "age": 30,
+      "birth": {
+         "date": "1993-11-11",
+         "place": "Derby",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "188 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18894.png"
+   }
+}

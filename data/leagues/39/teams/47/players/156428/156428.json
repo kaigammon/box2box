@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 156428,
+      "name": "B. Austin",
+      "firstname": "Brandon Anthony",
+      "lastname": "Austin",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-08",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "188 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/156428.png"
+   }
+}

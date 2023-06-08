@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 633,
+      "name": "İ. Gündoğan",
+      "firstname": "İlkay",
+      "lastname": "Gündoğan",
+      "age": 33,
+      "birth": {
+         "date": "1990-10-24",
+         "place": "Gelsenkirchen",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "180 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/633.png"
+   }
+}

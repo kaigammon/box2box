@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18961,
+      "name": "D. Burn",
+      "firstname": "Daniel Johnson",
+      "lastname": "Burn",
+      "age": 31,
+      "birth": {
+         "date": "1992-05-09",
+         "place": "Blyth",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "198 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18961.png"
+   }
+}

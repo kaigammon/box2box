@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 304319,
+      "name": "Ademola Oladipupo Ola-Adebomi",
+      "firstname": "Ademola",
+      "lastname": "Oladipupo Ola-Adebomi",
+      "age": 19,
+      "birth": {
+         "date": "2003-09-03",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/304319.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18820,
+      "name": "C. Coventry",
+      "firstname": "Conor James",
+      "lastname": "Coventry",
+      "age": 23,
+      "birth": {
+         "date": "2000-03-25",
+         "place": "London",
+         "country": "England"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "177 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18820.png"
+   }
+}

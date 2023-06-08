@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 17736,
+      "name": "D. Iversen",
+      "firstname": "Daniel",
+      "lastname": "Lønne Iversen",
+      "age": 26,
+      "birth": {
+         "date": "1997-07-19",
+         "place": null,
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "193 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/17736.png"
+   }
+}

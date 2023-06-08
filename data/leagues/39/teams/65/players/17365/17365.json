@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 17365,
+      "name": "H. Toffolo",
+      "firstname": "Harry Stefano",
+      "lastname": "Toffolo",
+      "age": 28,
+      "birth": {
+         "date": "1995-08-19",
+         "place": "Welwyn Garden City",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "183 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/17365.png"
+   }
+}

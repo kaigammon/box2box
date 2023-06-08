@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 270357,
+      "name": "K. Phillips",
+      "firstname": "Killian",
+      "lastname": "Phillips",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-30",
+         "place": "San Diego",
+         "country": "USA"
+      },
+      "nationality": "Republic of Ireland",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/270357.png"
+   }
+}

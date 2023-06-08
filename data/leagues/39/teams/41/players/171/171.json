@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 171,
+      "name": "K. Walker-Peters",
+      "firstname": "Kyle Leonardus",
+      "lastname": "Walker-Peters",
+      "age": 26,
+      "birth": {
+         "date": "1997-04-13",
+         "place": "London",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "173 cm",
+      "weight": "62 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/171.png"
+   }
+}

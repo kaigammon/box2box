@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 912,
+      "name": "Neto",
+      "firstname": "Norberto",
+      "lastname": "Murara Neto",
+      "age": 34,
+      "birth": {
+         "date": "1989-07-19",
+         "place": "Araxá",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "190 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/912.png"
+   }
+}

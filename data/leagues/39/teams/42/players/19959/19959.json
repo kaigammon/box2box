@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19959,
+      "name": "B. White",
+      "firstname": "Benjamin William",
+      "lastname": "White",
+      "age": 26,
+      "birth": {
+         "date": "1997-10-08",
+         "place": "Poole",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "186 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19959.png"
+   }
+}

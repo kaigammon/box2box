@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18917,
+      "name": "B. Mee",
+      "firstname": "Ben",
+      "lastname": "Mee",
+      "age": 34,
+      "birth": {
+         "date": "1989-09-21",
+         "place": "Sale",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "180 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18917.png"
+   }
+}

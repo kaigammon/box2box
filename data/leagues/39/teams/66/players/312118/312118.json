@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 312118,
+      "name": "J. Feeney",
+      "firstname": "Joshua",
+      "lastname": "Feeney",
+      "age": 17,
+      "birth": {
+         "date": "2005-05-06",
+         "place": null,
+         "country": "Scotland"
+      },
+      "nationality": "England",
+      "height": "193 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/312118.png"
+   }
+}

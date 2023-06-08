@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 23,
+      "name": "Sergio Gómez",
+      "firstname": "Sergio",
+      "lastname": "Gómez Martín",
+      "age": 23,
+      "birth": {
+         "date": "2000-09-04",
+         "place": "Badalona",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "171 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/23.png"
+   }
+}

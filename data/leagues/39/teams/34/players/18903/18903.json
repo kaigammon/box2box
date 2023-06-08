@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18903,
+      "name": "M. Ritchie",
+      "firstname": "Matthew Thomas",
+      "lastname": "Ritchie",
+      "age": 34,
+      "birth": {
+         "date": "1989-09-10",
+         "place": "Gosport",
+         "country": "England"
+      },
+      "nationality": "Scotland",
+      "height": "172 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18903.png"
+   }
+}

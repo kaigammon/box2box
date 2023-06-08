@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2934,
+      "name": "M. Keane",
+      "firstname": "Michael Vincent",
+      "lastname": "Keane",
+      "age": 30,
+      "birth": {
+         "date": "1993-01-11",
+         "place": "Stockport",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "191 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2934.png"
+   }
+}

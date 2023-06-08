@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284362,
+      "name": "B. Hardley",
+      "firstname": "Björn Bryan",
+      "lastname": "Hardley",
+      "age": 20,
+      "birth": {
+         "date": "2002-12-19",
+         "place": "Tilburg",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "189 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/284362.png"
+   }
+}

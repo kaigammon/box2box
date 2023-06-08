@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 38734,
+      "name": "S. Botman",
+      "firstname": "Sven",
+      "lastname": "Botman",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-12",
+         "place": "Badhoevedorp",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "193 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/38734.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18835,
+      "name": "Guaita",
+      "firstname": "Vicente",
+      "lastname": "Guaita Panadero",
+      "age": 36,
+      "birth": {
+         "date": "1987-01-10",
+         "place": "Torrente",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "190 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18835.png"
+   }
+}

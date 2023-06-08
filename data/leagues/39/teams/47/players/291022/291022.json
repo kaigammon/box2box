@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 291022,
+      "name": "Joshua Keeley",
+      "firstname": "Joshua",
+      "lastname": "Keeley",
+      "age": 19,
+      "birth": {
+         "date": "2003-05-17",
+         "place": null,
+         "country": "Republic of Ireland"
+      },
+      "nationality": "Republic of Ireland",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/291022.png"
+   }
+}

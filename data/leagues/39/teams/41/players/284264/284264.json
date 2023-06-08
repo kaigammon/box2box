@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284264,
+      "name": "Juan Larios",
+      "firstname": "Juan",
+      "lastname": "Larios López",
+      "age": 19,
+      "birth": {
+         "date": "2004-01-12",
+         "place": null,
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/284264.png"
+   }
+}

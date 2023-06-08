@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2273,
+      "name": "Kepa",
+      "firstname": "Kepa",
+      "lastname": "Arrizabalaga Revuelta",
+      "age": 29,
+      "birth": {
+         "date": "1994-10-03",
+         "place": "Ondárroa",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "189 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2273.png"
+   }
+}

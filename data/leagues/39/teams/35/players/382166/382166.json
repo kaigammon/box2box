@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 382166,
+      "name": "C. Plain",
+      "firstname": "Cameron",
+      "lastname": "Plain",
+      "age": 22,
+      "birth": {
+         "date": "2001-09-24",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/382166.png"
+   }
+}

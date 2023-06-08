@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 278128,
+      "name": "J. Wilson-Esbrand",
+      "firstname": "Joshua Darius",
+      "lastname": "Kamani Wilson-Esbrand",
+      "age": 21,
+      "birth": {
+         "date": "2002-12-26",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/278128.png"
+   }
+}

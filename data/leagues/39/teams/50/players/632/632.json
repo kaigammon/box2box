@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 632,
+      "name": "C. Gomes",
+      "firstname": "Claudio Amarildo",
+      "lastname": "Gomes",
+      "age": 23,
+      "birth": {
+         "date": "2000-07-23",
+         "place": "Argenteuil",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "180 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/632.png"
+   }
+}

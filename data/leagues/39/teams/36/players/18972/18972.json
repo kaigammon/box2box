@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18972,
+      "name": "A. Knockaert",
+      "firstname": "Anthony Patrick",
+      "lastname": "Knockaert",
+      "age": 32,
+      "birth": {
+         "date": "1991-11-20",
+         "place": "Roubaix",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "172 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18972.png"
+   }
+}

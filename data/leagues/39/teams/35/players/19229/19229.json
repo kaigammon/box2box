@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19229,
+      "name": "D. Randolph",
+      "firstname": "Darren Edward Andrew",
+      "lastname": "Randolph",
+      "age": 36,
+      "birth": {
+         "date": "1987-05-12",
+         "place": "Bray",
+         "country": "Republic of Ireland"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "188 cm",
+      "weight": "98 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19229.png"
+   }
+}

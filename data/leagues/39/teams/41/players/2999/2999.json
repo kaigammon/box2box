@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2999,
+      "name": "J. Bednarek",
+      "firstname": "Jan Kacper",
+      "lastname": "Bednarek",
+      "age": 27,
+      "birth": {
+         "date": "1996-04-12",
+         "place": "Słupca",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "189 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2999.png"
+   }
+}

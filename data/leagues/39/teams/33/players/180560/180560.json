@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 180560,
+      "name": "H. Mejbri",
+      "firstname": "Hannibal",
+      "lastname": "Mejbri",
+      "age": 20,
+      "birth": {
+         "date": "2003-01-21",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "Tunisia",
+      "height": "177 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/180560.png"
+   }
+}

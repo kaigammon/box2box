@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284450,
+      "name": "Victor Tolulope Oluwatosin Akinwale",
+      "firstname": "Victor Tolulope Oluwatosin",
+      "lastname": "Akinwale",
+      "age": 18,
+      "birth": {
+         "date": "2004-08-06",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/284450.png"
+   }
+}

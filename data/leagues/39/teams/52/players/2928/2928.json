@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2928,
+      "name": "C. Benteke",
+      "firstname": "Christian",
+      "lastname": "Benteke Liolo",
+      "age": 33,
+      "birth": {
+         "date": "1990-12-03",
+         "place": "Kinshasa",
+         "country": "Congo DR"
+      },
+      "nationality": "Belgium",
+      "height": "190 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2928.png"
+   }
+}

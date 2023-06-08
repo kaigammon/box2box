@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 158696,
+      "name": "F. Burns",
+      "firstname": "Finley Jack",
+      "lastname": "Burns",
+      "age": 19,
+      "birth": {
+         "date": "2003-06-17",
+         "place": "London",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "185 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/158696.png"
+   }
+}

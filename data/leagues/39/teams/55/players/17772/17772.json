@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 17772,
+      "name": "C. Goode",
+      "firstname": "Charlie",
+      "lastname": "Goode",
+      "age": 28,
+      "birth": {
+         "date": "1995-08-03",
+         "place": "Watford",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "196 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/17772.png"
+   }
+}

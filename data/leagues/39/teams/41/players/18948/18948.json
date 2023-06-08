@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18948,
+      "name": "N. Redmond",
+      "firstname": "Nathan Daniel Jerome",
+      "lastname": "Redmond",
+      "age": 29,
+      "birth": {
+         "date": "1994-03-06",
+         "place": "Birmingham",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "173 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18948.png"
+   }
+}

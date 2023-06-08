@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 159,
+      "name": "H. Lloris",
+      "firstname": "Hugo Hadrien Dominique",
+      "lastname": "Lloris",
+      "age": 37,
+      "birth": {
+         "date": "1986-12-26",
+         "place": "Nice",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "188 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/159.png"
+   }
+}

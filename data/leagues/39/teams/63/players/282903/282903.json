@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 282903,
+      "name": "D. van den Heuvel",
+      "firstname": "Tristan Danique",
+      "lastname": "van den Heuvel",
+      "age": 20,
+      "birth": {
+         "date": "2003-05-28",
+         "place": "Delft",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/282903.png"
+   }
+}

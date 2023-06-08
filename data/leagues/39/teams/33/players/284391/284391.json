@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284391,
+      "name": "S. Murray",
+      "firstname": "Sam",
+      "lastname": "Murray",
+      "age": 18,
+      "birth": {
+         "date": "2004-09-25",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/284391.png"
+   }
+}

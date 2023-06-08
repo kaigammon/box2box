@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 39105,
+      "name": "K. Klaesson",
+      "firstname": "Kristoffer-August",
+      "lastname": "Sundquist Klaesson",
+      "age": 23,
+      "birth": {
+         "date": "2000-11-27",
+         "place": null,
+         "country": "Norway"
+      },
+      "nationality": "Norway",
+      "height": "189 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/39105.png"
+   }
+}

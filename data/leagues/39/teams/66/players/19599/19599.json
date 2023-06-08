@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19599,
+      "name": "E. Martínez",
+      "firstname": "Damián Emiliano",
+      "lastname": "Martínez Romero",
+      "age": 31,
+      "birth": {
+         "date": "1992-09-02",
+         "place": "Mar del Plata",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "195 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19599.png"
+   }
+}

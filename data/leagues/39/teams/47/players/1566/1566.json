@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1566,
+      "name": "Emerson",
+      "firstname": "Emerson Aparecido",
+      "lastname": "Leite de Souza Junior",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-14",
+         "place": "São Paulo",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "181 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1566.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19465,
+      "name": "David Raya",
+      "firstname": "David",
+      "lastname": "Raya Martin",
+      "age": 28,
+      "birth": {
+         "date": "1995-09-15",
+         "place": "Barcelona",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "183 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19465.png"
+   }
+}

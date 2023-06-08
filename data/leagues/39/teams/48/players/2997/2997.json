@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2997,
+      "name": "Ł. Fabiański",
+      "firstname": "Łukasz Marek",
+      "lastname": "Fabiański",
+      "age": 38,
+      "birth": {
+         "date": "1985-04-18",
+         "place": "Kostrzyn nad Odrą",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "190 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2997.png"
+   }
+}

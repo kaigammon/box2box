@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 3008,
+      "name": "M. Klich",
+      "firstname": "Mateusz Andrzej",
+      "lastname": "Klich",
+      "age": 33,
+      "birth": {
+         "date": "1990-06-13",
+         "place": "Tarnów",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "183 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/3008.png"
+   }
+}

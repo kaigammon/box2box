@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19126,
+      "name": "S. Dallas",
+      "firstname": "Stuart Alan",
+      "lastname": "Dallas",
+      "age": 32,
+      "birth": {
+         "date": "1991-04-19",
+         "place": "Cookstown",
+         "country": "Northern Ireland"
+      },
+      "nationality": "Northern Ireland",
+      "height": "183 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19126.png"
+   }
+}

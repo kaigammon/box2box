@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20503,
+      "name": "L. O&apos;Brien",
+      "firstname": "Lewis John",
+      "lastname": "O'Brien",
+      "age": 25,
+      "birth": {
+         "date": "1998-10-14",
+         "place": "Colchester",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "173 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/20503.png"
+   }
+}

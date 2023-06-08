@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 283287,
+      "name": "P. Appiah",
+      "firstname": "Paul Nana",
+      "lastname": "Akwashi Appiah",
+      "age": 20,
+      "birth": {
+         "date": "2002-10-13",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/283287.png"
+   }
+}

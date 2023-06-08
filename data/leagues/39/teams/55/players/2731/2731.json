@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2731,
+      "name": "M. Jørgensen",
+      "firstname": "Mathias",
+      "lastname": "Jattah-Njie Jørgensen",
+      "age": 33,
+      "birth": {
+         "date": "1990-04-23",
+         "place": "København",
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "191 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2731.png"
+   }
+}

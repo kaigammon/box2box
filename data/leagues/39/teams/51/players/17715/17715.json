@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 17715,
+      "name": "S. Alzate",
+      "firstname": "Steven",
+      "lastname": "Alzate",
+      "age": 25,
+      "birth": {
+         "date": "1998-09-08",
+         "place": "London",
+         "country": "England"
+      },
+      "nationality": "Colombia",
+      "height": "180 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/17715.png"
+   }
+}

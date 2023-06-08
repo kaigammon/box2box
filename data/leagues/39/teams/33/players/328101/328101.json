@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 328101,
+      "name": "T. Fredricson",
+      "firstname": "Tyler",
+      "lastname": "Fredricson",
+      "age": 17,
+      "birth": {
+         "date": "2005-02-23",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/328101.png"
+   }
+}

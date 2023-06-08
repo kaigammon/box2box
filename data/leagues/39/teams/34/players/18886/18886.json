@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18886,
+      "name": "M. Dúbravka",
+      "firstname": "Martin",
+      "lastname": "Dúbravka",
+      "age": 34,
+      "birth": {
+         "date": "1989-01-15",
+         "place": "Žilina",
+         "country": "Slovakia"
+      },
+      "nationality": "Slovakia",
+      "height": "190 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18886.png"
+   }
+}

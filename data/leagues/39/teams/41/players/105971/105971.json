@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 105971,
+      "name": "G. Bazunu",
+      "firstname": "Gavin Okeroghene",
+      "lastname": "Bazunu",
+      "age": 21,
+      "birth": {
+         "date": "2002-02-20",
+         "place": "Dublin",
+         "country": "Republic of Ireland"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "189 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/105971.png"
+   }
+}

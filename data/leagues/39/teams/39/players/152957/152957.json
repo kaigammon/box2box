@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 152957,
+      "name": "L. Richards",
+      "firstname": "Lewis Paul Jimmy",
+      "lastname": "Richards",
+      "age": 22,
+      "birth": {
+         "date": "2001-10-15",
+         "place": "Liverpool",
+         "country": "Republic of Ireland"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "182 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/152957.png"
+   }
+}

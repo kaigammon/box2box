@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 369813,
+      "name": "Deniche Hill",
+      "firstname": "Deniche",
+      "lastname": "Hill",
+      "age": 18,
+      "birth": {
+         "date": "2005-01-12",
+         "place": null,
+         "country": "Bermuda"
+      },
+      "nationality": "Bermuda",
+      "height": "173 cm",
+      "weight": "63 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/369813.png"
+   }
+}

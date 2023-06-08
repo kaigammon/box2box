@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 191971,
+      "name": "J. Stansfield",
+      "firstname": "Jay",
+      "lastname": "Stansfield",
+      "age": 21,
+      "birth": {
+         "date": "2002-11-24",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/191971.png"
+   }
+}

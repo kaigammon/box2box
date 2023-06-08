@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 327736,
+      "name": "C. Robinson",
+      "firstname": "Charlie James",
+      "lastname": "Robinson",
+      "age": 19,
+      "birth": {
+         "date": "2004-09-19",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/327736.png"
+   }
+}

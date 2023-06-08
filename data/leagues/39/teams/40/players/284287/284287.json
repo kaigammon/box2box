@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284287,
+      "name": "Mateusz Konrad Musiałowski",
+      "firstname": "Mateusz Konrad",
+      "lastname": "Musiałowski",
+      "age": 19,
+      "birth": {
+         "date": "2003-10-16",
+         "place": "Katowice",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "175 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/284287.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1558,
+      "name": "Joel Robles",
+      "firstname": "Joel",
+      "lastname": "Robles Blázquez",
+      "age": 33,
+      "birth": {
+         "date": "1990-06-17",
+         "place": "Leganés",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "195 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1558.png"
+   }
+}

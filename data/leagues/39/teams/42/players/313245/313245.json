@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 313245,
+      "name": "M. Lewis-Skelly",
+      "firstname": "Myles Anthony",
+      "lastname": "Lewis-Skelly",
+      "age": 16,
+      "birth": {
+         "date": "2006-09-26",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/313245.png"
+   }
+}

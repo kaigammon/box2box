@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284552,
+      "name": "Fionn Lee Douglas Mooney",
+      "firstname": "Fionn Lee",
+      "lastname": "Douglas Mooney",
+      "age": 19,
+      "birth": {
+         "date": "2003-10-12",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/284552.png"
+   }
+}

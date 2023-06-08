@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 196000,
+      "name": "B. Genesini",
+      "firstname": "Brooklyn David Anthony",
+      "lastname": "Genesini",
+      "age": 22,
+      "birth": {
+         "date": "2001-12-12",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/196000.png"
+   }
+}

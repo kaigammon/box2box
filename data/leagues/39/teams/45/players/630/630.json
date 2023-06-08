@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 630,
+      "name": "F. Delph",
+      "firstname": "Fabian",
+      "lastname": "Delph",
+      "age": 33,
+      "birth": {
+         "date": "1989-11-21",
+         "place": "Bradford",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "174 cm",
+      "weight": "60 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/630.png"
+   }
+}

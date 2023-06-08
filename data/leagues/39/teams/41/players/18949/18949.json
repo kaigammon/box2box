@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18949,
+      "name": "Oriol Romeu",
+      "firstname": "Oriol",
+      "lastname": "Romeu Vidal",
+      "age": 32,
+      "birth": {
+         "date": "1991-09-24",
+         "place": "Ulldecona",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "183 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18949.png"
+   }
+}

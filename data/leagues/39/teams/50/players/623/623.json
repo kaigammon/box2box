@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 623,
+      "name": "B. Mendy",
+      "firstname": "Benjamin",
+      "lastname": "Mendy",
+      "age": 28,
+      "birth": {
+         "date": "1994-07-17",
+         "place": "Longjumeau",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "185 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/623.png"
+   }
+}

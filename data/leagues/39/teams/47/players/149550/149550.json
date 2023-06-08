@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 149550,
+      "name": "J. Tanganga",
+      "firstname": "Japhet Manzambi",
+      "lastname": "Tanganga",
+      "age": 24,
+      "birth": {
+         "date": "1999-03-31",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "184 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/149550.png"
+   }
+}

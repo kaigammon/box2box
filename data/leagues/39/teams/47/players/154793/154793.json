@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 154793,
+      "name": "Jamie Patrick Bowden",
+      "firstname": "Jamie Patrick",
+      "lastname": "Bowden",
+      "age": 21,
+      "birth": {
+         "date": "2001-07-09",
+         "place": "Middlesex",
+         "country": "England"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "183 cm",
+      "weight": "64 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/154793.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 144709,
+      "name": "J. Anang",
+      "firstname": "Joseph",
+      "lastname": "Tetteh Anang",
+      "age": 23,
+      "birth": {
+         "date": "2000-06-08",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "190 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/144709.png"
+   }
+}

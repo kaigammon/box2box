@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 181822,
+      "name": "E. Wady",
+      "firstname": "Ethan James",
+      "lastname": "Wady",
+      "age": 21,
+      "birth": {
+         "date": "2002-01-23",
+         "place": "San Jose",
+         "country": "USA"
+      },
+      "nationality": "USA",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/181822.png"
+   }
+}

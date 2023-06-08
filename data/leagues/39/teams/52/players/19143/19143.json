@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19143,
+      "name": "S. Johnstone",
+      "firstname": "Samuel Luke",
+      "lastname": "Johnstone",
+      "age": 30,
+      "birth": {
+         "date": "1993-03-25",
+         "place": "Preston",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "193 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19143.png"
+   }
+}

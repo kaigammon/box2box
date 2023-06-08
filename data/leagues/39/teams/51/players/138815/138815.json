@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 138815,
+      "name": "T. Lamptey",
+      "firstname": "Tariq Kwame",
+      "lastname": "Nii-Lante Lamptey",
+      "age": 23,
+      "birth": {
+         "date": "2000-09-30",
+         "place": "Hillingdon",
+         "country": "England"
+      },
+      "nationality": "Ghana",
+      "height": "163 cm",
+      "weight": "55 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/138815.png"
+   }
+}

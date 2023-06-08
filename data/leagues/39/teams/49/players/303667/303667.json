@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 303667,
+      "name": "E. Beach",
+      "firstname": "Edward James",
+      "lastname": "Beach",
+      "age": 20,
+      "birth": {
+         "date": "2003-11-14",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "Wales",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/303667.png"
+   }
+}

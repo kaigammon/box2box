@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2855,
+      "name": "E. Krafth",
+      "firstname": "Emil Henry Kristoffer",
+      "lastname": "Krafth",
+      "age": 29,
+      "birth": {
+         "date": "1994-08-02",
+         "place": "Stockholm",
+         "country": "Sweden"
+      },
+      "nationality": "Sweden",
+      "height": "184 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2855.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 216770,
+      "name": "I. Hansen-Aarøen",
+      "firstname": "Isak",
+      "lastname": "Hansen-Aarøen",
+      "age": 18,
+      "birth": {
+         "date": "2004-08-22",
+         "place": "Tromsø",
+         "country": "Norway"
+      },
+      "nationality": "Norway",
+      "height": "173 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/216770.png"
+   }
+}

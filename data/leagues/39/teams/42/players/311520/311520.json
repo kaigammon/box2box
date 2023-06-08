@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 311520,
+      "name": "Marquinhos",
+      "firstname": "Marcus Vinícius",
+      "lastname": "Oliveira Alencar",
+      "age": 20,
+      "birth": {
+         "date": "2003-04-07",
+         "place": null,
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "175 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/311520.png"
+   }
+}

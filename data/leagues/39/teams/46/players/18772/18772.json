@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18772,
+      "name": "J. Evans",
+      "firstname": "Jonathan Grant",
+      "lastname": "Evans",
+      "age": 35,
+      "birth": {
+         "date": "1988-01-03",
+         "place": "Belfast",
+         "country": "Northern Ireland"
+      },
+      "nationality": "Northern Ireland",
+      "height": "188 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18772.png"
+   }
+}

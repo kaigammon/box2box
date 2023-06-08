@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18942,
+      "name": "Y. Valery",
+      "firstname": "Yan",
+      "lastname": "Valery",
+      "age": 24,
+      "birth": {
+         "date": "1999-02-22",
+         "place": "Champigny-sur-Marne",
+         "country": "France"
+      },
+      "nationality": "Tunisia",
+      "height": "180 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18942.png"
+   }
+}

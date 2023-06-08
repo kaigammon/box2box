@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47480,
+      "name": "M. Salisu",
+      "firstname": "Mohammed",
+      "lastname": "Salisu Abdul Karim",
+      "age": 24,
+      "birth": {
+         "date": "1999-04-17",
+         "place": "Accra",
+         "country": "Ghana"
+      },
+      "nationality": "Ghana",
+      "height": "191 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47480.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284459,
+      "name": "M. Mothersille",
+      "firstname": "Malik",
+      "lastname": "Maine Mothersille",
+      "age": 20,
+      "birth": {
+         "date": "2003-10-23",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/284459.png"
+   }
+}

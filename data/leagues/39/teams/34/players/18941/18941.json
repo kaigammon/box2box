@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18941,
+      "name": "M. Targett",
+      "firstname": "Matthew Robert",
+      "lastname": "Targett",
+      "age": 28,
+      "birth": {
+         "date": "1995-09-18",
+         "place": "Eastleigh",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "183 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18941.png"
+   }
+}

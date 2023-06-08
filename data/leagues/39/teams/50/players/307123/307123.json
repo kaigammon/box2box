@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 307123,
+      "name": "N. O&apos;Reilly",
+      "firstname": "Nico",
+      "lastname": "O'Reilly",
+      "age": 18,
+      "birth": {
+         "date": "2005-03-21",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/307123.png"
+   }
+}

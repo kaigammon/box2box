@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 537,
+      "name": "J. Veltman",
+      "firstname": "Joël Ivo",
+      "lastname": "Veltman",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-15",
+         "place": "Velsen",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "184 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/537.png"
+   }
+}

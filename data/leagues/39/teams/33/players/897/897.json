@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 897,
+      "name": "M. Greenwood",
+      "firstname": "Mason Will John",
+      "lastname": "Greenwood",
+      "age": 21,
+      "birth": {
+         "date": "2001-10-01",
+         "place": "Bradford",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "181 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/897.png"
+   }
+}

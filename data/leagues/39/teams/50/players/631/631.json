@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 631,
+      "name": "P. Foden",
+      "firstname": "Philip Walter",
+      "lastname": "Foden",
+      "age": 23,
+      "birth": {
+         "date": "2000-05-28",
+         "place": "Stockport",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "171 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/631.png"
+   }
+}

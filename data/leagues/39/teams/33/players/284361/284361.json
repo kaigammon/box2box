@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284361,
+      "name": "R. Vítek",
+      "firstname": "Radek",
+      "lastname": "Vítek",
+      "age": 20,
+      "birth": {
+         "date": "2003-10-24",
+         "place": "Vsetín",
+         "country": "Czech Republic"
+      },
+      "nationality": "Czech Republic",
+      "height": "198 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/284361.png"
+   }
+}

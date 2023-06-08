@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 662,
+      "name": "T. Ndombélé",
+      "firstname": "Tanguy",
+      "lastname": "Ndombélé Alvaro",
+      "age": 27,
+      "birth": {
+         "date": "1996-12-28",
+         "place": "Longjumeau",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "181 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/662.png"
+   }
+}

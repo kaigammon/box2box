@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18892,
+      "name": "P. Dummett",
+      "firstname": "Paul",
+      "lastname": "Dummett",
+      "age": 32,
+      "birth": {
+         "date": "1991-09-26",
+         "place": "Newcastle upon Tyne",
+         "country": "England"
+      },
+      "nationality": "Wales",
+      "height": "183 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18892.png"
+   }
+}

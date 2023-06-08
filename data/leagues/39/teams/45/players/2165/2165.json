@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2165,
+      "name": "V. Mykolenko",
+      "firstname": "Vitalii",
+      "lastname": "Mykolenko",
+      "age": 24,
+      "birth": {
+         "date": "1999-05-29",
+         "place": "Cherkasy",
+         "country": "Ukraine"
+      },
+      "nationality": "Ukraine",
+      "height": "180 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2165.png"
+   }
+}

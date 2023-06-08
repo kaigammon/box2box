@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284509,
+      "name": "Ethan Michael Fitzhugh",
+      "firstname": "Ethan Michael",
+      "lastname": "Fitzhugh",
+      "age": 20,
+      "birth": {
+         "date": "2002-11-27",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/284509.png"
+   }
+}

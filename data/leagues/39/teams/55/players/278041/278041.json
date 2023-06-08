@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 278041,
+      "name": "M. Cox",
+      "firstname": "Matthew Aidan",
+      "lastname": "Cox",
+      "age": 20,
+      "birth": {
+         "date": "2003-05-02",
+         "place": "London",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "182 cm",
+      "weight": "64 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/278041.png"
+   }
+}

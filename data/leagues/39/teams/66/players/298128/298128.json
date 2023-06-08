@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 298128,
+      "name": "K. Kessler",
+      "firstname": "Kaine",
+      "lastname": "Kessler Hayden",
+      "age": 21,
+      "birth": {
+         "date": "2002-10-23",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/298128.png"
+   }
+}

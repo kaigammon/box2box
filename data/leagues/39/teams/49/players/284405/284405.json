@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284405,
+      "name": "B. Elliott",
+      "firstname": "Benjamin Njongoue",
+      "lastname": "Elliott",
+      "age": 21,
+      "birth": {
+         "date": "2002-11-05",
+         "place": "\n    ",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "\n    ",
+      "weight": "\n    ",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/284405.png"
+   }
+}

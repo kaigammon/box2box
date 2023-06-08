@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 533,
+      "name": "R. Kristensen",
+      "firstname": "Rasmus",
+      "lastname": "Nissen Kristensen",
+      "age": 26,
+      "birth": {
+         "date": "1997-07-11",
+         "place": "Brande",
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "187 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/533.png"
+   }
+}

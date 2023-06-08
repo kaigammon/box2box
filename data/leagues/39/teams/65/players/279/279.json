@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 279,
+      "name": "L. Mbe Soh",
+      "firstname": "Loïc Junior",
+      "lastname": "Mbe Soh",
+      "age": 22,
+      "birth": {
+         "date": "2001-06-13",
+         "place": "Souza Gare",
+         "country": "Cameroon"
+      },
+      "nationality": "France",
+      "height": "186 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/279.png"
+   }
+}

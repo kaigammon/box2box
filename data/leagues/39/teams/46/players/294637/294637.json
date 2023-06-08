@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 294637,
+      "name": "Oliver James Ewing",
+      "firstname": "Oliver James",
+      "lastname": "Ewing",
+      "age": 19,
+      "birth": {
+         "date": "2003-01-03",
+         "place": null,
+         "country": "Wales"
+      },
+      "nationality": "Wales",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/294637.png"
+   }
+}

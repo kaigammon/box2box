@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 138890,
+      "name": "Brooklyn Lyons-Foster",
+      "firstname": "Brooklyn",
+      "lastname": "Lyons-Foster",
+      "age": 22,
+      "birth": {
+         "date": "2000-12-01",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/138890.png"
+   }
+}

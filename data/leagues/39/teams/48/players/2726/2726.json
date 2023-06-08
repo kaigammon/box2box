@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2726,
+      "name": "K. Zouma",
+      "firstname": "Kurt Happy",
+      "lastname": "Zouma",
+      "age": 29,
+      "birth": {
+         "date": "1994-10-27",
+         "place": "Lyon",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "190 cm",
+      "weight": "96 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2726.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 174918,
+      "name": "L. Badé",
+      "firstname": "Loïc",
+      "lastname": "Badé",
+      "age": 23,
+      "birth": {
+         "date": "2000-04-11",
+         "place": "Sèvres",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "191 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/174918.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2048,
+      "name": "M. Wöber",
+      "firstname": "Maximilian",
+      "lastname": "Wöber",
+      "age": 25,
+      "birth": {
+         "date": "1998-02-04",
+         "place": "Wien",
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "188 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2048.png"
+   }
+}

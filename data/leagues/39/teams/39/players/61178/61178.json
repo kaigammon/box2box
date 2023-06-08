@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 61178,
+      "name": "C. Ronan",
+      "firstname": "Connor Patrick",
+      "lastname": "Ronan",
+      "age": 25,
+      "birth": {
+         "date": "1998-03-06",
+         "place": "Rochdale",
+         "country": "England"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "170 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/61178.png"
+   }
+}

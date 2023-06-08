@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 281,
+      "name": "C. Kelleher",
+      "firstname": "Caoimhín Odhrán",
+      "lastname": "Kelleher",
+      "age": 25,
+      "birth": {
+         "date": "1998-11-23",
+         "place": "Cork",
+         "country": "Republic of Ireland"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "188 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/281.png"
+   }
+}

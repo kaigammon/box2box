@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18893,
+      "name": "F. Fernández",
+      "firstname": "Federico",
+      "lastname": "Fernández",
+      "age": 34,
+      "birth": {
+         "date": "1989-02-21",
+         "place": "Tres Algarrobos",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "190 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18893.png"
+   }
+}

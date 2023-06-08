@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18826,
+      "name": "Mark Noble",
+      "firstname": "Mark",
+      "lastname": "Noble",
+      "age": 35,
+      "birth": {
+         "date": "1987-05-08",
+         "place": "Canning Town",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "180 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18826.png"
+   }
+}

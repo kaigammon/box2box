@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1231,
+      "name": "V. Coufal",
+      "firstname": "Vladimír",
+      "lastname": "Coufal",
+      "age": 31,
+      "birth": {
+         "date": "1992-08-22",
+         "place": "Ostrava",
+         "country": "Czech Republic"
+      },
+      "nationality": "Czech Republic",
+      "height": "179 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1231.png"
+   }
+}

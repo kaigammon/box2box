@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18803,
+      "name": "N. Chalobah",
+      "firstname": "Nathaniel Nyakie",
+      "lastname": "Chalobah",
+      "age": 29,
+      "birth": {
+         "date": "1994-12-12",
+         "place": "Freetown",
+         "country": "Sierra Leone"
+      },
+      "nationality": "England",
+      "height": "187 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18803.png"
+   }
+}

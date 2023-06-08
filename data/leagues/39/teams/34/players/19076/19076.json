@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19076,
+      "name": "J. Lewis",
+      "firstname": "Jamal Piaras",
+      "lastname": "Lewis",
+      "age": 25,
+      "birth": {
+         "date": "1998-01-25",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "Northern Ireland",
+      "height": "178 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19076.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 180866,
+      "name": "Marcelo",
+      "firstname": "Marcelo",
+      "lastname": "de Araújo Pitaluga Filho",
+      "age": 20,
+      "birth": {
+         "date": "2002-12-20",
+         "place": "Niterói",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "191 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/180866.png"
+   }
+}

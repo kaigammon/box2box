@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18146,
+      "name": "D. Ward",
+      "firstname": "Daniel",
+      "lastname": "Ward",
+      "age": 30,
+      "birth": {
+         "date": "1993-06-22",
+         "place": "Wrexham",
+         "country": "Wales"
+      },
+      "nationality": "Wales",
+      "height": "191 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18146.png"
+   }
+}

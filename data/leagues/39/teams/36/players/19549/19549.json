@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19549,
+      "name": "A. Robinson",
+      "firstname": "Antonee",
+      "lastname": "Robinson",
+      "age": 26,
+      "birth": {
+         "date": "1997-08-08",
+         "place": "Milton Keynes",
+         "country": "England"
+      },
+      "nationality": "USA",
+      "height": "183 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19549.png"
+   }
+}

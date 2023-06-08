@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19364,
+      "name": "N. Maupay",
+      "firstname": "Neal",
+      "lastname": "Maupay",
+      "age": 27,
+      "birth": {
+         "date": "1996-08-14",
+         "place": "Versailles",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "173 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19364.png"
+   }
+}

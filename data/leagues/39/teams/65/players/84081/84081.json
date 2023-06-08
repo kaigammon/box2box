@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 84081,
+      "name": "G. Biancone",
+      "firstname": "Giulian",
+      "lastname": "Biancone",
+      "age": 23,
+      "birth": {
+         "date": "2000-03-31",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "187 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/84081.png"
+   }
+}

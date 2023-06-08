@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19177,
+      "name": "K. Hause",
+      "firstname": "Kortney Paul Duncan",
+      "lastname": "Hause",
+      "age": 28,
+      "birth": {
+         "date": "1995-07-16",
+         "place": "Redbridge",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "191 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19177.png"
+   }
+}

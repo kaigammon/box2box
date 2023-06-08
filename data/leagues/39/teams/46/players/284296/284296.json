@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284296,
+      "name": "Iestyn Tomos Hughes",
+      "firstname": "Iestyn Tomos",
+      "lastname": "Hughes",
+      "age": 20,
+      "birth": {
+         "date": "2002-10-31",
+         "place": "Flint",
+         "country": "Wales"
+      },
+      "nationality": "Wales",
+      "height": "178 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/284296.png"
+   }
+}

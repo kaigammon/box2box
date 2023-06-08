@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 38695,
+      "name": "J. van Hecke",
+      "firstname": "Jan Paul",
+      "lastname": "van Hecke",
+      "age": 23,
+      "birth": {
+         "date": "2000-06-08",
+         "place": "Arnemuiden",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "189 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/38695.png"
+   }
+}

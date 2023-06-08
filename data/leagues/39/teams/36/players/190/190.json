@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 190,
+      "name": "Cédric Soares",
+      "firstname": "Cédric Ricardo",
+      "lastname": "Alves Soares",
+      "age": 32,
+      "birth": {
+         "date": "1991-08-31",
+         "place": "Singen",
+         "country": "Germany"
+      },
+      "nationality": "Portugal",
+      "height": "172 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/190.png"
+   }
+}

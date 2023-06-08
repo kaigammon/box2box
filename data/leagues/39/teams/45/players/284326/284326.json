@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284326,
+      "name": "Žan-Luk Leban",
+      "firstname": "Žan-Luk",
+      "lastname": "Leban",
+      "age": 20,
+      "birth": {
+         "date": "2002-12-15",
+         "place": null,
+         "country": "Slovenia"
+      },
+      "nationality": "Slovenia",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/284326.png"
+   }
+}
