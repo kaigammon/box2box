@@ -18,15 +18,17 @@ const populatePlayersForTeam = async (apiKey, apiHost, league, team) => {
 
       io.createFile({ league, team, player: playerId }, playerId, { player });
     }
+  } else {
+    console.warn(`data already exists for players for team ${team} in league ${league} - skipping`)
   }
 };
 
 const populatePlayers = async (apiKey, apiHost) => {
   const leagues = io.getDirectories(path.join(__dirname, "/leagues"));
-  for (let i = 0; i < 1; i++) { // leagues.length; i++) {
+  for (let i = 0; i < leagues.length; i++) {
     const league = leagues[i];
     const teams = io.getDirectories(path.join(__dirname, `/leagues/${league}/teams`));
-    for (let j = 0; j < 1; j++) { //teams.length; j++) {
+    for (let j = 0; j < teams.length; j++) {
         const team = teams[j];
         await populatePlayersForTeam(apiKey, apiHost, league, team);
     }

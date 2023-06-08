@@ -18,6 +18,8 @@ const populateTeamsForLeague = async (apiKey, apiHost, league) => {
 
       io.createFile({ league, team: teamId }, teamId, { team });
     }
+  } else {
+    console.warn(`data already exists for teams in league ${league} - skipping`)
   }
 };
 

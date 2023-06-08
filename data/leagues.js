@@ -15,7 +15,7 @@ const populateLeagues = async (apiKey, apiHost) => {
             const { league, country } = response[0];
             io.createFile({ league: id }, id, { league, country });
         } else {
-            console.warn(`League ID ${id} data already exists - skipping`);
+            console.warn(`data already exists for league ${id} - skipping`);
         }
     }
 };
