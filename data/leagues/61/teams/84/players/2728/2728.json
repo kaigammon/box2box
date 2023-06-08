@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2728,
+      "name": "K. Schmeichel",
+      "firstname": "Kasper Peter",
+      "lastname": "Schmeichel",
+      "age": 37,
+      "birth": {
+         "date": "1986-11-05",
+         "place": "København",
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "189 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2728.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 85914,
+      "name": "J. Le Cardinal",
+      "firstname": "Julien",
+      "lastname": "Le Cardinal",
+      "age": 26,
+      "birth": {
+         "date": "1997-08-03",
+         "place": "Saint-Brieuc",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "182 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/85914.png"
+   }
+}

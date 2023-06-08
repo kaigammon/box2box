@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22232,
+      "name": "Thiago Mendes",
+      "firstname": "Thiago Henrique",
+      "lastname": "Mendes Ribeiro",
+      "age": 31,
+      "birth": {
+         "date": "1992-03-15",
+         "place": "São Luís",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "176 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/22232.png"
+   }
+}

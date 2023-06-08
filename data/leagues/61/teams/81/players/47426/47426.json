@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47426,
+      "name": "Rubén Blanco",
+      "firstname": "Rubén",
+      "lastname": "Blanco Veiga",
+      "age": 28,
+      "birth": {
+         "date": "1995-07-25",
+         "place": "Mos",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "188 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47426.png"
+   }
+}

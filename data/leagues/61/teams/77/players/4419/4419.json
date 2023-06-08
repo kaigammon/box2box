@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 4419,
+      "name": "I. Chetti",
+      "firstname": "Ilyés",
+      "lastname": "Chétti",
+      "age": 28,
+      "birth": {
+         "date": "1995-01-22",
+         "place": "Annaba",
+         "country": "Algeria"
+      },
+      "nationality": "Algeria",
+      "height": "176 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/4419.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 39104,
+      "name": "K. Haug",
+      "firstname": "Christian Kjetil",
+      "lastname": "Haug",
+      "age": 25,
+      "birth": {
+         "date": "1998-06-12",
+         "place": "Halden",
+         "country": "Norway"
+      },
+      "nationality": "Norway",
+      "height": "190 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/39104.png"
+   }
+}

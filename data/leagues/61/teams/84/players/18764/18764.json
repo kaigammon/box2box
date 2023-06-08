@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18764,
+      "name": "M. Schneiderlin",
+      "firstname": "Morgan Fernand Gérard",
+      "lastname": "Schneiderlin",
+      "age": 34,
+      "birth": {
+         "date": "1989-11-08",
+         "place": "Zellwiller",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "181 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18764.png"
+   }
+}

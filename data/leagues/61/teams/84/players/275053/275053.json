@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 275053,
+      "name": "R. Ilie",
+      "firstname": "Rareş Andrei",
+      "lastname": "Ilie",
+      "age": 20,
+      "birth": {
+         "date": "2003-04-19",
+         "place": "București",
+         "country": "Romania"
+      },
+      "nationality": "Romania",
+      "height": "183 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/275053.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 679,
+      "name": "Ismaily",
+      "firstname": "Ismaily",
+      "lastname": "Gonçalves dos Santos",
+      "age": 33,
+      "birth": {
+         "date": "1990-01-11",
+         "place": "Ivinhema",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "177 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/679.png"
+   }
+}

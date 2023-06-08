@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47969,
+      "name": "G. Gudmundsson",
+      "firstname": "Gabriel Johan",
+      "lastname": "Gudmundsson",
+      "age": 24,
+      "birth": {
+         "date": "1999-04-29",
+         "place": "Malmö",
+         "country": "Sweden"
+      },
+      "nationality": "Sweden",
+      "height": "180 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47969.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22018,
+      "name": "Hyun-Jun Suk",
+      "firstname": "Hyun-Jun",
+      "lastname": "Suk",
+      "age": 31,
+      "birth": {
+         "date": "1991-06-29",
+         "place": "Chungju",
+         "country": "Korea Republic"
+      },
+      "nationality": "Korea Republic",
+      "height": "190 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/22018.png"
+   }
+}

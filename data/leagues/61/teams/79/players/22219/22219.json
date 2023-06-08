@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22219,
+      "name": "A. Jakubech",
+      "firstname": "Adam",
+      "lastname": "Jakubech",
+      "age": 26,
+      "birth": {
+         "date": "1997-01-02",
+         "place": "Presov",
+         "country": "Slovakia"
+      },
+      "nationality": "Slovakia",
+      "height": "188 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/22219.png"
+   }
+}

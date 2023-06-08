@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 70476,
+      "name": "M. Diarra",
+      "firstname": "Moussa",
+      "lastname": "Diarra",
+      "age": 23,
+      "birth": {
+         "date": "2000-11-10",
+         "place": "Stains",
+         "country": "France"
+      },
+      "nationality": "Mali",
+      "height": "185 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/70476.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 272456,
+      "name": "R. Voisine",
+      "firstname": "Robin",
+      "lastname": "Voisine",
+      "age": 21,
+      "birth": {
+         "date": "2002-04-07",
+         "place": "Nantes",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "188 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/272456.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 399,
+      "name": "A. Nübel",
+      "firstname": "Alexander",
+      "lastname": "Nübel",
+      "age": 27,
+      "birth": {
+         "date": "1996-09-30",
+         "place": "Paderborn",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "193 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/399.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 325346,
+      "name": "G. Restes",
+      "firstname": "Guillaume",
+      "lastname": "Restes",
+      "age": 18,
+      "birth": {
+         "date": "2005-03-11",
+         "place": "Guillaume",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "186 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/325346.png"
+   }
+}

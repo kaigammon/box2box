@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1031,
+      "name": "Igor Silva",
+      "firstname": "Igor",
+      "lastname": "Silva de Almeida",
+      "age": 27,
+      "birth": {
+         "date": "1996-08-21",
+         "place": "Rio de Janeiro",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "173 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1031.png"
+   }
+}

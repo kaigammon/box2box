@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 738,
+      "name": "Sergio Ramos",
+      "firstname": "Sergio",
+      "lastname": "Ramos García",
+      "age": 37,
+      "birth": {
+         "date": "1986-03-30",
+         "place": "Camas",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "184 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/738.png"
+   }
+}

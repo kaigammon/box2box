@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 327,
+      "name": "A. Ounas",
+      "firstname": "Adam Mohamed",
+      "lastname": "Ounas",
+      "age": 27,
+      "birth": {
+         "date": "1996-11-11",
+         "place": "Chambray-lès-Tours",
+         "country": "France"
+      },
+      "nationality": "Algeria",
+      "height": "172 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/327.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 174638,
+      "name": "Y. Pandor",
+      "firstname": "Yannick Marc Ahmed",
+      "lastname": "Pandor",
+      "age": 22,
+      "birth": {
+         "date": "2001-05-01",
+         "place": "Marseille",
+         "country": "France"
+      },
+      "nationality": "Comoros",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/174638.png"
+   }
+}

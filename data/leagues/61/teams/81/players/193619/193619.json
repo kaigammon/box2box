@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 193619,
+      "name": "S. Ben Seghir",
+      "firstname": "Salim",
+      "lastname": "Ben Seghir",
+      "age": 20,
+      "birth": {
+         "date": "2003-02-24",
+         "place": "Saint-Tropez",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "174 cm",
+      "weight": "57 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/193619.png"
+   }
+}

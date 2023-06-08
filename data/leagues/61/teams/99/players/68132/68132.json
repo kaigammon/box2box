@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 68132,
+      "name": "O. Djoco",
+      "firstname": "Ouparine",
+      "lastname": "Djoco",
+      "age": 25,
+      "birth": {
+         "date": "1998-04-22",
+         "place": "Juvisy-sur-Orge",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "188 cm",
+      "weight": "90 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/68132.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2198,
+      "name": "S. Doumbia",
+      "firstname": "Souleyman Keli",
+      "lastname": "Doumbia",
+      "age": 27,
+      "birth": {
+         "date": "1996-09-24",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "Côte d'Ivoire",
+      "height": "183 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2198.png"
+   }
+}

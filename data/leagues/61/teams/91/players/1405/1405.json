@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1405,
+      "name": "T. Didillon",
+      "firstname": "Thomas",
+      "lastname": "Didillon",
+      "age": 28,
+      "birth": {
+         "date": "1995-11-28",
+         "place": "Seclin",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "193 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1405.png"
+   }
+}

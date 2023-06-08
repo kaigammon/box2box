@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20651,
+      "name": "J. Leca",
+      "firstname": "Jean-Louis",
+      "lastname": "Leca",
+      "age": 38,
+      "birth": {
+         "date": "1985-09-21",
+         "place": "Bastia",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "180 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20651.png"
+   }
+}

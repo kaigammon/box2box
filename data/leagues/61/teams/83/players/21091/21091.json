@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21091,
+      "name": "C. Traoré",
+      "firstname": "Charles Blonda Dit Modibo",
+      "lastname": "Traoré",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-01",
+         "place": "Bamako",
+         "country": "Mali"
+      },
+      "nationality": "Mali",
+      "height": "180 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/21091.png"
+   }
+}

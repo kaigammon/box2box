@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22242,
+      "name": "E. Kawashima",
+      "firstname": "Eiji",
+      "lastname": "Kawashima",
+      "age": 40,
+      "birth": {
+         "date": "1983-03-20",
+         "place": "Yono",
+         "country": "Japan"
+      },
+      "nationality": "Japan",
+      "height": "185 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/22242.png"
+   }
+}

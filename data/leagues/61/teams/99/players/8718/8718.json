@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 8718,
+      "name": "M. Caufriez",
+      "firstname": "Maximiliano",
+      "lastname": "Caufriez",
+      "age": 26,
+      "birth": {
+         "date": "1997-02-16",
+         "place": "Beveren",
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "189 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/8718.png"
+   }
+}

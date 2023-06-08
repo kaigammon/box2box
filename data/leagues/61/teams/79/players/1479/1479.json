@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1479,
+      "name": "Tiago Djaló",
+      "firstname": "Tiago Emanuel",
+      "lastname": "Embaló Djaló",
+      "age": 23,
+      "birth": {
+         "date": "2000-04-09",
+         "place": "Amadora",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "190 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1479.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20657,
+      "name": "Steven Fortès",
+      "firstname": "Steven",
+      "lastname": "Fortès",
+      "age": 31,
+      "birth": {
+         "date": "1992-04-17",
+         "place": "Marseille",
+         "country": "France"
+      },
+      "nationality": "Cape Verde",
+      "height": "192 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20657.png"
+   }
+}

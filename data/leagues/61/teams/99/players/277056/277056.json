@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 277056,
+      "name": "O. Kamdem",
+      "firstname": "Wabo Oliver",
+      "lastname": "Kamdem",
+      "age": 21,
+      "birth": {
+         "date": "2002-10-15",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/277056.png"
+   }
+}

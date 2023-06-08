@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2675,
+      "name": "José Fonte",
+      "firstname": "José Miguel",
+      "lastname": "da Rocha Fonte",
+      "age": 40,
+      "birth": {
+         "date": "1983-12-22",
+         "place": "Penafiel",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "187 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2675.png"
+   }
+}

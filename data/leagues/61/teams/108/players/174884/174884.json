@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 174884,
+      "name": "L. Buhanga",
+      "firstname": "Lamine Robert",
+      "lastname": "Buhanga",
+      "age": 22,
+      "birth": {
+         "date": "2001-10-03",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "188 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/174884.png"
+   }
+}

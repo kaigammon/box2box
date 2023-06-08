@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 119853,
+      "name": "M. Diaw",
+      "firstname": "Mory",
+      "lastname": "Diaw",
+      "age": 30,
+      "birth": {
+         "date": "1993-06-22",
+         "place": "Poissy",
+         "country": "France"
+      },
+      "nationality": "Senegal",
+      "height": "197 cm",
+      "weight": "95 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/119853.png"
+   }
+}

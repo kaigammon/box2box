@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 325783,
+      "name": "Everson",
+      "firstname": "Everson Junior",
+      "lastname": "Pereira da Silva",
+      "age": 19,
+      "birth": {
+         "date": "2003-11-07",
+         "place": "Nice",
+         "country": "France"
+      },
+      "nationality": "Brazil",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/325783.png"
+   }
+}

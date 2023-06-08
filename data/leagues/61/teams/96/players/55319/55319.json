@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 55319,
+      "name": "N. Skyttä",
+      "firstname": "Naatan Mikael",
+      "lastname": "Skyttä",
+      "age": 21,
+      "birth": {
+         "date": "2002-05-07",
+         "place": "Ylöjärvi",
+         "country": "Finland"
+      },
+      "nationality": "Finland",
+      "height": "170 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/55319.png"
+   }
+}

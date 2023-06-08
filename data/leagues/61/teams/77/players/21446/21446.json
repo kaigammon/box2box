@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21446,
+      "name": "A. Bobichon",
+      "firstname": "Antonin",
+      "lastname": "Bobichon",
+      "age": 28,
+      "birth": {
+         "date": "1995-09-14",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "178 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/21446.png"
+   }
+}

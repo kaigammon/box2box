@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 6,
+      "name": "L. Balerdi",
+      "firstname": "Leonardo Julián",
+      "lastname": "Balerdi Rosa",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-26",
+         "place": "Villa Mercedes",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "187 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/6.png"
+   }
+}

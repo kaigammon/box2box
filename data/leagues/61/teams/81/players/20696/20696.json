@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20696,
+      "name": "P. Gueye",
+      "firstname": "Pape Alassane",
+      "lastname": "Gueye",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-24",
+         "place": "Montreuil",
+         "country": "France"
+      },
+      "nationality": "Senegal",
+      "height": "189 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/20696.png"
+   }
+}

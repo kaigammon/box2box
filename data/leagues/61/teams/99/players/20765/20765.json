@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20765,
+      "name": "J. Albert",
+      "firstname": "Josué",
+      "lastname": "Albert",
+      "age": 30,
+      "birth": {
+         "date": "1992-01-21",
+         "place": "Colombes",
+         "country": "France"
+      },
+      "nationality": "French Guiana",
+      "height": "187 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/20765.png"
+   }
+}

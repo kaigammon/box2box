@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1407,
+      "name": "D. Appiah",
+      "firstname": "Dennis",
+      "lastname": "Appiah",
+      "age": 31,
+      "birth": {
+         "date": "1992-06-09",
+         "place": "Toulouse",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "179 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1407.png"
+   }
+}

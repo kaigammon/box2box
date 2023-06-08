@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22258,
+      "name": "J. Martin",
+      "firstname": "Jonas",
+      "lastname": "Martin",
+      "age": 33,
+      "birth": {
+         "date": "1990-04-09",
+         "place": "Besançon",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "184 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/22258.png"
+   }
+}

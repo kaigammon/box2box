@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2206,
+      "name": "B. Bourigeaud",
+      "firstname": "Benjamin",
+      "lastname": "Bourigeaud",
+      "age": 29,
+      "birth": {
+         "date": "1994-01-14",
+         "place": "Calais",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "178 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2206.png"
+   }
+}

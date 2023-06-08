@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 363220,
+      "name": "A. Nuss",
+      "firstname": "Antoine",
+      "lastname": "Nuss",
+      "age": 20,
+      "birth": {
+         "date": "2003-12-19",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/363220.png"
+   }
+}

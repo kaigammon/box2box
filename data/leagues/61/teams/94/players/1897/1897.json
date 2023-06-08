@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1897,
+      "name": "S. Mandanda",
+      "firstname": "Steve",
+      "lastname": "Mandanda Mpidi",
+      "age": 38,
+      "birth": {
+         "date": "1985-03-28",
+         "place": "Kinshasa",
+         "country": "Congo DR"
+      },
+      "nationality": "France",
+      "height": "187 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1897.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2274,
+      "name": "M. Bułka",
+      "firstname": "Marcin",
+      "lastname": "Bułka",
+      "age": 24,
+      "birth": {
+         "date": "1999-10-04",
+         "place": "Płock",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "199 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2274.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1622,
+      "name": "G. Donnarumma",
+      "firstname": "Gianluigi",
+      "lastname": "Donnarumma",
+      "age": 24,
+      "birth": {
+         "date": "1999-02-25",
+         "place": "Castellammare di Stabia",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "196 cm",
+      "weight": "90 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1622.png"
+   }
+}

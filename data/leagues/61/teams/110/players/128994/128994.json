@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 128994,
+      "name": "R. Bouallak",
+      "firstname": "Ryan",
+      "lastname": "Bouallak",
+      "age": 23,
+      "birth": {
+         "date": "1999-08-19",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "190 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/128994.png"
+   }
+}

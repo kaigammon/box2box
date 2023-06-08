@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1478,
+      "name": "Abdu Conté",
+      "firstname": "Abdu Cadri",
+      "lastname": "Conté",
+      "age": 25,
+      "birth": {
+         "date": "1998-03-24",
+         "place": "Bissau",
+         "country": "Guinea-Bissau"
+      },
+      "nationality": "Portugal",
+      "height": "183 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1478.png"
+   }
+}

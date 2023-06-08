@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30807,
+      "name": "S. Fofana",
+      "firstname": "Seko Mohamed",
+      "lastname": "Fofana",
+      "age": 28,
+      "birth": {
+         "date": "1995-05-07",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "Côte d'Ivoire",
+      "height": "183 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30807.png"
+   }
+}

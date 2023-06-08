@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25287,
+      "name": "K. Danso",
+      "firstname": "Kevin",
+      "lastname": "Danso",
+      "age": 25,
+      "birth": {
+         "date": "1998-09-19",
+         "place": "Voitsberg",
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "190 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25287.png"
+   }
+}

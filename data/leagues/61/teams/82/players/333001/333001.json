@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 333001,
+      "name": "R. Tchato",
+      "firstname": "Ryan",
+      "lastname": "Tchato Mbiayi",
+      "age": 19,
+      "birth": {
+         "date": "2004-09-13",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "Cameroon",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/333001.png"
+   }
+}

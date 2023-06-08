@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21233,
+      "name": "A. Zedadka",
+      "firstname": "Akim",
+      "lastname": "Zedadka",
+      "age": 28,
+      "birth": {
+         "date": "1995-05-30",
+         "place": "Pertuis",
+         "country": "France"
+      },
+      "nationality": "Algeria",
+      "height": "173 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/21233.png"
+   }
+}

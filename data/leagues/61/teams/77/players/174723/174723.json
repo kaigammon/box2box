@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 174723,
+      "name": "Z. Ould Khaled",
+      "firstname": "Zinédine",
+      "lastname": "Ould Khaled",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-14",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "195 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/174723.png"
+   }
+}

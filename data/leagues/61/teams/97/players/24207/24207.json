@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24207,
+      "name": "S. Diarra",
+      "firstname": "Stéphane Imad",
+      "lastname": "Diarra",
+      "age": 25,
+      "birth": {
+         "date": "1998-12-09",
+         "place": "Abidjan",
+         "country": "Côte d'Ivoire"
+      },
+      "nationality": "Côte d'Ivoire",
+      "height": "173 cm",
+      "weight": "58 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/24207.png"
+   }
+}

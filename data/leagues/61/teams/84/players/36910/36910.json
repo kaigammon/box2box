@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 36910,
+      "name": "C. Stengs",
+      "firstname": "Calvin",
+      "lastname": "Stengs",
+      "age": 25,
+      "birth": {
+         "date": "1998-12-18",
+         "place": "Amsterdam",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "182 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/36910.png"
+   }
+}

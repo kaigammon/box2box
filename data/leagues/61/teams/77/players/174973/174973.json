@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 174973,
+      "name": "M. Zinga",
+      "firstname": "Melvin",
+      "lastname": "Zinga",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-16",
+         "place": "Montivilliers",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "187 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/174973.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162761,
+      "name": "C. Lukeba",
+      "firstname": "Castello Junior",
+      "lastname": "Lukeba",
+      "age": 21,
+      "birth": {
+         "date": "2002-12-17",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "184 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/162761.png"
+   }
+}

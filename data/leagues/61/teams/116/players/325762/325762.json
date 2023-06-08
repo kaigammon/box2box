@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 325762,
+      "name": "Valentino Lesieur",
+      "firstname": "Valentino Claude",
+      "lastname": "Rodrigues Lesieur",
+      "age": 19,
+      "birth": {
+         "date": "2003-03-18",
+         "place": "Mont-Saint-Aignan",
+         "country": "France"
+      },
+      "nationality": "Portugal",
+      "height": "195 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/325762.png"
+   }
+}

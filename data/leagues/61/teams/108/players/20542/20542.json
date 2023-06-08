@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20542,
+      "name": "D. Léon",
+      "firstname": "Donovan",
+      "lastname": "Léon",
+      "age": 31,
+      "birth": {
+         "date": "1992-11-03",
+         "place": "Cayenne",
+         "country": "French Guiana"
+      },
+      "nationality": "French Guiana",
+      "height": "187 cm",
+      "weight": "94 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20542.png"
+   }
+}

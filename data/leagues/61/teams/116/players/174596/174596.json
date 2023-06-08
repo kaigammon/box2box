@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 174596,
+      "name": "I. Boura",
+      "firstname": "Ismaël Ben",
+      "lastname": "Boura",
+      "age": 23,
+      "birth": {
+         "date": "2000-08-14",
+         "place": "Bandrele",
+         "country": "France"
+      },
+      "nationality": "Comoros",
+      "height": "173 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/174596.png"
+   }
+}

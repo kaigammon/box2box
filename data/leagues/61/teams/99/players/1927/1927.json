@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1927,
+      "name": "Neto Borges",
+      "firstname": "Vivaldo",
+      "lastname": "Borges dos Santos Neto",
+      "age": 27,
+      "birth": {
+         "date": "1996-09-13",
+         "place": "Saubara",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "185 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1927.png"
+   }
+}

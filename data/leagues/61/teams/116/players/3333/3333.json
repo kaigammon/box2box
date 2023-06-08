@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 3333,
+      "name": "M. Haïdara",
+      "firstname": "Massadio",
+      "lastname": "Haïdara",
+      "age": 31,
+      "birth": {
+         "date": "1992-12-02",
+         "place": "Trappes",
+         "country": "France"
+      },
+      "nationality": "Mali",
+      "height": "179 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/3333.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 326157,
+      "name": "S. Sylla",
+      "firstname": "Soumaïla",
+      "lastname": "Sylla",
+      "age": 19,
+      "birth": {
+         "date": "2004-03-15",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/326157.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 163039,
+      "name": "C. Matsima",
+      "firstname": "Chrislain Iris",
+      "lastname": "Aurel Matsima",
+      "age": 21,
+      "birth": {
+         "date": "2002-05-15",
+         "place": "Nanterre",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "193 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/163039.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 156477,
+      "name": "R. Cherki",
+      "firstname": "Mathis Rayan",
+      "lastname": "Cherki",
+      "age": 20,
+      "birth": {
+         "date": "2003-08-17",
+         "place": "Lyon",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "176 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/156477.png"
+   }
+}

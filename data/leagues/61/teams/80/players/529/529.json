@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 529,
+      "name": "N. Tagliafico",
+      "firstname": "Nicolás Alejandro",
+      "lastname": "Tagliafico",
+      "age": 31,
+      "birth": {
+         "date": "1992-08-31",
+         "place": "Rafael Calzada",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "172 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/529.png"
+   }
+}

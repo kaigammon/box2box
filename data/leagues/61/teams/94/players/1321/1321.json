@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1321,
+      "name": "L. Majer",
+      "firstname": "Lovro",
+      "lastname": "Majer",
+      "age": 25,
+      "birth": {
+         "date": "1998-01-17",
+         "place": "Zagreb",
+         "country": "Croatia"
+      },
+      "nationality": "Croatia",
+      "height": "178 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1321.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20625,
+      "name": "V. Le Goff",
+      "firstname": "Vincent",
+      "lastname": "Le Goff",
+      "age": 34,
+      "birth": {
+         "date": "1989-10-15",
+         "place": "Quimper",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "177 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/20625.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 41169,
+      "name": "Léo Jardim",
+      "firstname": "Leonardo César",
+      "lastname": "Jardim",
+      "age": 28,
+      "birth": {
+         "date": "1995-03-20",
+         "place": "Ribeirão Preto",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "188 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/41169.png"
+   }
+}

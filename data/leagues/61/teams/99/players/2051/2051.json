@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2051,
+      "name": "M. Gonalons",
+      "firstname": "Maxime",
+      "lastname": "Gonalons",
+      "age": 34,
+      "birth": {
+         "date": "1989-03-10",
+         "place": "Vénissieux",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "187 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2051.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 8551,
+      "name": "R. Riou",
+      "firstname": "Rémy",
+      "lastname": "Riou",
+      "age": 36,
+      "birth": {
+         "date": "1987-08-06",
+         "place": "Lyon",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "191 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/8551.png"
+   }
+}

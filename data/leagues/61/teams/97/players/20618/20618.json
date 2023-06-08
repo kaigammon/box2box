@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20618,
+      "name": "T. Bartouche",
+      "firstname": "Teddy",
+      "lastname": "Bartouche-Selbonne",
+      "age": 26,
+      "birth": {
+         "date": "1997-06-05",
+         "place": "Lagny-sur-Marne",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "178 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20618.png"
+   }
+}

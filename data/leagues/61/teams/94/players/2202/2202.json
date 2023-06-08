@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2202,
+      "name": "H. Traoré",
+      "firstname": "Hamari",
+      "lastname": "Traoré",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-27",
+         "place": "Bamako",
+         "country": "Mali"
+      },
+      "nationality": "Mali",
+      "height": "175 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2202.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20848,
+      "name": "S. Laiton",
+      "firstname": "Sonny Patrick",
+      "lastname": "Laiton",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-28",
+         "place": "Saint-Louis",
+         "country": "Réunion"
+      },
+      "nationality": "France",
+      "height": "191 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20848.png"
+   }
+}

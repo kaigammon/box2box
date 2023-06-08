@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 340080,
+      "name": "V. Burlet",
+      "firstname": "Vincent",
+      "lastname": "Burlet",
+      "age": 18,
+      "birth": {
+         "date": "2005-09-23",
+         "place": null,
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/340080.png"
+   }
+}

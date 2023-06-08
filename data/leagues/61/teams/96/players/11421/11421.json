@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 11421,
+      "name": "G. Suazo",
+      "firstname": "Gabriel Alonso",
+      "lastname": "Suazo Urbina",
+      "age": 26,
+      "birth": {
+         "date": "1997-08-09",
+         "place": "Santiago de Chile",
+         "country": "Chile"
+      },
+      "nationality": "Chile",
+      "height": "178 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/11421.png"
+   }
+}

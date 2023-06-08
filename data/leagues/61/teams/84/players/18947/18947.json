@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18947,
+      "name": "M. Lemina",
+      "firstname": "Mario René Junior",
+      "lastname": "Lemina",
+      "age": 30,
+      "birth": {
+         "date": "1993-09-01",
+         "place": "Libreville",
+         "country": "Gabon"
+      },
+      "nationality": "Gabon",
+      "height": "184 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18947.png"
+   }
+}

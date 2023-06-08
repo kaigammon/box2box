@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 135068,
+      "name": "E. Agbadou",
+      "firstname": "Emmanuel Elysee",
+      "lastname": "Djedje Agbadou Badobre",
+      "age": 26,
+      "birth": {
+         "date": "1997-06-17",
+         "place": "Abidjan",
+         "country": "Côte d'Ivoire"
+      },
+      "nationality": "Côte d'Ivoire",
+      "height": "192 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/135068.png"
+   }
+}

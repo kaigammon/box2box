@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 179400,
+      "name": "M. Estève",
+      "firstname": "Maxime",
+      "lastname": "Estève",
+      "age": 21,
+      "birth": {
+         "date": "2002-05-26",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "193 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/179400.png"
+   }
+}

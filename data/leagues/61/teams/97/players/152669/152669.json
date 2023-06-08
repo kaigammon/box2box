@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 152669,
+      "name": "D. Yongwa",
+      "firstname": "Darlin Zidane",
+      "lastname": "Yongwa Ngameni",
+      "age": 23,
+      "birth": {
+         "date": "2000-09-22",
+         "place": "Douala",
+         "country": "Cameroon"
+      },
+      "nationality": "Cameroon",
+      "height": "177 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/152669.png"
+   }
+}

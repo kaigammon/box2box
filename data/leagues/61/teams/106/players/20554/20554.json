@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20554,
+      "name": "H. Belkebla",
+      "firstname": "Haris",
+      "lastname": "Belkebla",
+      "age": 29,
+      "birth": {
+         "date": "1994-01-28",
+         "place": "Drancy",
+         "country": "France"
+      },
+      "nationality": "Algeria",
+      "height": "177 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20554.png"
+   }
+}

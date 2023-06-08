@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 327560,
+      "name": "T. Borne",
+      "firstname": "Théo",
+      "lastname": "Borne",
+      "age": 21,
+      "birth": {
+         "date": "2002-07-15",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "191 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/327560.png"
+   }
+}

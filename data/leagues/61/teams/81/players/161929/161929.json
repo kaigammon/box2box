@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 161929,
+      "name": "Konrad De La Fuente",
+      "firstname": "Konrad",
+      "lastname": "De La Fuente",
+      "age": 22,
+      "birth": {
+         "date": "2001-07-16",
+         "place": "Miami",
+         "country": "USA"
+      },
+      "nationality": "USA",
+      "height": "170 cm",
+      "weight": "63 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/161929.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20544,
+      "name": "Q. Bernard",
+      "firstname": "Quentin",
+      "lastname": "Bernard",
+      "age": 34,
+      "birth": {
+         "date": "1989-07-07",
+         "place": "Poitiers",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "184 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20544.png"
+   }
+}

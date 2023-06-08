@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 36540,
+      "name": "A. Dari",
+      "firstname": "Achraf",
+      "lastname": "Dari",
+      "age": 24,
+      "birth": {
+         "date": "1999-05-06",
+         "place": null,
+         "country": "Morocco"
+      },
+      "nationality": "Morocco",
+      "height": "188 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/36540.png"
+   }
+}

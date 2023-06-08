@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20716,
+      "name": "G. Mutombo",
+      "firstname": "Gabriel Donatien",
+      "lastname": "Mutombo Kupa",
+      "age": 27,
+      "birth": {
+         "date": "1996-01-19",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "191 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20716.png"
+   }
+}

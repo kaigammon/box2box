@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1709,
+      "name": "K. Toko Ekambi",
+      "firstname": "Karl Louis-Brillant",
+      "lastname": "Toko Ekambi",
+      "age": 31,
+      "birth": {
+         "date": "1992-09-14",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "Cameroon",
+      "height": "183 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1709.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 305959,
+      "name": "T. Arconte",
+      "firstname": "Taïryk",
+      "lastname": "Arconte",
+      "age": 20,
+      "birth": {
+         "date": "2003-11-12",
+         "place": null,
+         "country": "Guadeloupe"
+      },
+      "nationality": "France",
+      "height": "181 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/305959.png"
+   }
+}

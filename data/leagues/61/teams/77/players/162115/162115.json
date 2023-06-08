@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162115,
+      "name": "N. Fatar",
+      "firstname": "Noah",
+      "lastname": "Fatar",
+      "age": 21,
+      "birth": {
+         "date": "2002-02-15",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "170 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/162115.png"
+   }
+}

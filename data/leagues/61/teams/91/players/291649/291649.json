@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 291649,
+      "name": "Vanderson",
+      "firstname": "Vanderson",
+      "lastname": "de Oliveira Campos",
+      "age": 22,
+      "birth": {
+         "date": "2001-06-21",
+         "place": null,
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "180 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/291649.png"
+   }
+}

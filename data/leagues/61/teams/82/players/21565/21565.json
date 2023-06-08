@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21565,
+      "name": "D. Bertaud",
+      "firstname": "Dimitry Jean Sylvain",
+      "lastname": "Bertaud",
+      "age": 25,
+      "birth": {
+         "date": "1998-06-06",
+         "place": "Montpellier",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "180 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/21565.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 3334,
+      "name": "Y. Koné",
+      "firstname": "Youssouf",
+      "lastname": "Koné",
+      "age": 28,
+      "birth": {
+         "date": "1995-07-05",
+         "place": "Bamako",
+         "country": "Mali"
+      },
+      "nationality": "Mali",
+      "height": "174 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/3334.png"
+   }
+}

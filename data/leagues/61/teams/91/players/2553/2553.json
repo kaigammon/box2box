@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2553,
+      "name": "G. Maripán",
+      "firstname": "Guillermo Alfonso",
+      "lastname": "Maripán Loaysa",
+      "age": 29,
+      "birth": {
+         "date": "1994-05-06",
+         "place": "San Miguel",
+         "country": "Chile"
+      },
+      "nationality": "Chile",
+      "height": "193 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2553.png"
+   }
+}

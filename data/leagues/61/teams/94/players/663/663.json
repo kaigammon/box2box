@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 663,
+      "name": "M. Terrier",
+      "firstname": "Martin Albert Frédéric",
+      "lastname": "Terrier",
+      "age": 26,
+      "birth": {
+         "date": "1997-03-04",
+         "place": "Armentières",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "184 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/663.png"
+   }
+}

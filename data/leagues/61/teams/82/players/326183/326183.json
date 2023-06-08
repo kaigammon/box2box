@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 326183,
+      "name": "R. Halhal",
+      "firstname": "Redouane",
+      "lastname": "Halhal",
+      "age": 20,
+      "birth": {
+         "date": "2003-03-05",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "185 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/326183.png"
+   }
+}

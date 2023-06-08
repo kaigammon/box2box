@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20938,
+      "name": "F. Sollacaro",
+      "firstname": "François-Joseph",
+      "lastname": "Sollacaro",
+      "age": 29,
+      "birth": {
+         "date": "1994-03-21",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "182 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20938.png"
+   }
+}

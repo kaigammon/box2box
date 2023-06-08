@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 39229,
+      "name": "M. Desler",
+      "firstname": "Mikkel",
+      "lastname": "Desler Puggaard",
+      "age": 28,
+      "birth": {
+         "date": "1995-02-19",
+         "place": "Assens",
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "184 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/39229.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20971,
+      "name": "A. Coeff",
+      "firstname": "Alexandre Serge",
+      "lastname": "Coeff",
+      "age": 31,
+      "birth": {
+         "date": "1992-02-20",
+         "place": "Brest",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "185 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20971.png"
+   }
+}

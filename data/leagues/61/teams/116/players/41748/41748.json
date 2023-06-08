@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 41748,
+      "name": "J. Onana",
+      "firstname": "Jean Emile Junior",
+      "lastname": "Onana Onana",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-08",
+         "place": "Yaoundé",
+         "country": "Cameroon"
+      },
+      "nationality": "Cameroon",
+      "height": "189 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/41748.png"
+   }
+}

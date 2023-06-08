@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21080,
+      "name": "A. Olliero",
+      "firstname": "Alexandre",
+      "lastname": "Olliero",
+      "age": 27,
+      "birth": {
+         "date": "1996-02-15",
+         "place": "La Rochelle",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "193 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/21080.png"
+   }
+}

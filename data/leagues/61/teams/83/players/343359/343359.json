@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 343359,
+      "name": "N. Zeze",
+      "firstname": "Nathan",
+      "lastname": "Zeze",
+      "age": 18,
+      "birth": {
+         "date": "2005-06-18",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "190 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/343359.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 40165,
+      "name": "M. Lis",
+      "firstname": "Mateusz",
+      "lastname": "Lis",
+      "age": 26,
+      "birth": {
+         "date": "1997-02-27",
+         "place": "Żary",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "192 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/40165.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 140947,
+      "name": "I. Kaboré",
+      "firstname": "Issa",
+      "lastname": "Kaboré",
+      "age": 22,
+      "birth": {
+         "date": "2001-05-12",
+         "place": "Bobo-Dioulasso",
+         "country": "Burkina Faso"
+      },
+      "nationality": "Burkina Faso",
+      "height": "180 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/140947.png"
+   }
+}

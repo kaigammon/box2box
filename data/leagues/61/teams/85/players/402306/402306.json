@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 402306,
+      "name": "Erwan Adonis",
+      "firstname": "Erwan",
+      "lastname": "Adonis",
+      "age": 16,
+      "birth": {
+         "date": "2006-01-09",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/402306.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21447,
+      "name": "U. Bozok",
+      "firstname": "Umut Dilan",
+      "lastname": "Bozok",
+      "age": 27,
+      "birth": {
+         "date": "1996-09-19",
+         "place": "Saint-Avold",
+         "country": "France"
+      },
+      "nationality": "Türkiye",
+      "height": "178 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/21447.png"
+   }
+}

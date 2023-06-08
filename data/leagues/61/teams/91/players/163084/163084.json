@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 163084,
+      "name": "F. El Maach",
+      "firstname": "Fouad",
+      "lastname": "El Maach",
+      "age": 21,
+      "birth": {
+         "date": "2001-01-02",
+         "place": "Avignon",
+         "country": "France"
+      },
+      "nationality": "Morocco",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/163084.png"
+   }
+}

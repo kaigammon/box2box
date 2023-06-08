@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 347211,
+      "name": "R. Risser",
+      "firstname": "Robin",
+      "lastname": "Risser Birckel",
+      "age": 19,
+      "birth": {
+         "date": "2004-12-02",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "193 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/347211.png"
+   }
+}

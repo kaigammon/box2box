@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 287,
+      "name": "D. Lovren",
+      "firstname": "Dejan",
+      "lastname": "Lovren",
+      "age": 34,
+      "birth": {
+         "date": "1989-07-05",
+         "place": "Zenica",
+         "country": "Bosnia and Herzegovina"
+      },
+      "nationality": "Croatia",
+      "height": "188 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/287.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30525,
+      "name": "Pol Lirola",
+      "firstname": "Pol Mikel",
+      "lastname": "Lirola Kosok",
+      "age": 26,
+      "birth": {
+         "date": "1997-08-13",
+         "place": "Mollet del Vallès",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "183 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30525.png"
+   }
+}

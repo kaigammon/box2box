@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 69971,
+      "name": "T. Moffi",
+      "firstname": "Teremas Igobor",
+      "lastname": "Moffi",
+      "age": 24,
+      "birth": {
+         "date": "1999-05-25",
+         "place": null,
+         "country": "Nigeria"
+      },
+      "nationality": "Nigeria",
+      "height": "188 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/69971.png"
+   }
+}

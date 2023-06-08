@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 325916,
+      "name": "R. Lipinski",
+      "firstname": "Raphael",
+      "lastname": "Lipinski",
+      "age": 21,
+      "birth": {
+         "date": "2002-07-30",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/325916.png"
+   }
+}

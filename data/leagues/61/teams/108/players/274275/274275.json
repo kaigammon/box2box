@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 274275,
+      "name": "B. Pereira",
+      "firstname": "Brayann Leanceley Christva",
+      "lastname": "Pereira",
+      "age": 20,
+      "birth": {
+         "date": "2003-05-21",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "172 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/274275.png"
+   }
+}

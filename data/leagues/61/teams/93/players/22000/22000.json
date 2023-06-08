@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22000,
+      "name": "T. Foket",
+      "firstname": "Thomas",
+      "lastname": "Foket",
+      "age": 29,
+      "birth": {
+         "date": "1994-09-25",
+         "place": "Brussel",
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "177 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/22000.png"
+   }
+}

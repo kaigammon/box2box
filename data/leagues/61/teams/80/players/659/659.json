@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 659,
+      "name": "M. Caqueret",
+      "firstname": "Maxence",
+      "lastname": "Caqueret",
+      "age": 23,
+      "birth": {
+         "date": "2000-02-15",
+         "place": "Vénissieux",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "174 cm",
+      "weight": "63 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/659.png"
+   }
+}

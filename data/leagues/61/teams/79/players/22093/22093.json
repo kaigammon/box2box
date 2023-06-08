@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22093,
+      "name": "R. Cabella",
+      "firstname": "Rémy Joseph",
+      "lastname": "Cabella",
+      "age": 33,
+      "birth": {
+         "date": "1990-03-08",
+         "place": "Ajaccio",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "171 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/22093.png"
+   }
+}

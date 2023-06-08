@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 174599,
+      "name": "M. Wackers",
+      "firstname": "Maxime",
+      "lastname": "Wackers",
+      "age": 25,
+      "birth": {
+         "date": "1998-01-01",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "184 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/174599.png"
+   }
+}

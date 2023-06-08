@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25008,
+      "name": "J. Clauss",
+      "firstname": "Jonathan",
+      "lastname": "Clauss",
+      "age": 31,
+      "birth": {
+         "date": "1992-09-25",
+         "place": "Troyes",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "178 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/25008.png"
+   }
+}

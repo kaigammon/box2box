@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 364306,
+      "name": "Victor Lebas",
+      "firstname": "Victor",
+      "lastname": "Lebas",
+      "age": 19,
+      "birth": {
+         "date": "2004-09-14",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "Portugal",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/364306.png"
+   }
+}

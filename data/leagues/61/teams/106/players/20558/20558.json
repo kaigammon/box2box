@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20558,
+      "name": "H. Magnetti",
+      "firstname": "Hugo",
+      "lastname": "Magnetti",
+      "age": 25,
+      "birth": {
+         "date": "1998-05-30",
+         "place": "Marseille",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "180 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/20558.png"
+   }
+}

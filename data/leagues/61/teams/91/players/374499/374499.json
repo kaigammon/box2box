@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 374499,
+      "name": "M. Efekele",
+      "firstname": "Malamine",
+      "lastname": "Efekele",
+      "age": 18,
+      "birth": {
+         "date": "2004-07-19",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "176 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/374499.png"
+   }
+}

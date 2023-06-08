@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 327703,
+      "name": "A. Pelon",
+      "firstname": "Aurélien",
+      "lastname": "Pelon",
+      "age": 19,
+      "birth": {
+         "date": "2004-05-06",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/327703.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 260,
+      "name": "C. Dagba",
+      "firstname": "Colin",
+      "lastname": "Obasanya Dagba",
+      "age": 25,
+      "birth": {
+         "date": "1998-09-09",
+         "place": "Béthune",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "170 cm",
+      "weight": "62 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/260.png"
+   }
+}

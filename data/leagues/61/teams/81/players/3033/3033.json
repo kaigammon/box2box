@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 3033,
+      "name": "C. Bakambu",
+      "firstname": "Cédric",
+      "lastname": "Bakambu",
+      "age": 32,
+      "birth": {
+         "date": "1991-04-11",
+         "place": "Ivry",
+         "country": "France"
+      },
+      "nationality": "Congo DR",
+      "height": "182 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/3033.png"
+   }
+}

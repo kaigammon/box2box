@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 327692,
+      "name": "T. Koudou",
+      "firstname": "Thérence Ange",
+      "lastname": "Koudou",
+      "age": 19,
+      "birth": {
+         "date": "2004-12-13",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/327692.png"
+   }
+}

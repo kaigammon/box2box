@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22136,
+      "name": "B. Diakité",
+      "firstname": "Bafodé",
+      "lastname": "Diakité",
+      "age": 22,
+      "birth": {
+         "date": "2001-01-06",
+         "place": "Toulouse",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "185 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/22136.png"
+   }
+}

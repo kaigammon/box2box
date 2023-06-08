@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 560,
+      "name": "S. Corchia",
+      "firstname": "Sébastien",
+      "lastname": "Corchia",
+      "age": 33,
+      "birth": {
+         "date": "1990-11-01",
+         "place": "Noisy le Sec",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "176 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/560.png"
+   }
+}

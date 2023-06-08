@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 272458,
+      "name": "S. Yépié Yépié",
+      "firstname": "Samuel",
+      "lastname": "Yépié Yépié",
+      "age": 21,
+      "birth": {
+         "date": "2002-10-02",
+         "place": "Gonesse",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "171 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/272458.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22241,
+      "name": "B. Kamara",
+      "firstname": "Bingourou",
+      "lastname": "Kamara",
+      "age": 27,
+      "birth": {
+         "date": "1996-10-21",
+         "place": "Longjumeau",
+         "country": "France"
+      },
+      "nationality": "Senegal",
+      "height": "196 cm",
+      "weight": "92 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/22241.png"
+   }
+}

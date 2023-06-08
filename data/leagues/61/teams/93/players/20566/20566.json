@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20566,
+      "name": "Y. Diouf",
+      "firstname": "Yehvann",
+      "lastname": "Diouf",
+      "age": 24,
+      "birth": {
+         "date": "1999-11-16",
+         "place": "Montreuil-sous-Bois",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "184 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20566.png"
+   }
+}

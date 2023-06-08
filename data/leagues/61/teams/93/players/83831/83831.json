@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 83831,
+      "name": "I. Kebbal",
+      "firstname": "Ilan Kais",
+      "lastname": "Kebbal",
+      "age": 25,
+      "birth": {
+         "date": "1998-07-10",
+         "place": "Marseille",
+         "country": "France"
+      },
+      "nationality": "Algeria",
+      "height": "169 cm",
+      "weight": "60 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/83831.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 275959,
+      "name": "B. Diallo",
+      "firstname": "Baïla",
+      "lastname": "Diallo",
+      "age": 22,
+      "birth": {
+         "date": "2001-06-24",
+         "place": "Toulouse",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "176 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/275959.png"
+   }
+}

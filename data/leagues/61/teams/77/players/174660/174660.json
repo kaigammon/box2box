@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 174660,
+      "name": "L. Rao-Lisoa",
+      "firstname": "Lillian",
+      "lastname": "Rao-Lisoa",
+      "age": 23,
+      "birth": {
+         "date": "2000-06-16",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "178 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/174660.png"
+   }
+}

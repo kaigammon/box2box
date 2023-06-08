@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 268571,
+      "name": "E. Bitshiabu",
+      "firstname": "El Chadaille",
+      "lastname": "Bitshiabu",
+      "age": 18,
+      "birth": {
+         "date": "2005-05-16",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "196 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/268571.png"
+   }
+}

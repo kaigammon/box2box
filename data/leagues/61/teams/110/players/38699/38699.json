@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 38699,
+      "name": "L. Ilić",
+      "firstname": "Luka",
+      "lastname": "Ilić",
+      "age": 24,
+      "birth": {
+         "date": "1999-07-02",
+         "place": "Niš",
+         "country": "Serbia"
+      },
+      "nationality": "Serbia",
+      "height": "182 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/38699.png"
+   }
+}

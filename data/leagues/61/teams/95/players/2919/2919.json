@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2919,
+      "name": "M. Sels",
+      "firstname": "Matz Willy Els",
+      "lastname": "Sels",
+      "age": 31,
+      "birth": {
+         "date": "1992-02-26",
+         "place": "Duffel",
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "188 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2919.png"
+   }
+}

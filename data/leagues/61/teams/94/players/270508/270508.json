@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 270508,
+      "name": "L. Ugochukwu",
+      "firstname": "Lesley Chimuanya",
+      "lastname": "Ugochukwu",
+      "age": 19,
+      "birth": {
+         "date": "2004-03-26",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "188 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/270508.png"
+   }
+}

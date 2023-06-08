@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 336656,
+      "name": "Vimoj Muntu Wa Mungu",
+      "firstname": "Vimoj",
+      "lastname": "Muntu Wa Mungu",
+      "age": 18,
+      "birth": {
+         "date": "2004-10-15",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/336656.png"
+   }
+}

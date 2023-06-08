@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21079,
+      "name": "M. Dupé",
+      "firstname": "Maxime",
+      "lastname": "Dupé",
+      "age": 30,
+      "birth": {
+         "date": "1993-03-04",
+         "place": "Malestroit",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "188 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/21079.png"
+   }
+}

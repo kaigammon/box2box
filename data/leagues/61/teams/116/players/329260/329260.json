@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 329260,
+      "name": "M. Camara",
+      "firstname": "Mamadou",
+      "lastname": "Camara",
+      "age": 21,
+      "birth": {
+         "date": "2002-10-15",
+         "place": "Dakar",
+         "country": "Senegal"
+      },
+      "nationality": "Senegal",
+      "height": "185 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/329260.png"
+   }
+}
