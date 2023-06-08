@@ -1,4 +1,4 @@
-const { getData, io } = require('../utils');
+const { getData, io } = require('..');
 const { leagues } = require('./config.json');
 
 const populateLeagues = async (apiKey, apiHost) => {

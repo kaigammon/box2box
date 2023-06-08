@@ -5,12 +5,10 @@ if (!env.parsed) {
 
 const { API_KEY, API_HOST } = process.env;
 
-const leagueExtractor = require('./data/leagues');
-const teamExtractor = require('./data/teams');
-const playerExtractor = require('./data/players');
+const { db } = require('./utils');
 
-leagueExtractor(API_KEY, API_HOST).then(() => {
-    teamExtractor(API_KEY, API_HOST).then(() => {
-        playerExtractor(API_KEY, API_HOST);
+db.createLeagues(API_KEY, API_HOST).then(() => {
+    db.createTeams(API_KEY, API_HOST).then(() => {
+        db.createPlayers(API_KEY, API_HOST);
     });
 });
