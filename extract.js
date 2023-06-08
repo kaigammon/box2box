@@ -1,5 +1,8 @@
-require('dotenv').config();
-dotenv.config({ path: `.env.local`, override: true });
+let env = require('dotenv').config({ path: `.env.local`, override: true });
+if (!env.parsed) {
+    env = require('dotenv').config({ path: `.env` });
+}
+
 const { API_KEY, API_HOST } = process.env;
 
 const leagueExtractor = require('./data/leagues');
