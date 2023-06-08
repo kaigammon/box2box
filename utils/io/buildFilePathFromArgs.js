@@ -1,6 +1,6 @@
 const buildFilePathFromArgs = (args) => {
     const { league, team, player, fileName } = args;
-    let filePath = `./data`;
+    let filePath = `./db`;
 
     if (league) {
         filePath = `${filePath}/leagues/${league}`;
