@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 8451,
+      "name": "Aurélio Buta",
+      "firstname": "Aurélio Gabriel",
+      "lastname": "Ulineia Buta",
+      "age": 26,
+      "birth": {
+         "date": "1997-02-10",
+         "place": "Luanda",
+         "country": "Angola"
+      },
+      "nationality": "Portugal",
+      "height": "172 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/8451.png"
+   }
+}

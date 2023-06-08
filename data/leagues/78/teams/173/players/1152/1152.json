@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1152,
+      "name": "E. Forsberg",
+      "firstname": "Emil Peter",
+      "lastname": "Forsberg",
+      "age": 32,
+      "birth": {
+         "date": "1991-10-23",
+         "place": "Sundsvall",
+         "country": "Sweden"
+      },
+      "nationality": "Sweden",
+      "height": "177 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1152.png"
+   }
+}

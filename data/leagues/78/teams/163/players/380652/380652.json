@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 380652,
+      "name": "F. Dimmer",
+      "firstname": "Florian",
+      "lastname": "Dimmer",
+      "age": 18,
+      "birth": {
+         "date": "2005-01-15",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "190 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/380652.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 327908,
+      "name": "N. Kisilowski",
+      "firstname": "Nicolas-Bernd",
+      "lastname": "Oliveira Kisilowski",
+      "age": 19,
+      "birth": {
+         "date": "2004-02-06",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/327908.png"
+   }
+}

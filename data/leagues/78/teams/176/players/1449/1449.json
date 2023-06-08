@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1449,
+      "name": "J. Osei-Tutu",
+      "firstname": "Jordi Martin Emmanuel",
+      "lastname": "Osei-Tutu",
+      "age": 25,
+      "birth": {
+         "date": "1998-10-02",
+         "place": "Slough",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "176 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1449.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24848,
+      "name": "C. Trimmel",
+      "firstname": "Christopher",
+      "lastname": "Trimmel",
+      "age": 36,
+      "birth": {
+         "date": "1987-02-24",
+         "place": "Oberpullendorf",
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "189 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/24848.png"
+   }
+}

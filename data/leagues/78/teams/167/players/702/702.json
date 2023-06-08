@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 702,
+      "name": "O. Baumann",
+      "firstname": "Oliver",
+      "lastname": "Baumann",
+      "age": 33,
+      "birth": {
+         "date": "1990-06-02",
+         "place": "Breisach",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "187 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/702.png"
+   }
+}

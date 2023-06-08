@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 979,
+      "name": "D. Kohr",
+      "firstname": "Dominik",
+      "lastname": "Kohr",
+      "age": 29,
+      "birth": {
+         "date": "1994-01-31",
+         "place": "Trier",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "183 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/979.png"
+   }
+}

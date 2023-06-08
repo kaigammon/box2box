@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24963,
+      "name": "A. Karazor",
+      "firstname": "Atakan",
+      "lastname": "Karazor",
+      "age": 27,
+      "birth": {
+         "date": "1996-10-13",
+         "place": "Essen",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "191 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/24963.png"
+   }
+}

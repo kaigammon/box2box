@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 335335,
+      "name": "J. Rijkhoff",
+      "firstname": "Julian Dean",
+      "lastname": "Rijkhoff",
+      "age": 17,
+      "birth": {
+         "date": "2005-01-25",
+         "place": null,
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "183 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/335335.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 509,
+      "name": "A. Davies",
+      "firstname": "Alphonso Boyle",
+      "lastname": "Davies",
+      "age": 23,
+      "birth": {
+         "date": "2000-11-02",
+         "place": "Buduburam",
+         "country": "Ghana"
+      },
+      "nationality": "Canada",
+      "height": "183 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/509.png"
+   }
+}

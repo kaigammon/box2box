@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 152849,
+      "name": "M. van de Ven",
+      "firstname": "Micky",
+      "lastname": "van de Ven",
+      "age": 22,
+      "birth": {
+         "date": "2001-04-19",
+         "place": "Wormer",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "193 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/152849.png"
+   }
+}

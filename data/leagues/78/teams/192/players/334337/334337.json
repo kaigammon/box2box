@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 334337,
+      "name": "R. Smajić",
+      "firstname": "Rijad",
+      "lastname": "Smajić",
+      "age": 19,
+      "birth": {
+         "date": "2004-05-02",
+         "place": "Köln",
+         "country": "Germany"
+      },
+      "nationality": "Bosnia and Herzegovina",
+      "height": "190 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/334337.png"
+   }
+}

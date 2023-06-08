@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 532,
+      "name": "M. de Ligt",
+      "firstname": "Matthijs",
+      "lastname": "de Ligt",
+      "age": 24,
+      "birth": {
+         "date": "1999-08-12",
+         "place": "Leiderdorp",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "187 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/532.png"
+   }
+}

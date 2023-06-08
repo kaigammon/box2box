@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 203329,
+      "name": "N. Noll",
+      "firstname": "Nahuel Nicolas",
+      "lastname": "Noll",
+      "age": 20,
+      "birth": {
+         "date": "2003-03-17",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "188 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/203329.png"
+   }
+}

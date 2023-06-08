@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24903,
+      "name": "R. Andrich",
+      "firstname": "Robert",
+      "lastname": "Andrich",
+      "age": 29,
+      "birth": {
+         "date": "1994-09-22",
+         "place": "Potsdam",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "187 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/24903.png"
+   }
+}

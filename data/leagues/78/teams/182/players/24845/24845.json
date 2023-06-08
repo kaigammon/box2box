@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24845,
+      "name": "J. Ryerson",
+      "firstname": "Julian",
+      "lastname": "Ryerson",
+      "age": 26,
+      "birth": {
+         "date": "1997-11-17",
+         "place": null,
+         "country": "Norway"
+      },
+      "nationality": "Norway",
+      "height": "183 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/24845.png"
+   }
+}

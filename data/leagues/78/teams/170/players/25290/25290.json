@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25290,
+      "name": "J. Gouweleeuw",
+      "firstname": "Jeffrey",
+      "lastname": "Gouweleeuw",
+      "age": 32,
+      "birth": {
+         "date": "1991-07-10",
+         "place": "Heemskerk",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "188 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/25290.png"
+   }
+}

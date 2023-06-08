@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 15901,
+      "name": "M. Pedersen",
+      "firstname": "Mads",
+      "lastname": "Pedersen",
+      "age": 27,
+      "birth": {
+         "date": "1996-09-01",
+         "place": "Hørsholm",
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "174 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/15901.png"
+   }
+}

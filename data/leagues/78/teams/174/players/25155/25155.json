@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25155,
+      "name": "T. Mohr",
+      "firstname": "Tobias",
+      "lastname": "Mohr",
+      "age": 28,
+      "birth": {
+         "date": "1995-08-24",
+         "place": "Aachen",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "183 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/25155.png"
+   }
+}

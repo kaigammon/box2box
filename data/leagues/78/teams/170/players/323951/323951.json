@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 323951,
+      "name": "A. Zehnter",
+      "firstname": "Aaron",
+      "lastname": "Zehnter",
+      "age": 19,
+      "birth": {
+         "date": "2004-10-31",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/323951.png"
+   }
+}

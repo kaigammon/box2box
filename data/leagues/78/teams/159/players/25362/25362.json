@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25362,
+      "name": "D. Selke",
+      "firstname": "Davie",
+      "lastname": "Selke",
+      "age": 28,
+      "birth": {
+         "date": "1995-01-20",
+         "place": "Schorndorf",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "195 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25362.png"
+   }
+}

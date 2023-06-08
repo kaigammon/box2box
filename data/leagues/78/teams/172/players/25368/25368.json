@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25368,
+      "name": "W. Anton",
+      "firstname": "Waldemar",
+      "lastname": "Riptsov Anton",
+      "age": 27,
+      "birth": {
+         "date": "1996-07-20",
+         "place": "Almalyk",
+         "country": "Uzbekistan"
+      },
+      "nationality": "Germany",
+      "height": "189 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/25368.png"
+   }
+}

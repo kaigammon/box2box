@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 281924,
+      "name": "D. Katić",
+      "firstname": "Daniel",
+      "lastname": "Katić",
+      "age": 20,
+      "birth": {
+         "date": "2003-04-26",
+         "place": null,
+         "country": "Croatia"
+      },
+      "nationality": "Croatia",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/281924.png"
+   }
+}

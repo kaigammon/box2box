@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 3001,
+      "name": "R. Gumny",
+      "firstname": "Robert Krzysztof",
+      "lastname": "Gumny",
+      "age": 25,
+      "birth": {
+         "date": "1998-06-04",
+         "place": "Poznan",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "182 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/3001.png"
+   }
+}

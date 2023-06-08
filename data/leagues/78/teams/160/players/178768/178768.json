@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 178768,
+      "name": "N. Atubolu",
+      "firstname": "Noah",
+      "lastname": "Atubolu",
+      "age": 21,
+      "birth": {
+         "date": "2002-05-25",
+         "place": "Freiburg im Breisgau",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "190 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/178768.png"
+   }
+}

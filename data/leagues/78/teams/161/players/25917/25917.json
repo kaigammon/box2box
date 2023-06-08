@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25917,
+      "name": "R. Baku",
+      "firstname": "Bote Ridle",
+      "lastname": "Nzuzi Baku",
+      "age": 25,
+      "birth": {
+         "date": "1998-04-08",
+         "place": "Mainz",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "176 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/25917.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25363,
+      "name": "M. Esser",
+      "firstname": "Michael",
+      "lastname": "Esser",
+      "age": 36,
+      "birth": {
+         "date": "1987-11-22",
+         "place": "Castrop-Rauxel",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "198 cm",
+      "weight": "97 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/25363.png"
+   }
+}

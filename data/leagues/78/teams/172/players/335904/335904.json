@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 335904,
+      "name": "N. Glaus",
+      "firstname": "Nicolas Roger",
+      "lastname": "Glaus",
+      "age": 21,
+      "birth": {
+         "date": "2002-05-10",
+         "place": null,
+         "country": "Switzerland"
+      },
+      "nationality": "Switzerland",
+      "height": "188 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/335904.png"
+   }
+}

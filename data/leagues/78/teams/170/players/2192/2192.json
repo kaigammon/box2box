@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2192,
+      "name": "T. Koubek",
+      "firstname": "Tomáš",
+      "lastname": "Koubek",
+      "age": 31,
+      "birth": {
+         "date": "1992-08-26",
+         "place": "Hradec Králové",
+         "country": "Czech Republic"
+      },
+      "nationality": "Czech Republic",
+      "height": "197 cm",
+      "weight": "98 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2192.png"
+   }
+}

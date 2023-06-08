@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 286369,
+      "name": "J. Schröder",
+      "firstname": "Jan Alex",
+      "lastname": "Wilson Schröder",
+      "age": 20,
+      "birth": {
+         "date": "2003-04-15",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "182 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/286369.png"
+   }
+}

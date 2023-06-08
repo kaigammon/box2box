@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24874,
+      "name": "J. David",
+      "firstname": "Jonas Benjamin",
+      "lastname": "Chimezie David",
+      "age": 23,
+      "birth": {
+         "date": "2000-03-08",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "190 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/24874.png"
+   }
+}

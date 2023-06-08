@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2918,
+      "name": "K. Casteels",
+      "firstname": "Koen",
+      "lastname": "Casteels",
+      "age": 31,
+      "birth": {
+         "date": "1992-06-25",
+         "place": "Bonheiden",
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "197 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2918.png"
+   }
+}

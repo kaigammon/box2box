@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 328258,
+      "name": "M. Bignetti",
+      "firstname": "Matteo",
+      "lastname": "Bignetti",
+      "age": 18,
+      "birth": {
+         "date": "2004-05-06",
+         "place": null,
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "190 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/328258.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1082,
+      "name": "S. Lainer",
+      "firstname": "Stefan",
+      "lastname": "Lainer",
+      "age": 31,
+      "birth": {
+         "date": "1992-08-27",
+         "place": "Salzburg",
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "175 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1082.png"
+   }
+}

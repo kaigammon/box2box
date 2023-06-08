@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1109,
+      "name": "C. Gamboa",
+      "firstname": "Cristian Esteban",
+      "lastname": "Gamboa Luna",
+      "age": 34,
+      "birth": {
+         "date": "1989-10-24",
+         "place": "Liberia",
+         "country": "Costa Rica"
+      },
+      "nationality": "Costa Rica",
+      "height": "175 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1109.png"
+   }
+}

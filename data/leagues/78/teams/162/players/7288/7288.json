@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 7288,
+      "name": "M. Zetterer",
+      "firstname": "Michael",
+      "lastname": "Zetterer",
+      "age": 28,
+      "birth": {
+         "date": "1995-07-12",
+         "place": "München",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "187 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/7288.png"
+   }
+}

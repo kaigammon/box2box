@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 38112,
+      "name": "J. Chabot",
+      "firstname": "Julian Jeffrey Gaston",
+      "lastname": "Chabot",
+      "age": 25,
+      "birth": {
+         "date": "1998-02-12",
+         "place": "Hanau",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "195 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/38112.png"
+   }
+}

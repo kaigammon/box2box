@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1812,
+      "name": "D. da Costa",
+      "firstname": "Danny",
+      "lastname": "Vieira da Costa",
+      "age": 30,
+      "birth": {
+         "date": "1993-07-13",
+         "place": "Neuss",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "187 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1812.png"
+   }
+}

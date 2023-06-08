@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2915,
+      "name": "M. Ginter",
+      "firstname": "Matthias Lukas",
+      "lastname": "Ginter",
+      "age": 29,
+      "birth": {
+         "date": "1994-01-19",
+         "place": "Freiburg",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "189 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2915.png"
+   }
+}

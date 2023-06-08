@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 302632,
+      "name": "W. Mikelbrencis",
+      "firstname": "William",
+      "lastname": "Mikelbrencis",
+      "age": 19,
+      "birth": {
+         "date": "2004-02-25",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "176 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/302632.png"
+   }
+}

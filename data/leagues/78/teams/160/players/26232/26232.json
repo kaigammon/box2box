@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26232,
+      "name": "M. Flekken",
+      "firstname": "Mark",
+      "lastname": "Flekken",
+      "age": 30,
+      "birth": {
+         "date": "1993-06-13",
+         "place": null,
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "195 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/26232.png"
+   }
+}

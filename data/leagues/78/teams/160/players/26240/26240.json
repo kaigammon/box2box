@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26240,
+      "name": "P. Lienhart",
+      "firstname": "Philipp",
+      "lastname": "Lienhart",
+      "age": 27,
+      "birth": {
+         "date": "1996-07-11",
+         "place": "Lilienfeld",
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "189 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/26240.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 708,
+      "name": "Benjamin Hübner",
+      "firstname": "Benjamin",
+      "lastname": "Hübner",
+      "age": 33,
+      "birth": {
+         "date": "1989-07-04",
+         "place": "Wiesbaden",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "193 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/708.png"
+   }
+}

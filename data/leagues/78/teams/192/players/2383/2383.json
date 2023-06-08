@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2383,
+      "name": "D. Limnios",
+      "firstname": "Dimitris",
+      "lastname": "Limnios",
+      "age": 25,
+      "birth": {
+         "date": "1998-05-27",
+         "place": "Volos",
+         "country": "Greece"
+      },
+      "nationality": "Greece",
+      "height": "178 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2383.png"
+   }
+}

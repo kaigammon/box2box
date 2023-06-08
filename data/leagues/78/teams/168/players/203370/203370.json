@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 203370,
+      "name": "M. Neutgens",
+      "firstname": "Maximilian",
+      "lastname": "Neutgens",
+      "age": 19,
+      "birth": {
+         "date": "2004-03-03",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "180 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/203370.png"
+   }
+}

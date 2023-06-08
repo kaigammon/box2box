@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 33,
+      "name": "L. Hernández",
+      "firstname": "Lucas François Bernard",
+      "lastname": "Hernández",
+      "age": 27,
+      "birth": {
+         "date": "1996-02-14",
+         "place": "Marseille",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "184 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/33.png"
+   }
+}

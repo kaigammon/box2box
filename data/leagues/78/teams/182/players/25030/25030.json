@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25030,
+      "name": "A. Voglsammer",
+      "firstname": "Andreas",
+      "lastname": "Voglsammer",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-09",
+         "place": "Rosenheim",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "177 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/25030.png"
+   }
+}

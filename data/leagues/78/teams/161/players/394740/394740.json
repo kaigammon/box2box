@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 394740,
+      "name": "D. Odogu",
+      "firstname": "David Uyoyo",
+      "lastname": "Odogu",
+      "age": 17,
+      "birth": {
+         "date": "2006-06-03",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/394740.png"
+   }
+}

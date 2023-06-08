@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 336224,
+      "name": "M. Pannewig",
+      "firstname": "Mats Henry",
+      "lastname": "Pannewig",
+      "age": 18,
+      "birth": {
+         "date": "2004-10-28",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/336224.png"
+   }
+}

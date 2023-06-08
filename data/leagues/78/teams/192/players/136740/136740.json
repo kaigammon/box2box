@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 136740,
+      "name": "N. Soldo",
+      "firstname": "Nikola",
+      "lastname": "Soldo",
+      "age": 22,
+      "birth": {
+         "date": "2001-01-25",
+         "place": "Stuttgart",
+         "country": "Germany"
+      },
+      "nationality": "Croatia",
+      "height": "189 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/136740.png"
+   }
+}

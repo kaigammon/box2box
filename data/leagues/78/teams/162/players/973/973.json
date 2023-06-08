@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 973,
+      "name": "M. Weiser",
+      "firstname": "Mitchell-Elijah",
+      "lastname": "Weiser",
+      "age": 29,
+      "birth": {
+         "date": "1994-04-21",
+         "place": "Troisdorf",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "177 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/973.png"
+   }
+}

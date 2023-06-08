@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25630,
+      "name": "T. Jantschke",
+      "firstname": "Tony",
+      "lastname": "Jantschke",
+      "age": 33,
+      "birth": {
+         "date": "1990-04-07",
+         "place": "Hoyerswerda",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "177 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/25630.png"
+   }
+}

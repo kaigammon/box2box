@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 7562,
+      "name": "R. Schmid",
+      "firstname": "Romano Christian",
+      "lastname": "Schmid",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-27",
+         "place": "Graz",
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "168 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/7562.png"
+   }
+}

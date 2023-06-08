@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2802,
+      "name": "Y. Sommer",
+      "firstname": "Yann",
+      "lastname": "Sommer",
+      "age": 35,
+      "birth": {
+         "date": "1988-12-17",
+         "place": "Morges",
+         "country": "Switzerland"
+      },
+      "nationality": "Switzerland",
+      "height": "183 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2802.png"
+   }
+}

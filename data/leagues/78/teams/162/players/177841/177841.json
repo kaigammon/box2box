@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 177841,
+      "name": "E. Santos",
+      "firstname": "Eduardo",
+      "lastname": "dos Santos Haesler",
+      "age": 24,
+      "birth": {
+         "date": "1999-02-10",
+         "place": "Duisburg",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "196 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/177841.png"
+   }
+}

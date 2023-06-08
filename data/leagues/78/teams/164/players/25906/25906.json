@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25906,
+      "name": "R. Zentner",
+      "firstname": "Robin",
+      "lastname": "Zentner",
+      "age": 29,
+      "birth": {
+         "date": "1994-10-28",
+         "place": "Rüdesheim am Rhein",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "194 cm",
+      "weight": "96 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25906.png"
+   }
+}

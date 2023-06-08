@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19021,
+      "name": "Håvard Nordtveit",
+      "firstname": "Håvard",
+      "lastname": "Nordtveit",
+      "age": 32,
+      "birth": {
+         "date": "1990-06-21",
+         "place": "Vats",
+         "country": "Norway"
+      },
+      "nationality": "Norway",
+      "height": "188 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19021.png"
+   }
+}

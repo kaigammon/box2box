@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 202561,
+      "name": "V. Zumberi",
+      "firstname": "Valon",
+      "lastname": "Zumberi",
+      "age": 21,
+      "birth": {
+         "date": "2002-11-24",
+         "place": null,
+         "country": "Kosovo"
+      },
+      "nationality": "Kosovo",
+      "height": "187 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/202561.png"
+   }
+}

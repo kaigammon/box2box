@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25344,
+      "name": "M. Plattenhardt",
+      "firstname": "Marvin",
+      "lastname": "Plattenhardt",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-26",
+         "place": "Filderstadt",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "181 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25344.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25396,
+      "name": "P. Pervan",
+      "firstname": "Pavao",
+      "lastname": "Pervan",
+      "age": 36,
+      "birth": {
+         "date": "1987-11-13",
+         "place": "Livno",
+         "country": "Bosnia and Herzegovina"
+      },
+      "nationality": "Austria",
+      "height": "194 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/25396.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 5795,
+      "name": "M. Klimowicz",
+      "firstname": "Mateo",
+      "lastname": "Klimowicz",
+      "age": 23,
+      "birth": {
+         "date": "2000-07-06",
+         "place": "Córdoba",
+         "country": "Argentina"
+      },
+      "nationality": "Germany",
+      "height": "179 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/5795.png"
+   }
+}

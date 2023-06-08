@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 545,
+      "name": "N. Mazraoui",
+      "firstname": "Noussair",
+      "lastname": "Mazraoui",
+      "age": 26,
+      "birth": {
+         "date": "1997-11-14",
+         "place": "Leiderdorp",
+         "country": "Netherlands"
+      },
+      "nationality": "Morocco",
+      "height": "183 cm",
+      "weight": "63 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/545.png"
+   }
+}

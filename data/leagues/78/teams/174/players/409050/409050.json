@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 409050,
+      "name": "L. Britscho",
+      "firstname": "Louis",
+      "lastname": "Britscho",
+      "age": 16,
+      "birth": {
+         "date": "2007-02-25",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/409050.png"
+   }
+}

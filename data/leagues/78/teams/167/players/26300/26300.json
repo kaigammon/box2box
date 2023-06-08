@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26300,
+      "name": "O. Kabak",
+      "firstname": "Ozan Muhammed",
+      "lastname": "Kabak",
+      "age": 23,
+      "birth": {
+         "date": "2000-03-25",
+         "place": "Ankara",
+         "country": "Türkiye"
+      },
+      "nationality": "Türkiye",
+      "height": "187 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/26300.png"
+   }
+}

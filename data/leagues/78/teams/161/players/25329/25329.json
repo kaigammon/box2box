@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25329,
+      "name": "M. Kruse",
+      "firstname": "Maximilian",
+      "lastname": "Bennet Kruse",
+      "age": 34,
+      "birth": {
+         "date": "1988-03-19",
+         "place": "Reinbek",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "180 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/25329.png"
+   }
+}

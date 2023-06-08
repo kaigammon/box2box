@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 163022,
+      "name": "P. Osterhage",
+      "firstname": "Patrick",
+      "lastname": "Osterhage",
+      "age": 23,
+      "birth": {
+         "date": "2000-02-01",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "184 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/163022.png"
+   }
+}

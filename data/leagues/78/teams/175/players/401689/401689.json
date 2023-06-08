@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 401689,
+      "name": "N. Ahlers",
+      "firstname": "Noah",
+      "lastname": "Louis Ahlers",
+      "age": 16,
+      "birth": {
+         "date": "2007-03-19",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/401689.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25343,
+      "name": "P. Pekarík",
+      "firstname": "Peter",
+      "lastname": "Pekarík",
+      "age": 37,
+      "birth": {
+         "date": "1986-10-30",
+         "place": "Žilina",
+         "country": "Slovakia"
+      },
+      "nationality": "Slovakia",
+      "height": "177 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25343.png"
+   }
+}

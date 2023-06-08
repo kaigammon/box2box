@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26234,
+      "name": "A. Schwolow",
+      "firstname": "Alexander",
+      "lastname": "Schwolow",
+      "age": 31,
+      "birth": {
+         "date": "1992-06-02",
+         "place": "Wiesbaden",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "190 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/26234.png"
+   }
+}

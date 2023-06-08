@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 270,
+      "name": "S. Nsoki",
+      "firstname": "Stanley Pierre",
+      "lastname": "Nsoki",
+      "age": 24,
+      "birth": {
+         "date": "1999-04-09",
+         "place": "Poissy",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "184 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/270.png"
+   }
+}

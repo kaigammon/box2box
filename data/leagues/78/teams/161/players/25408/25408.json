@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25408,
+      "name": "M. Arnold",
+      "firstname": "Maximilian",
+      "lastname": "Arnold",
+      "age": 29,
+      "birth": {
+         "date": "1994-05-27",
+         "place": "Riesa",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "184 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/25408.png"
+   }
+}

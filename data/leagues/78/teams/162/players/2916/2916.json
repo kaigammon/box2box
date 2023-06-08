@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2916,
+      "name": "N. Stark",
+      "firstname": "Niklas",
+      "lastname": "Stark",
+      "age": 28,
+      "birth": {
+         "date": "1995-04-14",
+         "place": "Neustadt an der Aisch",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "190 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2916.png"
+   }
+}

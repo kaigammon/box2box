@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 721,
+      "name": "N. Schulz",
+      "firstname": "Nico",
+      "lastname": "Schulz",
+      "age": 30,
+      "birth": {
+         "date": "1993-04-01",
+         "place": "Berlin",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "181 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/721.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 161921,
+      "name": "G. Reyna",
+      "firstname": "Giovanni Alejandro",
+      "lastname": "Reyna",
+      "age": 21,
+      "birth": {
+         "date": "2002-11-13",
+         "place": "Durham",
+         "country": "England"
+      },
+      "nationality": "USA",
+      "height": "185 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/161921.png"
+   }
+}

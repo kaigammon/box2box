@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24820,
+      "name": "S. Schonlau",
+      "firstname": "Sebastian",
+      "lastname": "Schonlau",
+      "age": 29,
+      "birth": {
+         "date": "1994-08-05",
+         "place": "Warburg",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "185 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/24820.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 4145,
+      "name": "S. Simoni",
+      "firstname": "Simon",
+      "lastname": "Simoni",
+      "age": 19,
+      "birth": {
+         "date": "2004-07-14",
+         "place": "Lezhë",
+         "country": "Albania"
+      },
+      "nationality": "Albania",
+      "height": "192 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/4145.png"
+   }
+}

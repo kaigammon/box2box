@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 163072,
+      "name": "M. Morgenstern",
+      "firstname": "Marlon",
+      "lastname": "Morgenstern",
+      "age": 21,
+      "birth": {
+         "date": "2001-01-30",
+         "place": "Berlin",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "184 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/163072.png"
+   }
+}

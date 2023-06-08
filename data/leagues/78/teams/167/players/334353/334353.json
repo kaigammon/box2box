@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 334353,
+      "name": "J. Quarshie",
+      "firstname": "Joshua",
+      "lastname": "Quarshie",
+      "age": 19,
+      "birth": {
+         "date": "2004-07-26",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "196 cm",
+      "weight": "91 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/334353.png"
+   }
+}

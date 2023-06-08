@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 382486,
+      "name": "P. Klemens",
+      "firstname": "Pascal",
+      "lastname": "Klemens",
+      "age": 18,
+      "birth": {
+         "date": "2005-02-23",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "186 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/382486.png"
+   }
+}

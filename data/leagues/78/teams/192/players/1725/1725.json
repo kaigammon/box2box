@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1725,
+      "name": "D. Ljubičić",
+      "firstname": "Dejan",
+      "lastname": "Ljubičić",
+      "age": 26,
+      "birth": {
+         "date": "1997-10-08",
+         "place": "Wien",
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "187 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1725.png"
+   }
+}

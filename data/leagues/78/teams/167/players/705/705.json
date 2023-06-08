@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 705,
+      "name": "E. Bičakčić",
+      "firstname": "Ermin",
+      "lastname": "Bičakčić",
+      "age": 33,
+      "birth": {
+         "date": "1990-01-24",
+         "place": "Zvornik",
+         "country": "Bosnia and Herzegovina"
+      },
+      "nationality": "Bosnia and Herzegovina",
+      "height": "185 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/705.png"
+   }
+}

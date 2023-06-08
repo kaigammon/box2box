@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25199,
+      "name": "P. Tschauner",
+      "firstname": "Philipp",
+      "lastname": "Tschauner",
+      "age": 37,
+      "birth": {
+         "date": "1985-11-03",
+         "place": "Schwabach",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "196 cm",
+      "weight": "100 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/25199.png"
+   }
+}

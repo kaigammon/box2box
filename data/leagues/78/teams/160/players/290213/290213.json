@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 290213,
+      "name": "H. Siquet",
+      "firstname": "Hugo Thierry",
+      "lastname": "Siquet",
+      "age": 21,
+      "birth": {
+         "date": "2002-07-09",
+         "place": "Marche-en-Famenne",
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "180 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/290213.png"
+   }
+}

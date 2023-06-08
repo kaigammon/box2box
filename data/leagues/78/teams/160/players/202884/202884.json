@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 202884,
+      "name": "K. Ezekwem",
+      "firstname": "Kimberly Chiwetalu",
+      "lastname": "Akwaeze Ezekwem",
+      "age": 22,
+      "birth": {
+         "date": "2001-06-19",
+         "place": "Munich",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "187 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/202884.png"
+   }
+}

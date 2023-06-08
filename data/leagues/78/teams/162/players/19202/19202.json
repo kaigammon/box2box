@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19202,
+      "name": "L. Buchanan",
+      "firstname": "Lee David",
+      "lastname": "Buchanan",
+      "age": 22,
+      "birth": {
+         "date": "2001-03-07",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19202.png"
+   }
+}

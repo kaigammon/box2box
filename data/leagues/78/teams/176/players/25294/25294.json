@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25294,
+      "name": "K. Stafylidis",
+      "firstname": "Konstantinos",
+      "lastname": "Stafylidis",
+      "age": 30,
+      "birth": {
+         "date": "1993-12-02",
+         "place": "Thessaloniki",
+         "country": "Greece"
+      },
+      "nationality": "Greece",
+      "height": "178 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25294.png"
+   }
+}

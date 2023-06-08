@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22086,
+      "name": "T. Kolodziejczak",
+      "firstname": "Timothée",
+      "lastname": "Kolodziejczak",
+      "age": 32,
+      "birth": {
+         "date": "1991-10-01",
+         "place": "Arras",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "185 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/22086.png"
+   }
+}

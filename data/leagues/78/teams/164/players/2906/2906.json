@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2906,
+      "name": "Lee Jae-Sung",
+      "firstname": "Jae-Sung",
+      "lastname": "Lee",
+      "age": 31,
+      "birth": {
+         "date": "1992-08-10",
+         "place": "Ulsan",
+         "country": "Korea Republic"
+      },
+      "nationality": "Korea Republic",
+      "height": "180 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2906.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 37117,
+      "name": "D. Doekhi",
+      "firstname": "Danilho Raimundo",
+      "lastname": "Doekhi",
+      "age": 25,
+      "birth": {
+         "date": "1998-06-30",
+         "place": "Rotterdam",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "190 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/37117.png"
+   }
+}

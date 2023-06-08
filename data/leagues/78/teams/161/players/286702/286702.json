@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 286702,
+      "name": "G. Walther",
+      "firstname": "Gil-Linnart",
+      "lastname": "Walther",
+      "age": 19,
+      "birth": {
+         "date": "2003-03-14",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/286702.png"
+   }
+}

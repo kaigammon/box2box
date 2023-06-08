@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 163066,
+      "name": "L. Philipp",
+      "firstname": "Luca",
+      "lastname": "Philipp",
+      "age": 23,
+      "birth": {
+         "date": "2000-11-28",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "192 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/163066.png"
+   }
+}

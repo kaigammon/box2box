@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26239,
+      "name": "L. Kübler",
+      "firstname": "Lukas",
+      "lastname": "Kübler",
+      "age": 31,
+      "birth": {
+         "date": "1992-08-30",
+         "place": "Bonn",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "182 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/26239.png"
+   }
+}

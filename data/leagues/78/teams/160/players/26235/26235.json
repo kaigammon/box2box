@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26235,
+      "name": "M. Gulde",
+      "firstname": "Manuel",
+      "lastname": "Gulde",
+      "age": 32,
+      "birth": {
+         "date": "1991-02-12",
+         "place": "Mannheim",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "184 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/26235.png"
+   }
+}

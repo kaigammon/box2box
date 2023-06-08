@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 322627,
+      "name": "F. Chiarodia",
+      "firstname": "Fabio Christian",
+      "lastname": "Chiarodia",
+      "age": 18,
+      "birth": {
+         "date": "2005-06-05",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "186 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/322627.png"
+   }
+}

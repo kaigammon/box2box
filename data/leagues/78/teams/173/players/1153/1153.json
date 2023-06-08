@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1153,
+      "name": "A. Haidara",
+      "firstname": "Amadou",
+      "lastname": "Haidara",
+      "age": 25,
+      "birth": {
+         "date": "1998-01-31",
+         "place": "Bamako",
+         "country": "Mali"
+      },
+      "nationality": "Mali",
+      "height": "175 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1153.png"
+   }
+}

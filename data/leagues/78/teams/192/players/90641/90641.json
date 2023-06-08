@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 90641,
+      "name": "T. Hübers",
+      "firstname": "Timo Bernd",
+      "lastname": "Hübers",
+      "age": 27,
+      "birth": {
+         "date": "1996-07-20",
+         "place": "Hildesheim",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "190 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/90641.png"
+   }
+}

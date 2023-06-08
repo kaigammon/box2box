@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26,
+      "name": "M. Wolf",
+      "firstname": "Marius",
+      "lastname": "Wolf",
+      "age": 28,
+      "birth": {
+         "date": "1995-05-27",
+         "place": "Coburg",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "188 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/26.png"
+   }
+}

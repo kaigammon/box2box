@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25597,
+      "name": "F. Bredlow",
+      "firstname": "Fabian",
+      "lastname": "Bredlow",
+      "age": 28,
+      "birth": {
+         "date": "1995-03-02",
+         "place": "Berlin",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "190 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25597.png"
+   }
+}

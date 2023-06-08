@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 637,
+      "name": "F. Nmecha",
+      "firstname": "Felix Kalu",
+      "lastname": "Nmecha",
+      "age": 23,
+      "birth": {
+         "date": "2000-10-10",
+         "place": "Hamburg",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "188 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/637.png"
+   }
+}

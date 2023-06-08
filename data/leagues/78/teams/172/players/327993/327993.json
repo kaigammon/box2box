@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 327993,
+      "name": "D. Seimen",
+      "firstname": "Dennis",
+      "lastname": "Seimen",
+      "age": 18,
+      "birth": {
+         "date": "2005-12-01",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/327993.png"
+   }
+}

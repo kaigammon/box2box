@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 262845,
+      "name": "Eduardo Quaresma",
+      "firstname": "Eduardo Filipe",
+      "lastname": "Quaresma Vieira Coimbra Simões",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-02",
+         "place": "Barreiro",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "184 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/262845.png"
+   }
+}

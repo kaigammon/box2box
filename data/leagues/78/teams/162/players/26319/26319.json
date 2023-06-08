@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26319,
+      "name": "F. Agu",
+      "firstname": "Felix",
+      "lastname": "Agu",
+      "age": 24,
+      "birth": {
+         "date": "1999-09-27",
+         "place": "Osnabrück",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "180 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/26319.png"
+   }
+}

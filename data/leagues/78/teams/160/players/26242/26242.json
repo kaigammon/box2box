@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26242,
+      "name": "K. Schlotterbeck",
+      "firstname": "Keven Matteo",
+      "lastname": "Schlotterbeck",
+      "age": 26,
+      "birth": {
+         "date": "1997-04-28",
+         "place": "Weinstadt",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "189 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/26242.png"
+   }
+}

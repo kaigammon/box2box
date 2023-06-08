@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 406,
+      "name": "Salif Sané",
+      "firstname": "Salif",
+      "lastname": "Sané",
+      "age": 32,
+      "birth": {
+         "date": "1990-08-25",
+         "place": "Lormont",
+         "country": "France"
+      },
+      "nationality": "Senegal",
+      "height": "196 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/406.png"
+   }
+}
