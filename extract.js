@@ -1,7 +1,4 @@
-let env = require('dotenv').config({ path: `.env.local`, override: true });
-if (!env.parsed) {
-    env = require('dotenv').config({ path: `.env` });
-}
+require('dotenv').config();
 
 const { API_KEY, API_HOST } = process.env;
 
