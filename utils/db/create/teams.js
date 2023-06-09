@@ -1,10 +1,11 @@
-const { getData, io } = require("../utils");
+const api = require('../../api');
+const io = require('../../io');
 const path = require("path");
 
 const populateTeamsForLeague = async (apiKey, apiHost, league) => {
   console.log(`populating teams for league ${league}`);
   if (io.directoryIsEmpty({ league }, 'teams')) {
-    const { response } = await getData("teams", apiKey, apiHost, "GET", {
+    const { response } = await api.getData("teams", apiKey, apiHost, "GET", {
       league,
     });
 

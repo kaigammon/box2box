@@ -5,10 +5,10 @@ if (!env.parsed) {
 
 const { API_KEY, API_HOST } = process.env;
 
-const { db } = require('./utils');
+const db = require('./utils/db');
 
-db.createLeagues(API_KEY, API_HOST).then(() => {
-    db.createTeams(API_KEY, API_HOST).then(() => {
-        db.createPlayers(API_KEY, API_HOST);
+db.create.leagues(API_KEY, API_HOST).then(() => {
+    db.create.teams(API_KEY, API_HOST).then(() => {
+        db.create.players(API_KEY, API_HOST);
     });
 });

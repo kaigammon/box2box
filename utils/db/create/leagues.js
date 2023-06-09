@@ -1,12 +1,13 @@
-const { getData, io } = require('..');
-const { leagues } = require('./config.json');
+const api = require('../../api');
+const io = require('../../io');
+const { leagues } = require('../config.json');
 
 const populateLeagues = async (apiKey, apiHost) => {
     console.log(`populating leagues`);
     for (let i = 0; i < Object.keys(leagues).length; i++) {
         const id = Object.keys(leagues)[i];
         if (!io.fileExists({ league: id }, id)) {
-            const { response } = await getData('leagues', apiKey, apiHost, 'GET', { id });
+            const { response } = await api.getData('leagues', apiKey, apiHost, 'GET', { id });
     
             if (!response.length) {
                 throw new Error('No records found')
