@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24803,
+      "name": "F. Kainz",
+      "firstname": "Florian",
+      "lastname": "Kainz",
+      "age": 31,
+      "birth": {
+         "date": "1992-10-24",
+         "place": "Graz",
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "176 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/24803.png"
+   }
+}

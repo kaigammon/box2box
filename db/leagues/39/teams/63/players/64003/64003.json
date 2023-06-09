@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 64003,
+      "name": "P. Struijk",
+      "firstname": "Pascal Augustus",
+      "lastname": "Struijk",
+      "age": 24,
+      "birth": {
+         "date": "1999-08-11",
+         "place": null,
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "190 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/64003.png"
+   }
+}

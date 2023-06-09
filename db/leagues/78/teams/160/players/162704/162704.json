@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162704,
+      "name": "N. Burkart",
+      "firstname": "Nishan",
+      "lastname": "Connell Burkart",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-31",
+         "place": "Aarau",
+         "country": "Switzerland"
+      },
+      "nationality": "Switzerland",
+      "height": "175 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/162704.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 342038,
+      "name": "F. Afena-Gyan",
+      "firstname": "Felix Ohene",
+      "lastname": "Afena-Gyan",
+      "age": 20,
+      "birth": {
+         "date": "2003-01-19",
+         "place": null,
+         "country": "Ghana"
+      },
+      "nationality": "Ghana",
+      "height": "175 cm",
+      "weight": "62 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/342038.png"
+   }
+}

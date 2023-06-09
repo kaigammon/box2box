@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 331009,
+      "name": "C. Sayers",
+      "firstname": "Charlie",
+      "lastname": "Sayers",
+      "age": 19,
+      "birth": {
+         "date": "2004-03-29",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/331009.png"
+   }
+}

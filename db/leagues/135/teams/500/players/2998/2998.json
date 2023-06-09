@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2998,
+      "name": "Ł. Skorupski",
+      "firstname": "Łukasz",
+      "lastname": "Skorupski",
+      "age": 32,
+      "birth": {
+         "date": "1991-05-05",
+         "place": "Zabrze",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "187 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2998.png"
+   }
+}

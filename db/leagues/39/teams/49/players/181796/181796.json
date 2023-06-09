@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 181796,
+      "name": "J. Brooking",
+      "firstname": "Joshua Royston",
+      "lastname": "Brooking",
+      "age": 21,
+      "birth": {
+         "date": "2002-09-01",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/181796.png"
+   }
+}

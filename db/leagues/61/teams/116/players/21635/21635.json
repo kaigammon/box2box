@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21635,
+      "name": "J. Gradit",
+      "firstname": "Jonathan",
+      "lastname": "Gradit",
+      "age": 31,
+      "birth": {
+         "date": "1992-11-24",
+         "place": "Talence",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "180 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/21635.png"
+   }
+}

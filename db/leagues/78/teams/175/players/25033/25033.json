@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25033,
+      "name": "Daniel Heuer",
+      "firstname": "Daniel",
+      "lastname": "Heuer Fernandes",
+      "age": 31,
+      "birth": {
+         "date": "1992-11-13",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Portugal",
+      "height": "188 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25033.png"
+   }
+}

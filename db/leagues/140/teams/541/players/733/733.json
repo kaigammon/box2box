@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 733,
+      "name": "Dani Carvajal",
+      "firstname": "Daniel",
+      "lastname": "Carvajal Ramos",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-11",
+         "place": "Leganés",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "173 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/733.png"
+   }
+}

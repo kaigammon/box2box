@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 119685,
+      "name": "D. Čolina",
+      "firstname": "David",
+      "lastname": "Čolina",
+      "age": 23,
+      "birth": {
+         "date": "2000-07-19",
+         "place": null,
+         "country": "Croatia"
+      },
+      "nationality": "Croatia",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/119685.png"
+   }
+}

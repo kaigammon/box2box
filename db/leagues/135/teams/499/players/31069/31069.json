@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31069,
+      "name": "M. Sportiello",
+      "firstname": "Marco",
+      "lastname": "Sportiello",
+      "age": 31,
+      "birth": {
+         "date": "1992-05-10",
+         "place": "Desio",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "192 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/31069.png"
+   }
+}

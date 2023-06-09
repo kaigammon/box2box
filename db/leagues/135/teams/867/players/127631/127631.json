@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 127631,
+      "name": "V. Gendrey",
+      "firstname": "Valentin André Stanislas",
+      "lastname": "Gendrey",
+      "age": 23,
+      "birth": {
+         "date": "2000-06-21",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "179 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/127631.png"
+   }
+}

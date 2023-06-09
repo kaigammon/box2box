@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31415,
+      "name": "P. Ceccaroni",
+      "firstname": "Pietro",
+      "lastname": "Ceccaroni",
+      "age": 28,
+      "birth": {
+         "date": "1995-12-21",
+         "place": "Sarzana",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "188 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/31415.png"
+   }
+}

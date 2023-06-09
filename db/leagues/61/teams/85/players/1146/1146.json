@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1146,
+      "name": "N. Mukiele",
+      "firstname": "Nordi",
+      "lastname": "Mukiele Mulere",
+      "age": 26,
+      "birth": {
+         "date": "1997-11-01",
+         "place": "Montreuil",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "187 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1146.png"
+   }
+}

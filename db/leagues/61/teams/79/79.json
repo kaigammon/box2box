@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 79,
+      "name": "Lille",
+      "code": "LIL",
+      "country": "France",
+      "founded": 1944,
+      "national": false,
+      "logo": "https://media-1.api-sports.io/football/teams/79.png"
+   }
+}

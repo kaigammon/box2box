@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 657,
+      "name": "K. Tete",
+      "firstname": "Kenny Joelle",
+      "lastname": "Tete",
+      "age": 28,
+      "birth": {
+         "date": "1995-10-09",
+         "place": "Amsterdam",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "180 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/657.png"
+   }
+}

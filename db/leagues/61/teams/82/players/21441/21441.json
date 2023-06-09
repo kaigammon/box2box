@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21441,
+      "name": "F. Maouassa",
+      "firstname": "Christ-Emmanuel Faitout",
+      "lastname": "Maouassa",
+      "age": 25,
+      "birth": {
+         "date": "1998-07-06",
+         "place": "Villepinte",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "170 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/21441.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 174768,
+      "name": "A. Pierre",
+      "firstname": "Alexandre",
+      "lastname": "Pierre",
+      "age": 22,
+      "birth": {
+         "date": "2001-02-25",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "Haiti",
+      "height": "190 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/174768.png"
+   }
+}

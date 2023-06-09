@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 279917,
+      "name": "M. Hoppe",
+      "firstname": "Mattis",
+      "lastname": "Hoppe",
+      "age": 20,
+      "birth": {
+         "date": "2003-07-23",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "184 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/279917.png"
+   }
+}

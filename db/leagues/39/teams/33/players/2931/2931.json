@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2931,
+      "name": "T. Heaton",
+      "firstname": "Thomas David",
+      "lastname": "Heaton",
+      "age": 37,
+      "birth": {
+         "date": "1986-04-15",
+         "place": "Chester",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "188 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2931.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 7721,
+      "name": "M. Jakoliš",
+      "firstname": "Marin",
+      "lastname": "Jakoliš",
+      "age": 27,
+      "birth": {
+         "date": "1996-12-26",
+         "place": "Šibenik",
+         "country": "Croatia"
+      },
+      "nationality": "Croatia",
+      "height": "182 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/7721.png"
+   }
+}

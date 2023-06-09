@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1800,
+      "name": "K. Trapp",
+      "firstname": "Kevin Christian",
+      "lastname": "Trapp",
+      "age": 33,
+      "birth": {
+         "date": "1990-07-08",
+         "place": "Merzig",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "189 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1800.png"
+   }
+}

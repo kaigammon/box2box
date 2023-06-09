@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25310,
+      "name": "J. Pavlenka",
+      "firstname": "Jiří",
+      "lastname": "Pavlenka",
+      "age": 31,
+      "birth": {
+         "date": "1992-04-14",
+         "place": "Hlučín",
+         "country": "Czech Republic"
+      },
+      "nationality": "Czech Republic",
+      "height": "196 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25310.png"
+   }
+}

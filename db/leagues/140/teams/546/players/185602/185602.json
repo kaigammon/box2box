@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 185602,
+      "name": "Álex Revuelta",
+      "firstname": "Alejandro",
+      "lastname": "Revuelta Montero",
+      "age": 23,
+      "birth": {
+         "date": "2000-04-16",
+         "place": "Jerez de la Frontera",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/185602.png"
+   }
+}

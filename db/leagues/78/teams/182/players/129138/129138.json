@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 129138,
+      "name": "L. Dehl",
+      "firstname": "Laurenz",
+      "lastname": "Dehl",
+      "age": 22,
+      "birth": {
+         "date": "2001-12-12",
+         "place": "Berlin",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "180 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/129138.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1131,
+      "name": "A. Oko-Flex",
+      "firstname": "Armstrong Echezolachukwu Inya",
+      "lastname": "Oko-Flex",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-02",
+         "place": "Dublin",
+         "country": "Republic of Ireland"
+      },
+      "nationality": "Republic of Ireland",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1131.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 709,
+      "name": "P. Kadeřábek",
+      "firstname": "Pavel",
+      "lastname": "Kadeřábek",
+      "age": 31,
+      "birth": {
+         "date": "1992-04-25",
+         "place": "Praha",
+         "country": "Czech Republic"
+      },
+      "nationality": "Czech Republic",
+      "height": "182 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/709.png"
+   }
+}

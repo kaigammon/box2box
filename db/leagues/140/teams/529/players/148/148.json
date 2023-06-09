@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 148,
+      "name": "Riqui Puig",
+      "firstname": "Ricard",
+      "lastname": "Puig Martí",
+      "age": 24,
+      "birth": {
+         "date": "1999-08-13",
+         "place": "Barcelona",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "169 cm",
+      "weight": "56 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/148.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46669,
+      "name": "Barbero",
+      "firstname": "Iván",
+      "lastname": "Martínez Gonzálvez",
+      "age": 25,
+      "birth": {
+         "date": "1998-08-17",
+         "place": "Roquetas de Mar",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "187 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/46669.png"
+   }
+}

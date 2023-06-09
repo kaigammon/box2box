@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 179399,
+      "name": "E. Tchato",
+      "firstname": "Enzo Gianni",
+      "lastname": "Tchato Mbiayi",
+      "age": 21,
+      "birth": {
+         "date": "2002-11-23",
+         "place": "Montpellier",
+         "country": "France"
+      },
+      "nationality": "Cameroon",
+      "height": "182 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/179399.png"
+   }
+}

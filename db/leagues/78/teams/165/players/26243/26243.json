@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26243,
+      "name": "N. Schlotterbeck",
+      "firstname": "Nico Cedric",
+      "lastname": "Schlotterbeck",
+      "age": 24,
+      "birth": {
+         "date": "1999-12-01",
+         "place": "Waiblingen",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "191 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/26243.png"
+   }
+}

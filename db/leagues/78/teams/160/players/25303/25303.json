@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25303,
+      "name": "J. Schmid",
+      "firstname": "Jonathan",
+      "lastname": "Schmid",
+      "age": 33,
+      "birth": {
+         "date": "1990-06-22",
+         "place": "Strasbourg",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "179 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/25303.png"
+   }
+}

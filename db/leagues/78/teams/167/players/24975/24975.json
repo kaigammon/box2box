@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24975,
+      "name": "P. Pentke",
+      "firstname": "Philipp",
+      "lastname": "Pentke",
+      "age": 38,
+      "birth": {
+         "date": "1985-05-01",
+         "place": "Freiberg",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "191 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/24975.png"
+   }
+}

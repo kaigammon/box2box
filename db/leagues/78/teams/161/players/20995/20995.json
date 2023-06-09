@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20995,
+      "name": "M. Lacroix",
+      "firstname": "Maxence Guy",
+      "lastname": "Lacroix",
+      "age": 23,
+      "birth": {
+         "date": "2000-04-06",
+         "place": "Villeneuve-Saint-Georges",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "190 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20995.png"
+   }
+}

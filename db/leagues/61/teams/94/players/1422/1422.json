@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1422,
+      "name": "J. Doku",
+      "firstname": "Jérémy Baffour",
+      "lastname": "Doku",
+      "age": 21,
+      "birth": {
+         "date": "2002-05-27",
+         "place": "Antwerp",
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "173 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1422.png"
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 540,
+      "name": "Espanyol",
+      "code": "ESP",
+      "country": "Spain",
+      "founded": 1900,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/540.png"
+   }
+}

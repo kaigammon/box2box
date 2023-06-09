@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 7,
+      "name": "A. Diallo",
+      "firstname": "Abdou-Lakhad",
+      "lastname": "Diallo",
+      "age": 27,
+      "birth": {
+         "date": "1996-05-04",
+         "place": "Tours",
+         "country": "France"
+      },
+      "nationality": "Senegal",
+      "height": "187 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/7.png"
+   }
+}

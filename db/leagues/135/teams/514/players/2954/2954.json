@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2954,
+      "name": "W. Kechrida",
+      "firstname": "Wajdi",
+      "lastname": "Kechrida",
+      "age": 28,
+      "birth": {
+         "date": "1995-11-05",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "Tunisia",
+      "height": "177 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2954.png"
+   }
+}

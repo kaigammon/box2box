@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19522,
+      "name": "K. Pedersen",
+      "firstname": "Kristian Majdahl",
+      "lastname": "Pedersen",
+      "age": 29,
+      "birth": {
+         "date": "1994-08-04",
+         "place": "Ringsted",
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "189 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19522.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 6503,
+      "name": "N. Molina",
+      "firstname": "Nahuel",
+      "lastname": "Molina Lucero",
+      "age": 25,
+      "birth": {
+         "date": "1998-04-06",
+         "place": "Embalse",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "175 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/6503.png"
+   }
+}

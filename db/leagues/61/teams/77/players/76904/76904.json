@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 76904,
+      "name": "H. Šabanović",
+      "firstname": "Halid",
+      "lastname": "Šabanović",
+      "age": 24,
+      "birth": {
+         "date": "1999-08-22",
+         "place": "Sarajevo",
+         "country": "Bosnia and Herzegovina"
+      },
+      "nationality": "Bosnia and Herzegovina",
+      "height": "182 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/76904.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20319,
+      "name": "N. Bishop",
+      "firstname": "Nathan James",
+      "lastname": "Bishop",
+      "age": 24,
+      "birth": {
+         "date": "1999-10-15",
+         "place": "Hillingdon",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "185 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20319.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 64190,
+      "name": "Y. Fofana",
+      "firstname": "Yahia",
+      "lastname": "Fofana",
+      "age": 23,
+      "birth": {
+         "date": "2000-08-21",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "194 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/64190.png"
+   }
+}

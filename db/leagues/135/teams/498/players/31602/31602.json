@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31602,
+      "name": "N. Ravaglia",
+      "firstname": "Nicola",
+      "lastname": "Ravaglia",
+      "age": 35,
+      "birth": {
+         "date": "1988-12-12",
+         "place": "Forlì",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "184 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/31602.png"
+   }
+}

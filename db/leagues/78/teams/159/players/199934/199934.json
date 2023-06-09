@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 199934,
+      "name": "M. Dárdai",
+      "firstname": "Márton",
+      "lastname": "Dárdai",
+      "age": 21,
+      "birth": {
+         "date": "2002-02-12",
+         "place": "Berlin",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "188 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/199934.png"
+   }
+}

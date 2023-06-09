@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21570,
+      "name": "N. Cozza",
+      "firstname": "Nicolas Louis Marcel",
+      "lastname": "Cozza",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-08",
+         "place": "Ganges",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "178 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/21570.png"
+   }
+}

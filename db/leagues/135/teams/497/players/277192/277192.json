@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 277192,
+      "name": "P. Boer",
+      "firstname": "Pietro",
+      "lastname": "Boer",
+      "age": 21,
+      "birth": {
+         "date": "2002-05-12",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "193 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/277192.png"
+   }
+}

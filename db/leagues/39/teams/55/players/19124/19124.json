@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19124,
+      "name": "P. Jansson",
+      "firstname": "Pontus",
+      "lastname": "Jansson",
+      "age": 32,
+      "birth": {
+         "date": "1991-02-13",
+         "place": "Arlöv",
+         "country": "Sweden"
+      },
+      "nationality": "Sweden",
+      "height": "194 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19124.png"
+   }
+}

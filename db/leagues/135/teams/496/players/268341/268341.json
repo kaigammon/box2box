@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 268341,
+      "name": "F. Gatti",
+      "firstname": "Federico",
+      "lastname": "Gatti",
+      "age": 25,
+      "birth": {
+         "date": "1998-06-24",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "190 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/268341.png"
+   }
+}

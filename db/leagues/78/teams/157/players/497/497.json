@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 497,
+      "name": "M. Neuer",
+      "firstname": "Manuel Peter",
+      "lastname": "Neuer",
+      "age": 37,
+      "birth": {
+         "date": "1986-03-27",
+         "place": "Gelsenkirchen",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "193 cm",
+      "weight": "93 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/497.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 144741,
+      "name": "L. Moulden",
+      "firstname": "Louie",
+      "lastname": "Moulden",
+      "age": 21,
+      "birth": {
+         "date": "2002-01-06",
+         "place": "Bolton",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "190 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/144741.png"
+   }
+}

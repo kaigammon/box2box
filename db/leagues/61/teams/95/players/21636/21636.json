@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21636,
+      "name": "F. Guilbert",
+      "firstname": "Frédéric",
+      "lastname": "Guilbert",
+      "age": 29,
+      "birth": {
+         "date": "1994-12-24",
+         "place": "Valognes",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "178 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/21636.png"
+   }
+}

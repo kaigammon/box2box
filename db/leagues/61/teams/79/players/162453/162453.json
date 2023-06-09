@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162453,
+      "name": "L. Chevalier",
+      "firstname": "Lucas",
+      "lastname": "Chevalier",
+      "age": 22,
+      "birth": {
+         "date": "2001-11-06",
+         "place": "Calais",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "189 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/162453.png"
+   }
+}

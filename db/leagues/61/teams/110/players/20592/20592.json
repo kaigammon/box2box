@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20592,
+      "name": "Y. Touzghar",
+      "firstname": "Yoann",
+      "lastname": "Touzghar",
+      "age": 37,
+      "birth": {
+         "date": "1986-11-29",
+         "place": "Avignon",
+         "country": "France"
+      },
+      "nationality": "Tunisia",
+      "height": "179 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20592.png"
+   }
+}

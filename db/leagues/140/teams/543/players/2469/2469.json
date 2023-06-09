@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2469,
+      "name": "G. Pezzella",
+      "firstname": "Germán Alejo",
+      "lastname": "Pezzella",
+      "age": 32,
+      "birth": {
+         "date": "1991-06-27",
+         "place": "Bahía Blanca",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "187 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2469.png"
+   }
+}

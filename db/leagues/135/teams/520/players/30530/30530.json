@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30530,
+      "name": "L. Sernicola",
+      "firstname": "Leonardo",
+      "lastname": "Sernicola",
+      "age": 26,
+      "birth": {
+         "date": "1997-07-30",
+         "place": "Civita Castellana",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "188 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30530.png"
+   }
+}

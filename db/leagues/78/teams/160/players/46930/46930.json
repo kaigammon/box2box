@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46930,
+      "name": "E. Demirović",
+      "firstname": "Ermedin",
+      "lastname": "Demirović",
+      "age": 25,
+      "birth": {
+         "date": "1998-03-25",
+         "place": "Hamburg",
+         "country": "Germany"
+      },
+      "nationality": "Bosnia and Herzegovina",
+      "height": "185 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/46930.png"
+   }
+}

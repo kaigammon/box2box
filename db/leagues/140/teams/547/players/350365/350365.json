@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 350365,
+      "name": "Unai Hernandez",
+      "firstname": "Unai",
+      "lastname": "Hernandez",
+      "age": 18,
+      "birth": {
+         "date": "2004-12-14",
+         "place": null,
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/350365.png"
+   }
+}

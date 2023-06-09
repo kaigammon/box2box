@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162267,
+      "name": "A. Truffert",
+      "firstname": "Adrien",
+      "lastname": "Truffert",
+      "age": 22,
+      "birth": {
+         "date": "2001-11-20",
+         "place": "Liège",
+         "country": "Belgium"
+      },
+      "nationality": "France",
+      "height": "176 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/162267.png"
+   }
+}

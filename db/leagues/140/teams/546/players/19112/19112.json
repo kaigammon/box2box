@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19112,
+      "name": "Kiko Casilla",
+      "firstname": "Francisco",
+      "lastname": "Casilla Cortés",
+      "age": 37,
+      "birth": {
+         "date": "1986-10-02",
+         "place": "Alcover",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "190 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19112.png"
+   }
+}

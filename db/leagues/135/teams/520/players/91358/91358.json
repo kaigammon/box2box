@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 91358,
+      "name": "E. Valeri",
+      "firstname": "Emanuele",
+      "lastname": "Valeri",
+      "age": 25,
+      "birth": {
+         "date": "1998-12-07",
+         "place": "Roma",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "180 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/91358.png"
+   }
+}

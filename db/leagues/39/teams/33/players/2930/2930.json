@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2930,
+      "name": "J. Butland",
+      "firstname": "Jack",
+      "lastname": "Butland",
+      "age": 30,
+      "birth": {
+         "date": "1993-03-10",
+         "place": "Bristol",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "196 cm",
+      "weight": "95 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2930.png"
+   }
+}

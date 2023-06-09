@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22244,
+      "name": "A. Caci",
+      "firstname": "Anthony",
+      "lastname": "Caci",
+      "age": 26,
+      "birth": {
+         "date": "1997-07-01",
+         "place": "Forbach",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "184 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/22244.png"
+   }
+}

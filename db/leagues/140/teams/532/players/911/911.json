@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 911,
+      "name": "Jaume Doménech",
+      "firstname": "Jaume",
+      "lastname": "Doménech Sánchez",
+      "age": 33,
+      "birth": {
+         "date": "1990-11-05",
+         "place": "Castellón de la Plana",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/911.png"
+   }
+}

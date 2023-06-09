@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31543,
+      "name": "A. Gallo",
+      "firstname": "Antonino",
+      "lastname": "Gallo",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-05",
+         "place": "Palermo",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "183 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/31543.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 50852,
+      "name": "J. Scally",
+      "firstname": "Joseph Michael",
+      "lastname": "Scally",
+      "age": 21,
+      "birth": {
+         "date": "2002-12-31",
+         "place": "Lake Grove",
+         "country": "USA"
+      },
+      "nationality": "USA",
+      "height": "184 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/50852.png"
+   }
+}

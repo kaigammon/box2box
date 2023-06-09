@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 38692,
+      "name": "E. Palmer-Brown",
+      "firstname": "Erik Ross",
+      "lastname": "Palmer-Brown",
+      "age": 26,
+      "birth": {
+         "date": "1997-04-24",
+         "place": "Napoleon",
+         "country": "USA"
+      },
+      "nationality": "USA",
+      "height": "187 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/38692.png"
+   }
+}

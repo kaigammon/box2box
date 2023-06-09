@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25918,
+      "name": "L. Barreiro",
+      "firstname": "Leandro",
+      "lastname": "Barreiro Martins",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-03",
+         "place": "Erpeldange",
+         "country": "Luxembourg"
+      },
+      "nationality": "Luxembourg",
+      "height": "174 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25918.png"
+   }
+}

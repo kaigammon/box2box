@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46782,
+      "name": "Manu Vallejo",
+      "firstname": "Manuel Javier",
+      "lastname": "Vallejo Galván",
+      "age": 26,
+      "birth": {
+         "date": "1997-02-14",
+         "place": "Chiclana de la Frontera",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "167 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/46782.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25916,
+      "name": "M. Niakhaté",
+      "firstname": "Moussa",
+      "lastname": "Niakhaté",
+      "age": 27,
+      "birth": {
+         "date": "1996-03-08",
+         "place": "Roubaix",
+         "country": "France"
+      },
+      "nationality": "Senegal",
+      "height": "190 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/25916.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 188,
+      "name": "S. Handanovič",
+      "firstname": "Samir",
+      "lastname": "Handanovič",
+      "age": 39,
+      "birth": {
+         "date": "1984-07-14",
+         "place": "Ljubljana",
+         "country": "Slovenia"
+      },
+      "nationality": "Slovenia",
+      "height": "193 cm",
+      "weight": "92 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/188.png"
+   }
+}

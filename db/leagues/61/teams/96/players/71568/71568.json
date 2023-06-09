@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 71568,
+      "name": "S. Mvoué",
+      "firstname": "Stève Regis",
+      "lastname": "Mvoué",
+      "age": 21,
+      "birth": {
+         "date": "2002-02-02",
+         "place": "Yaoundé",
+         "country": "Cameroon"
+      },
+      "nationality": "Cameroon",
+      "height": "185 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/71568.png"
+   }
+}

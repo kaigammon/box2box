@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 182602,
+      "name": "Julen Lobete",
+      "firstname": "Julen",
+      "lastname": "Lobete Cienfuegos",
+      "age": 23,
+      "birth": {
+         "date": "2000-09-18",
+         "place": "Lezo",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "180 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/182602.png"
+   }
+}

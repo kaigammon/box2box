@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162447,
+      "name": "J. Blázquez",
+      "firstname": "Joaquín",
+      "lastname": "Blázquez",
+      "age": 22,
+      "birth": {
+         "date": "2001-01-28",
+         "place": "Luque",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "193 cm",
+      "weight": "91 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/162447.png"
+   }
+}

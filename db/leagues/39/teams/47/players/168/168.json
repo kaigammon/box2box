@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 168,
+      "name": "D. Sánchez",
+      "firstname": "Davinson",
+      "lastname": "Sánchez Mina",
+      "age": 27,
+      "birth": {
+         "date": "1996-06-12",
+         "place": "Caloto",
+         "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "187 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/168.png"
+   }
+}

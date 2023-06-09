@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47087,
+      "name": "U. Račić",
+      "firstname": "Uroš",
+      "lastname": "Račić",
+      "age": 25,
+      "birth": {
+         "date": "1998-03-17",
+         "place": "Kraljevo",
+         "country": "Serbia"
+      },
+      "nationality": "Serbia",
+      "height": "193 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47087.png"
+   }
+}

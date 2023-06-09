@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1467,
+      "name": "A. Lacazette",
+      "firstname": "Alexandre",
+      "lastname": "Lacazette",
+      "age": 32,
+      "birth": {
+         "date": "1991-05-28",
+         "place": "Lyon",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "175 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1467.png"
+   }
+}

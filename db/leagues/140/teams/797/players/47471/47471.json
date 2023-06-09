@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47471,
+      "name": "Roger",
+      "firstname": "Roger",
+      "lastname": "Martí Salvador",
+      "age": 32,
+      "birth": {
+         "date": "1991-01-03",
+         "place": "Torrent",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "179 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47471.png"
+   }
+}

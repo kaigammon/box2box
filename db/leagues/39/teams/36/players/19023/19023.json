@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19023,
+      "name": "T. Ream",
+      "firstname": "Timothy Michael",
+      "lastname": "Ream",
+      "age": 36,
+      "birth": {
+         "date": "1987-10-05",
+         "place": "St. Louis",
+         "country": "USA"
+      },
+      "nationality": "USA",
+      "height": "183 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19023.png"
+   }
+}

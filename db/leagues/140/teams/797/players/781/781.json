@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 781,
+      "name": "J. Pastore",
+      "firstname": "Javier Matías",
+      "lastname": "Pastore",
+      "age": 34,
+      "birth": {
+         "date": "1989-06-20",
+         "place": "Córdoba",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "187 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/781.png"
+   }
+}

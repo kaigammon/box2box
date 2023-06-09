@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30999,
+      "name": "S. Mráz",
+      "firstname": "Samuel",
+      "lastname": "Mráz",
+      "age": 26,
+      "birth": {
+         "date": "1997-05-13",
+         "place": "Malacky",
+         "country": "Slovakia"
+      },
+      "nationality": "Slovakia",
+      "height": "184 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30999.png"
+   }
+}

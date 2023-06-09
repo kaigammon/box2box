@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25603,
+      "name": "T. Leibold",
+      "firstname": "Tim",
+      "lastname": "Leibold",
+      "age": 30,
+      "birth": {
+         "date": "1993-11-30",
+         "place": "Böblingen",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "174 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25603.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46770,
+      "name": "Jon Garrido",
+      "firstname": "Jon Ander",
+      "lastname": "Garrido Moracia",
+      "age": 33,
+      "birth": {
+         "date": "1989-10-09",
+         "place": "Bilbao",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/46770.png"
+   }
+}

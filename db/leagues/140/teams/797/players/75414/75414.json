@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 75414,
+      "name": "N. Fernández Mercau",
+      "firstname": "Nicolás Ezequiel",
+      "lastname": "Fernández Mercau",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-11",
+         "place": "Buenos Aires",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "172 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/75414.png"
+   }
+}

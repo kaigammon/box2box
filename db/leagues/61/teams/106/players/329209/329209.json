@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 329209,
+      "name": "A. Camblan",
+      "firstname": "Axel",
+      "lastname": "Camblan",
+      "age": 20,
+      "birth": {
+         "date": "2003-06-18",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "168 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/329209.png"
+   }
+}

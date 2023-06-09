@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 874,
+      "name": "Cristiano Ronaldo",
+      "firstname": "Cristiano Ronaldo",
+      "lastname": "dos Santos Aveiro",
+      "age": 38,
+      "birth": {
+         "date": "1985-02-05",
+         "place": "Funchal",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "187 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/874.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19495,
+      "name": "N. Collins",
+      "firstname": "Nathan Michael",
+      "lastname": "Collins",
+      "age": 22,
+      "birth": {
+         "date": "2001-04-30",
+         "place": "Leixlip",
+         "country": "Republic of Ireland"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "193 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19495.png"
+   }
+}

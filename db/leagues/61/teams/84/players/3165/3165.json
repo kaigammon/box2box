@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 3165,
+      "name": "Y. Atal",
+      "firstname": "Youcef",
+      "lastname": "Atal",
+      "age": 27,
+      "birth": {
+         "date": "1996-05-17",
+         "place": "Boghni",
+         "country": "Algeria"
+      },
+      "nationality": "Algeria",
+      "height": "176 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/3165.png"
+   }
+}

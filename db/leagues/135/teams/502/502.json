@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 502,
+      "name": "Fiorentina",
+      "code": "FIO",
+      "country": "Italy",
+      "founded": 1926,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/502.png"
+   }
+}

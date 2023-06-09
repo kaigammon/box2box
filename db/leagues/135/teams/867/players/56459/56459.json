@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 56459,
+      "name": "W. Falcone",
+      "firstname": "Wladimiro",
+      "lastname": "Falcone",
+      "age": 28,
+      "birth": {
+         "date": "1995-04-12",
+         "place": "Roma",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "195 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/56459.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 126741,
+      "name": "B. Amione",
+      "firstname": "Bruno Agustin",
+      "lastname": "Amione",
+      "age": 21,
+      "birth": {
+         "date": "2002-01-03",
+         "place": "Calchaquí",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "187 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/126741.png"
+   }
+}

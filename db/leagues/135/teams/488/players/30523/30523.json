@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30523,
+      "name": "G. Ferrari",
+      "firstname": "Gian Marco",
+      "lastname": "Ferrari",
+      "age": 31,
+      "birth": {
+         "date": "1992-05-15",
+         "place": "Parma",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "189 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30523.png"
+   }
+}

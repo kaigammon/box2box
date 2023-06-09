@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30419,
+      "name": "F. Rossi",
+      "firstname": "Francesco",
+      "lastname": "Rossi",
+      "age": 32,
+      "birth": {
+         "date": "1991-04-27",
+         "place": "Merate",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "193 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30419.png"
+   }
+}

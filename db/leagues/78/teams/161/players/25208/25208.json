@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25208,
+      "name": "Paulo Otávio",
+      "firstname": "Paulo Otávio",
+      "lastname": "Rosa da Silva",
+      "age": 29,
+      "birth": {
+         "date": "1994-11-23",
+         "place": "Ourinhos",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "173 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25208.png"
+   }
+}

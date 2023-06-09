@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18760,
+      "name": "J. Kenny",
+      "firstname": "Jonjoe",
+      "lastname": "Kenny",
+      "age": 26,
+      "birth": {
+         "date": "1997-03-15",
+         "place": "Liverpool",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "176 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18760.png"
+   }
+}

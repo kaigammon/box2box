@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 327805,
+      "name": "S. Ba",
+      "firstname": "Sanoussy",
+      "lastname": "Ba",
+      "age": 19,
+      "birth": {
+         "date": "2004-01-05",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "184 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/327805.png"
+   }
+}

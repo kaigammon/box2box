@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 189051,
+      "name": "Juan Pedro",
+      "firstname": "Juan Pedro",
+      "lastname": "Navarro Valverde",
+      "age": 25,
+      "birth": {
+         "date": "1998-08-21",
+         "place": "Murcia",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/189051.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 342005,
+      "name": "A. Dellavalle",
+      "firstname": "Alessandro",
+      "lastname": "Dellavalle",
+      "age": 18,
+      "birth": {
+         "date": "2004-05-11",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/342005.png"
+   }
+}

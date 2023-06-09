@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2468,
+      "name": "G. Montiel",
+      "firstname": "Gonzalo Ariel",
+      "lastname": "Montiel",
+      "age": 26,
+      "birth": {
+         "date": "1997-01-01",
+         "place": "González Catán",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "175 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2468.png"
+   }
+}

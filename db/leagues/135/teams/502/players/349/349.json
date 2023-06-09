@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 349,
+      "name": "A. Terzić",
+      "firstname": "Aleksa",
+      "lastname": "Terzić",
+      "age": 24,
+      "birth": {
+         "date": "1999-08-17",
+         "place": "Belgrade",
+         "country": "Serbia"
+      },
+      "nationality": "Serbia",
+      "height": "184 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/349.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 286728,
+      "name": "Y. Stein",
+      "firstname": "Yannic",
+      "lastname": "Stein",
+      "age": 19,
+      "birth": {
+         "date": "2004-09-17",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/286728.png"
+   }
+}

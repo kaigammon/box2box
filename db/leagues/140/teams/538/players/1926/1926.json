@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1926,
+      "name": "J. Aidoo",
+      "firstname": "Joseph",
+      "lastname": "Aidoo",
+      "age": 28,
+      "birth": {
+         "date": "1995-09-29",
+         "place": "Tema",
+         "country": "Ghana"
+      },
+      "nationality": "Ghana",
+      "height": "184 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1926.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46961,
+      "name": "Edgar Badia",
+      "firstname": "Edgar",
+      "lastname": "Badia Guardiola",
+      "age": 31,
+      "birth": {
+         "date": "1992-02-12",
+         "place": "Barcelona",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "180 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/46961.png"
+   }
+}

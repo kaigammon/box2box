@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 37276,
+      "name": "K. Scherpen",
+      "firstname": "Kjell",
+      "lastname": "Scherpen",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-23",
+         "place": null,
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "204 cm",
+      "weight": "98 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/37276.png"
+   }
+}

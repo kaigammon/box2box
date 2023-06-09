@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30504,
+      "name": "W. Singo",
+      "firstname": "Wilfried Stephane",
+      "lastname": "Singo",
+      "age": 23,
+      "birth": {
+         "date": "2000-12-25",
+         "place": null,
+         "country": "Côte d'Ivoire"
+      },
+      "nationality": "Côte d'Ivoire",
+      "height": "182 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30504.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30473,
+      "name": "I. Mbaye",
+      "firstname": "Ibrahima",
+      "lastname": "Mbaye",
+      "age": 29,
+      "birth": {
+         "date": "1994-11-19",
+         "place": "Guédiawaye",
+         "country": "Senegal"
+      },
+      "nationality": "Senegal",
+      "height": "187 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30473.png"
+   }
+}

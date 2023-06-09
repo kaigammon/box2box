@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 594,
+      "name": "V. Lampropoulos",
+      "firstname": "Vasilios Konstantinos",
+      "lastname": "Lampropoulos",
+      "age": 33,
+      "birth": {
+         "date": "1990-03-31",
+         "place": "Pyrgos",
+         "country": "Greece"
+      },
+      "nationality": "Greece",
+      "height": "185 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/594.png"
+   }
+}

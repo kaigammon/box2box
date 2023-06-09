@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19291,
+      "name": "S. Janko",
+      "firstname": "Saidy",
+      "lastname": "Janko",
+      "age": 28,
+      "birth": {
+         "date": "1995-10-22",
+         "place": "Zürich",
+         "country": "Switzerland"
+      },
+      "nationality": "Gambia",
+      "height": "181 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19291.png"
+   }
+}

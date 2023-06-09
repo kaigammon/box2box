@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 327664,
+      "name": "V. Stange",
+      "firstname": "Veit",
+      "lastname": "Stange",
+      "age": 19,
+      "birth": {
+         "date": "2004-02-08",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/327664.png"
+   }
+}

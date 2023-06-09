@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30499,
+      "name": "K. Djidji",
+      "firstname": "Lévy Koffi",
+      "lastname": "Djidji",
+      "age": 31,
+      "birth": {
+         "date": "1992-11-30",
+         "place": "Bagnolet",
+         "country": "France"
+      },
+      "nationality": "Côte d'Ivoire",
+      "height": "184 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30499.png"
+   }
+}

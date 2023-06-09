@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 64268,
+      "name": "J. Mojica",
+      "firstname": "Johan Andrés",
+      "lastname": "Mojica Palacio",
+      "age": 31,
+      "birth": {
+         "date": "1992-08-21",
+         "place": "Cali",
+         "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "185 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/64268.png"
+   }
+}

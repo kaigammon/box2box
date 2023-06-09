@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162188,
+      "name": "P. Kalulu",
+      "firstname": "Pierre Kazeye Rommel",
+      "lastname": "Kalulu Kyatengwa",
+      "age": 23,
+      "birth": {
+         "date": "2000-06-05",
+         "place": "Lyon",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "179 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/162188.png"
+   }
+}

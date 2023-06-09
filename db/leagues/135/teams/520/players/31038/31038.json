@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31038,
+      "name": "G. Saro",
+      "firstname": "Gianluca",
+      "lastname": "Saro",
+      "age": 23,
+      "birth": {
+         "date": "2000-06-25",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "180 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/31038.png"
+   }
+}

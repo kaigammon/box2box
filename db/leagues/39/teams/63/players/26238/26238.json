@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26238,
+      "name": "R. Koch",
+      "firstname": "Robin Leon",
+      "lastname": "Koch",
+      "age": 27,
+      "birth": {
+         "date": "1996-07-17",
+         "place": "Kaiserslautern",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "192 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/26238.png"
+   }
+}

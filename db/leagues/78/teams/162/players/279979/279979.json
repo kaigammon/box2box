@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 279979,
+      "name": "L. Lord",
+      "firstname": "Louis Sascha",
+      "lastname": "Lord",
+      "age": 20,
+      "birth": {
+         "date": "2003-10-22",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "189 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/279979.png"
+   }
+}

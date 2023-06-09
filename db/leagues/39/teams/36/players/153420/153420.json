@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 153420,
+      "name": "G. Wickens",
+      "firstname": "George Alexander",
+      "lastname": "Wickens",
+      "age": 22,
+      "birth": {
+         "date": "2001-11-08",
+         "place": "Petersfield",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "183 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/153420.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 15871,
+      "name": "M. Schwäbe",
+      "firstname": "Marvin",
+      "lastname": "Schwäbe",
+      "age": 28,
+      "birth": {
+         "date": "1995-04-25",
+         "place": "Dieburg",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "190 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/15871.png"
+   }
+}

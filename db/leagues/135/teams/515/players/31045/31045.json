@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31045,
+      "name": "D. Nikolaou",
+      "firstname": "Dimitrios",
+      "lastname": "Nikolaou",
+      "age": 25,
+      "birth": {
+         "date": "1998-08-13",
+         "place": "Chalkida",
+         "country": "Greece"
+      },
+      "nationality": "Greece",
+      "height": "188 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/31045.png"
+   }
+}

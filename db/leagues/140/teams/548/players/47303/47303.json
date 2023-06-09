@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47303,
+      "name": "Aihen Muñoz",
+      "firstname": "Aihen",
+      "lastname": "Muñoz Capellán",
+      "age": 26,
+      "birth": {
+         "date": "1997-08-16",
+         "place": "San Sebastián",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "175 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47303.png"
+   }
+}

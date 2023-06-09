@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1323,
+      "name": "Dani Olmo",
+      "firstname": "Daniel",
+      "lastname": "Olmo Carvajal",
+      "age": 25,
+      "birth": {
+         "date": "1998-05-07",
+         "place": "Terrassa",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "179 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1323.png"
+   }
+}

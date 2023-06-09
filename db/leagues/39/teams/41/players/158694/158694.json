@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 158694,
+      "name": "V. Livramento",
+      "firstname": "Valentino Francisco",
+      "lastname": "Livramento",
+      "age": 21,
+      "birth": {
+         "date": "2002-11-12",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "182 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/158694.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 91171,
+      "name": "M. Hober",
+      "firstname": "Marco",
+      "lastname": "Hober",
+      "age": 28,
+      "birth": {
+         "date": "1995-09-09",
+         "place": "Bielefeld",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "172 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/91171.png"
+   }
+}

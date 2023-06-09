@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 327552,
+      "name": "Nando",
+      "firstname": "Hernando",
+      "lastname": "Almodóvar Marrufo",
+      "age": 20,
+      "birth": {
+         "date": "2003-11-03",
+         "place": "Jerez de la Frontera",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "192 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/327552.png"
+   }
+}

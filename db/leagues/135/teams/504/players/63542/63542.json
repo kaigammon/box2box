@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 63542,
+      "name": "M. Hongla",
+      "firstname": "Martin",
+      "lastname": "Hongla Yma II",
+      "age": 25,
+      "birth": {
+         "date": "1998-03-16",
+         "place": "Yaoundé",
+         "country": "Cameroon"
+      },
+      "nationality": "Cameroon",
+      "height": "182 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/63542.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22265,
+      "name": "Nuno da Costa",
+      "firstname": "Nuno Miguel",
+      "lastname": "da Costa Jóia",
+      "age": 32,
+      "birth": {
+         "date": "1991-02-10",
+         "place": "Praia",
+         "country": "Cape Verde"
+      },
+      "nationality": "Cape Verde",
+      "height": "184 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/22265.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18963,
+      "name": "L. Dunk",
+      "firstname": "Lewis Carl",
+      "lastname": "Dunk",
+      "age": 32,
+      "birth": {
+         "date": "1991-11-21",
+         "place": "Brighton",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "192 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18963.png"
+   }
+}

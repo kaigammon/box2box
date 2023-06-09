@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47318,
+      "name": "Jon Bautista",
+      "firstname": "Jon",
+      "lastname": "Bautista Orgilles",
+      "age": 28,
+      "birth": {
+         "date": "1995-07-03",
+         "place": "Mahón",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "180 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47318.png"
+   }
+}

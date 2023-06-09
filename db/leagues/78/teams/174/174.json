@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 174,
+      "name": "FC Schalke 04",
+      "code": "SCH",
+      "country": "Germany",
+      "founded": 1904,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/174.png"
+   }
+}

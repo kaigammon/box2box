@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21998,
+      "name": "A. Disasi",
+      "firstname": "Axel Wilson Arthur",
+      "lastname": "Disasi Mhakinis Belho",
+      "age": 25,
+      "birth": {
+         "date": "1998-03-11",
+         "place": "Gonesse",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "190 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/21998.png"
+   }
+}

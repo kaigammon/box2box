@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22082,
+      "name": "J. Moulin",
+      "firstname": "Jessy",
+      "lastname": "Moulin",
+      "age": 37,
+      "birth": {
+         "date": "1986-01-13",
+         "place": "Valence",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "185 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/22082.png"
+   }
+}

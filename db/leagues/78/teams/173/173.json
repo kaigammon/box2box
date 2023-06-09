@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 173,
+      "name": "RB Leipzig",
+      "code": "LEI",
+      "country": "Germany",
+      "founded": 2009,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/173.png"
+   }
+}

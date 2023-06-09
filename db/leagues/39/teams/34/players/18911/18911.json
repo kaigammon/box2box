@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18911,
+      "name": "N. Pope",
+      "firstname": "Nicholas David",
+      "lastname": "Pope",
+      "age": 31,
+      "birth": {
+         "date": "1992-04-19",
+         "place": "Soham",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "191 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18911.png"
+   }
+}

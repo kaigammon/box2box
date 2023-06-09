@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30417,
+      "name": "M. Carnesecchi",
+      "firstname": "Marco",
+      "lastname": "Carnesecchi",
+      "age": 23,
+      "birth": {
+         "date": "2000-07-01",
+         "place": "Rimini",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "191 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30417.png"
+   }
+}

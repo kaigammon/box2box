@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 278111,
+      "name": "Shane Aidan Conor Flynn",
+      "firstname": "Shane Aidan Conor",
+      "lastname": "Flynn",
+      "age": 21,
+      "birth": {
+         "date": "2001-10-14",
+         "place": "Dublin",
+         "country": "Republic of Ireland"
+      },
+      "nationality": "Republic of Ireland",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/278111.png"
+   }
+}

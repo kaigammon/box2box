@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22163,
+      "name": "Dante",
+      "firstname": "Dante Bonfim",
+      "lastname": "Costa Santos",
+      "age": 40,
+      "birth": {
+         "date": "1983-10-18",
+         "place": "Salvador",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "188 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/22163.png"
+   }
+}

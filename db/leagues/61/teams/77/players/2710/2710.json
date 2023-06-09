@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2710,
+      "name": "S. Boufal",
+      "firstname": "Sofiane",
+      "lastname": "Boufal",
+      "age": 30,
+      "birth": {
+         "date": "1993-09-17",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "Morocco",
+      "height": "175 cm",
+      "weight": "60 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2710.png"
+   }
+}

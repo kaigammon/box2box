@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 137,
+      "name": "Sergi Roberto",
+      "firstname": "Sergi",
+      "lastname": "Roberto Carnicer",
+      "age": 31,
+      "birth": {
+         "date": "1992-02-07",
+         "place": "Reus",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "178 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/137.png"
+   }
+}

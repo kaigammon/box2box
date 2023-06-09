@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 293604,
+      "name": "Javier Llabrés",
+      "firstname": "Javier",
+      "lastname": "Llabrés Exposito",
+      "age": 21,
+      "birth": {
+         "date": "2002-09-11",
+         "place": "Binissalem",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "174 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/293604.png"
+   }
+}

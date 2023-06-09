@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 46,
+      "name": "Leicester",
+      "code": "LEI",
+      "country": "England",
+      "founded": 1884,
+      "national": false,
+      "logo": "https://media-1.api-sports.io/football/teams/46.png"
+   }
+}

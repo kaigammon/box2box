@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 85041,
+      "name": "A. Gouiri",
+      "firstname": "Amine Ferid",
+      "lastname": "Gouiri",
+      "age": 23,
+      "birth": {
+         "date": "2000-02-16",
+         "place": "Bourgoin-Jallieu",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "180 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/85041.png"
+   }
+}

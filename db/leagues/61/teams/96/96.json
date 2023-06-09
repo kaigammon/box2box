@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 96,
+      "name": "Toulouse",
+      "code": "TOU",
+      "country": "France",
+      "founded": 1937,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/96.png"
+   }
+}

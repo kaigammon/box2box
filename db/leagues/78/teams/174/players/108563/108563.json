@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 108563,
+      "name": "R. Zalazar",
+      "firstname": "Rodrigo",
+      "lastname": "Zalazar Martínez",
+      "age": 24,
+      "birth": {
+         "date": "1999-08-12",
+         "place": "Albacete",
+         "country": "Spain"
+      },
+      "nationality": "Uruguay",
+      "height": "178 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/108563.png"
+   }
+}

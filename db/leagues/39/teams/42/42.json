@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 42,
+      "name": "Arsenal",
+      "code": "ARS",
+      "country": "England",
+      "founded": 1886,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/42.png"
+   }
+}

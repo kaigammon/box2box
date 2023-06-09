@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1682,
+      "name": "Asenjo",
+      "firstname": "Sergio",
+      "lastname": "Asenjo Andrés",
+      "age": 34,
+      "birth": {
+         "date": "1989-06-28",
+         "place": "Palencia",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "189 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1682.png"
+   }
+}

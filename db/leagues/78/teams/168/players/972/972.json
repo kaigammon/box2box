@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 972,
+      "name": "J. Tah",
+      "firstname": "Jonathan",
+      "lastname": "Glao Tah",
+      "age": 27,
+      "birth": {
+         "date": "1996-02-11",
+         "place": "Hamburg",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "195 cm",
+      "weight": "98 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/972.png"
+   }
+}

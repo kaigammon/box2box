@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1442,
+      "name": "S. Kolašinac",
+      "firstname": "Sead",
+      "lastname": "Kolašinac",
+      "age": 30,
+      "birth": {
+         "date": "1993-06-20",
+         "place": "Karlsruhe",
+         "country": "Germany"
+      },
+      "nationality": "Bosnia and Herzegovina",
+      "height": "183 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1442.png"
+   }
+}

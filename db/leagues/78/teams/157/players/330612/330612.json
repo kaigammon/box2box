@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 330612,
+      "name": "T. Buchmann",
+      "firstname": "Tarek",
+      "lastname": "Buchmann",
+      "age": 18,
+      "birth": {
+         "date": "2005-02-28",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/330612.png"
+   }
+}

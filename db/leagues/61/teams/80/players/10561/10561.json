@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 10561,
+      "name": "Henrique",
+      "firstname": "Henrique",
+      "lastname": "Silva Milagres",
+      "age": 29,
+      "birth": {
+         "date": "1994-04-25",
+         "place": "Rio de Janeiro",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "173 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/10561.png"
+   }
+}

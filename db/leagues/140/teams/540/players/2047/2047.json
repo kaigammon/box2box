@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2047,
+      "name": "Aleix Vidal",
+      "firstname": "Aleix",
+      "lastname": "Vidal Parreu",
+      "age": 34,
+      "birth": {
+         "date": "1989-08-21",
+         "place": "Puigpelat",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "177 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2047.png"
+   }
+}

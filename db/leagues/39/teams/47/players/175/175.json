@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 175,
+      "name": "E. Dier",
+      "firstname": "Eric Jeremy Edgar",
+      "lastname": "Dier",
+      "age": 29,
+      "birth": {
+         "date": "1994-01-15",
+         "place": "Cheltenham",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "188 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/175.png"
+   }
+}

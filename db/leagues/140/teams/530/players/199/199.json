@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 199,
+      "name": "Šime Vrsaljko",
+      "firstname": "Šime",
+      "lastname": "Vrsaljko",
+      "age": 30,
+      "birth": {
+         "date": "1992-01-10",
+         "place": "Rijeka",
+         "country": "Croatia"
+      },
+      "nationality": "Croatia",
+      "height": "181 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/199.png"
+   }
+}

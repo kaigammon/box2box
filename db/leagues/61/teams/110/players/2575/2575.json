@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2575,
+      "name": "J. Porozo",
+      "firstname": "Jackson Gabriel",
+      "lastname": "Porozo Vernaza",
+      "age": 23,
+      "birth": {
+         "date": "2000-08-04",
+         "place": "San Lorenzo",
+         "country": "Ecuador"
+      },
+      "nationality": "Ecuador",
+      "height": "191 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2575.png"
+   }
+}

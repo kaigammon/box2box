@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19118,
+      "name": "L. Cooper",
+      "firstname": "Liam David Ian",
+      "lastname": "Cooper",
+      "age": 32,
+      "birth": {
+         "date": "1991-08-30",
+         "place": "Kingston upon Hull",
+         "country": "England"
+      },
+      "nationality": "Scotland",
+      "height": "180 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19118.png"
+   }
+}

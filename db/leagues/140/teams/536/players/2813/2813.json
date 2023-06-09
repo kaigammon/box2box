@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2813,
+      "name": "M. Dmitrović",
+      "firstname": "Marko",
+      "lastname": "Dmitrović",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-24",
+         "place": "Subotica",
+         "country": "Yugoslavia"
+      },
+      "nationality": "Serbia",
+      "height": "194 cm",
+      "weight": "91 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2813.png"
+   }
+}

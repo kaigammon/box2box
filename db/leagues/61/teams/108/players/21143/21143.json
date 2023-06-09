@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21143,
+      "name": "T. Pellenard",
+      "firstname": "Théo",
+      "lastname": "Pellenard",
+      "age": 29,
+      "birth": {
+         "date": "1994-03-04",
+         "place": "Lille",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "184 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/21143.png"
+   }
+}

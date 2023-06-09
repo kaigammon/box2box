@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18960,
+      "name": "J. Steele",
+      "firstname": "Jason Sean",
+      "lastname": "Steele",
+      "age": 33,
+      "birth": {
+         "date": "1990-08-18",
+         "place": "Newton Aycliffe",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "188 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18960.png"
+   }
+}

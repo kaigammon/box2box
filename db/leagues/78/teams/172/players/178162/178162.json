@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 178162,
+      "name": "L. Bazzoli",
+      "firstname": "Luca Juliano",
+      "lastname": "Bazzoli",
+      "age": 23,
+      "birth": {
+         "date": "2000-11-01",
+         "place": "Bad Homburg vor der Höhe",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "188 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/178162.png"
+   }
+}

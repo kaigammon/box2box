@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2203,
+      "name": "M. Zeffane",
+      "firstname": "Mehdi Embareck",
+      "lastname": "Zeffane",
+      "age": 31,
+      "birth": {
+         "date": "1992-05-19",
+         "place": "Sainte Foy lès Lyon",
+         "country": "France"
+      },
+      "nationality": "Algeria",
+      "height": "176 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2203.png"
+   }
+}

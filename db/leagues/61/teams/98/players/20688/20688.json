@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20688,
+      "name": "F. Mayembo",
+      "firstname": "Fernand Destin",
+      "lastname": "Mayembo",
+      "age": 27,
+      "birth": {
+         "date": "1996-01-09",
+         "place": "Brazzaville",
+         "country": "Congo"
+      },
+      "nationality": "Congo",
+      "height": "184 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20688.png"
+   }
+}

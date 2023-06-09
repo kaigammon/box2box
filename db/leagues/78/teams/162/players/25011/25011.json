@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25011,
+      "name": "A. Pieper",
+      "firstname": "Amos",
+      "lastname": "Pieper",
+      "age": 25,
+      "birth": {
+         "date": "1998-01-17",
+         "place": "Lüdinghausen",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "192 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/25011.png"
+   }
+}

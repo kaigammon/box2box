@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18776,
+      "name": "Ç. Söyüncü",
+      "firstname": "Çağlar",
+      "lastname": "Söyüncü",
+      "age": 27,
+      "birth": {
+         "date": "1996-05-23",
+         "place": "İzmir",
+         "country": "Türkiye"
+      },
+      "nationality": "Türkiye",
+      "height": "185 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18776.png"
+   }
+}

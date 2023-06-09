@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 194073,
+      "name": "A. Trouillet",
+      "firstname": "Alexis",
+      "lastname": "Trouillet",
+      "age": 23,
+      "birth": {
+         "date": "2000-12-23",
+         "place": "Saint-Priest-en-Jarez",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "175 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/194073.png"
+   }
+}

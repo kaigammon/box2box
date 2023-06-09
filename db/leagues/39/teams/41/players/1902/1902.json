@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1902,
+      "name": "D. Ćaleta-Car",
+      "firstname": "Duje",
+      "lastname": "Ćaleta-Car",
+      "age": 27,
+      "birth": {
+         "date": "1996-09-17",
+         "place": "Šibenik",
+         "country": "Croatia"
+      },
+      "nationality": "Croatia",
+      "height": "192 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1902.png"
+   }
+}

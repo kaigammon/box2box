@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31226,
+      "name": "A. Buongiorno",
+      "firstname": "Alessandro",
+      "lastname": "Buongiorno",
+      "age": 24,
+      "birth": {
+         "date": "1999-06-06",
+         "place": "Turin",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "191 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/31226.png"
+   }
+}

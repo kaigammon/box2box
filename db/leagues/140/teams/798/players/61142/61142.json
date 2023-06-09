@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 61142,
+      "name": "D. Greif",
+      "firstname": "Dominik",
+      "lastname": "Greif",
+      "age": 26,
+      "birth": {
+         "date": "1997-04-06",
+         "place": "Bratislava",
+         "country": "Slovakia"
+      },
+      "nationality": "Slovakia",
+      "height": "197 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/61142.png"
+   }
+}

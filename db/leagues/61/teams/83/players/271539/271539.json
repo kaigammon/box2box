@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 271539,
+      "name": "J. Hadjam",
+      "firstname": "Jaouen Djimmy",
+      "lastname": "Hadjam",
+      "age": 20,
+      "birth": {
+         "date": "2003-03-26",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "Algeria",
+      "height": "184 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/271539.png"
+   }
+}

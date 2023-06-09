@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18863,
+      "name": "S. Cook",
+      "firstname": "Steve Anthony",
+      "lastname": "Cook",
+      "age": 32,
+      "birth": {
+         "date": "1991-04-19",
+         "place": "Hastings",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "185 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18863.png"
+   }
+}

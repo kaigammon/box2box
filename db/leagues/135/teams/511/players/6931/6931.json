@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 6931,
+      "name": "L. Cacace",
+      "firstname": "Liberato Gianpaolo",
+      "lastname": "Cacace",
+      "age": 23,
+      "birth": {
+         "date": "2000-09-27",
+         "place": "Wellington",
+         "country": "New Zealand"
+      },
+      "nationality": "New Zealand",
+      "height": "170 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/6931.png"
+   }
+}

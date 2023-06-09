@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1144,
+      "name": "L. Klostermann",
+      "firstname": "Lukas Manuel",
+      "lastname": "Klostermann",
+      "age": 27,
+      "birth": {
+         "date": "1996-06-03",
+         "place": "Herdecke",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "187 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1144.png"
+   }
+}

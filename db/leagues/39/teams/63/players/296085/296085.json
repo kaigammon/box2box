@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 296085,
+      "name": "Diogo Monteiro",
+      "firstname": "Diogo",
+      "lastname": "Pinheiro Monteiro",
+      "age": 18,
+      "birth": {
+         "date": "2005-01-28",
+         "place": "Genève",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "184 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/296085.png"
+   }
+}

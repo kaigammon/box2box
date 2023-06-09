@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 730,
+      "name": "T. Courtois",
+      "firstname": "Thibaut Nicolas Marc",
+      "lastname": "Courtois",
+      "age": 31,
+      "birth": {
+         "date": "1992-05-11",
+         "place": "Bree",
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "200 cm",
+      "weight": "96 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/730.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18794,
+      "name": "Kiko Femenía",
+      "firstname": "Francisco",
+      "lastname": "Femenía Far",
+      "age": 32,
+      "birth": {
+         "date": "1991-02-02",
+         "place": "Alicante",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "176 cm",
+      "weight": "61 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18794.png"
+   }
+}

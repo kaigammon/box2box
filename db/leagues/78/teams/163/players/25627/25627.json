@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25627,
+      "name": "T. Sippel",
+      "firstname": "Tobias",
+      "lastname": "Sippel",
+      "age": 35,
+      "birth": {
+         "date": "1988-03-22",
+         "place": "Bad Dürkheim",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "183 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25627.png"
+   }
+}

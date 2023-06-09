@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30405,
+      "name": "E. Fernandes",
+      "firstname": "Edimilson",
+      "lastname": "Fernandes Ribeiro",
+      "age": 27,
+      "birth": {
+         "date": "1996-04-15",
+         "place": "Sion",
+         "country": "Switzerland"
+      },
+      "nationality": "Switzerland",
+      "height": "190 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30405.png"
+   }
+}

@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 162,
+      "name": "Werder Bremen",
+      "code": "WER",
+      "country": "Germany",
+      "founded": 1899,
+      "national": false,
+      "logo": "https://media-1.api-sports.io/football/teams/162.png"
+   }
+}

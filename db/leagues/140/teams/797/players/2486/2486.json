@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2486,
+      "name": "H. Palacios",
+      "firstname": "Helibelton",
+      "lastname": "Palacios Zapata",
+      "age": 30,
+      "birth": {
+         "date": "1993-06-11",
+         "place": "Santander de Quilichao",
+         "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "177 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2486.png"
+   }
+}

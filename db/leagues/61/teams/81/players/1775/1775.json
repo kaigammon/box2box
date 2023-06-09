@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1775,
+      "name": "S. Gigot",
+      "firstname": "Samuel Florent",
+      "lastname": "Thomas Gigot",
+      "age": 30,
+      "birth": {
+         "date": "1993-10-12",
+         "place": "Avignon",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "187 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1775.png"
+   }
+}

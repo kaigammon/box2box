@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1093,
+      "name": "E. Mwepu",
+      "firstname": "Enock",
+      "lastname": "Mwepu",
+      "age": 24,
+      "birth": {
+         "date": "1998-01-01",
+         "place": "Lusaka",
+         "country": "Zambia"
+      },
+      "nationality": "Zambia",
+      "height": "184 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1093.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30476,
+      "name": "Lyanco",
+      "firstname": "Lyanco Evangelista",
+      "lastname": "Silveira Neves Vojnović",
+      "age": 26,
+      "birth": {
+         "date": "1997-02-01",
+         "place": "Vitória",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "187 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30476.png"
+   }
+}

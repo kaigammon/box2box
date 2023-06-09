@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 154800,
+      "name": "M. Fagan-Walcott",
+      "firstname": "Malachi Michael",
+      "lastname": "Fagan-Walcott",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-11",
+         "place": "London",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/154800.png"
+   }
+}

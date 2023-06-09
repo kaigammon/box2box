@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 64309,
+      "name": "Manu Sánchez",
+      "firstname": "Manuel",
+      "lastname": "Sánchez de la Peña",
+      "age": 23,
+      "birth": {
+         "date": "2000-08-24",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "179 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/64309.png"
+   }
+}

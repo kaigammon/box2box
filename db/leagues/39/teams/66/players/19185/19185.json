@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19185,
+      "name": "K. Davis",
+      "firstname": "Keinan Vincent Joseph",
+      "lastname": "Davis",
+      "age": 25,
+      "birth": {
+         "date": "1998-02-13",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "191 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19185.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 125171,
+      "name": "J. Stanišić",
+      "firstname": "Josip",
+      "lastname": "Stanišić",
+      "age": 23,
+      "birth": {
+         "date": "2000-04-02",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Croatia",
+      "height": "187 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/125171.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 182560,
+      "name": "Oier Zarraga",
+      "firstname": "Oier",
+      "lastname": "Zarraga Egaña",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-04",
+         "place": "Getxo",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "175 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/182560.png"
+   }
+}

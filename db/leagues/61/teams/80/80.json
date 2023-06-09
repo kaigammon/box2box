@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 80,
+      "name": "Lyon",
+      "code": "LYO",
+      "country": "France",
+      "founded": 1950,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/80.png"
+   }
+}

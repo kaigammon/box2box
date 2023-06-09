@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19170,
+      "name": "M. Rogers",
+      "firstname": "Morgan Elliot",
+      "lastname": "Rogers",
+      "age": 21,
+      "birth": {
+         "date": "2002-07-26",
+         "place": "Halesowen",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19170.png"
+   }
+}

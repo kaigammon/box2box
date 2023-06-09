@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20645,
+      "name": "G. Courtet",
+      "firstname": "Gaëtan",
+      "lastname": "Courtet",
+      "age": 34,
+      "birth": {
+         "date": "1989-02-22",
+         "place": "Lorient",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "180 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/20645.png"
+   }
+}

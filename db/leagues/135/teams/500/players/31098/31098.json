@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31098,
+      "name": "F. Ravaglia",
+      "firstname": "Federico",
+      "lastname": "Ravaglia",
+      "age": 24,
+      "birth": {
+         "date": "1999-11-11",
+         "place": "Bologna",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "196 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/31098.png"
+   }
+}

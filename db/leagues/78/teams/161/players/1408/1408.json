@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1408,
+      "name": "S. Bornauw",
+      "firstname": "Sebastiaan",
+      "lastname": "Bornauw",
+      "age": 24,
+      "birth": {
+         "date": "1999-03-22",
+         "place": "Wemmel",
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "191 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1408.png"
+   }
+}

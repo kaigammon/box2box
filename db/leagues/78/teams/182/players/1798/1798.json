@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1798,
+      "name": "F. Rønnow",
+      "firstname": "Frederik",
+      "lastname": "Riis Rønnow",
+      "age": 31,
+      "birth": {
+         "date": "1992-08-04",
+         "place": "Horsens",
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "188 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1798.png"
+   }
+}

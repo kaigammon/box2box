@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30521,
+      "name": "M. Demiral",
+      "firstname": "Merih",
+      "lastname": "Demiral",
+      "age": 25,
+      "birth": {
+         "date": "1998-03-05",
+         "place": "Kocaeli",
+         "country": "Türkiye"
+      },
+      "nationality": "Türkiye",
+      "height": "192 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30521.png"
+   }
+}

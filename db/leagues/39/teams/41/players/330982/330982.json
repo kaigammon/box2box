@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 330982,
+      "name": "J. Morgan",
+      "firstname": "Jimmy Jay",
+      "lastname": "Morgan",
+      "age": 17,
+      "birth": {
+         "date": "2006-01-21",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/330982.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19263,
+      "name": "L. Kelly",
+      "firstname": "Lloyd Casius",
+      "lastname": "Kelly",
+      "age": 25,
+      "birth": {
+         "date": "1998-10-06",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "178 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19263.png"
+   }
+}

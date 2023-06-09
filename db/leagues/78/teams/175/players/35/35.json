@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 35,
+      "name": "Javi Montero",
+      "firstname": "Francisco Javier",
+      "lastname": "Montero Rubio",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-14",
+         "place": "Sevilla",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/35.png"
+   }
+}

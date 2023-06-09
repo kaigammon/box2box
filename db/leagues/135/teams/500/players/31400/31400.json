@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31400,
+      "name": "K. Michael",
+      "firstname": "Kingsley Dogo",
+      "lastname": "Michael",
+      "age": 24,
+      "birth": {
+         "date": "1999-08-26",
+         "place": "Owerri",
+         "country": "Nigeria"
+      },
+      "nationality": "Nigeria",
+      "height": "176 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/31400.png"
+   }
+}

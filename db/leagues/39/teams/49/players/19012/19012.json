@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19012,
+      "name": "M. Bettinelli",
+      "firstname": "Marcus",
+      "lastname": "Bettinelli",
+      "age": 31,
+      "birth": {
+         "date": "1992-05-24",
+         "place": "Camberwell",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "194 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19012.png"
+   }
+}

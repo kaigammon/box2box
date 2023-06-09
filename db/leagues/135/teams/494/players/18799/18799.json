@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18799,
+      "name": "A. Masina",
+      "firstname": "Adam",
+      "lastname": "Masina",
+      "age": 29,
+      "birth": {
+         "date": "1994-01-02",
+         "place": "Khouribga",
+         "country": "Morocco"
+      },
+      "nationality": "Morocco",
+      "height": "189 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18799.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18770,
+      "name": "E. Jakupović",
+      "firstname": "Eldin",
+      "lastname": "Jakupović",
+      "age": 39,
+      "birth": {
+         "date": "1984-10-02",
+         "place": "Kozarac",
+         "country": "Bosnia and Herzegovina"
+      },
+      "nationality": "Switzerland",
+      "height": "191 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18770.png"
+   }
+}

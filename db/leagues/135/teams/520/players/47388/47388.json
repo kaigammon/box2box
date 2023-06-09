@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47388,
+      "name": "G. Escalante",
+      "firstname": "Gonzalo",
+      "lastname": "Escalante",
+      "age": 30,
+      "birth": {
+         "date": "1993-03-27",
+         "place": "Bella Vista",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "182 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47388.png"
+   }
+}

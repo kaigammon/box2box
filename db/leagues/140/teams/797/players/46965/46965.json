@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46965,
+      "name": "Gonzalo Verdú",
+      "firstname": "Gonzalo",
+      "lastname": "Cacicedo Verdú",
+      "age": 35,
+      "birth": {
+         "date": "1988-10-21",
+         "place": "Cartagena",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/46965.png"
+   }
+}

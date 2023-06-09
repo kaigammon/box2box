@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1434,
+      "name": "L. Dimata",
+      "firstname": "Landry Nany",
+      "lastname": "Dimata",
+      "age": 26,
+      "birth": {
+         "date": "1997-09-01",
+         "place": "Mbuji-Mayi",
+         "country": "Congo DR"
+      },
+      "nationality": "Belgium",
+      "height": "185 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1434.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2741,
+      "name": "M. Ryan",
+      "firstname": "Mathew David",
+      "lastname": "Ryan",
+      "age": 31,
+      "birth": {
+         "date": "1992-04-08",
+         "place": "Plumpton",
+         "country": "Australia"
+      },
+      "nationality": "Australia",
+      "height": "184 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2741.png"
+   }
+}

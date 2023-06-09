@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21575,
+      "name": "C. Vidal",
+      "firstname": "Clément",
+      "lastname": "Vidal",
+      "age": 23,
+      "birth": {
+         "date": "2000-06-18",
+         "place": "Montpellier",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "181 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/21575.png"
+   }
+}

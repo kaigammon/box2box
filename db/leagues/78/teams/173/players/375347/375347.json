@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 375347,
+      "name": "T. Schlieck",
+      "firstname": "Timo",
+      "lastname": "Schlieck",
+      "age": 17,
+      "birth": {
+         "date": "2006-03-02",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "193 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/375347.png"
+   }
+}

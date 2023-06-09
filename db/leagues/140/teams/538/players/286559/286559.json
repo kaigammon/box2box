@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 286559,
+      "name": "Carlos Domínguez",
+      "firstname": "Carlos",
+      "lastname": "Domínguez Cáceres",
+      "age": 22,
+      "birth": {
+         "date": "2001-02-11",
+         "place": null,
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "187 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/286559.png"
+   }
+}

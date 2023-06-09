@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 369500,
+      "name": "I. Ganiou",
+      "firstname": "Pierre-Ismaëlo",
+      "lastname": "Ganiou",
+      "age": 18,
+      "birth": {
+         "date": "2005-03-14",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/369500.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 293162,
+      "name": "J. Raymond",
+      "firstname": "Jadan",
+      "lastname": "Raymond",
+      "age": 19,
+      "birth": {
+         "date": "2003-10-15",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/293162.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2810,
+      "name": "D. Zakaria",
+      "firstname": "Denis Lemi",
+      "lastname": "Zakaria Lako Lado",
+      "age": 27,
+      "birth": {
+         "date": "1996-11-20",
+         "place": "Genève",
+         "country": "Switzerland"
+      },
+      "nationality": "Switzerland",
+      "height": "189 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2810.png"
+   }
+}

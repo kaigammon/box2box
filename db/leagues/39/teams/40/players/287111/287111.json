@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 287111,
+      "name": "F. Mrozek",
+      "firstname": "Fabian",
+      "lastname": "Mrozek",
+      "age": 19,
+      "birth": {
+         "date": "2003-09-28",
+         "place": null,
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/287111.png"
+   }
+}

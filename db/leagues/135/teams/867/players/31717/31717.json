@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31717,
+      "name": "M. Bleve",
+      "firstname": "Marco",
+      "lastname": "Bleve",
+      "age": 28,
+      "birth": {
+         "date": "1995-10-18",
+         "place": "San Cesario di Lecce",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "184 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/31717.png"
+   }
+}

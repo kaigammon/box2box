@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 10225,
+      "name": "João Victor",
+      "firstname": "João Victor",
+      "lastname": "da Silva Marcelino",
+      "age": 25,
+      "birth": {
+         "date": "1998-07-17",
+         "place": "Bauru",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "187 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/10225.png"
+   }
+}

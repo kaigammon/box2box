@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 13,
+      "name": "D. Zagadou",
+      "firstname": "Dan-Axel",
+      "lastname": "Zagadou",
+      "age": 24,
+      "birth": {
+         "date": "1999-06-03",
+         "place": "Créteil",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "196 cm",
+      "weight": "90 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/13.png"
+   }
+}

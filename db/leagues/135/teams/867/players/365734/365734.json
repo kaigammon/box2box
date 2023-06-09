@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 365734,
+      "name": "M. Ciucci",
+      "firstname": "Mattia",
+      "lastname": "Ciucci",
+      "age": 21,
+      "birth": {
+         "date": "2002-11-11",
+         "place": "Roma",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "188 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/365734.png"
+   }
+}

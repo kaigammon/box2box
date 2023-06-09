@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47566,
+      "name": "Javi Galán",
+      "firstname": "Javier",
+      "lastname": "Galán Gil",
+      "age": 29,
+      "birth": {
+         "date": "1994-11-19",
+         "place": "Badajoz",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "172 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47566.png"
+   }
+}

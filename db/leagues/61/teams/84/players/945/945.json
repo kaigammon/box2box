@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 945,
+      "name": "J. Lotomba",
+      "firstname": "Mvula Jordan",
+      "lastname": "Lotomba",
+      "age": 25,
+      "birth": {
+         "date": "1998-09-29",
+         "place": null,
+         "country": "Switzerland"
+      },
+      "nationality": "Switzerland",
+      "height": "177 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/945.png"
+   }
+}

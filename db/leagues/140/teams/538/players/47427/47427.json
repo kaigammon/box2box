@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47427,
+      "name": "Iván Villar",
+      "firstname": "Iván",
+      "lastname": "Villar Martínez",
+      "age": 26,
+      "birth": {
+         "date": "1997-07-09",
+         "place": "Aldán",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "183 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47427.png"
+   }
+}

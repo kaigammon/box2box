@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 340,
+      "name": "S. Babić",
+      "firstname": "Srđan",
+      "lastname": "Babić",
+      "age": 27,
+      "birth": {
+         "date": "1996-04-22",
+         "place": "Banja Luka",
+         "country": "Bosnia and Herzegovina"
+      },
+      "nationality": "Serbia",
+      "height": "195 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/340.png"
+   }
+}

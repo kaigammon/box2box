@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 325142,
+      "name": "V. Boffelli",
+      "firstname": "Valerio",
+      "lastname": "Boffelli",
+      "age": 19,
+      "birth": {
+         "date": "2004-09-04",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "182 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/325142.png"
+   }
+}

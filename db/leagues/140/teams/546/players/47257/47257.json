@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47257,
+      "name": "D. Suárez",
+      "firstname": "Damián Nicolás",
+      "lastname": "Suárez Suárez",
+      "age": 35,
+      "birth": {
+         "date": "1988-04-27",
+         "place": "Montevideo",
+         "country": "Uruguay"
+      },
+      "nationality": "Uruguay",
+      "height": "172 cm",
+      "weight": "61 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47257.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 158,
+      "name": "P. Gazzaniga",
+      "firstname": "Paulo Dino",
+      "lastname": "Gazzaniga Farias",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-02",
+         "place": "Murphy",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "196 cm",
+      "weight": "90 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/158.png"
+   }
+}

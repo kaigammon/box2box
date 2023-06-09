@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162245,
+      "name": "L. Štubljar",
+      "firstname": "Lovro",
+      "lastname": "Štubljar",
+      "age": 19,
+      "birth": {
+         "date": "2004-08-09",
+         "place": null,
+         "country": "Slovenia"
+      },
+      "nationality": "Slovenia",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/162245.png"
+   }
+}

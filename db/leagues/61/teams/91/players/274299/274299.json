@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 274299,
+      "name": "Y. Okou",
+      "firstname": "Yllan",
+      "lastname": "Okou",
+      "age": 21,
+      "birth": {
+         "date": "2002-12-23",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "189 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/274299.png"
+   }
+}

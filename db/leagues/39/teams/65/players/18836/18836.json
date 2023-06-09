@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18836,
+      "name": "W. Hennessey",
+      "firstname": "Wayne Robert",
+      "lastname": "Hennessey",
+      "age": 36,
+      "birth": {
+         "date": "1987-01-24",
+         "place": "Bangor",
+         "country": "Wales"
+      },
+      "nationality": "Wales",
+      "height": "198 cm",
+      "weight": "90 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18836.png"
+   }
+}

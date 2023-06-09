@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21434,
+      "name": "T. Sainte-Luce",
+      "firstname": "Théo",
+      "lastname": "Sainte-Luce",
+      "age": 25,
+      "birth": {
+         "date": "1998-10-20",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "176 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/21434.png"
+   }
+}

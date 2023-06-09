@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 50922,
+      "name": "João Moutinho",
+      "firstname": "João Gervásio",
+      "lastname": "Bragança Moutinho",
+      "age": 25,
+      "birth": {
+         "date": "1998-01-12",
+         "place": "Lisbon",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "183 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/50922.png"
+   }
+}

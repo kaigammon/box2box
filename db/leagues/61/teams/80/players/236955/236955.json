@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 236955,
+      "name": "A. Sarr",
+      "firstname": "Amin",
+      "lastname": "Sarr",
+      "age": 22,
+      "birth": {
+         "date": "2001-03-11",
+         "place": "Malmö",
+         "country": "Sweden"
+      },
+      "nationality": "Sweden",
+      "height": "188 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/236955.png"
+   }
+}

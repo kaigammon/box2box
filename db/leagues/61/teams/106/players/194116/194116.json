@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 194116,
+      "name": "R. Saïd",
+      "firstname": "Rafiki",
+      "lastname": "Saïd Ahamada",
+      "age": 23,
+      "birth": {
+         "date": "2000-03-15",
+         "place": "Samba M'Bodoni",
+         "country": "Comoros"
+      },
+      "nationality": "Comoros",
+      "height": "178 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/194116.png"
+   }
+}

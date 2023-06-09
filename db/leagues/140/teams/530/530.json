@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 530,
+      "name": "Atletico Madrid",
+      "code": "MAD",
+      "country": "Spain",
+      "founded": 1903,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/530.png"
+   }
+}

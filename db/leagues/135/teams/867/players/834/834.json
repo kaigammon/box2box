@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 834,
+      "name": "K. Bistrović",
+      "firstname": "Kristijan",
+      "lastname": "Bistrović",
+      "age": 25,
+      "birth": {
+         "date": "1998-04-09",
+         "place": "Koprivnica",
+         "country": "Croatia"
+      },
+      "nationality": "Croatia",
+      "height": "183 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/834.png"
+   }
+}

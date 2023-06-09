@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24801,
+      "name": "J. Hector",
+      "firstname": "Jonas Armin",
+      "lastname": "Hector",
+      "age": 33,
+      "birth": {
+         "date": "1990-05-27",
+         "place": "Saarbrücken",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "185 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/24801.png"
+   }
+}

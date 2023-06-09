@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2986,
+      "name": "É. Mendy",
+      "firstname": "Édouard Osoque",
+      "lastname": "Mendy",
+      "age": 31,
+      "birth": {
+         "date": "1992-03-01",
+         "place": "Montivilliers",
+         "country": "France"
+      },
+      "nationality": "Senegal",
+      "height": "194 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2986.png"
+   }
+}

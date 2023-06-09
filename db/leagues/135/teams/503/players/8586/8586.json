@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 8586,
+      "name": "M. Vojvoda",
+      "firstname": "Mërgim",
+      "lastname": "Vojvoda",
+      "age": 28,
+      "birth": {
+         "date": "1995-02-01",
+         "place": "Skënderaj",
+         "country": "Kosovo"
+      },
+      "nationality": "Kosovo",
+      "height": "187 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/8586.png"
+   }
+}

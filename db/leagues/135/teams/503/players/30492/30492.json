@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30492,
+      "name": "L. Gemello",
+      "firstname": "Luca",
+      "lastname": "Gemello",
+      "age": 23,
+      "birth": {
+         "date": "2000-07-03",
+         "place": "Savigliano",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "185 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30492.png"
+   }
+}

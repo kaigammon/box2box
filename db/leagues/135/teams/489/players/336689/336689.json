@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 336689,
+      "name": "Y. El Hilali",
+      "firstname": "Youns Gabriele",
+      "lastname": "El Hilali",
+      "age": 19,
+      "birth": {
+         "date": "2003-06-08",
+         "place": "Milan",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/336689.png"
+   }
+}

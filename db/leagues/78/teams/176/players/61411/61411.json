@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 61411,
+      "name": "E. Mašović",
+      "firstname": "Erhan",
+      "lastname": "Mašović",
+      "age": 25,
+      "birth": {
+         "date": "1998-11-22",
+         "place": "Novi Pazar",
+         "country": "Serbia"
+      },
+      "nationality": "Serbia",
+      "height": "189 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/61411.png"
+   }
+}

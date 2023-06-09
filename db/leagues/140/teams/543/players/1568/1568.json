@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1568,
+      "name": "P. Akouokou",
+      "firstname": "Edgar Paul",
+      "lastname": "Akouokou",
+      "age": 26,
+      "birth": {
+         "date": "1997-12-20",
+         "place": null,
+         "country": "Côte d'Ivoire"
+      },
+      "nationality": "Côte d'Ivoire",
+      "height": "181 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1568.png"
+   }
+}

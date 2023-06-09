@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2674,
+      "name": "Rui Patrício",
+      "firstname": "Rui Pedro",
+      "lastname": "dos Santos Patrício",
+      "age": 35,
+      "birth": {
+         "date": "1988-02-15",
+         "place": "Marrazes",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "190 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2674.png"
+   }
+}

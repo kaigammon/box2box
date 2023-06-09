@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25907,
+      "name": "S. Bell",
+      "firstname": "Stefan",
+      "lastname": "Bell",
+      "age": 32,
+      "birth": {
+         "date": "1991-08-24",
+         "place": "Andernach",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "192 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/25907.png"
+   }
+}

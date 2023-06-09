@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21708,
+      "name": "J. Keita",
+      "firstname": "Abdoulaye Jules",
+      "lastname": "Keita",
+      "age": 24,
+      "birth": {
+         "date": "1998-07-20",
+         "place": "Conakry",
+         "country": "Guinea"
+      },
+      "nationality": "Guinea",
+      "height": "168 cm",
+      "weight": "58 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/21708.png"
+   }
+}

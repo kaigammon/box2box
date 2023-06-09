@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18823,
+      "name": "B. Johnson",
+      "firstname": "Benjamin Anthony",
+      "lastname": "Johnson",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-24",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18823.png"
+   }
+}

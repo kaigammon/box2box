@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26303,
+      "name": "B. Sosa",
+      "firstname": "Borna",
+      "lastname": "Sosa",
+      "age": 25,
+      "birth": {
+         "date": "1998-01-21",
+         "place": "Zagreb",
+         "country": "Croatia"
+      },
+      "nationality": "Croatia",
+      "height": "187 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/26303.png"
+   }
+}

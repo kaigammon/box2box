@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 298064,
+      "name": "David Torres",
+      "firstname": "David",
+      "lastname": "Torres Ortiz",
+      "age": 20,
+      "birth": {
+         "date": "2003-03-05",
+         "place": "Valladolid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/298064.png"
+   }
+}

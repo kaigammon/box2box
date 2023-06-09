@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 195717,
+      "name": "Y. Mosquera",
+      "firstname": "Yerson",
+      "lastname": "Mosquera Valdelamar",
+      "age": 22,
+      "birth": {
+         "date": "2001-05-02",
+         "place": "Apartadó",
+         "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "187 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/195717.png"
+   }
+}

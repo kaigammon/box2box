@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 647,
+      "name": "Anthony Lopes",
+      "firstname": "Anthony",
+      "lastname": "Lopes",
+      "age": 33,
+      "birth": {
+         "date": "1990-10-01",
+         "place": "Givors",
+         "country": "France"
+      },
+      "nationality": "Portugal",
+      "height": "184 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/647.png"
+   }
+}

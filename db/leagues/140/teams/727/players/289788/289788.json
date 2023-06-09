@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 289788,
+      "name": "Yoel Ramírez",
+      "firstname": "Yoel",
+      "lastname": "Ramírez Sesma",
+      "age": 21,
+      "birth": {
+         "date": "2002-02-05",
+         "place": "Mallén",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "184 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/289788.png"
+   }
+}

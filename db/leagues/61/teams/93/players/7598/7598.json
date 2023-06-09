@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 7598,
+      "name": "P. Pentz",
+      "firstname": "Patrick",
+      "lastname": "Pentz",
+      "age": 26,
+      "birth": {
+         "date": "1997-01-02",
+         "place": "Salzburg",
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "182 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/7598.png"
+   }
+}

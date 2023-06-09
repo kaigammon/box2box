@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 530,
+      "name": "M. Bakker",
+      "firstname": "Mitchel",
+      "lastname": "Bakker",
+      "age": 23,
+      "birth": {
+         "date": "2000-06-20",
+         "place": "Purmerend",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "185 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/530.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 386868,
+      "name": "N. Biral",
+      "firstname": "Nicolò",
+      "lastname": "Biral",
+      "age": 19,
+      "birth": {
+         "date": "2004-01-01",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/386868.png"
+   }
+}

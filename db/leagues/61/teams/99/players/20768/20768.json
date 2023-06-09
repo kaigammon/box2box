@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20768,
+      "name": "F. Ogier",
+      "firstname": "Florent",
+      "lastname": "Ogier",
+      "age": 34,
+      "birth": {
+         "date": "1989-03-21",
+         "place": "Lyon",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "183 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/20768.png"
+   }
+}

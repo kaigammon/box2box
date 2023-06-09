@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 731,
+      "name": "K. Navas",
+      "firstname": "Keylor Antonio",
+      "lastname": "Navas Gamboa",
+      "age": 37,
+      "birth": {
+         "date": "1986-12-15",
+         "place": "San Isidro",
+         "country": "Costa Rica"
+      },
+      "nationality": "Costa Rica",
+      "height": "185 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/731.png"
+   }
+}

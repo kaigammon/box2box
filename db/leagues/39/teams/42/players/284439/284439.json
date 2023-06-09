@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284439,
+      "name": "L. Sousa",
+      "firstname": "Lino",
+      "lastname": "da Cruz Sousa",
+      "age": 18,
+      "birth": {
+         "date": "2005-01-19",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "185 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/284439.png"
+   }
+}

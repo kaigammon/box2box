@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 40445,
+      "name": "K. Fila",
+      "firstname": "Karol",
+      "lastname": "Fila",
+      "age": 25,
+      "birth": {
+         "date": "1998-06-13",
+         "place": "Gdańsk",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "180 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/40445.png"
+   }
+}

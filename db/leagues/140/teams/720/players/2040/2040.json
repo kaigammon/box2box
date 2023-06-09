@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2040,
+      "name": "Escudero",
+      "firstname": "Sergio",
+      "lastname": "Escudero Palomo",
+      "age": 34,
+      "birth": {
+         "date": "1989-09-02",
+         "place": "Valladolid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "176 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2040.png"
+   }
+}

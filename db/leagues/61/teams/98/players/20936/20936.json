@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20936,
+      "name": "B. Leroy",
+      "firstname": "Benjamin",
+      "lastname": "Leroy",
+      "age": 34,
+      "birth": {
+         "date": "1989-04-07",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "184 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/20936.png"
+   }
+}

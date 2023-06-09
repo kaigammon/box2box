@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 328000,
+      "name": "L. Reichardt",
+      "firstname": "Leon",
+      "lastname": "Reichardt",
+      "age": 19,
+      "birth": {
+         "date": "2004-06-28",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "190 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/328000.png"
+   }
+}

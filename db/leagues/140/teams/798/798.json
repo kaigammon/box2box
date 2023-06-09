@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 798,
+      "name": "Mallorca",
+      "code": "MAL",
+      "country": "Spain",
+      "founded": 1916,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/798.png"
+   }
+}

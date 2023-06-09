@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24760,
+      "name": "G. Mamardashvili",
+      "firstname": "Giorgi",
+      "lastname": "Mamardashvili",
+      "age": 23,
+      "birth": {
+         "date": "2000-09-29",
+         "place": null,
+         "country": "Georgia"
+      },
+      "nationality": "Georgia",
+      "height": "199 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/24760.png"
+   }
+}

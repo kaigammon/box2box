@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 892,
+      "name": "C. Smalling",
+      "firstname": "Christopher Lloyd",
+      "lastname": "Smalling",
+      "age": 34,
+      "birth": {
+         "date": "1989-11-22",
+         "place": "Greenwich",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "194 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/892.png"
+   }
+}

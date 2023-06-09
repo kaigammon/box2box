@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21997,
+      "name": "Logan Costa",
+      "firstname": "Logan",
+      "lastname": "Evans Costa",
+      "age": 22,
+      "birth": {
+         "date": "2001-04-01",
+         "place": "Saint-Denis",
+         "country": "France"
+      },
+      "nationality": "Cape Verde",
+      "height": "190 cm",
+      "weight": "91 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/21997.png"
+   }
+}

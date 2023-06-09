@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2917,
+      "name": "M. Eggestein",
+      "firstname": "Maximilian",
+      "lastname": "Eggestein",
+      "age": 27,
+      "birth": {
+         "date": "1996-12-08",
+         "place": "Hannover",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "181 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2917.png"
+   }
+}

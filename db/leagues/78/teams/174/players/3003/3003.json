@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 3003,
+      "name": "M. Kamiński",
+      "firstname": "Marcin",
+      "lastname": "Kamiński",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-15",
+         "place": "Konin",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "192 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/3003.png"
+   }
+}

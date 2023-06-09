@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 178405,
+      "name": "J. Olschowsky",
+      "firstname": "Jan Jakob",
+      "lastname": "Olschowsky",
+      "age": 22,
+      "birth": {
+         "date": "2001-11-18",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "183 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/178405.png"
+   }
+}

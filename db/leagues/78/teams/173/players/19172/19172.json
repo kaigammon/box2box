@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19172,
+      "name": "Ø. Nyland",
+      "firstname": "Ørjan",
+      "lastname": "Håskjold Nyland",
+      "age": 33,
+      "birth": {
+         "date": "1990-09-10",
+         "place": "Kristiansund",
+         "country": "Norway"
+      },
+      "nationality": "Norway",
+      "height": "192 cm",
+      "weight": "90 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19172.png"
+   }
+}

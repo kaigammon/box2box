@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25067,
+      "name": "Danilo Soares",
+      "firstname": "Danilo Teodoro",
+      "lastname": "Soares",
+      "age": 32,
+      "birth": {
+         "date": "1991-10-29",
+         "place": "Belo Horizonte",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "170 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/25067.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24864,
+      "name": "J. Pollersbeck",
+      "firstname": "Julian",
+      "lastname": "Pollersbeck",
+      "age": 29,
+      "birth": {
+         "date": "1994-08-16",
+         "place": "Emmerting",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "195 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/24864.png"
+   }
+}

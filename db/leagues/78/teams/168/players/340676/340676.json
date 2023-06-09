@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 340676,
+      "name": "M. Monamay",
+      "firstname": "Madi",
+      "lastname": "Monamay Nsosemo",
+      "age": 17,
+      "birth": {
+         "date": "2006-04-06",
+         "place": null,
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/340676.png"
+   }
+}

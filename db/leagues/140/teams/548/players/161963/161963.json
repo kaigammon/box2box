@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 161963,
+      "name": "Germán Valera",
+      "firstname": "Germán",
+      "lastname": "Valera Karabinaite",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-16",
+         "place": "Murcia",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "170 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/161963.png"
+   }
+}

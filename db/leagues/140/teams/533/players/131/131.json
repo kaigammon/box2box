@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 131,
+      "name": "Jorge Cuenca",
+      "firstname": "Jorge",
+      "lastname": "Cuenca Barreno",
+      "age": 24,
+      "birth": {
+         "date": "1999-11-17",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "190 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/131.png"
+   }
+}

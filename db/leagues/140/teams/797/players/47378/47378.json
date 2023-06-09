@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47378,
+      "name": "Bigas",
+      "firstname": "Pedro",
+      "lastname": "Bigas Rigo",
+      "age": 33,
+      "birth": {
+         "date": "1990-05-15",
+         "place": "Palma de Mallorca",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "181 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47378.png"
+   }
+}

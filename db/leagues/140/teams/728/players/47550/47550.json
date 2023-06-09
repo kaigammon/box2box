@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47550,
+      "name": "Mario Suárez",
+      "firstname": "Mario",
+      "lastname": "Suárez Mata",
+      "age": 36,
+      "birth": {
+         "date": "1987-02-24",
+         "place": "Alcobendas",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "188 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47550.png"
+   }
+}

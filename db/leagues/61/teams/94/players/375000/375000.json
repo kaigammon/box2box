@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 375000,
+      "name": "I. Salah",
+      "firstname": "Ibrahim",
+      "lastname": "Salah",
+      "age": 22,
+      "birth": {
+         "date": "2001-08-30",
+         "place": null,
+         "country": "Belgium"
+      },
+      "nationality": "Morocco",
+      "height": "185 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/375000.png"
+   }
+}

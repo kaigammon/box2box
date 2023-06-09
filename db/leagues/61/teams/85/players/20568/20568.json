@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20568,
+      "name": "A. Letellier",
+      "firstname": "Alexandre",
+      "lastname": "Letellier",
+      "age": 33,
+      "birth": {
+         "date": "1990-12-11",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "193 cm",
+      "weight": "93 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20568.png"
+   }
+}

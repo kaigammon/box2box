@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 386438,
+      "name": "M. Acapandié",
+      "firstname": "Mathieu",
+      "lastname": "Acapandié",
+      "age": 19,
+      "birth": {
+         "date": "2004-12-14",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/386438.png"
+   }
+}

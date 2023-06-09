@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 202843,
+      "name": "K. Schmidt",
+      "firstname": "Tan-Kenneth Jerico",
+      "lastname": "Leka-Schmidt",
+      "age": 21,
+      "birth": {
+         "date": "2002-06-03",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "186 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/202843.png"
+   }
+}

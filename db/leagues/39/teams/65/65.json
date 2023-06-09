@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 65,
+      "name": "Nottingham Forest",
+      "code": "NOT",
+      "country": "England",
+      "founded": 1865,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/65.png"
+   }
+}

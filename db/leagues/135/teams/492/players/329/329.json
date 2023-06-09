@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 329,
+      "name": "P. Zieliński",
+      "firstname": "Piotr Sebastian",
+      "lastname": "Zieliński",
+      "age": 29,
+      "birth": {
+         "date": "1994-05-20",
+         "place": "Zabkowice Slaskie",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "180 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/329.png"
+   }
+}

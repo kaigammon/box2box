@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 326092,
+      "name": "T. Allix",
+      "firstname": "Teo",
+      "lastname": "Allix",
+      "age": 19,
+      "birth": {
+         "date": "2004-07-05",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "183 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/326092.png"
+   }
+}

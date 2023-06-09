@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1564,
+      "name": "Junior Firpo",
+      "firstname": "Héctor Junior",
+      "lastname": "Firpo Adames",
+      "age": 27,
+      "birth": {
+         "date": "1996-08-22",
+         "place": "Santo Domingo",
+         "country": "Dominican Republic"
+      },
+      "nationality": "Spain",
+      "height": "184 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1564.png"
+   }
+}

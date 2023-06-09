@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 152949,
+      "name": "D. Simeu",
+      "firstname": "Dynel Brown",
+      "lastname": "Kembo Simeu",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-13",
+         "place": "Yaoundé",
+         "country": "Cameroon"
+      },
+      "nationality": "England",
+      "height": "186 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/152949.png"
+   }
+}

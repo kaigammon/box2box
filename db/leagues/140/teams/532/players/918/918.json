@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 918,
+      "name": "José Gayà",
+      "firstname": "José Luis",
+      "lastname": "Gayà Peña",
+      "age": 28,
+      "birth": {
+         "date": "1995-05-25",
+         "place": "Pedreguer",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "172 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/918.png"
+   }
+}

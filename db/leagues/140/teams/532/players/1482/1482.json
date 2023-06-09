@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1482,
+      "name": "Thierry Correia",
+      "firstname": "Thierry",
+      "lastname": "Rendall Correia",
+      "age": 24,
+      "birth": {
+         "date": "1999-03-09",
+         "place": "Amadora",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "176 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1482.png"
+   }
+}

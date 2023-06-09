@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 51146,
+      "name": "V. Mannone",
+      "firstname": "Vito",
+      "lastname": "Mannone",
+      "age": 35,
+      "birth": {
+         "date": "1988-03-02",
+         "place": "Desio",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "189 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/51146.png"
+   }
+}

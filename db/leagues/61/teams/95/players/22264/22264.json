@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22264,
+      "name": "L. Ajorque",
+      "firstname": "Ludovic",
+      "lastname": "Ajorque",
+      "age": 29,
+      "birth": {
+         "date": "1994-02-25",
+         "place": "Saint-Denis",
+         "country": "Réunion"
+      },
+      "nationality": "France",
+      "height": "197 cm",
+      "weight": "92 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/22264.png"
+   }
+}

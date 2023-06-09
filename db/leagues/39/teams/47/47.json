@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 47,
+      "name": "Tottenham",
+      "code": "TOT",
+      "country": "England",
+      "founded": 1882,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/47.png"
+   }
+}

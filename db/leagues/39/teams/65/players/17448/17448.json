@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 17448,
+      "name": "J. Smith",
+      "firstname": "Jordan Clifford",
+      "lastname": "Smith",
+      "age": 29,
+      "birth": {
+         "date": "1994-12-08",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/17448.png"
+   }
+}

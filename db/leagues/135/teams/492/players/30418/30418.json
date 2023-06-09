@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30418,
+      "name": "P. Gollini",
+      "firstname": "Pierluigi",
+      "lastname": "Gollini",
+      "age": 28,
+      "birth": {
+         "date": "1995-03-18",
+         "place": "Bologna",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "194 cm",
+      "weight": "94 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30418.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25455,
+      "name": "A. Barkok",
+      "firstname": "Aymen",
+      "lastname": "Barkok",
+      "age": 25,
+      "birth": {
+         "date": "1998-05-21",
+         "place": "Frankfurt am Main",
+         "country": "Germany"
+      },
+      "nationality": "Morocco",
+      "height": "189 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/25455.png"
+   }
+}

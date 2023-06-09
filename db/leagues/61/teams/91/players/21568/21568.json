@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21568,
+      "name": "R. Aguilar",
+      "firstname": "Ruben",
+      "lastname": "Aguilar",
+      "age": 30,
+      "birth": {
+         "date": "1993-04-26",
+         "place": "Grenoble",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "170 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/21568.png"
+   }
+}

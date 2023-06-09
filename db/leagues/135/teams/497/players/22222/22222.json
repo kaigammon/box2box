@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22222,
+      "name": "Z. Çelik",
+      "firstname": "Mehmet Zeki",
+      "lastname": "Çelik",
+      "age": 26,
+      "birth": {
+         "date": "1997-02-17",
+         "place": "Bursa",
+         "country": "Türkiye"
+      },
+      "nationality": "Türkiye",
+      "height": "180 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/22222.png"
+   }
+}

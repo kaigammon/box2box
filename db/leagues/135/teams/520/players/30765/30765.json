@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30765,
+      "name": "I. Radu",
+      "firstname": "Ionuț Andrei",
+      "lastname": "Radu",
+      "age": 26,
+      "birth": {
+         "date": "1997-05-28",
+         "place": "București",
+         "country": "Romania"
+      },
+      "nationality": "Romania",
+      "height": "188 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30765.png"
+   }
+}

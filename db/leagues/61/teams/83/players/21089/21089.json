@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21089,
+      "name": "Fábio",
+      "firstname": "Fábio",
+      "lastname": "Pereira da Silva",
+      "age": 33,
+      "birth": {
+         "date": "1990-07-09",
+         "place": "Petrópolis",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "172 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/21089.png"
+   }
+}

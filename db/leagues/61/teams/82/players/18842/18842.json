@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18842,
+      "name": "M. Sakho",
+      "firstname": "Mamadou",
+      "lastname": "Sakho",
+      "age": 33,
+      "birth": {
+         "date": "1990-02-13",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "187 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18842.png"
+   }
+}

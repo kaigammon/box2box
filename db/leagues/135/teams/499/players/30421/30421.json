@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30421,
+      "name": "B. Djimsiti",
+      "firstname": "Berat",
+      "lastname": "Djimsiti",
+      "age": 30,
+      "birth": {
+         "date": "1993-02-19",
+         "place": "Zürich",
+         "country": "Switzerland"
+      },
+      "nationality": "Albania",
+      "height": "190 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30421.png"
+   }
+}

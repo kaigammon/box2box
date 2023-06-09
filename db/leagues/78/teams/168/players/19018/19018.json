@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19018,
+      "name": "T. Fosu-Mensah",
+      "firstname": "Timothy Evans",
+      "lastname": "Fosu-Mensah",
+      "age": 25,
+      "birth": {
+         "date": "1998-01-02",
+         "place": "Amsterdam",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "185 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19018.png"
+   }
+}

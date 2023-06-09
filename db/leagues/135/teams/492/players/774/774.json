@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 774,
+      "name": "Juan Jesus",
+      "firstname": "Juan Guilherme",
+      "lastname": "Nunes Jesus",
+      "age": 32,
+      "birth": {
+         "date": "1991-06-10",
+         "place": "Belo Horizonte",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "185 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/774.png"
+   }
+}

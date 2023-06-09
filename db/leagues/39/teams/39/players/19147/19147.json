@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19147,
+      "name": "C. Dawson",
+      "firstname": "Craig",
+      "lastname": "Dawson",
+      "age": 33,
+      "birth": {
+         "date": "1990-05-06",
+         "place": "Rochdale",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "188 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19147.png"
+   }
+}

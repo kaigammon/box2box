@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1139,
+      "name": "P. Gulácsi",
+      "firstname": "Péter",
+      "lastname": "Gulácsi",
+      "age": 33,
+      "birth": {
+         "date": "1990-05-06",
+         "place": "Budapest",
+         "country": "Hungary"
+      },
+      "nationality": "Hungary",
+      "height": "191 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1139.png"
+   }
+}

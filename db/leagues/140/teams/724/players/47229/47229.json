@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47229,
+      "name": "Fali",
+      "firstname": "Rafael",
+      "lastname": "Jiménez Jarque",
+      "age": 30,
+      "birth": {
+         "date": "1993-08-12",
+         "place": "Valencia",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "186 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47229.png"
+   }
+}

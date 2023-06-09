@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 484,
+      "name": "A. Miranchuk",
+      "firstname": "Aleksey",
+      "lastname": "Miranchuk",
+      "age": 28,
+      "birth": {
+         "date": "1995-10-17",
+         "place": "Slavyansk-na-Kubani",
+         "country": "Russia"
+      },
+      "nationality": "Russia",
+      "height": "182 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/484.png"
+   }
+}

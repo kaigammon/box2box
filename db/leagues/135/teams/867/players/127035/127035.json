@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 127035,
+      "name": "F. Baschirotto",
+      "firstname": "Federico",
+      "lastname": "Baschirotto",
+      "age": 27,
+      "birth": {
+         "date": "1996-09-20",
+         "place": "Isola della Scala",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "184 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/127035.png"
+   }
+}

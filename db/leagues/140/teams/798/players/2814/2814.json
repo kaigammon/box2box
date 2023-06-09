@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2814,
+      "name": "P. Rajković",
+      "firstname": "Predrag",
+      "lastname": "Rajković",
+      "age": 28,
+      "birth": {
+         "date": "1995-10-31",
+         "place": "Negotin",
+         "country": "Serbia"
+      },
+      "nationality": "Serbia",
+      "height": "191 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2814.png"
+   }
+}

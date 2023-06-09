@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 336233,
+      "name": "M. Tolba",
+      "firstname": "Mohammed",
+      "lastname": "Tolba",
+      "age": 19,
+      "birth": {
+         "date": "2004-07-19",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "185 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/336233.png"
+   }
+}

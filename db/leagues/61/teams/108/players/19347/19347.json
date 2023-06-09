@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19347,
+      "name": "J. Jeanvier",
+      "firstname": "Julian Marc",
+      "lastname": "Jeanvier",
+      "age": 31,
+      "birth": {
+         "date": "1992-03-31",
+         "place": "Clichy",
+         "country": "France"
+      },
+      "nationality": "Guinea",
+      "height": "183 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19347.png"
+   }
+}

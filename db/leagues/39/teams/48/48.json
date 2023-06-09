@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 48,
+      "name": "West Ham",
+      "code": "WES",
+      "country": "England",
+      "founded": 1895,
+      "national": false,
+      "logo": "https://media-1.api-sports.io/football/teams/48.png"
+   }
+}

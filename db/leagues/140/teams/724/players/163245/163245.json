@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 163245,
+      "name": "Martín Calderón",
+      "firstname": "Martín Manuel",
+      "lastname": "Calderón Gómez",
+      "age": 24,
+      "birth": {
+         "date": "1999-03-01",
+         "place": "Jerez de la Frontera",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "183 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/163245.png"
+   }
+}

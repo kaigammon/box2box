@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 82,
+      "name": "Montpellier",
+      "code": "MON",
+      "country": "France",
+      "founded": 1974,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/82.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46736,
+      "name": "F. Russo",
+      "firstname": "Franco Matías",
+      "lastname": "Russo Panos",
+      "age": 29,
+      "birth": {
+         "date": "1994-10-25",
+         "place": "Salta",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "185 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/46736.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 177618,
+      "name": "K. Fischer",
+      "firstname": "Kilian",
+      "lastname": "Fischer",
+      "age": 23,
+      "birth": {
+         "date": "2000-10-12",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "182 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/177618.png"
+   }
+}

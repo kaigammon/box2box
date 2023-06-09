@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 193952,
+      "name": "J. Lepenant",
+      "firstname": "Johann Théo Tom",
+      "lastname": "Lepenant",
+      "age": 21,
+      "birth": {
+         "date": "2002-10-22",
+         "place": "Granville",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "176 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/193952.png"
+   }
+}

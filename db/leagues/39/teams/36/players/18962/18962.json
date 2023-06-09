@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18962,
+      "name": "S. Duffy",
+      "firstname": "Shane Patrick Michael",
+      "lastname": "Duffy",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-01",
+         "place": "Derry",
+         "country": "Northern Ireland"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "193 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18962.png"
+   }
+}

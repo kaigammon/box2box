@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 3010,
+      "name": "A. Reca",
+      "firstname": "Arkadiusz",
+      "lastname": "Reca",
+      "age": 28,
+      "birth": {
+         "date": "1995-06-17",
+         "place": "Chojnicach",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "187 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/3010.png"
+   }
+}

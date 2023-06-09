@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 280947,
+      "name": "A. Moțoc",
+      "firstname": "Andrei",
+      "lastname": "Moțoc",
+      "age": 21,
+      "birth": {
+         "date": "2002-04-13",
+         "place": null,
+         "country": "Romania"
+      },
+      "nationality": "Moldova",
+      "height": "195 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/280947.png"
+   }
+}

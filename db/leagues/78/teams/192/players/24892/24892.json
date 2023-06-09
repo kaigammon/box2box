@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24892,
+      "name": "M. Köbbing",
+      "firstname": "Matthias",
+      "lastname": "Köbbing",
+      "age": 26,
+      "birth": {
+         "date": "1997-05-28",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "196 cm",
+      "weight": "94 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/24892.png"
+   }
+}

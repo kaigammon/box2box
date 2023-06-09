@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1253,
+      "name": "B. Costil",
+      "firstname": "Benoît Guy",
+      "lastname": "Robert Costil",
+      "age": 36,
+      "birth": {
+         "date": "1987-07-04",
+         "place": "Caen",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "188 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1253.png"
+   }
+}

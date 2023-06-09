@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 214,
+      "name": "F. Colidio",
+      "firstname": "Facundo",
+      "lastname": "Colidio",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-04",
+         "place": "Rafaela",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "182 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/214.png"
+   }
+}

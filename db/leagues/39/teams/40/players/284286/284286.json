@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284286,
+      "name": "Isaac Mabaya",
+      "firstname": "Isaac",
+      "lastname": "Mabaya",
+      "age": 18,
+      "birth": {
+         "date": "2004-09-22",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/284286.png"
+   }
+}

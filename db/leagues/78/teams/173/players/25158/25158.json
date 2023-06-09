@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25158,
+      "name": "D. Raum",
+      "firstname": "David",
+      "lastname": "Raum",
+      "age": 25,
+      "birth": {
+         "date": "1998-04-22",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "180 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/25158.png"
+   }
+}

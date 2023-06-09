@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18935,
+      "name": "A. McCarthy",
+      "firstname": "Alex Simon",
+      "lastname": "McCarthy",
+      "age": 34,
+      "birth": {
+         "date": "1989-12-03",
+         "place": "Guildford",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "193 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18935.png"
+   }
+}

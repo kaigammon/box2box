@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 128772,
+      "name": "D. Zima",
+      "firstname": "David",
+      "lastname": "Zima",
+      "age": 23,
+      "birth": {
+         "date": "2000-11-08",
+         "place": null,
+         "country": "Czech Republic"
+      },
+      "nationality": "Czech Republic",
+      "height": "190 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/128772.png"
+   }
+}

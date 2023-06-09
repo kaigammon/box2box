@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 189,
+      "name": "D. Padelli",
+      "firstname": "Daniele",
+      "lastname": "Padelli",
+      "age": 38,
+      "birth": {
+         "date": "1985-10-25",
+         "place": "Lecco",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "191 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/189.png"
+   }
+}

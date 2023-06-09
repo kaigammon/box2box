@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31007,
+      "name": "Gabriel Brazão",
+      "firstname": "Gabriel",
+      "lastname": "Nascimento Resende Brazão",
+      "age": 23,
+      "birth": {
+         "date": "2000-10-05",
+         "place": "Uberlândia",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "192 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/31007.png"
+   }
+}

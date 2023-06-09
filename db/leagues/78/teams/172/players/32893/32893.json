@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 32893,
+      "name": "H. Ito",
+      "firstname": "Hiroki",
+      "lastname": "Ito",
+      "age": 24,
+      "birth": {
+         "date": "1999-05-12",
+         "place": "Shizuoka",
+         "country": "Japan"
+      },
+      "nationality": "Japan",
+      "height": "188 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/32893.png"
+   }
+}

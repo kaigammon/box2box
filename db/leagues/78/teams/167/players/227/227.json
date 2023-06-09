@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 227,
+      "name": "Angeliño",
+      "firstname": "José Ángel",
+      "lastname": "Esmoris Tasende",
+      "age": 26,
+      "birth": {
+         "date": "1997-01-04",
+         "place": "Coristanco",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "175 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/227.png"
+   }
+}

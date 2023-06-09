@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284059,
+      "name": "L. Plange",
+      "firstname": "Luke Elliot",
+      "lastname": "Plange",
+      "age": 21,
+      "birth": {
+         "date": "2002-11-04",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/284059.png"
+   }
+}

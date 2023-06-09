@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 489,
+      "name": "AC Milan",
+      "code": "MIL",
+      "country": "Italy",
+      "founded": 1899,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/489.png"
+   }
+}

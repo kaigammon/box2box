@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 352228,
+      "name": "Angelo Guida",
+      "firstname": "Angelo",
+      "lastname": "Guida",
+      "age": 20,
+      "birth": {
+         "date": "2002-08-24",
+         "place": "Caserta",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/352228.png"
+   }
+}

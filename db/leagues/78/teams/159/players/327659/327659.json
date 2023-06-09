@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 327659,
+      "name": "J. Eitschberger",
+      "firstname": "Julian",
+      "lastname": "Eitschberger",
+      "age": 19,
+      "birth": {
+         "date": "2004-03-05",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "180 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/327659.png"
+   }
+}

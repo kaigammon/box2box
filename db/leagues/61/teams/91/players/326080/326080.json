@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 326080,
+      "name": "A. Platret",
+      "firstname": "Aurélien",
+      "lastname": "Platret",
+      "age": 19,
+      "birth": {
+         "date": "2003-02-20",
+         "place": "Grasse",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/326080.png"
+   }
+}

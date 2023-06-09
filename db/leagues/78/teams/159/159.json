@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 159,
+      "name": "Hertha Berlin",
+      "code": "HER",
+      "country": "Germany",
+      "founded": 1892,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/159.png"
+   }
+}

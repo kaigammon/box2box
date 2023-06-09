@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 286704,
+      "name": "F. Paschke",
+      "firstname": "Felix",
+      "lastname": "Paschke",
+      "age": 20,
+      "birth": {
+         "date": "2003-07-16",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/286704.png"
+   }
+}

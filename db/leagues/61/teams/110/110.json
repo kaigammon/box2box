@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 110,
+      "name": "Estac Troyes",
+      "code": "TRO",
+      "country": "France",
+      "founded": 1986,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/110.png"
+   }
+}

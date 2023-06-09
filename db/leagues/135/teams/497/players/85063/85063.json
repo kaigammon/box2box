@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 85063,
+      "name": "W. Bianda",
+      "firstname": "William Ludovic",
+      "lastname": "Brandon Bianda",
+      "age": 23,
+      "birth": {
+         "date": "2000-04-30",
+         "place": "Suresnes",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "185 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/85063.png"
+   }
+}

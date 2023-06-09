@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 152955,
+      "name": "L. Bergström",
+      "firstname": "Lucas Carl Edvard",
+      "lastname": "Bergström",
+      "age": 21,
+      "birth": {
+         "date": "2002-09-05",
+         "place": null,
+         "country": "Finland"
+      },
+      "nationality": "Finland",
+      "height": "199 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/152955.png"
+   }
+}

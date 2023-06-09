@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 340206,
+      "name": "T. Guercio",
+      "firstname": "Tommaso",
+      "lastname": "Guercio",
+      "age": 18,
+      "birth": {
+         "date": "2005-06-01",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Poland",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/340206.png"
+   }
+}

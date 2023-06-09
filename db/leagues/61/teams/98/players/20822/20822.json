@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20822,
+      "name": "C. Alhadhur",
+      "firstname": "Chaker",
+      "lastname": "Alhadhur",
+      "age": 32,
+      "birth": {
+         "date": "1991-12-04",
+         "place": "Nantes",
+         "country": "France"
+      },
+      "nationality": "Comoros",
+      "height": "172 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20822.png"
+   }
+}

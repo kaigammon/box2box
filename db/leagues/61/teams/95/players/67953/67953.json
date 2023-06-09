@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 67953,
+      "name": "L. Perrin",
+      "firstname": "Lucas",
+      "lastname": "Perrin",
+      "age": 25,
+      "birth": {
+         "date": "1998-11-19",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "187 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/67953.png"
+   }
+}

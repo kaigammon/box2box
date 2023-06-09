@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162480,
+      "name": "E. Martel",
+      "firstname": "Eric",
+      "lastname": "Martel",
+      "age": 21,
+      "birth": {
+         "date": "2002-04-29",
+         "place": "Straubing",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "188 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/162480.png"
+   }
+}

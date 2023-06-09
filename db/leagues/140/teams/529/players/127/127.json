@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 127,
+      "name": "M. ter Stegen",
+      "firstname": "Marc-André",
+      "lastname": "ter Stegen",
+      "age": 31,
+      "birth": {
+         "date": "1992-04-30",
+         "place": "Mönchengladbach",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "187 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/127.png"
+   }
+}

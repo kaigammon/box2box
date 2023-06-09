@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 295770,
+      "name": "M. Carnelos",
+      "firstname": "Matteo",
+      "lastname": "Carnelos",
+      "age": 19,
+      "birth": {
+         "date": "2003-02-22",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/295770.png"
+   }
+}

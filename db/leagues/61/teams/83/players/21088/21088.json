@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21088,
+      "name": "N. Pallois",
+      "firstname": "Nicolas",
+      "lastname": "Pallois",
+      "age": 36,
+      "birth": {
+         "date": "1987-09-19",
+         "place": "Elbeuf",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "190 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/21088.png"
+   }
+}

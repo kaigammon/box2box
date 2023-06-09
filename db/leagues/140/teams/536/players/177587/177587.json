@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 177587,
+      "name": "M. Herzig",
+      "firstname": "Marius",
+      "lastname": "Herzig",
+      "age": 24,
+      "birth": {
+         "date": "1999-12-17",
+         "place": "Waldkirchen",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "188 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/177587.png"
+   }
+}

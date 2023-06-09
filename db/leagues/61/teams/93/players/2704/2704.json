@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2704,
+      "name": "Y. Abdelhamid",
+      "firstname": "Yunis",
+      "lastname": "Abdelhamid",
+      "age": 36,
+      "birth": {
+         "date": "1987-09-28",
+         "place": "Montpellier",
+         "country": "France"
+      },
+      "nationality": "Morocco",
+      "height": "190 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2704.png"
+   }
+}

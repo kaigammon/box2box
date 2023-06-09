@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 339237,
+      "name": "F. Lange",
+      "firstname": "Felix",
+      "lastname": "Finn Lange",
+      "age": 19,
+      "birth": {
+         "date": "2004-03-13",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/339237.png"
+   }
+}

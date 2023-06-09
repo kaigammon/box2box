@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 274298,
+      "name": "Tiago Ribeiro",
+      "firstname": "Tiago Miguel",
+      "lastname": "Hora Ribeiro",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-14",
+         "place": "Vila Nova de Gaia",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "185 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/274298.png"
+   }
+}

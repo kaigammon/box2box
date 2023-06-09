@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 298339,
+      "name": "N. Petzsch",
+      "firstname": "Niklas",
+      "lastname": "Petzsch",
+      "age": 18,
+      "birth": {
+         "date": "2004-06-18",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/298339.png"
+   }
+}

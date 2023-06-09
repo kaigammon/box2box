@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 339221,
+      "name": "N. Böll",
+      "firstname": "Nico Jan",
+      "lastname": "Böll",
+      "age": 18,
+      "birth": {
+         "date": "2004-04-25",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/339221.png"
+   }
+}

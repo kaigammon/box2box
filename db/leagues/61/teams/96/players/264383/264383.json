@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 264383,
+      "name": "W. Kamanzi",
+      "firstname": "Warren Håkon Christofer",
+      "lastname": "Kamanzi",
+      "age": 23,
+      "birth": {
+         "date": "2000-11-11",
+         "place": null,
+         "country": "Norway"
+      },
+      "nationality": "Norway",
+      "height": "177 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/264383.png"
+   }
+}

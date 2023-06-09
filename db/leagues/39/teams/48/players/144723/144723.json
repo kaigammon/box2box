@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 144723,
+      "name": "K. Hegyi",
+      "firstname": "Krisztián",
+      "lastname": "Hegyi",
+      "age": 21,
+      "birth": {
+         "date": "2002-09-24",
+         "place": null,
+         "country": "Hungary"
+      },
+      "nationality": "Hungary",
+      "height": "193 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/144723.png"
+   }
+}

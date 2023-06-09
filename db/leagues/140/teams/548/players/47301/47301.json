@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47301,
+      "name": "R. Le Normand",
+      "firstname": "Robin",
+      "lastname": "Le Normand",
+      "age": 27,
+      "birth": {
+         "date": "1996-11-11",
+         "place": "Pabu",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "187 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47301.png"
+   }
+}

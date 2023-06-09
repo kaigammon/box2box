@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 344283,
+      "name": "E. Bakatukanda",
+      "firstname": "Elias-Geoffrey",
+      "lastname": "Bakatukanda",
+      "age": 19,
+      "birth": {
+         "date": "2004-04-13",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "193 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/344283.png"
+   }
+}

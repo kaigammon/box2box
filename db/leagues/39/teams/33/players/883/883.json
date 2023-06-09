@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 883,
+      "name": "Lee Grant",
+      "firstname": "Lee",
+      "lastname": "Grant",
+      "age": 39,
+      "birth": {
+         "date": "1983-01-27",
+         "place": "Hemel Hempstead",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "193 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/883.png"
+   }
+}

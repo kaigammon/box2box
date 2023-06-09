@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 153408,
+      "name": "D. Oyegoke",
+      "firstname": "Daniel",
+      "lastname": "Oladele Akinbiyi Oyegoke",
+      "age": 20,
+      "birth": {
+         "date": "2003-01-03",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/153408.png"
+   }
+}

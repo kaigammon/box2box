@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2508,
+      "name": "S. Arzamendia",
+      "firstname": "Santiago",
+      "lastname": "Arzamendia Duarte",
+      "age": 25,
+      "birth": {
+         "date": "1998-05-05",
+         "place": "Wanda",
+         "country": "Argentina"
+      },
+      "nationality": "Paraguay",
+      "height": "172 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2508.png"
+   }
+}

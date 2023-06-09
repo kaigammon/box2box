@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 64167,
+      "name": "G. Słonina",
+      "firstname": "Gabriel Paweł",
+      "lastname": "Słonina",
+      "age": 19,
+      "birth": {
+         "date": "2004-05-15",
+         "place": "Addison",
+         "country": "USA"
+      },
+      "nationality": "USA",
+      "height": "193 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/64167.png"
+   }
+}

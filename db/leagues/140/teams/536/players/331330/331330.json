@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 331330,
+      "name": "Matías Árbol",
+      "firstname": "Matías",
+      "lastname": "Árbol González",
+      "age": 21,
+      "birth": {
+         "date": "2002-09-12",
+         "place": "Palomares del Río",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "184 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/331330.png"
+   }
+}

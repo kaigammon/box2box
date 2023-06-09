@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 36878,
+      "name": "M. Bizot",
+      "firstname": "Marco",
+      "lastname": "Bizot",
+      "age": 32,
+      "birth": {
+         "date": "1991-03-10",
+         "place": "Hoorn",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "193 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/36878.png"
+   }
+}

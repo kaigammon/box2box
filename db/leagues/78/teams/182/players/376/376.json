@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 376,
+      "name": "Diogo Leite",
+      "firstname": "Diogo Filipe",
+      "lastname": "Monteiro Pinto Leite",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-23",
+         "place": "Porto",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "190 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/376.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19265,
+      "name": "A. Webster",
+      "firstname": "Adam Harry",
+      "lastname": "Webster",
+      "age": 28,
+      "birth": {
+         "date": "1995-01-04",
+         "place": "West Wittering",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "191 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19265.png"
+   }
+}

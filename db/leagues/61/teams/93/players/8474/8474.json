@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 8474,
+      "name": "T. De Smet",
+      "firstname": "Thibault",
+      "lastname": "De Smet",
+      "age": 25,
+      "birth": {
+         "date": "1998-06-05",
+         "place": "Brugge",
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "183 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/8474.png"
+   }
+}

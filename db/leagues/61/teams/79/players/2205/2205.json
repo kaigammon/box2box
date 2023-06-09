@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2205,
+      "name": "H. Ben Arfa",
+      "firstname": "Hatem",
+      "lastname": "Ben Arfa",
+      "age": 35,
+      "birth": {
+         "date": "1987-03-07",
+         "place": "Clamart",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "178 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2205.png"
+   }
+}

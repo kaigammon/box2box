@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1119,
+      "name": "K. Ajer",
+      "firstname": "Kristoffer",
+      "lastname": "Vassbakk Ajer",
+      "age": 25,
+      "birth": {
+         "date": "1998-04-17",
+         "place": "Rælingen",
+         "country": "Norway"
+      },
+      "nationality": "Norway",
+      "height": "198 cm",
+      "weight": "92 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1119.png"
+   }
+}

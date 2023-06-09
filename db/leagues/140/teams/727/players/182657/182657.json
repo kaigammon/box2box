@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 182657,
+      "name": "Pablo Valencia",
+      "firstname": "Pablo",
+      "lastname": "Valencia García",
+      "age": 22,
+      "birth": {
+         "date": "2001-03-16",
+         "place": "Pamplona",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "188 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/182657.png"
+   }
+}

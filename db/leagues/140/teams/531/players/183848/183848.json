@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 183848,
+      "name": "Julen Agirrezabala",
+      "firstname": "Julen",
+      "lastname": "Agirrezabala Astúlez",
+      "age": 23,
+      "birth": {
+         "date": "2000-12-26",
+         "place": "San Sebastián",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "187 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/183848.png"
+   }
+}

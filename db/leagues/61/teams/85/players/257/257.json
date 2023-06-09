@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 257,
+      "name": "Marquinhos",
+      "firstname": "Marcos",
+      "lastname": "Aoás Corrêa",
+      "age": 29,
+      "birth": {
+         "date": "1994-05-14",
+         "place": "São Paulo",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "183 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/257.png"
+   }
+}

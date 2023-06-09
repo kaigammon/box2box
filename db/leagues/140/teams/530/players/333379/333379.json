@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 333379,
+      "name": "Antonio Gomis",
+      "firstname": "Antonio",
+      "lastname": "Gomis Alemañ",
+      "age": 20,
+      "birth": {
+         "date": "2003-05-20",
+         "place": "Elche",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/333379.png"
+   }
+}

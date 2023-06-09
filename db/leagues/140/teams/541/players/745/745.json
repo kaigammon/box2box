@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 745,
+      "name": "Isco",
+      "firstname": "Francisco Román",
+      "lastname": "Alarcón Suárez",
+      "age": 30,
+      "birth": {
+         "date": "1992-04-21",
+         "place": "Benalmádena",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "176 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/745.png"
+   }
+}

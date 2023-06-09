@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18765,
+      "name": "André Gomes",
+      "firstname": "André Filipe",
+      "lastname": "Tavares Gomes",
+      "age": 30,
+      "birth": {
+         "date": "1993-07-30",
+         "place": "Grijó",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "188 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18765.png"
+   }
+}

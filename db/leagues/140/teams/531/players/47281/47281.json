@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47281,
+      "name": "Dani García",
+      "firstname": "Daniel",
+      "lastname": "García Carrillo",
+      "age": 33,
+      "birth": {
+         "date": "1990-05-24",
+         "place": "Zumárraga",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "180 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47281.png"
+   }
+}

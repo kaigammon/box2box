@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 342995,
+      "name": "L. Nava",
+      "firstname": "Lapo Francesco Maria",
+      "lastname": "Nava",
+      "age": 19,
+      "birth": {
+         "date": "2004-01-22",
+         "place": "Milano",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/342995.png"
+   }
+}

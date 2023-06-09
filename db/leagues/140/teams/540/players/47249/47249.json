@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47249,
+      "name": "L. Cabrera",
+      "firstname": "Leandro Daniel",
+      "lastname": "Cabrera Sasía",
+      "age": 32,
+      "birth": {
+         "date": "1991-06-17",
+         "place": "Montevideo",
+         "country": "Uruguay"
+      },
+      "nationality": "Uruguay",
+      "height": "190 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47249.png"
+   }
+}

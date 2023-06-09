@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47237,
+      "name": "L. Suárez",
+      "firstname": "Luis Javier",
+      "lastname": "Suárez Charris",
+      "age": 26,
+      "birth": {
+         "date": "1997-12-02",
+         "place": "Santa Marta",
+         "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "185 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47237.png"
+   }
+}

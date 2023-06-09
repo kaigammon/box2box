@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 50816,
+      "name": "R. Laryea",
+      "firstname": "Richmond Mamah",
+      "lastname": "Laryea",
+      "age": 28,
+      "birth": {
+         "date": "1995-01-07",
+         "place": "Toronto",
+         "country": "Canada"
+      },
+      "nationality": "Canada",
+      "height": "175 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/50816.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 333682,
+      "name": "Cristhian Mosquera",
+      "firstname": "Cristhian Andrey",
+      "lastname": "Mosquera Ibarguen",
+      "age": 19,
+      "birth": {
+         "date": "2004-06-27",
+         "place": null,
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "188 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/333682.png"
+   }
+}

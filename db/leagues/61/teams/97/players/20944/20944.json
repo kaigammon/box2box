@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20944,
+      "name": "J. Hergault",
+      "firstname": "Jérôme",
+      "lastname": "Hergault",
+      "age": 36,
+      "birth": {
+         "date": "1986-04-05",
+         "place": "Montmorency",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "185 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20944.png"
+   }
+}

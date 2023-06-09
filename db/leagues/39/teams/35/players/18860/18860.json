@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18860,
+      "name": "M. Travers",
+      "firstname": "Mark",
+      "lastname": "Travers",
+      "age": 24,
+      "birth": {
+         "date": "1999-05-18",
+         "place": "Maynooth",
+         "country": "Republic of Ireland"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "191 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18860.png"
+   }
+}

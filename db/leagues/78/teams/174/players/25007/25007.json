@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25007,
+      "name": "C. Brunner",
+      "firstname": "Cédric",
+      "lastname": "Brunner",
+      "age": 29,
+      "birth": {
+         "date": "1994-02-17",
+         "place": "Zürich",
+         "country": "Switzerland"
+      },
+      "nationality": "Switzerland",
+      "height": "180 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/25007.png"
+   }
+}

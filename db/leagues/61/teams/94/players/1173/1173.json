@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1173,
+      "name": "B. Meling",
+      "firstname": "Birger",
+      "lastname": "Solberg Meling",
+      "age": 29,
+      "birth": {
+         "date": "1994-12-17",
+         "place": "Stavanger",
+         "country": "Norway"
+      },
+      "nationality": "Norway",
+      "height": "173 cm",
+      "weight": "64 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1173.png"
+   }
+}

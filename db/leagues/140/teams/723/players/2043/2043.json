@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2043,
+      "name": "Daniel Filipe Martins Carriço",
+      "firstname": "Daniel Filipe",
+      "lastname": "Martins Carriço",
+      "age": 34,
+      "birth": {
+         "date": "1988-08-04",
+         "place": "Cascais",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "180 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2043.png"
+   }
+}

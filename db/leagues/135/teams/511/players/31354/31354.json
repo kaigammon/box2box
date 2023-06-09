@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31354,
+      "name": "G. Vicario",
+      "firstname": "Guglielmo",
+      "lastname": "Vicario",
+      "age": 27,
+      "birth": {
+         "date": "1996-10-07",
+         "place": "Udine",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "194 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/31354.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2924,
+      "name": "A. Januzaj",
+      "firstname": "Adnan",
+      "lastname": "Januzaj",
+      "age": 28,
+      "birth": {
+         "date": "1995-02-05",
+         "place": "Brussel",
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "186 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2924.png"
+   }
+}

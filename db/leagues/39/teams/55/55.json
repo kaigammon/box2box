@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 55,
+      "name": "Brentford",
+      "code": "BRE",
+      "country": "England",
+      "founded": 1889,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/55.png"
+   }
+}

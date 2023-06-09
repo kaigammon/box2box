@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 505,
+      "name": "Inter",
+      "code": "INT",
+      "country": "Italy",
+      "founded": 1908,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/505.png"
+   }
+}

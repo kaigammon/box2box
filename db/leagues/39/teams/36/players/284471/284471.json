@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284471,
+      "name": "S. Parkes",
+      "firstname": "Stefan Charles Earl",
+      "lastname": "Parkes",
+      "age": 19,
+      "birth": {
+         "date": "2004-03-28",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/284471.png"
+   }
+}

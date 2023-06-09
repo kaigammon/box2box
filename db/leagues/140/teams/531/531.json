@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 531,
+      "name": "Athletic Club",
+      "code": "BIL",
+      "country": "Spain",
+      "founded": 1898,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/531.png"
+   }
+}

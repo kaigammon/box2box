@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1440,
+      "name": "R. Holding",
+      "firstname": "Robert Samuel",
+      "lastname": "Holding",
+      "age": 28,
+      "birth": {
+         "date": "1995-09-20",
+         "place": "Stalybridge",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "189 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1440.png"
+   }
+}

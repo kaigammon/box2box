@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 151756,
+      "name": "W. Dennis",
+      "firstname": "William Jonathan",
+      "lastname": "Dennis",
+      "age": 23,
+      "birth": {
+         "date": "2000-07-10",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/151756.png"
+   }
+}

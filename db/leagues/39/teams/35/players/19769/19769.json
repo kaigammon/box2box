@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19769,
+      "name": "J. Stacey",
+      "firstname": "Jack William",
+      "lastname": "Stacey",
+      "age": 27,
+      "birth": {
+         "date": "1996-04-06",
+         "place": "Bracknell",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "180 cm",
+      "weight": "62 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19769.png"
+   }
+}

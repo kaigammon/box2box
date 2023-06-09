@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47306,
+      "name": "Álex Sola",
+      "firstname": "Alejandro",
+      "lastname": "Sola López-Ocaña",
+      "age": 24,
+      "birth": {
+         "date": "1999-06-09",
+         "place": "San Sebastián",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "178 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47306.png"
+   }
+}

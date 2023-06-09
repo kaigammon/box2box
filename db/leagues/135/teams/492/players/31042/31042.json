@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31042,
+      "name": "G. Di Lorenzo",
+      "firstname": "Giovanni",
+      "lastname": "Di Lorenzo",
+      "age": 30,
+      "birth": {
+         "date": "1993-08-04",
+         "place": "Castelnuovo Garfagnana",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "183 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/31042.png"
+   }
+}

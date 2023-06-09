@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25333,
+      "name": "R. Jarstein",
+      "firstname": "Rune",
+      "lastname": "Almenning Jarstein",
+      "age": 39,
+      "birth": {
+         "date": "1984-09-29",
+         "place": "Porsgrunn",
+         "country": "Norway"
+      },
+      "nationality": "Norway",
+      "height": "192 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25333.png"
+   }
+}

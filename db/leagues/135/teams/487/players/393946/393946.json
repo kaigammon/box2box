@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 393946,
+      "name": "B. Maliszewski",
+      "firstname": "Bartłomiej",
+      "lastname": "Maliszewski",
+      "age": 19,
+      "birth": {
+         "date": "2004-02-12",
+         "place": null,
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/393946.png"
+   }
+}

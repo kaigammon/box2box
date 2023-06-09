@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 90666,
+      "name": "Nicolas Feldhahn",
+      "firstname": "Nicolas",
+      "lastname": "Feldhahn",
+      "age": 36,
+      "birth": {
+         "date": "1986-08-14",
+         "place": "München",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "189 cm",
+      "weight": "94 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/90666.png"
+   }
+}

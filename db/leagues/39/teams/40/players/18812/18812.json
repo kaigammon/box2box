@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18812,
+      "name": "Adrián",
+      "firstname": "Adrián",
+      "lastname": "San Miguel del Castillo",
+      "age": 36,
+      "birth": {
+         "date": "1987-01-03",
+         "place": "Sevilla",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "190 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18812.png"
+   }
+}

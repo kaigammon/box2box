@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 329578,
+      "name": "M. Backhaus",
+      "firstname": "Mio",
+      "lastname": "Backhaus",
+      "age": 19,
+      "birth": {
+         "date": "2004-04-16",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "194 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/329578.png"
+   }
+}

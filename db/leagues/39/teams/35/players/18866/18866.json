@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18866,
+      "name": "C. Mepham",
+      "firstname": "Christopher James",
+      "lastname": "Mepham",
+      "age": 26,
+      "birth": {
+         "date": "1997-11-05",
+         "place": "London",
+         "country": "England"
+      },
+      "nationality": "Wales",
+      "height": "193 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18866.png"
+   }
+}

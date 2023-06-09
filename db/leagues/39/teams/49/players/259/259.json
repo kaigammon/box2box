@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 259,
+      "name": "Thiago Silva",
+      "firstname": "Thiago",
+      "lastname": "Emiliano da Silva",
+      "age": 39,
+      "birth": {
+         "date": "1984-09-22",
+         "place": "Rio de Janeiro",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "183 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/259.png"
+   }
+}

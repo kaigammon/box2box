@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47272,
+      "name": "Balenziaga",
+      "firstname": "Mikel",
+      "lastname": "Balenziaga Oruesagasti",
+      "age": 35,
+      "birth": {
+         "date": "1988-02-29",
+         "place": "Zumárraga",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "177 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47272.png"
+   }
+}

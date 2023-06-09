@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46914,
+      "name": "E. Saveljich",
+      "firstname": "Esteban Ariel",
+      "lastname": "Saveljich",
+      "age": 32,
+      "birth": {
+         "date": "1991-05-20",
+         "place": "Tandil",
+         "country": "Argentina"
+      },
+      "nationality": "Montenegro",
+      "height": "187 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/46914.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20600,
+      "name": "R. Perraud",
+      "firstname": "Romain Paul Jean-Michel",
+      "lastname": "Perraud",
+      "age": 26,
+      "birth": {
+         "date": "1997-09-22",
+         "place": "Toulouse",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "173 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/20600.png"
+   }
+}

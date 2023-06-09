@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 138,
+      "name": "J. Todibo",
+      "firstname": "Jean-Clair Dimitri Roger",
+      "lastname": "Todibo",
+      "age": 24,
+      "birth": {
+         "date": "1999-12-30",
+         "place": "Cayenne",
+         "country": "French Guiana"
+      },
+      "nationality": "France",
+      "height": "192 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/138.png"
+   }
+}

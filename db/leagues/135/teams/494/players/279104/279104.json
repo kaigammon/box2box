@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 279104,
+      "name": "Leonardo Buta",
+      "firstname": "Leonardo Daniel",
+      "lastname": "Ulineia Buta",
+      "age": 21,
+      "birth": {
+         "date": "2002-06-05",
+         "place": null,
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "182 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/279104.png"
+   }
+}

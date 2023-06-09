@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 282136,
+      "name": "N. Emeran",
+      "firstname": "Noam",
+      "lastname": "Fritz Emeran",
+      "age": 20,
+      "birth": {
+         "date": "2002-09-24",
+         "place": "Paray-le-Monial",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "179 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/282136.png"
+   }
+}

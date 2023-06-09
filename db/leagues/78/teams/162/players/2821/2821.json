@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2821,
+      "name": "M. Veljković",
+      "firstname": "Miloš",
+      "lastname": "Veljković",
+      "age": 28,
+      "birth": {
+         "date": "1995-09-26",
+         "place": "Basel",
+         "country": "Switzerland"
+      },
+      "nationality": "Serbia",
+      "height": "188 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2821.png"
+   }
+}

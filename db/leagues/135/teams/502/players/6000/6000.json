@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 6000,
+      "name": "L. Martínez",
+      "firstname": "Lucas",
+      "lastname": "Martínez Quarta",
+      "age": 27,
+      "birth": {
+         "date": "1996-05-10",
+         "place": "Buenos Aires",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "181 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/6000.png"
+   }
+}

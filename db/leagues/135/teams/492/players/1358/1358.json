@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1358,
+      "name": "E. Elmas",
+      "firstname": "Eljif",
+      "lastname": "Elmas",
+      "age": 24,
+      "birth": {
+         "date": "1999-09-24",
+         "place": "Skopje",
+         "country": "North Macedonia"
+      },
+      "nationality": "North Macedonia",
+      "height": "182 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1358.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19657,
+      "name": "M. Rodák",
+      "firstname": "Marek",
+      "lastname": "Rodák",
+      "age": 27,
+      "birth": {
+         "date": "1996-12-13",
+         "place": "Košice",
+         "country": "Slovakia"
+      },
+      "nationality": "Slovakia",
+      "height": "194 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19657.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 36987,
+      "name": "S. Lammers",
+      "firstname": "Sam",
+      "lastname": "Lammers",
+      "age": 26,
+      "birth": {
+         "date": "1997-04-30",
+         "place": "Tilburg",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "189 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/36987.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25404,
+      "name": "J. Roussillon",
+      "firstname": "Jérôme",
+      "lastname": "Roussillon",
+      "age": 30,
+      "birth": {
+         "date": "1993-01-06",
+         "place": "Sarcelles",
+         "country": "France"
+      },
+      "nationality": "Guadeloupe",
+      "height": "175 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/25404.png"
+   }
+}

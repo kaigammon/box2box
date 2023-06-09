@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19321,
+      "name": "J. Rodon",
+      "firstname": "Joseph Peter",
+      "lastname": "Rodon",
+      "age": 26,
+      "birth": {
+         "date": "1997-10-22",
+         "place": "Swansea",
+         "country": "Wales"
+      },
+      "nationality": "Wales",
+      "height": "193 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19321.png"
+   }
+}

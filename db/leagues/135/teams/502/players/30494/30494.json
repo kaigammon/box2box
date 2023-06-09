@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30494,
+      "name": "A. Rosati",
+      "firstname": "Antonio",
+      "lastname": "Rosati",
+      "age": 39,
+      "birth": {
+         "date": "1983-06-26",
+         "place": "Tivoli",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "195 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30494.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 370042,
+      "name": "T. Strata",
+      "firstname": "Tony",
+      "lastname": "Strata",
+      "age": 19,
+      "birth": {
+         "date": "2004-09-07",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/370042.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 15793,
+      "name": "R. Nicolaisen",
+      "firstname": "Rasmus",
+      "lastname": "Schmidt Nicolaisen",
+      "age": 26,
+      "birth": {
+         "date": "1997-03-16",
+         "place": "Aulum",
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "191 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/15793.png"
+   }
+}

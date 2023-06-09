@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 278133,
+      "name": "Oscar Bobb",
+      "firstname": "Oscar",
+      "lastname": "Bobb",
+      "age": 19,
+      "birth": {
+         "date": "2003-07-12",
+         "place": null,
+         "country": "Norway"
+      },
+      "nationality": "Norway",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/278133.png"
+   }
+}

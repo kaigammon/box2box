@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46759,
+      "name": "A. Espino",
+      "firstname": "Luis Alfonso",
+      "lastname": "Espino García",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-05",
+         "place": "San Jacinto",
+         "country": "Uruguay"
+      },
+      "nationality": "Uruguay",
+      "height": "172 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/46759.png"
+   }
+}

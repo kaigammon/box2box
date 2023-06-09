@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 333373,
+      "name": "Gorka Rivera",
+      "firstname": "Gorka",
+      "lastname": "Rivera Alonso",
+      "age": 19,
+      "birth": {
+         "date": "2004-08-01",
+         "place": "Leganés",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/333373.png"
+   }
+}

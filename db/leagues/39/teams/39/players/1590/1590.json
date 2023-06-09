@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1590,
+      "name": "José Sá",
+      "firstname": "José Pedro",
+      "lastname": "Malheiro de Sá",
+      "age": 30,
+      "birth": {
+         "date": "1993-01-17",
+         "place": "Braga",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "192 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1590.png"
+   }
+}

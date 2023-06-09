@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 182718,
+      "name": "Joan García",
+      "firstname": "Joan",
+      "lastname": "García Pons",
+      "age": 22,
+      "birth": {
+         "date": "2001-05-04",
+         "place": "Sallent",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "180 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/182718.png"
+   }
+}

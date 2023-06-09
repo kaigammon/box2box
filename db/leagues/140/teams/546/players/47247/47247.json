@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47247,
+      "name": "David Soria",
+      "firstname": "David",
+      "lastname": "Soria Solís",
+      "age": 30,
+      "birth": {
+         "date": "1993-04-04",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "192 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47247.png"
+   }
+}

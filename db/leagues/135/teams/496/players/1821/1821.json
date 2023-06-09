@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1821,
+      "name": "F. Kostić",
+      "firstname": "Filip",
+      "lastname": "Kostić",
+      "age": 31,
+      "birth": {
+         "date": "1992-11-01",
+         "place": "Kragujevac",
+         "country": "Serbia"
+      },
+      "nationality": "Serbia",
+      "height": "184 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1821.png"
+   }
+}

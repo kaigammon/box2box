@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284442,
+      "name": "C. Webster",
+      "firstname": "Charles Clive",
+      "lastname": "Webster",
+      "age": 19,
+      "birth": {
+         "date": "2004-01-31",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/284442.png"
+   }
+}

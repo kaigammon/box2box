@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47530,
+      "name": "Sergio Akieme",
+      "firstname": "Sergio",
+      "lastname": "Akieme Rodríguez",
+      "age": 26,
+      "birth": {
+         "date": "1997-12-16",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "175 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47530.png"
+   }
+}

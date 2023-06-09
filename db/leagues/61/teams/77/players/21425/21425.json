@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21425,
+      "name": "P. Bernardoni",
+      "firstname": "Paul Jean François",
+      "lastname": "Bernardoni",
+      "age": 26,
+      "birth": {
+         "date": "1997-04-18",
+         "place": "Evry",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "190 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/21425.png"
+   }
+}

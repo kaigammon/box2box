@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20784,
+      "name": "F. Honorat",
+      "firstname": "Franck",
+      "lastname": "Honorat",
+      "age": 27,
+      "birth": {
+         "date": "1996-08-11",
+         "place": "Toulon",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "180 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/20784.png"
+   }
+}

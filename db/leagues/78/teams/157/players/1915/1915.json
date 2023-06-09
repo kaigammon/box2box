@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1915,
+      "name": "B. Sarr",
+      "firstname": "Bouna Junior",
+      "lastname": "Sarr",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-31",
+         "place": "Lyon",
+         "country": "France"
+      },
+      "nationality": "Senegal",
+      "height": "177 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1915.png"
+   }
+}

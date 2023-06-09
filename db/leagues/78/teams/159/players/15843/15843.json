@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 15843,
+      "name": "O. Christensen",
+      "firstname": "Oliver",
+      "lastname": "Christensen",
+      "age": 24,
+      "birth": {
+         "date": "1999-03-22",
+         "place": null,
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "190 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/15843.png"
+   }
+}

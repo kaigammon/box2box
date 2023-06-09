@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1851,
+      "name": "V. Berisha",
+      "firstname": "Valon",
+      "lastname": "Berisha",
+      "age": 30,
+      "birth": {
+         "date": "1993-02-07",
+         "place": "Malmö",
+         "country": "Sweden"
+      },
+      "nationality": "Kosovo",
+      "height": "176 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1851.png"
+   }
+}

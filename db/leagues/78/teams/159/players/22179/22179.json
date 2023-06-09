@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22179,
+      "name": "M. Maolida",
+      "firstname": "Myziane",
+      "lastname": "Maolida",
+      "age": 24,
+      "birth": {
+         "date": "1999-02-14",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "183 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/22179.png"
+   }
+}

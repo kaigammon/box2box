@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 280672,
+      "name": "E. Turns",
+      "firstname": "Edward James",
+      "lastname": "Turns",
+      "age": 21,
+      "birth": {
+         "date": "2002-10-18",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "Wales",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/280672.png"
+   }
+}

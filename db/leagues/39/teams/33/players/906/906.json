@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 906,
+      "name": "T. Chong",
+      "firstname": "Tahith Jose",
+      "lastname": "Chong",
+      "age": 24,
+      "birth": {
+         "date": "1999-12-04",
+         "place": "Willemstad",
+         "country": "Curaçao"
+      },
+      "nationality": "Netherlands",
+      "height": "185 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/906.png"
+   }
+}

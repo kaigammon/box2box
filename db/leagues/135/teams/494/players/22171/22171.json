@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22171,
+      "name": "J. Makengo",
+      "firstname": "Jean-Victor",
+      "lastname": "Makengo",
+      "age": 25,
+      "birth": {
+         "date": "1998-06-12",
+         "place": "Etampes",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "177 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/22171.png"
+   }
+}

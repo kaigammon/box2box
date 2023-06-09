@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 167663,
+      "name": "T. McGill",
+      "firstname": "Thomas Peter Wayne",
+      "lastname": "McGill",
+      "age": 23,
+      "birth": {
+         "date": "2000-03-25",
+         "place": "Haywards Heath",
+         "country": "England"
+      },
+      "nationality": "Canada",
+      "height": "185 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/167663.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 739,
+      "name": "Reguilón",
+      "firstname": "Sergio",
+      "lastname": "Reguilón Rodríguez",
+      "age": 27,
+      "birth": {
+         "date": "1996-12-16",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "178 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/739.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2483,
+      "name": "D. Machado",
+      "firstname": "Deiver Andrés",
+      "lastname": "Machado Mena",
+      "age": 30,
+      "birth": {
+         "date": "1993-09-02",
+         "place": "Tadó",
+         "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "172 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2483.png"
+   }
+}

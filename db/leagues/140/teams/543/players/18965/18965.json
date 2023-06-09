@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18965,
+      "name": "Martín Montoya",
+      "firstname": "Martín",
+      "lastname": "Montoya Torralbo",
+      "age": 32,
+      "birth": {
+         "date": "1991-04-14",
+         "place": "Barcelona",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "175 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18965.png"
+   }
+}

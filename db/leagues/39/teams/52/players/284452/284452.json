@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284452,
+      "name": "Noah Christopher Watson",
+      "firstname": "Noah Christopher",
+      "lastname": "Watson",
+      "age": 19,
+      "birth": {
+         "date": "2003-05-05",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/284452.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24863,
+      "name": "T. Mickel",
+      "firstname": "Tom",
+      "lastname": "Mickel",
+      "age": 34,
+      "birth": {
+         "date": "1989-04-19",
+         "place": "Hoyerswerda",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "185 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/24863.png"
+   }
+}

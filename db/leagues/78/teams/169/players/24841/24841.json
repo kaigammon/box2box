@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24841,
+      "name": "C. Lenz",
+      "firstname": "Christopher",
+      "lastname": "Lenz",
+      "age": 29,
+      "birth": {
+         "date": "1994-09-22",
+         "place": "Berlin",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "181 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/24841.png"
+   }
+}

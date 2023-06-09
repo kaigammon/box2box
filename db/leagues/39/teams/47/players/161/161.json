@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 161,
+      "name": "A. Whiteman",
+      "firstname": "Alfie",
+      "lastname": "Malik Whiteman",
+      "age": 25,
+      "birth": {
+         "date": "1998-10-02",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "189 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/161.png"
+   }
+}

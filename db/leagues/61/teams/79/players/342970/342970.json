@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 342970,
+      "name": "L. Yoro",
+      "firstname": "Leny",
+      "lastname": "Yoro",
+      "age": 18,
+      "birth": {
+         "date": "2005-11-13",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "190 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/342970.png"
+   }
+}

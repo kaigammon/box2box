@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 28325,
+      "name": "M. Blažič",
+      "firstname": "Miha",
+      "lastname": "Blažič",
+      "age": 30,
+      "birth": {
+         "date": "1993-05-08",
+         "place": "Koper",
+         "country": "Slovenia"
+      },
+      "nationality": "Slovenia",
+      "height": "185 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/28325.png"
+   }
+}

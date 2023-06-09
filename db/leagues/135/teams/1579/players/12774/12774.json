@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 12774,
+      "name": "G. Paletta",
+      "firstname": "Gabriel Alejandro",
+      "lastname": "Paletta",
+      "age": 37,
+      "birth": {
+         "date": "1986-02-15",
+         "place": "Longchamps",
+         "country": "Argentina"
+      },
+      "nationality": "Italy",
+      "height": "190 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/12774.png"
+   }
+}

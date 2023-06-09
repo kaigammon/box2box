@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 497,
+      "name": "AS Roma",
+      "code": "ROM",
+      "country": "Italy",
+      "founded": 1927,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/497.png"
+   }
+}

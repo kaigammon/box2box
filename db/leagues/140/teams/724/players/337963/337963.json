@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 337963,
+      "name": "Victor Aznar",
+      "firstname": "Victor Wehbi",
+      "lastname": "Aznar Ussen",
+      "age": 21,
+      "birth": {
+         "date": "2002-10-17",
+         "place": "São Paulo",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "189 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/337963.png"
+   }
+}

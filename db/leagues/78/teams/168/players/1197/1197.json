@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1197,
+      "name": "A. Lunev",
+      "firstname": "Andrey",
+      "lastname": "Lunev",
+      "age": 32,
+      "birth": {
+         "date": "1991-11-13",
+         "place": "Moskva",
+         "country": "Russia"
+      },
+      "nationality": "Russia",
+      "height": "190 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1197.png"
+   }
+}

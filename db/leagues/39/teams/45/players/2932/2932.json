@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2932,
+      "name": "J. Pickford",
+      "firstname": "Jordan Lee",
+      "lastname": "Pickford",
+      "age": 29,
+      "birth": {
+         "date": "1994-03-07",
+         "place": "Washington",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "185 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2932.png"
+   }
+}

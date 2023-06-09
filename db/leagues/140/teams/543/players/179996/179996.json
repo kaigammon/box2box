@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 179996,
+      "name": "Fran Vieites",
+      "firstname": "Francisco",
+      "lastname": "Barbosa Vieites",
+      "age": 24,
+      "birth": {
+         "date": "1999-05-07",
+         "place": "Puentecesures",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "196 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/179996.png"
+   }
+}

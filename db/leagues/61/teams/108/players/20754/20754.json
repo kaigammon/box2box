@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20754,
+      "name": "Y. M&apos;Changama",
+      "firstname": "Youssouf Yacoub",
+      "lastname": "M'Changama",
+      "age": 33,
+      "birth": {
+         "date": "1990-08-29",
+         "place": "Marseille",
+         "country": "France"
+      },
+      "nationality": "Comoros",
+      "height": "175 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20754.png"
+   }
+}

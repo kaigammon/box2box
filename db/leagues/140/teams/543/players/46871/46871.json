@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46871,
+      "name": "Dani Martín",
+      "firstname": "Daniel",
+      "lastname": "Martín Fernández",
+      "age": 25,
+      "birth": {
+         "date": "1998-07-08",
+         "place": "Gijón",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "187 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/46871.png"
+   }
+}

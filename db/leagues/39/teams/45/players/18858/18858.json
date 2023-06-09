@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18858,
+      "name": "A. Begović",
+      "firstname": "Asmir",
+      "lastname": "Begović",
+      "age": 36,
+      "birth": {
+         "date": "1987-06-20",
+         "place": "Trebinje",
+         "country": "Bosnia and Herzegovina"
+      },
+      "nationality": "Bosnia and Herzegovina",
+      "height": "199 cm",
+      "weight": "101 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18858.png"
+   }
+}

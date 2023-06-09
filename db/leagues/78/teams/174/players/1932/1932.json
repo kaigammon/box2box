@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1932,
+      "name": "J. Uronen",
+      "firstname": "Jere Juhani",
+      "lastname": "Uronen",
+      "age": 29,
+      "birth": {
+         "date": "1994-07-13",
+         "place": "Turku",
+         "country": "Finland"
+      },
+      "nationality": "Finland",
+      "height": "177 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1932.png"
+   }
+}

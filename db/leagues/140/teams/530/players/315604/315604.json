@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 315604,
+      "name": "Alejandro Iturbe",
+      "firstname": "Alejandro",
+      "lastname": "Iturbe Encabo",
+      "age": 20,
+      "birth": {
+         "date": "2003-09-02",
+         "place": null,
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/315604.png"
+   }
+}

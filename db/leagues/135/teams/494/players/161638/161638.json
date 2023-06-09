@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 161638,
+      "name": "F. Ebosele",
+      "firstname": "Festy Oseiwe",
+      "lastname": "Ebosele",
+      "age": 21,
+      "birth": {
+         "date": "2002-08-02",
+         "place": "Enniscorthy",
+         "country": "Republic of Ireland"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "180 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/161638.png"
+   }
+}

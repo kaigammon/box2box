@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 283288,
+      "name": "Bradley Jamie Ethan Young",
+      "firstname": "Bradley Jamie Ethan",
+      "lastname": "Young",
+      "age": 20,
+      "birth": {
+         "date": "2003-01-06",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/283288.png"
+   }
+}

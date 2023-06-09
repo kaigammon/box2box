@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 374359,
+      "name": "D. Bartesaghi",
+      "firstname": "Davide",
+      "lastname": "Bartesaghi",
+      "age": 17,
+      "birth": {
+         "date": "2005-12-29",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/374359.png"
+   }
+}

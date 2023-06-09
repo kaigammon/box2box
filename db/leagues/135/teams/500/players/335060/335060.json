@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 335060,
+      "name": "K. Mercier",
+      "firstname": "Kévin",
+      "lastname": "Mercier",
+      "age": 18,
+      "birth": {
+         "date": "2004-02-28",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/335060.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19760,
+      "name": "J. Justin",
+      "firstname": "James Michael",
+      "lastname": "Justin",
+      "age": 25,
+      "birth": {
+         "date": "1998-02-23",
+         "place": "Luton",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "183 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19760.png"
+   }
+}

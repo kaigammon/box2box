@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46872,
+      "name": "Christian Joel",
+      "firstname": "Christian Joel",
+      "lastname": "Sánchez Leal",
+      "age": 24,
+      "birth": {
+         "date": "1999-07-09",
+         "place": "La Habana",
+         "country": "Cuba"
+      },
+      "nationality": "Cuba",
+      "height": "193 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/46872.png"
+   }
+}

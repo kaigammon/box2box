@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 40560,
+      "name": "J. Kamiński",
+      "firstname": "Jakub",
+      "lastname": "Kamiński",
+      "age": 21,
+      "birth": {
+         "date": "2002-06-05",
+         "place": "Ruda Slaska",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "179 cm",
+      "weight": "64 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/40560.png"
+   }
+}

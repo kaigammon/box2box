@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 144733,
+      "name": "B. Knight",
+      "firstname": "Benjamin Leo",
+      "lastname": "Knight",
+      "age": 21,
+      "birth": {
+         "date": "2002-06-14",
+         "place": "Cambridge",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "171 cm",
+      "weight": "61 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/144733.png"
+   }
+}

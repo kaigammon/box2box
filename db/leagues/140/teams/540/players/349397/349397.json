@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 349397,
+      "name": "Simo",
+      "firstname": "Wassim",
+      "lastname": "Keddari Boulif",
+      "age": 18,
+      "birth": {
+         "date": "2005-02-03",
+         "place": "Terrassa",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "177 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/349397.png"
+   }
+}

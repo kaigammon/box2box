@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 666,
+      "name": "M. Dembélé",
+      "firstname": "Moussa",
+      "lastname": "Dembélé",
+      "age": 27,
+      "birth": {
+         "date": "1996-07-12",
+         "place": "Pontoise",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "183 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/666.png"
+   }
+}

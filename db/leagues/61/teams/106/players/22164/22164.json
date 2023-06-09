@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22164,
+      "name": "C. Hérelle",
+      "firstname": "Christophe",
+      "lastname": "Hérelle",
+      "age": 31,
+      "birth": {
+         "date": "1992-08-22",
+         "place": "Sochaux",
+         "country": "France"
+      },
+      "nationality": "Martinique",
+      "height": "188 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/22164.png"
+   }
+}

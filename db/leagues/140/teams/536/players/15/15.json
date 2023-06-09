@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 15,
+      "name": "T. Delaney",
+      "firstname": "Thomas Joseph",
+      "lastname": "Delaney",
+      "age": 32,
+      "birth": {
+         "date": "1991-09-03",
+         "place": "Frederiksberg",
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "182 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/15.png"
+   }
+}

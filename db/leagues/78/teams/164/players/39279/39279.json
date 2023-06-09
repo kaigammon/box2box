@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 39279,
+      "name": "A. Hanche-Olsen",
+      "firstname": "Andreas",
+      "lastname": "Schjølberg Hanche-Olsen",
+      "age": 26,
+      "birth": {
+         "date": "1997-01-17",
+         "place": "Bodø",
+         "country": "Norway"
+      },
+      "nationality": "Norway",
+      "height": "185 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/39279.png"
+   }
+}

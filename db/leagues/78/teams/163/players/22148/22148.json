@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22148,
+      "name": "N. Ngoumou",
+      "firstname": "Nathan",
+      "lastname": "Ngoumou Minpole",
+      "age": 23,
+      "birth": {
+         "date": "2000-03-14",
+         "place": "Toulouse",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "182 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/22148.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19150,
+      "name": "M. Holgate",
+      "firstname": "Mason Anthony",
+      "lastname": "Holgate",
+      "age": 27,
+      "birth": {
+         "date": "1996-10-22",
+         "place": "Doncaster",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "184 cm",
+      "weight": "63 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19150.png"
+   }
+}

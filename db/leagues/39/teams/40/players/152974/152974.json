@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 152974,
+      "name": "B. Koumetio",
+      "firstname": "Billy",
+      "lastname": "Dawson Koumetio",
+      "age": 21,
+      "birth": {
+         "date": "2002-11-14",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "195 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/152974.png"
+   }
+}

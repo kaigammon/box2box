@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1557,
+      "name": "Pau López",
+      "firstname": "Pau",
+      "lastname": "López Sabata",
+      "age": 29,
+      "birth": {
+         "date": "1994-12-13",
+         "place": "Girona",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "189 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1557.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31730,
+      "name": "L. Venuti",
+      "firstname": "Lorenzo",
+      "lastname": "Venuti",
+      "age": 28,
+      "birth": {
+         "date": "1995-04-12",
+         "place": "Montevarchi",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "176 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/31730.png"
+   }
+}

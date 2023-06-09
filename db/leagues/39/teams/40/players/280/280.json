@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 280,
+      "name": "Alisson",
+      "firstname": "Alisson Ramsés",
+      "lastname": "Becker",
+      "age": 31,
+      "birth": {
+         "date": "1992-10-02",
+         "place": "Novo Hamburgo",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "193 cm",
+      "weight": "91 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/280.png"
+   }
+}

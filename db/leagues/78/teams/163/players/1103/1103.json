@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1103,
+      "name": "H. Wolf",
+      "firstname": "Hannes",
+      "lastname": "Tarn Wolf",
+      "age": 24,
+      "birth": {
+         "date": "1999-04-16",
+         "place": "Graz",
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "179 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1103.png"
+   }
+}

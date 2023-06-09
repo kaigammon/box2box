@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18895,
+      "name": "F. Lejeune",
+      "firstname": "Florian Grégoire",
+      "lastname": "Claude Lejeune",
+      "age": 32,
+      "birth": {
+         "date": "1991-05-20",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "189 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18895.png"
+   }
+}

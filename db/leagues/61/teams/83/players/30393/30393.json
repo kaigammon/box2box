@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30393,
+      "name": "A. Lafont",
+      "firstname": "Alban-Marc",
+      "lastname": "Lafont",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-23",
+         "place": "Ouagadougou",
+         "country": "Burkina Faso"
+      },
+      "nationality": "France",
+      "height": "193 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30393.png"
+   }
+}

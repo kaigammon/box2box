@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 274267,
+      "name": "B. Locko",
+      "firstname": "Bradley",
+      "lastname": "Locko Banzouzi",
+      "age": 21,
+      "birth": {
+         "date": "2002-05-06",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "180 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/274267.png"
+   }
+}

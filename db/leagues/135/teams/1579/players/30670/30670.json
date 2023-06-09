@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30670,
+      "name": "M. Di Gregorio",
+      "firstname": "Michele",
+      "lastname": "Di Gregorio",
+      "age": 26,
+      "birth": {
+         "date": "1997-07-27",
+         "place": "Milan",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "187 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30670.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25802,
+      "name": "L. Grill",
+      "firstname": "Hannes Lennart",
+      "lastname": "Grill",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-25",
+         "place": "Idar-Oberstein",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "192 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/25802.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 984,
+      "name": "J. Brandt",
+      "firstname": "Julian",
+      "lastname": "Brandt",
+      "age": 27,
+      "birth": {
+         "date": "1996-05-02",
+         "place": "Bremen",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "185 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/984.png"
+   }
+}

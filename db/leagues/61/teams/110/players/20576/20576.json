@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20576,
+      "name": "Y. Salmier",
+      "firstname": "Yoann",
+      "lastname": "Salmier",
+      "age": 31,
+      "birth": {
+         "date": "1992-11-21",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "French Guiana",
+      "height": "188 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/20576.png"
+   }
+}

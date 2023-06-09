@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 14382,
+      "name": "I. Grbić",
+      "firstname": "Ivo",
+      "lastname": "Grbić",
+      "age": 27,
+      "birth": {
+         "date": "1996-01-18",
+         "place": "Split",
+         "country": "Croatia"
+      },
+      "nationality": "Croatia",
+      "height": "195 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/14382.png"
+   }
+}

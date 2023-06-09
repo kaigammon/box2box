@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19341,
+      "name": "D. Bentley",
+      "firstname": "Daniel Ian",
+      "lastname": "Bentley",
+      "age": 30,
+      "birth": {
+         "date": "1993-07-13",
+         "place": "Basildon",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "188 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19341.png"
+   }
+}

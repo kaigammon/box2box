@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 144710,
+      "name": "Reece Phillip Peter Hannam",
+      "firstname": "Reece Phillip Peter",
+      "lastname": "Hannam",
+      "age": 23,
+      "birth": {
+         "date": "2000-09-11",
+         "place": "Enfield",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "186 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/144710.png"
+   }
+}

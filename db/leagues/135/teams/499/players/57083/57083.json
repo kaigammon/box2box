@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 57083,
+      "name": "A. Santopadre",
+      "firstname": "Alessandro",
+      "lastname": "Santopadre",
+      "age": 24,
+      "birth": {
+         "date": "1998-10-04",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "185 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/57083.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 334106,
+      "name": "M. Ludwig",
+      "firstname": "Michel-Simon",
+      "lastname": "Ludwig",
+      "age": 18,
+      "birth": {
+         "date": "2004-08-23",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/334106.png"
+   }
+}

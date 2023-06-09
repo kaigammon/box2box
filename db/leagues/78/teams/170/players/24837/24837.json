@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24837,
+      "name": "R. Gikiewicz",
+      "firstname": "Rafał",
+      "lastname": "Gikiewicz",
+      "age": 36,
+      "birth": {
+         "date": "1987-10-26",
+         "place": "Olsztyn",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "190 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/24837.png"
+   }
+}

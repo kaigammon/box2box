@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30516,
+      "name": "A. Consigli",
+      "firstname": "Andrea",
+      "lastname": "Consigli",
+      "age": 36,
+      "birth": {
+         "date": "1987-01-27",
+         "place": "Milano",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "189 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30516.png"
+   }
+}

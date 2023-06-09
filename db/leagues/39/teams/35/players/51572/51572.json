@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 51572,
+      "name": "M. Viña",
+      "firstname": "Matías Nicolás",
+      "lastname": "Viña Susperreguy",
+      "age": 26,
+      "birth": {
+         "date": "1997-11-09",
+         "place": "Empalme Olmos",
+         "country": "Uruguay"
+      },
+      "nationality": "Uruguay",
+      "height": "175 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/51572.png"
+   }
+}

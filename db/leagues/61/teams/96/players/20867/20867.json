@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20867,
+      "name": "Y. Begraoui",
+      "firstname": "Yanis",
+      "lastname": "Begraoui",
+      "age": 22,
+      "birth": {
+         "date": "2001-07-04",
+         "place": "Étampes",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "179 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20867.png"
+   }
+}

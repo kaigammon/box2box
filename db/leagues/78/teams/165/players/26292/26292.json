@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26292,
+      "name": "A. Meyer",
+      "firstname": "Alexander Niklas",
+      "lastname": "Meyer-Schade",
+      "age": 32,
+      "birth": {
+         "date": "1991-04-13",
+         "place": "Bad Oldesloe",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "195 cm",
+      "weight": "90 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/26292.png"
+   }
+}

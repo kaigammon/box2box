@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31065,
+      "name": "F. Bardi",
+      "firstname": "Francesco",
+      "lastname": "Bardi",
+      "age": 31,
+      "birth": {
+         "date": "1992-01-18",
+         "place": "Livorno",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "188 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/31065.png"
+   }
+}

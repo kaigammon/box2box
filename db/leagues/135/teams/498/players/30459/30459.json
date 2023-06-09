@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30459,
+      "name": "R. Vieira",
+      "firstname": "Ronaldo Augusto",
+      "lastname": "Vieira Nan",
+      "age": 25,
+      "birth": {
+         "date": "1998-07-19",
+         "place": "Bissau",
+         "country": "Guinea-Bissau"
+      },
+      "nationality": "England",
+      "height": "178 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30459.png"
+   }
+}

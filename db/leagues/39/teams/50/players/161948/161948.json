@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 161948,
+      "name": "L. Delap",
+      "firstname": "Liam Rory",
+      "lastname": "Delap",
+      "age": 20,
+      "birth": {
+         "date": "2003-02-08",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/161948.png"
+   }
+}

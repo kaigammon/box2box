@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284311,
+      "name": "T. Small",
+      "firstname": "Thierry",
+      "lastname": "Small",
+      "age": 19,
+      "birth": {
+         "date": "2004-08-01",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/284311.png"
+   }
+}

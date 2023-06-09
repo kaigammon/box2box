@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 350627,
+      "name": "J. Addae",
+      "firstname": "Joshua",
+      "lastname": "Addae",
+      "age": null,
+      "birth": {
+         "date": null,
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/350627.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162023,
+      "name": "T. Baldé",
+      "firstname": "Thierno",
+      "lastname": "Baldé",
+      "age": 21,
+      "birth": {
+         "date": "2002-06-10",
+         "place": "Villeneuve-Saint-Georges",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "182 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/162023.png"
+   }
+}

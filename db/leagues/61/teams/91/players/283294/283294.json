@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 283294,
+      "name": "A. Zadi",
+      "firstname": "Alain",
+      "lastname": "Zadi",
+      "age": 19,
+      "birth": {
+         "date": "2004-03-10",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/283294.png"
+   }
+}

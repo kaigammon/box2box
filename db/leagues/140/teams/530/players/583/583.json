@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 583,
+      "name": "João Félix",
+      "firstname": "João",
+      "lastname": "Félix Sequeira",
+      "age": 24,
+      "birth": {
+         "date": "1999-11-10",
+         "place": "Viseu",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "181 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/583.png"
+   }
+}

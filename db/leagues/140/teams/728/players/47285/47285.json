@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47285,
+      "name": "Unai López",
+      "firstname": "Unai",
+      "lastname": "López Cabrera",
+      "age": 28,
+      "birth": {
+         "date": "1995-10-30",
+         "place": "Errenteria",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "170 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47285.png"
+   }
+}

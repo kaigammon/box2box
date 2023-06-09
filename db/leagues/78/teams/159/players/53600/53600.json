@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 53600,
+      "name": "F. Uremović",
+      "firstname": "Filip",
+      "lastname": "Uremović",
+      "age": 26,
+      "birth": {
+         "date": "1997-02-11",
+         "place": "Požega",
+         "country": "Croatia"
+      },
+      "nationality": "Croatia",
+      "height": "184 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/53600.png"
+   }
+}

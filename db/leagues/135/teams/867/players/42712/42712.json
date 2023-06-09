@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 42712,
+      "name": "A. Borbei",
+      "firstname": "Alexandru Gabriel",
+      "lastname": "Borbei",
+      "age": 19,
+      "birth": {
+         "date": "2003-06-27",
+         "place": "Petrila",
+         "country": "Romania"
+      },
+      "nationality": "Romania",
+      "height": "183 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/42712.png"
+   }
+}

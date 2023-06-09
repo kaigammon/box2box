@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 872,
+      "name": "M. Pjanić",
+      "firstname": "Miralem",
+      "lastname": "Pjanić",
+      "age": 33,
+      "birth": {
+         "date": "1990-04-02",
+         "place": "Tuzla",
+         "country": "Bosnia and Herzegovina"
+      },
+      "nationality": "Bosnia and Herzegovina",
+      "height": "178 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/872.png"
+   }
+}

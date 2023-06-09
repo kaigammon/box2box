@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 99,
+      "name": "R. Pierre-Gabriel",
+      "firstname": "Ronaël Julien",
+      "lastname": "Pierre-Gabriel",
+      "age": 25,
+      "birth": {
+         "date": "1998-06-13",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "177 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/99.png"
+   }
+}

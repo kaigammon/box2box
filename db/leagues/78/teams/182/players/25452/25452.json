@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25452,
+      "name": "N. Gießelmann",
+      "firstname": "Niko",
+      "lastname": "Gießelmann",
+      "age": 32,
+      "birth": {
+         "date": "1991-09-26",
+         "place": "Hannover",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "182 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/25452.png"
+   }
+}

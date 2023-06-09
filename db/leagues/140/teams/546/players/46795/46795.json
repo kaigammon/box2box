@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46795,
+      "name": "Domingos Duarte",
+      "firstname": "Domingos",
+      "lastname": "de Sousa Coutinho Meneses Duar",
+      "age": 28,
+      "birth": {
+         "date": "1995-03-10",
+         "place": "Cascais",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "192 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/46795.png"
+   }
+}

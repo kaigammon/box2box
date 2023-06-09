@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 350590,
+      "name": "T. Gidaree",
+      "firstname": "Tarik",
+      "lastname": "Gidaree",
+      "age": 19,
+      "birth": {
+         "date": "2003-05-08",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/350590.png"
+   }
+}

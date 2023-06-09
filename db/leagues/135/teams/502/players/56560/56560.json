@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 56560,
+      "name": "Y. Maleh",
+      "firstname": "Youssef",
+      "lastname": "Maleh",
+      "age": 25,
+      "birth": {
+         "date": "1998-08-22",
+         "place": "Castel San Pietro Terme",
+         "country": "Italy"
+      },
+      "nationality": "Morocco",
+      "height": "179 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/56560.png"
+   }
+}

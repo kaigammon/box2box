@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 169256,
+      "name": "Iker Álvarez",
+      "firstname": "Iker",
+      "lastname": "Álvarez de Eulate Molné",
+      "age": 22,
+      "birth": {
+         "date": "2001-07-25",
+         "place": "Andorra la Vella",
+         "country": "Andorra"
+      },
+      "nationality": "Andorra",
+      "height": "190 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/169256.png"
+   }
+}

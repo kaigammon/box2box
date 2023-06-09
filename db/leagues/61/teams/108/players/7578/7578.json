@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 7578,
+      "name": "G. Mensah",
+      "firstname": "Gideon",
+      "lastname": "Mensah",
+      "age": 25,
+      "birth": {
+         "date": "1998-07-18",
+         "place": "Accra",
+         "country": "Ghana"
+      },
+      "nationality": "Ghana",
+      "height": "178 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/7578.png"
+   }
+}

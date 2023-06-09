@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21695,
+      "name": "M. Alphonse",
+      "firstname": "Mickaël David",
+      "lastname": "Alphonse",
+      "age": 34,
+      "birth": {
+         "date": "1989-07-12",
+         "place": "Louhans-Cuiseaux",
+         "country": "France"
+      },
+      "nationality": "Guadeloupe",
+      "height": "182 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/21695.png"
+   }
+}

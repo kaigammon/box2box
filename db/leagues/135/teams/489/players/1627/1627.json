@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1627,
+      "name": "D. Calabria",
+      "firstname": "Davide",
+      "lastname": "Calabria",
+      "age": 27,
+      "birth": {
+         "date": "1996-12-06",
+         "place": "Brescia",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "177 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1627.png"
+   }
+}

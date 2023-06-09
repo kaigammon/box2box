@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47474,
+      "name": "Jordi Masip",
+      "firstname": "Jordi",
+      "lastname": "Masip López",
+      "age": 34,
+      "birth": {
+         "date": "1989-01-03",
+         "place": "Sabadell",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "180 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47474.png"
+   }
+}

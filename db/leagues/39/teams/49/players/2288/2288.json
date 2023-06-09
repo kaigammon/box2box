@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2288,
+      "name": "Daniel Noel Drinkwater",
+      "firstname": "Daniel Noel",
+      "lastname": "Drinkwater",
+      "age": 32,
+      "birth": {
+         "date": "1990-03-05",
+         "place": "Manchester",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "178 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2288.png"
+   }
+}

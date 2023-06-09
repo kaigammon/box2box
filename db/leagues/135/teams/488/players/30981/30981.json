@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30981,
+      "name": "R. Marchizza",
+      "firstname": "Riccardo",
+      "lastname": "Marchizza",
+      "age": 25,
+      "birth": {
+         "date": "1998-03-26",
+         "place": "Roma",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "185 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30981.png"
+   }
+}

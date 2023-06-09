@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 290181,
+      "name": "F. Tripi",
+      "firstname": "Filippo",
+      "lastname": "Tripi",
+      "age": 21,
+      "birth": {
+         "date": "2002-01-06",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/290181.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 377313,
+      "name": "F. Fall",
+      "firstname": "Fallou",
+      "lastname": "Fall",
+      "age": 19,
+      "birth": {
+         "date": "2004-04-15",
+         "place": null,
+         "country": "Senegal"
+      },
+      "nationality": "Senegal",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/377313.png"
+   }
+}

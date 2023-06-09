@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1068,
+      "name": "J. Góralski",
+      "firstname": "Jacek",
+      "lastname": "Góralski",
+      "age": 31,
+      "birth": {
+         "date": "1992-09-21",
+         "place": "Bydgoszcz",
+         "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "172 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1068.png"
+   }
+}

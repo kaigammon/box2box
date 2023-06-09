@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 274302,
+      "name": "Valentin Salatiel Decarpentrie",
+      "firstname": "Valentin Salatiel",
+      "lastname": "Decarpentrie",
+      "age": 21,
+      "birth": {
+         "date": "2002-01-06",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/274302.png"
+   }
+}

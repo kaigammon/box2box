@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 305803,
+      "name": "Kaiky",
+      "firstname": "Kaiky",
+      "lastname": "Fernandes Melo",
+      "age": 19,
+      "birth": {
+         "date": "2004-01-12",
+         "place": null,
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "181 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/305803.png"
+   }
+}

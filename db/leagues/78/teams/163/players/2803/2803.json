@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2803,
+      "name": "N. Elvedi",
+      "firstname": "Nico",
+      "lastname": "Elvedi",
+      "age": 27,
+      "birth": {
+         "date": "1996-09-30",
+         "place": "Zürich",
+         "country": "Switzerland"
+      },
+      "nationality": "Switzerland",
+      "height": "187 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2803.png"
+   }
+}

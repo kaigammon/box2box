@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18783,
+      "name": "Thakgalo Khanya Leshabela",
+      "firstname": "Thakgalo Khanya",
+      "lastname": "Leshabela",
+      "age": 23,
+      "birth": {
+         "date": "1999-09-18",
+         "place": "Soshanguve",
+         "country": "South Africa"
+      },
+      "nationality": "South Africa",
+      "height": "175 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18783.png"
+   }
+}

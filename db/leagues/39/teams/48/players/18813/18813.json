@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18813,
+      "name": "A. Cresswell",
+      "firstname": "Aaron William",
+      "lastname": "Cresswell",
+      "age": 34,
+      "birth": {
+         "date": "1989-12-15",
+         "place": "Liverpool",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "170 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18813.png"
+   }
+}

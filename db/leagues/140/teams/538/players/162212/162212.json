@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162212,
+      "name": "Miguel Baeza",
+      "firstname": "Miguel",
+      "lastname": "Baeza Pérez",
+      "age": 23,
+      "birth": {
+         "date": "2000-03-27",
+         "place": "Córdoba",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "177 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/162212.png"
+   }
+}

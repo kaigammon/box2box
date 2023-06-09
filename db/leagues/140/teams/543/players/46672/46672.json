@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46672,
+      "name": "Rui Silva",
+      "firstname": "Rui Tiago",
+      "lastname": "Dantas da Silva",
+      "age": 29,
+      "birth": {
+         "date": "1994-02-07",
+         "place": "Maia",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "191 cm",
+      "weight": "91 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/46672.png"
+   }
+}

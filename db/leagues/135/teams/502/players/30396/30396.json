@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30396,
+      "name": "C. Biraghi",
+      "firstname": "Cristiano",
+      "lastname": "Biraghi",
+      "age": 31,
+      "birth": {
+         "date": "1992-09-01",
+         "place": "Cernusco sul Naviglio",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "185 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30396.png"
+   }
+}

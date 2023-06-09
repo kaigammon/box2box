@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2098,
+      "name": "G. Ochoa",
+      "firstname": "Francisco Guillermo",
+      "lastname": "Ochoa Magaña",
+      "age": 38,
+      "birth": {
+         "date": "1985-07-13",
+         "place": "Guadalajara",
+         "country": "Mexico"
+      },
+      "nationality": "Mexico",
+      "height": "190 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2098.png"
+   }
+}

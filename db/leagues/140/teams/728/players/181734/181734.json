@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 181734,
+      "name": "Pep Chavarría",
+      "firstname": "Josep María",
+      "lastname": "Chavarría Pérez",
+      "age": 25,
+      "birth": {
+         "date": "1998-04-10",
+         "place": "Figueres",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/181734.png"
+   }
+}

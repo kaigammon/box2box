@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26297,
+      "name": "T. Baumgartl",
+      "firstname": "Timo",
+      "lastname": "Baumgartl",
+      "age": 27,
+      "birth": {
+         "date": "1996-03-04",
+         "place": "Böblingen",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "190 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/26297.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 276552,
+      "name": "S. Cissé",
+      "firstname": "Souleymane",
+      "lastname": "Cissé",
+      "age": 21,
+      "birth": {
+         "date": "2002-08-08",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "190 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/276552.png"
+   }
+}

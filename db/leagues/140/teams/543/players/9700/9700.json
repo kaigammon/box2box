@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 9700,
+      "name": "Abner",
+      "firstname": "Abner Vinícius",
+      "lastname": "da Silva Santos",
+      "age": 23,
+      "birth": {
+         "date": "2000-05-27",
+         "place": "Presidente Prudente",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "182 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/9700.png"
+   }
+}

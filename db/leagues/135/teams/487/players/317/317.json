@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 317,
+      "name": "E. Hysaj",
+      "firstname": "Elseid",
+      "lastname": "Hysaj",
+      "age": 29,
+      "birth": {
+         "date": "1994-02-02",
+         "place": "Shkodër",
+         "country": "Albania"
+      },
+      "nationality": "Albania",
+      "height": "182 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/317.png"
+   }
+}

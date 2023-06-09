@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 496,
+      "name": "Juventus",
+      "code": "JUV",
+      "country": "Italy",
+      "founded": 1897,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/496.png"
+   }
+}

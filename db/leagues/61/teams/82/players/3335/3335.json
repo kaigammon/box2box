@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 3335,
+      "name": "K. Kouyaté",
+      "firstname": "Boubakar Kiki",
+      "lastname": "Kouyaté",
+      "age": 26,
+      "birth": {
+         "date": "1997-04-15",
+         "place": "Bamako",
+         "country": "Mali"
+      },
+      "nationality": "Mali",
+      "height": "193 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/3335.png"
+   }
+}

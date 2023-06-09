@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2936,
+      "name": "J. Tarkowski",
+      "firstname": "James Alan",
+      "lastname": "Tarkowski",
+      "age": 31,
+      "birth": {
+         "date": "1992-11-19",
+         "place": "Manchester",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "185 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2936.png"
+   }
+}

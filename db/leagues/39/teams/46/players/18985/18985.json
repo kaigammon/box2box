@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18985,
+      "name": "A. Smithies",
+      "firstname": "Alexander",
+      "lastname": "Smithies",
+      "age": 33,
+      "birth": {
+         "date": "1990-03-05",
+         "place": "Huddersfield",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "185 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18985.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25314,
+      "name": "M. Friedl",
+      "firstname": "Marco",
+      "lastname": "Friedl",
+      "age": 25,
+      "birth": {
+         "date": "1998-03-16",
+         "place": "Kirchbichl",
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "187 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/25314.png"
+   }
+}

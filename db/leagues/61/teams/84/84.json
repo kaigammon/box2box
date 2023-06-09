@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 84,
+      "name": "Nice",
+      "code": "NIC",
+      "country": "France",
+      "founded": 1904,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/84.png"
+   }
+}

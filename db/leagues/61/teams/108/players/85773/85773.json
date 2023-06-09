@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 85773,
+      "name": "A. Georgen",
+      "firstname": "Alec Mathieu",
+      "lastname": "Georgen",
+      "age": 25,
+      "birth": {
+         "date": "1998-09-17",
+         "place": "Clamart",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "172 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/85773.png"
+   }
+}

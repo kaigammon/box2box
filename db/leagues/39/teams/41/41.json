@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 41,
+      "name": "Southampton",
+      "code": "SOU",
+      "country": "England",
+      "founded": 1885,
+      "national": false,
+      "logo": "https://media-3.api-sports.io/football/teams/41.png"
+   }
+}

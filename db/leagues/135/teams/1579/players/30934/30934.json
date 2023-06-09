@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30934,
+      "name": "L. Marrone",
+      "firstname": "Luca",
+      "lastname": "Marrone",
+      "age": 33,
+      "birth": {
+         "date": "1990-03-28",
+         "place": "Torino",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "186 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/30934.png"
+   }
+}

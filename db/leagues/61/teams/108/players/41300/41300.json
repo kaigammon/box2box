@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 41300,
+      "name": "Jubal",
+      "firstname": "Jubal",
+      "lastname": "Rocha Mendes Júnior",
+      "age": 30,
+      "birth": {
+         "date": "1993-08-29",
+         "place": "Inhumas",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "190 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/41300.png"
+   }
+}

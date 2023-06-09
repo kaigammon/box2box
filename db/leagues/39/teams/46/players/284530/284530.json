@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284530,
+      "name": "B. Cover",
+      "firstname": "Brandon Ashley",
+      "lastname": "Cover",
+      "age": 19,
+      "birth": {
+         "date": "2003-09-25",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/284530.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1461,
+      "name": "Denis Suárez",
+      "firstname": "Denis",
+      "lastname": "Suárez Fernández",
+      "age": 29,
+      "birth": {
+         "date": "1994-01-06",
+         "place": "Salceda de Caselas",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "176 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1461.png"
+   }
+}

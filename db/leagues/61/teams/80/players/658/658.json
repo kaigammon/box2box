@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 658,
+      "name": "H. Aouar",
+      "firstname": "Houssem-Eddine",
+      "lastname": "Chaâbane Aouar",
+      "age": 25,
+      "birth": {
+         "date": "1998-06-30",
+         "place": "Lyon",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "175 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/658.png"
+   }
+}

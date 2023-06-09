@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20224,
+      "name": "A. Lonergan",
+      "firstname": "Andrew Michael",
+      "lastname": "Lonergan",
+      "age": 40,
+      "birth": {
+         "date": "1983-10-19",
+         "place": "Preston",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "192 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/20224.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 322858,
+      "name": "Z. Sertdemir",
+      "firstname": "Batuhan Zidan",
+      "lastname": "Sertdemir",
+      "age": 18,
+      "birth": {
+         "date": "2005-02-04",
+         "place": null,
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "182 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/322858.png"
+   }
+}

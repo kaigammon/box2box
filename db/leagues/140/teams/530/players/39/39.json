@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 39,
+      "name": "S. Savić",
+      "firstname": "Stefan",
+      "lastname": "Savić",
+      "age": 32,
+      "birth": {
+         "date": "1991-01-08",
+         "place": "Mojkovac",
+         "country": "Montenegro"
+      },
+      "nationality": "Montenegro",
+      "height": "187 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/39.png"
+   }
+}

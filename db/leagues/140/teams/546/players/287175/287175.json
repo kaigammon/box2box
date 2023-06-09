@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 287175,
+      "name": "Álex Rodríguez",
+      "firstname": "Alejandro",
+      "lastname": "Rodríguez Lorite",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-21",
+         "place": "Fuenlabrada",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "178 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/287175.png"
+   }
+}

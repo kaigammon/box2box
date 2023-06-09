@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30414,
+      "name": "G. Simeone",
+      "firstname": "Giovanni Pablo",
+      "lastname": "Simeone Baldini",
+      "age": 28,
+      "birth": {
+         "date": "1995-07-05",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Argentina",
+      "height": "180 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30414.png"
+   }
+}

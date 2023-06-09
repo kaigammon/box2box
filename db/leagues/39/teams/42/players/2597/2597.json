@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2597,
+      "name": "T. Tomiyasu",
+      "firstname": "Takehiro",
+      "lastname": "Tomiyasu",
+      "age": 25,
+      "birth": {
+         "date": "1998-11-05",
+         "place": "Fukuoka",
+         "country": "Japan"
+      },
+      "nationality": "Japan",
+      "height": "187 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2597.png"
+   }
+}

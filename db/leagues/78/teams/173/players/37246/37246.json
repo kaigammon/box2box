@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 37246,
+      "name": "J. Blaswich",
+      "firstname": "Janis Jonathan",
+      "lastname": "Blaswich",
+      "age": 32,
+      "birth": {
+         "date": "1991-05-02",
+         "place": "Willich",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "193 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/37246.png"
+   }
+}

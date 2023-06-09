@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 111,
+      "name": "Rony Lopes",
+      "firstname": "Marcos Paulo",
+      "lastname": "Mesquita Lopes",
+      "age": 28,
+      "birth": {
+         "date": "1995-12-28",
+         "place": "Belém",
+         "country": "Brazil"
+      },
+      "nationality": "Portugal",
+      "height": "174 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/111.png"
+   }
+}

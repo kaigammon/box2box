@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 182639,
+      "name": "Unai Vencedor",
+      "firstname": "Unai",
+      "lastname": "Vencedor Paris",
+      "age": 23,
+      "birth": {
+         "date": "2000-11-15",
+         "place": "Bilbao",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "176 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/182639.png"
+   }
+}

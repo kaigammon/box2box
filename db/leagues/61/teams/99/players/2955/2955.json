@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2955,
+      "name": "S. Khaoui",
+      "firstname": "Saîf-Eddine",
+      "lastname": "Khaoui",
+      "age": 28,
+      "birth": {
+         "date": "1995-04-27",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "Tunisia",
+      "height": "180 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2955.png"
+   }
+}

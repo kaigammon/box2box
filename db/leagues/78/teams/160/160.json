@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 160,
+      "name": "SC Freiburg",
+      "code": "FRE",
+      "country": "Germany",
+      "founded": 1904,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/160.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 264513,
+      "name": "M. Palumbo",
+      "firstname": "Martin",
+      "lastname": "Njøten Palumbo",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-05",
+         "place": null,
+         "country": "Norway"
+      },
+      "nationality": "Norway",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/264513.png"
+   }
+}

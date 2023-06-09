@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20634,
+      "name": "A. Claude-Maurice",
+      "firstname": "Alexis",
+      "lastname": "Claude-Maurice",
+      "age": 25,
+      "birth": {
+         "date": "1998-06-06",
+         "place": "Noisy-le-Grand",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "174 cm",
+      "weight": "62 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/20634.png"
+   }
+}

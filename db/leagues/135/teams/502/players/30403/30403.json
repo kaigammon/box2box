@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30403,
+      "name": "M. Benassi",
+      "firstname": "Marco",
+      "lastname": "Benassi",
+      "age": 29,
+      "birth": {
+         "date": "1994-09-08",
+         "place": "Modena",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "183 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30403.png"
+   }
+}

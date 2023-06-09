@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47300,
+      "name": "T. Hernández",
+      "firstname": "Theo Bernard François",
+      "lastname": "Hernández",
+      "age": 26,
+      "birth": {
+         "date": "1997-10-06",
+         "place": "Marseille",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "184 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47300.png"
+   }
+}

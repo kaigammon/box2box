@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 263482,
+      "name": "Nuno Mendes",
+      "firstname": "Nuno Alexandre",
+      "lastname": "Tavares Mendes",
+      "age": 21,
+      "birth": {
+         "date": "2002-06-19",
+         "place": "Sintra",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "176 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/263482.png"
+   }
+}

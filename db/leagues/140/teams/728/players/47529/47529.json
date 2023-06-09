@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47529,
+      "name": "Miguel Ángel Morro",
+      "firstname": "Miguel Ángel",
+      "lastname": "Morro Muñoz",
+      "age": 23,
+      "birth": {
+         "date": "2000-09-11",
+         "place": "Alcalá de Henares",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "193 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47529.png"
+   }
+}

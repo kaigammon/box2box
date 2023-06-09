@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 294797,
+      "name": "Ángel Alarcón",
+      "firstname": "Ángel",
+      "lastname": "Alarcón Galiot",
+      "age": 19,
+      "birth": {
+         "date": "2004-05-15",
+         "place": "Castelldefels",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "\n    ",
+      "weight": "\n    ",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/294797.png"
+   }
+}

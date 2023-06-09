@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 193870,
+      "name": "J. Antiste",
+      "firstname": "Janis",
+      "lastname": "Antiste",
+      "age": 21,
+      "birth": {
+         "date": "2002-08-18",
+         "place": "Toulouse",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "183 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/193870.png"
+   }
+}

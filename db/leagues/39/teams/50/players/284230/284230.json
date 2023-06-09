@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284230,
+      "name": "R. Lewis",
+      "firstname": "Rico Henry",
+      "lastname": "Lewis",
+      "age": 19,
+      "birth": {
+         "date": "2004-11-21",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "169 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/284230.png"
+   }
+}

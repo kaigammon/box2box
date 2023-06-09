@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 526,
+      "name": "A. Onana",
+      "firstname": "André",
+      "lastname": "Onana Onana",
+      "age": 27,
+      "birth": {
+         "date": "1996-04-02",
+         "place": "Nkol Ngok",
+         "country": "Cameroon"
+      },
+      "nationality": "Cameroon",
+      "height": "190 cm",
+      "weight": "93 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/526.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47153,
+      "name": "Juan Carlos",
+      "firstname": "Juan Carlos",
+      "lastname": "Martín Corral",
+      "age": 35,
+      "birth": {
+         "date": "1988-01-20",
+         "place": "Guadalajara",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "186 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47153.png"
+   }
+}

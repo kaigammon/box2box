@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 10316,
+      "name": "Caio Henrique",
+      "firstname": "Caio Henrique",
+      "lastname": "Oliveira Silva",
+      "age": 26,
+      "birth": {
+         "date": "1997-07-31",
+         "place": "Santos",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "178 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/10316.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30794,
+      "name": "S. Perisan",
+      "firstname": "Samuele",
+      "lastname": "Perisan",
+      "age": 26,
+      "birth": {
+         "date": "1997-08-21",
+         "place": "San Vito al Tagliamento",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "192 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30794.png"
+   }
+}

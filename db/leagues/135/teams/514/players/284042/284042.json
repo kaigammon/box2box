@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284042,
+      "name": "F. D&apos;Andrea",
+      "firstname": "Filippo",
+      "lastname": "D'Andrea",
+      "age": 25,
+      "birth": {
+         "date": "1998-09-25",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "180 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/284042.png"
+   }
+}

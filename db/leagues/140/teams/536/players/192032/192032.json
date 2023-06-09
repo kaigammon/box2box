@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 192032,
+      "name": "Iván Romero",
+      "firstname": "Iván",
+      "lastname": "Romero de Ávila Araque",
+      "age": 22,
+      "birth": {
+         "date": "2001-04-10",
+         "place": "La Solana",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "172 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/192032.png"
+   }
+}

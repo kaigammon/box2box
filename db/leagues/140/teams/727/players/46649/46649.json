@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46649,
+      "name": "Juan Pérez",
+      "firstname": "Juan Manuel",
+      "lastname": "Pérez Ruiz",
+      "age": 27,
+      "birth": {
+         "date": "1996-07-15",
+         "place": "Almudévar",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "187 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/46649.png"
+   }
+}

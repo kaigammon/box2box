@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 274301,
+      "name": "Florian Baranik",
+      "firstname": "Florian",
+      "lastname": "Baranik",
+      "age": 21,
+      "birth": {
+         "date": "2002-02-02",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/274301.png"
+   }
+}

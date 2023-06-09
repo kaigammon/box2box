@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 48119,
+      "name": "O. Kossounou",
+      "firstname": "Kouakou Odilon Dorgeless",
+      "lastname": "Kossounou",
+      "age": 22,
+      "birth": {
+         "date": "2001-01-04",
+         "place": "Abidjan",
+         "country": "Côte d'Ivoire"
+      },
+      "nationality": "Côte d'Ivoire",
+      "height": "191 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/48119.png"
+   }
+}

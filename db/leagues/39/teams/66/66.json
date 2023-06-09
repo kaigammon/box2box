@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 66,
+      "name": "Aston Villa",
+      "code": "AST",
+      "country": "England",
+      "founded": 1874,
+      "national": false,
+      "logo": "https://media-1.api-sports.io/football/teams/66.png"
+   }
+}

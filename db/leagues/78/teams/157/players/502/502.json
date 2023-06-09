@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 502,
+      "name": "J. Kimmich",
+      "firstname": "Joshua Walter",
+      "lastname": "Kimmich",
+      "age": 28,
+      "birth": {
+         "date": "1995-02-08",
+         "place": "Rottweil",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "177 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/502.png"
+   }
+}

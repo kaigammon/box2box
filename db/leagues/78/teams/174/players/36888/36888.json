@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 36888,
+      "name": "T. Ouwejan",
+      "firstname": "Thomas",
+      "lastname": "Ouwejan",
+      "age": 27,
+      "birth": {
+         "date": "1996-09-30",
+         "place": "Alkmaar",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "178 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/36888.png"
+   }
+}

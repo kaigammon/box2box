@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 128986,
+      "name": "B. Anoff",
+      "firstname": "Blankson",
+      "lastname": "Anoff",
+      "age": 21,
+      "birth": {
+         "date": "2001-03-24",
+         "place": "Konkonuru",
+         "country": "Ghana"
+      },
+      "nationality": "Ghana",
+      "height": "173 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/128986.png"
+   }
+}

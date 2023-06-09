@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 196187,
+      "name": "A. Seidu",
+      "firstname": "Alidu",
+      "lastname": "Seidu",
+      "age": 23,
+      "birth": {
+         "date": "2000-06-04",
+         "place": "Abidjan",
+         "country": "Ghana"
+      },
+      "nationality": "Ghana",
+      "height": "173 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/196187.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 158121,
+      "name": "I. Jakobs",
+      "firstname": "Ismail Joshua",
+      "lastname": "Jakobs",
+      "age": 24,
+      "birth": {
+         "date": "1999-08-17",
+         "place": "Stuttgart",
+         "country": "Germany"
+      },
+      "nationality": "Senegal",
+      "height": "184 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/158121.png"
+   }
+}

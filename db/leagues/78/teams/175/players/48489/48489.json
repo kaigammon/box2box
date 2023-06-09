@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 48489,
+      "name": "M. Muheim",
+      "firstname": "Miro Max Maria",
+      "lastname": "Muheim",
+      "age": 25,
+      "birth": {
+         "date": "1998-03-24",
+         "place": "Zürich",
+         "country": "Switzerland"
+      },
+      "nationality": "Switzerland",
+      "height": "182 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/48489.png"
+   }
+}

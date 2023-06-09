@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 37440,
+      "name": "H. Dervişoğlu",
+      "firstname": "Halil İbrahim",
+      "lastname": "Dervişoğlu",
+      "age": 24,
+      "birth": {
+         "date": "1999-12-08",
+         "place": "Rotterdam",
+         "country": "Netherlands"
+      },
+      "nationality": "Türkiye",
+      "height": "183 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/37440.png"
+   }
+}

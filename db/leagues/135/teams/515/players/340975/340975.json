@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 340975,
+      "name": "Dennis Deloriè",
+      "firstname": "Dennis",
+      "lastname": "Deloriè",
+      "age": 18,
+      "birth": {
+         "date": "2004-11-06",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/340975.png"
+   }
+}

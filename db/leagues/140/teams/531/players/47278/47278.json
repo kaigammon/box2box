@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47278,
+      "name": "Dani Vivian",
+      "firstname": "Daniel",
+      "lastname": "Vivian Moreno",
+      "age": 24,
+      "birth": {
+         "date": "1999-07-05",
+         "place": "Vitoria",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "183 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47278.png"
+   }
+}

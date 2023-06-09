@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 41150,
+      "name": "E. Tapsoba",
+      "firstname": "Edmond Fayçal",
+      "lastname": "Tapsoba",
+      "age": 24,
+      "birth": {
+         "date": "1999-02-02",
+         "place": "Ouagadougou",
+         "country": "Burkina Faso"
+      },
+      "nationality": "Burkina Faso",
+      "height": "194 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/41150.png"
+   }
+}

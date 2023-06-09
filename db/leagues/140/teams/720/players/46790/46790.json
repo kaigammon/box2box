@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46790,
+      "name": "Víctor García",
+      "firstname": "Víctor",
+      "lastname": "García Raja",
+      "age": 26,
+      "birth": {
+         "date": "1997-09-16",
+         "place": "Valencia",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "180 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/46790.png"
+   }
+}

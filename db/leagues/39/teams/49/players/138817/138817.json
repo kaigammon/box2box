@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 138817,
+      "name": "Juan Carlos Familia-Castillo",
+      "firstname": "Juan Carlos",
+      "lastname": "Familia-Castillo",
+      "age": 22,
+      "birth": {
+         "date": "2000-01-13",
+         "place": "Amsterdam",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "175 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/138817.png"
+   }
+}

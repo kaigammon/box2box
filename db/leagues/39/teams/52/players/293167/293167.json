@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 293167,
+      "name": "J. Sheridan",
+      "firstname": "Joe",
+      "lastname": "Sheridan",
+      "age": 19,
+      "birth": {
+         "date": "2003-12-10",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/293167.png"
+   }
+}

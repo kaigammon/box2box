@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20858,
+      "name": "M. Barreto",
+      "firstname": "Mickaël Jose",
+      "lastname": "Barreto",
+      "age": 32,
+      "birth": {
+         "date": "1991-01-18",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "175 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20858.png"
+   }
+}

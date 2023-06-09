@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19569,
+      "name": "J. Gelhardt",
+      "firstname": "Joseph Paul",
+      "lastname": "Gelhardt",
+      "age": 21,
+      "birth": {
+         "date": "2002-05-04",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19569.png"
+   }
+}

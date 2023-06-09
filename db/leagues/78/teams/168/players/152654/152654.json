@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 152654,
+      "name": "J. Frimpong",
+      "firstname": "Jeremie",
+      "lastname": "Agyekum Frimpong",
+      "age": 23,
+      "birth": {
+         "date": "2000-12-10",
+         "place": "Amsterdam",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "171 cm",
+      "weight": "63 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/152654.png"
+   }
+}

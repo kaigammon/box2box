@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 129718,
+      "name": "J. Bellingham",
+      "firstname": "Jude Victor William",
+      "lastname": "Bellingham",
+      "age": 20,
+      "birth": {
+         "date": "2003-06-29",
+         "place": "Stourbridge",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "186 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/129718.png"
+   }
+}

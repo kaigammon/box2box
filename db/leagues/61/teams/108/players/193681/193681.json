@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 193681,
+      "name": "T. De Percin",
+      "firstname": "Théo",
+      "lastname": "De Percin",
+      "age": 22,
+      "birth": {
+         "date": "2001-02-02",
+         "place": "Tarbes",
+         "country": "France"
+      },
+      "nationality": "Martinique",
+      "height": "185 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/193681.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46733,
+      "name": "Raíllo",
+      "firstname": "Antonio José",
+      "lastname": "Raíllo Arenas",
+      "age": 32,
+      "birth": {
+         "date": "1991-10-08",
+         "place": "Córdoba",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "187 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/46733.png"
+   }
+}

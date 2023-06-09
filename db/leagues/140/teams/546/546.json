@@ -1,0 +1,11 @@
+{
+   "team": {
+      "id": 546,
+      "name": "Getafe",
+      "code": "GET",
+      "country": "Spain",
+      "founded": 1983,
+      "national": false,
+      "logo": "https://media-2.api-sports.io/football/teams/546.png"
+   }
+}

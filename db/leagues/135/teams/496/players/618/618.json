@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 618,
+      "name": "Danilo",
+      "firstname": "Danilo Luiz",
+      "lastname": "da Silva",
+      "age": 32,
+      "birth": {
+         "date": "1991-07-15",
+         "place": "Bicas",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "184 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/618.png"
+   }
+}

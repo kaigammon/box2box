@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21138,
+      "name": "R. Aït-Nouri",
+      "firstname": "Rayan",
+      "lastname": "Aït-Nouri",
+      "age": 22,
+      "birth": {
+         "date": "2001-06-06",
+         "place": "Montreuil",
+         "country": "France"
+      },
+      "nationality": "Algeria",
+      "height": "179 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/21138.png"
+   }
+}

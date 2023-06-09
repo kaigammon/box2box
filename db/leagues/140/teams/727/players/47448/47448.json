@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47448,
+      "name": "Aitor Fernández",
+      "firstname": "Aitor",
+      "lastname": "Fernández Abarisketa",
+      "age": 32,
+      "birth": {
+         "date": "1991-05-03",
+         "place": "Arrasate",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "182 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47448.png"
+   }
+}

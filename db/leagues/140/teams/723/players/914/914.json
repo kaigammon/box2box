@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 914,
+      "name": "Álex Centelles",
+      "firstname": "Alejandro",
+      "lastname": "Centelles Plaza",
+      "age": 24,
+      "birth": {
+         "date": "1999-08-30",
+         "place": "Odivelas",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/914.png"
+   }
+}

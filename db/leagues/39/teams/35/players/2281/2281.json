@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2281,
+      "name": "Gary Cahill",
+      "firstname": "Gary",
+      "lastname": "Cahill",
+      "age": 37,
+      "birth": {
+         "date": "1985-12-19",
+         "place": "Dronfield",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "193 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2281.png"
+   }
+}

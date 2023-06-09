@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 713,
+      "name": "K. Vogt",
+      "firstname": "Kevin",
+      "lastname": "Vogt",
+      "age": 32,
+      "birth": {
+         "date": "1991-09-23",
+         "place": "Witten",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "194 cm",
+      "weight": "87 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/713.png"
+   }
+}

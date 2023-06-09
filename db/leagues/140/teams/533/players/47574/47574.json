@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47574,
+      "name": "Moi Gómez",
+      "firstname": "Moisés",
+      "lastname": "Gómez Bordonado",
+      "age": 29,
+      "birth": {
+         "date": "1994-06-23",
+         "place": "Rojales",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "176 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47574.png"
+   }
+}

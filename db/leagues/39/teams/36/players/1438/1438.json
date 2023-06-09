@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1438,
+      "name": "B. Leno",
+      "firstname": "Bernd",
+      "lastname": "Leno",
+      "age": 31,
+      "birth": {
+         "date": "1992-03-04",
+         "place": "Bietigheim-Bissingen",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "189 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1438.png"
+   }
+}

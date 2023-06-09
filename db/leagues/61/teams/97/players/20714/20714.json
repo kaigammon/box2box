@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20714,
+      "name": "P. Nouga",
+      "firstname": "Paul Dubien",
+      "lastname": "Mbelek Nouga",
+      "age": 24,
+      "birth": {
+         "date": "1999-07-22",
+         "place": "Melun",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "185 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/20714.png"
+   }
+}

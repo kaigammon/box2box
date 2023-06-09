@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 342043,
+      "name": "Riccardo Stivanello",
+      "firstname": "Riccardo",
+      "lastname": "Stivanello",
+      "age": 18,
+      "birth": {
+         "date": "2004-04-24",
+         "place": "Dolo",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/342043.png"
+   }
+}

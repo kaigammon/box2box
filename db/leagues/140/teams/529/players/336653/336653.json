@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 336653,
+      "name": "Ander Astralaga",
+      "firstname": "Ander",
+      "lastname": "Astralaga Aranguren",
+      "age": 19,
+      "birth": {
+         "date": "2004-03-03",
+         "place": "Berango",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/336653.png"
+   }
+}

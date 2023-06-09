@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 24868,
+      "name": "J. Vagnoman",
+      "firstname": "Josha Mamadou",
+      "lastname": "Karaboue Vagnoman",
+      "age": 23,
+      "birth": {
+         "date": "2000-12-11",
+         "place": "Hamburg",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "190 cm",
+      "weight": "90 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/24868.png"
+   }
+}

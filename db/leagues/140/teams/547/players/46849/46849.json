@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46849,
+      "name": "Javi Hernández",
+      "firstname": "Javier",
+      "lastname": "Hernández Cabrera",
+      "age": 25,
+      "birth": {
+         "date": "1998-05-02",
+         "place": "Jerez de la Frontera",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/46849.png"
+   }
+}

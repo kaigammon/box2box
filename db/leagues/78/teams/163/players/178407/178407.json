@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 178407,
+      "name": "M. Brüll",
+      "firstname": "Maximilian",
+      "lastname": "Brüll",
+      "age": 21,
+      "birth": {
+         "date": "2002-08-26",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "187 cm",
+      "weight": "88 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/178407.png"
+   }
+}

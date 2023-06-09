@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47263,
+      "name": "Samuel Sáiz",
+      "firstname": "Samuel",
+      "lastname": "Sáiz Alonso",
+      "age": 32,
+      "birth": {
+         "date": "1991-01-22",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "174 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47263.png"
+   }
+}

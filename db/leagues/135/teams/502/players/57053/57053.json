@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 57053,
+      "name": "M. Cerofolini",
+      "firstname": "Michele",
+      "lastname": "Cerofolini",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-04",
+         "place": "Arezzo",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "188 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/57053.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47519,
+      "name": "Pedro Porro",
+      "firstname": "Pedro Antonio",
+      "lastname": "Porro Sauceda",
+      "age": 24,
+      "birth": {
+         "date": "1999-09-13",
+         "place": "Don Benito",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "173 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47519.png"
+   }
+}

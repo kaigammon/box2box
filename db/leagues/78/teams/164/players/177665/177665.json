@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 177665,
+      "name": "A. Stach",
+      "firstname": "Anton Levi",
+      "lastname": "Stach",
+      "age": 25,
+      "birth": {
+         "date": "1998-11-15",
+         "place": "Buchholz in der Nordheide",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "193 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/177665.png"
+   }
+}

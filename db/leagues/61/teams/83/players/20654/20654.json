@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20654,
+      "name": "F. Centonze",
+      "firstname": "Fabien",
+      "lastname": "Centonze",
+      "age": 27,
+      "birth": {
+         "date": "1996-01-16",
+         "place": "Voiron",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "182 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20654.png"
+   }
+}

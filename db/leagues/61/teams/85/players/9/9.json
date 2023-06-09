@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 9,
+      "name": "A. Hakimi",
+      "firstname": "Achraf",
+      "lastname": "Hakimi Mouh",
+      "age": 25,
+      "birth": {
+         "date": "1998-11-04",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Morocco",
+      "height": "181 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/9.png"
+   }
+}

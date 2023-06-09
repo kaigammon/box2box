@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20627,
+      "name": "H. Mendes",
+      "firstname": "Houboulang",
+      "lastname": "Mendes",
+      "age": 25,
+      "birth": {
+         "date": "1998-05-04",
+         "place": "Évry",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "184 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/20627.png"
+   }
+}

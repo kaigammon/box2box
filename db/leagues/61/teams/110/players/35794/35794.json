@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 35794,
+      "name": "M. Moreno",
+      "firstname": "Marlos",
+      "lastname": "Moreno Durán",
+      "age": 27,
+      "birth": {
+         "date": "1996-09-20",
+         "place": "Medellín",
+         "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "171 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/35794.png"
+   }
+}

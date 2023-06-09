@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 108474,
+      "name": "L. Kilian",
+      "firstname": "Luca Jannis",
+      "lastname": "Kilian",
+      "age": 24,
+      "birth": {
+         "date": "1999-09-01",
+         "place": "Dortmund",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "192 cm",
+      "weight": "91 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/108474.png"
+   }
+}

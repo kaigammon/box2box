@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 44912,
+      "name": "M. Gillespie",
+      "firstname": "Mark Joseph",
+      "lastname": "Gillespie",
+      "age": 31,
+      "birth": {
+         "date": "1992-03-27",
+         "place": "Newcastle upon Tyne",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "192 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/44912.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30554,
+      "name": "L. Pellegrini",
+      "firstname": "Luca",
+      "lastname": "Pellegrini",
+      "age": 24,
+      "birth": {
+         "date": "1999-03-07",
+         "place": "Roma",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "178 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/30554.png"
+   }
+}

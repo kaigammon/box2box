@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47557,
+      "name": "Ó. Trejo",
+      "firstname": "Óscar Guido",
+      "lastname": "Trejo",
+      "age": 35,
+      "birth": {
+         "date": "1988-04-26",
+         "place": "Santiago del Estero",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "180 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47557.png"
+   }
+}

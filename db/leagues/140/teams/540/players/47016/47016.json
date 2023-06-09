@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47016,
+      "name": "Álvaro Fernández",
+      "firstname": "Álvaro",
+      "lastname": "Fernández Llorente",
+      "age": 25,
+      "birth": {
+         "date": "1998-04-13",
+         "place": "Arnedo",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47016.png"
+   }
+}

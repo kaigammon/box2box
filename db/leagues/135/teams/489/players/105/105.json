@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 105,
+      "name": "F. Ballo",
+      "firstname": "Fodé",
+      "lastname": "Ballo-Touré",
+      "age": 26,
+      "birth": {
+         "date": "1997-01-03",
+         "place": "Conflans-Sainte-Honorine",
+         "country": "France"
+      },
+      "nationality": "Senegal",
+      "height": "182 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/105.png"
+   }
+}

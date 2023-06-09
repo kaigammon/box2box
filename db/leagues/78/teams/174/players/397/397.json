@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 397,
+      "name": "M. Langer",
+      "firstname": "Michael",
+      "lastname": "Langer",
+      "age": 38,
+      "birth": {
+         "date": "1985-01-06",
+         "place": "Bregenz",
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "195 cm",
+      "weight": "93 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/397.png"
+   }
+}

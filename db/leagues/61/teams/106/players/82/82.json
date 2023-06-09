@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 82,
+      "name": "N. Fadiga",
+      "firstname": "Noah",
+      "lastname": "Fadiga",
+      "age": 24,
+      "birth": {
+         "date": "1999-12-03",
+         "place": "Brugge",
+         "country": "Belgium"
+      },
+      "nationality": "Senegal",
+      "height": "187 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/82.png"
+   }
+}

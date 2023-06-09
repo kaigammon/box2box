@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19197,
+      "name": "S. Carson",
+      "firstname": "Scott Paul",
+      "lastname": "Carson",
+      "age": 38,
+      "birth": {
+         "date": "1985-09-03",
+         "place": "Whitehaven",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "188 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19197.png"
+   }
+}

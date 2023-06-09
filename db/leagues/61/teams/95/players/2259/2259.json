@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2259,
+      "name": "E. Sobol",
+      "firstname": "Eduard",
+      "lastname": "Sobol",
+      "age": 28,
+      "birth": {
+         "date": "1995-04-20",
+         "place": "Vilnyansk",
+         "country": "Ukraine"
+      },
+      "nationality": "Ukraine",
+      "height": "181 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2259.png"
+   }
+}

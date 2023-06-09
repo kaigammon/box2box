@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284427,
+      "name": "Lewis James Payne",
+      "firstname": "Lewis",
+      "lastname": "James Payne",
+      "age": 19,
+      "birth": {
+         "date": "2004-05-30",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/284427.png"
+   }
+}

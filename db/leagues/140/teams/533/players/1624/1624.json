@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1624,
+      "name": "Pepe Reina",
+      "firstname": "José Manuel",
+      "lastname": "Reina Páez",
+      "age": 41,
+      "birth": {
+         "date": "1982-08-31",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "188 cm",
+      "weight": "92 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1624.png"
+   }
+}

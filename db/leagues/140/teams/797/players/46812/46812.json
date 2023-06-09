@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46812,
+      "name": "A. Werner",
+      "firstname": "Axel Wilfredo",
+      "lastname": "Werner",
+      "age": 27,
+      "birth": {
+         "date": "1996-02-28",
+         "place": "Santa Fe",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "192 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/46812.png"
+   }
+}

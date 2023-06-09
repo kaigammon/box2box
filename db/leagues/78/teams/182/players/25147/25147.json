@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 25147,
+      "name": "P. Jaeckel",
+      "firstname": "Paul",
+      "lastname": "Jaeckel",
+      "age": 25,
+      "birth": {
+         "date": "1998-07-22",
+         "place": "Eisenhüttenstadt",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "186 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/25147.png"
+   }
+}

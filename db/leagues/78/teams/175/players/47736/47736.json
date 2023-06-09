@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47736,
+      "name": "M. Johansson",
+      "firstname": "Marko",
+      "lastname": "Johansson",
+      "age": 25,
+      "birth": {
+         "date": "1998-08-25",
+         "place": "Malmö",
+         "country": "Sweden"
+      },
+      "nationality": "Sweden",
+      "height": "193 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47736.png"
+   }
+}

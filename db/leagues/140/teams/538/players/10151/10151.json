@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 10151,
+      "name": "Diego Alves",
+      "firstname": "Diego",
+      "lastname": "Alves Carreira",
+      "age": 38,
+      "birth": {
+         "date": "1985-06-24",
+         "place": "Rio de Janeiro",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "190 cm",
+      "weight": "90 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/10151.png"
+   }
+}

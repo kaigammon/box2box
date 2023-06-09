@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 46714,
+      "name": "M. Malsa",
+      "firstname": "Mickaël Ramon",
+      "lastname": "Malsa",
+      "age": 27,
+      "birth": {
+         "date": "1996-10-12",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "Martinique",
+      "height": "178 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/46714.png"
+   }
+}

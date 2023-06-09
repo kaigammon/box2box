@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 736,
+      "name": "Fran García",
+      "firstname": "Francisco José",
+      "lastname": "García Torres",
+      "age": 24,
+      "birth": {
+         "date": "1999-08-14",
+         "place": "Bolaños de Calatrava",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "167 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/736.png"
+   }
+}

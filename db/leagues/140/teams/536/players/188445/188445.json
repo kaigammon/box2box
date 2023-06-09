@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 188445,
+      "name": "Luismi Cruz",
+      "firstname": "Luis Miguel",
+      "lastname": "Cruz Hernández",
+      "age": 22,
+      "birth": {
+         "date": "2001-05-23",
+         "place": "El Puerto de Santa María",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "166 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/188445.png"
+   }
+}

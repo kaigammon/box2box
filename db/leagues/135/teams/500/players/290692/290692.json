@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 290692,
+      "name": "Mattia Pagliuca",
+      "firstname": "Mattia",
+      "lastname": "Pagliuca",
+      "age": 21,
+      "birth": {
+         "date": "2002-04-25",
+         "place": "Bologna",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/290692.png"
+   }
+}

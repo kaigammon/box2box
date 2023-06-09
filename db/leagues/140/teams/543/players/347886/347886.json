@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 347886,
+      "name": "Félix Garreta",
+      "firstname": "Félix",
+      "lastname": "Martí Garreta",
+      "age": 19,
+      "birth": {
+         "date": "2004-04-21",
+         "place": "Palau-solità i Plegamans",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/347886.png"
+   }
+}

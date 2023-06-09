@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 48371,
+      "name": "É. Balanta",
+      "firstname": "Éder Fabián",
+      "lastname": "Álvarez Balanta",
+      "age": 30,
+      "birth": {
+         "date": "1993-02-28",
+         "place": "Bogotá",
+         "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "181 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/48371.png"
+   }
+}

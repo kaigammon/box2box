@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 119742,
+      "name": "Juan Iglesias",
+      "firstname": "Juan Antonio",
+      "lastname": "Iglesias Sánchez",
+      "age": 25,
+      "birth": {
+         "date": "1998-07-03",
+         "place": "Valladolid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/119742.png"
+   }
+}

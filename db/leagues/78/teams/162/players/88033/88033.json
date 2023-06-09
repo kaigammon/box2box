@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 88033,
+      "name": "C. Groß",
+      "firstname": "Christian",
+      "lastname": "Groß",
+      "age": 34,
+      "birth": {
+         "date": "1989-02-08",
+         "place": "Bremen",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "182 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/88033.png"
+   }
+}

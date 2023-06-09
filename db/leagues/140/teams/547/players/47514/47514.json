@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47514,
+      "name": "Valery",
+      "firstname": "Valery",
+      "lastname": "Fernández Estrada",
+      "age": 24,
+      "birth": {
+         "date": "1999-11-23",
+         "place": "L'Escala",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "182 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/47514.png"
+   }
+}
