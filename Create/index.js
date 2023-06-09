@@ -1,6 +1,18 @@
 require('dotenv').config();
 const db = require('../utils/db');
 
+const executeCreate = async (fn, args, apiKey, apiHost) => {
+    if (args === 'all') {
+        await fn(apiKey, apiHost)
+    } else {
+        const splitArgs = args.split('|');
+        for (let i = 0; i < splitArgs.length; i++) {
+            await fn(apiKey, apiHost, splitArgs[i]);
+        }
+    }
+    
+}
+
 module.exports = async function (context, req) {
     context.log('JavaScript HTTP trigger function processed a request.');
 
@@ -11,13 +23,13 @@ module.exports = async function (context, req) {
     const players = (req.query.players || (req.body && req.body.players));
 
     if (leagues) {
-        await db.create.leagues(API_KEY, API_HOST);
+        await executeCreate(db.create.leagues, leagues, API_KEY, API_HOST);
     }
     if (teams) {
-        await db.create.teams(API_KEY, API_HOST);
+        await executeCreate(db.create.teams, leagues, API_KEY, API_HOST);
     }
     if (players) {
-        await db.create.players(API_KEY, API_HOST);
+        await executeCreate(db.create.players, leagues, API_KEY, API_HOST);
     }
 
     context.res = {
