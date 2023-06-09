@@ -24,11 +24,15 @@ const populateTeamsForLeague = async (apiKey, apiHost, league) => {
   }
 };
 
-const populateTeams = async (apiKey, apiHost) => {
-  const leagues = io.getDirectories(path.join(__dirname, "/leagues"));
-  for (let i = 0; i < leagues.length; i++) {
-    const league = leagues[i];
-    await populateTeamsForLeague(apiKey, apiHost, league);
+const populateTeams = async (apiKey, apiHost, args) => {
+  if (args.league) {
+    await populateTeamsForLeague(apiKey, apiHost, args.league);
+  } else {
+    const leagues = io.getDirectories(path.join(__dirname, "/leagues"));
+    for (let i = 0; i < leagues.length; i++) {
+      const league = leagues[i];
+      await populateTeamsForLeague(apiKey, apiHost, league);
+    }
   }
 };
 

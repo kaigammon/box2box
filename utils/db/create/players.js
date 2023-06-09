@@ -24,14 +24,26 @@ const populatePlayersForTeam = async (apiKey, apiHost, league, team) => {
   }
 };
 
-const populatePlayers = async (apiKey, apiHost) => {
-  const leagues = io.getDirectories(path.join(__dirname, "/leagues"));
-  for (let i = 0; i < leagues.length; i++) {
-    const league = leagues[i];
-    const teams = io.getDirectories(path.join(__dirname, `/leagues/${league}/teams`));
-    for (let j = 0; j < teams.length; j++) {
-        const team = teams[j];
-        await populatePlayersForTeam(apiKey, apiHost, league, team);
+const populatePlayers = async (apiKey, apiHost, args) => {
+  if (args.team) {
+    await populatePlayersForTeam(apiKey, apiHost, league, args.team);
+  } else {
+    if (args.league) {
+      const teams = io.getDirectories(path.join(__dirname, `/leagues/${args.league}/teams`));
+      for (let j = 0; j < teams.length; j++) {
+          const team = teams[j];
+          await populatePlayersForTeam(apiKey, apiHost, league, team);
+      }
+    } else {
+      const leagues = io.getDirectories(path.join(__dirname, "/leagues"));
+      for (let i = 0; i < leagues.length; i++) {
+        const league = leagues[i];
+        const teams = io.getDirectories(path.join(__dirname, `/leagues/${league}/teams`));
+        for (let j = 0; j < teams.length; j++) {
+            const team = teams[j];
+            await populatePlayersForTeam(apiKey, apiHost, league, team);
+        }
+      }
     }
   }
 };
