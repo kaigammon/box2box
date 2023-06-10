@@ -8,7 +8,7 @@ module.exports = async function (context, req) {
     const player = (req.query.player || (req.body && req.body.player));
     const country = (req.query.country || (req.body && req.body.country));
 
-    const retrievedPlayers = db.get.players.byQuery({ league, team, player, country });
+    const retrievedPlayers = db.get.players.byQuery({ league, team, player, country }, context);
 
     context.res = {
         // status: 200, /* Defaults to 200 */

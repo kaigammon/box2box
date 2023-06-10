@@ -4,8 +4,10 @@ const io = require('../../io');
 const teams = require('./teams');
 const leagues = require('./leagues');
 
-const byId = (id) => {
+const byId = (id, context) => {
+    context.log(`getting player id ${id}`);
     const [file] = glob.globSync(`**/leagues/*/teams/*/players/${id}/${id}.json`);
+    context.log(`path: ${file}`);
     const { league, team } = io.extractArgsFromFilePath(file);
     return {
         player: JSON.parse(fs.readFileSync(file, { encoding: 'utf-8'})).player,
@@ -40,13 +42,14 @@ const byCountry = (country) => {
     }).sort((a, b) => { return a.player.id - b.player.id });
 }
 
-const byQuery = (query) => {
+const byQuery = (query, context) => {
     const { league, team, player, country } = query;
     const globPath = `**/leagues/${league || '*'}/teams/${team || '*'}/players/${player || '*'}/${player || '*'}.json`;
     const files = glob.globSync(globPath);
     return files.map((file) => {
+        context.log(`path: ${file}`);
         const { player } = io.extractArgsFromFilePath(file);
-        return byId(player);
+        return byId(player, context);
     }).filter(({ player }) => {
         return country ? player.nationality === country : true;
     }).sort((a, b) => { return a.player.id - b.player.id });
