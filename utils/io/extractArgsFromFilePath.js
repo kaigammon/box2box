@@ -1,10 +1,11 @@
+const path = require('path');
 const extractArgsFromFilePath = (filePath) => {
     const args = {};
     if (!filePath) {
         return args;
     }
 
-    const parts = filePath.split('/');
+    const parts = filePath.split(path.sep);
     parts.forEach((part, i) => {
         switch(part) {
             case 'leagues': {
