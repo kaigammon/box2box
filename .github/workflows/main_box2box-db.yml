@@ -45,4 +45,4 @@ jobs:
           app-name: 'box2box-db'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B793611411B44D7AA34DD4EAF08A896B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BOX2BOXDB }}
