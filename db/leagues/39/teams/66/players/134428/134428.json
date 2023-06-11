@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 134428,
+      "name": "B. Chrisene",
+      "firstname": "Benjamin Joshua",
+      "lastname": "Chrisene",
+      "age": 19,
+      "birth": {
+         "date": "2004-01-12",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/134428.png"
+   }
+}

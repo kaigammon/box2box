@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18847,
+      "name": "J. Ward",
+      "firstname": "Joel Edward Philip",
+      "lastname": "Ward",
+      "age": 34,
+      "birth": {
+         "date": "1989-10-29",
+         "place": "Portsmouth",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "188 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18847.png"
+   }
+}

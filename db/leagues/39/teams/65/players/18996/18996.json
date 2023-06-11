@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18996,
+      "name": "H. Arter",
+      "firstname": "Harry Nicholas",
+      "lastname": "Arter",
+      "age": 34,
+      "birth": {
+         "date": "1989-12-28",
+         "place": "Sidcup",
+         "country": "England"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "176 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18996.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18940,
+      "name": "J. Stephens",
+      "firstname": "Jack",
+      "lastname": "Stephens",
+      "age": 29,
+      "birth": {
+         "date": "1994-01-27",
+         "place": "Plymouth",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "185 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18940.png"
+   }
+}

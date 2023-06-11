@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 334729,
+      "name": "B. Clark",
+      "firstname": "Bobby Lamont",
+      "lastname": "Clark",
+      "age": 18,
+      "birth": {
+         "date": "2005-02-07",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "178 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/334729.png"
+   }
+}

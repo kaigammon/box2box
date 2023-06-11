@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 178,
+      "name": "Lucas Moura",
+      "firstname": "Lucas",
+      "lastname": "Rodrigues Moura da Silva",
+      "age": 31,
+      "birth": {
+         "date": "1992-08-13",
+         "place": "São Paulo",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "172 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/178.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 153400,
+      "name": "S. Greenwood",
+      "firstname": "Sam",
+      "lastname": "Greenwood",
+      "age": 21,
+      "birth": {
+         "date": "2002-01-26",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "185 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/153400.png"
+   }
+}

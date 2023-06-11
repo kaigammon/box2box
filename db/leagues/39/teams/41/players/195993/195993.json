@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 195993,
+      "name": "C. Alcaraz",
+      "firstname": "Carlos Jonas",
+      "lastname": "Alcaraz",
+      "age": 21,
+      "birth": {
+         "date": "2002-11-30",
+         "place": "La Plata",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "176 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/195993.png"
+   }
+}

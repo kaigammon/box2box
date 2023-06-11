@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 180289,
+      "name": "C. Saydee",
+      "firstname": "Christian",
+      "lastname": "Saydee",
+      "age": 21,
+      "birth": {
+         "date": "2002-05-10",
+         "place": "Hillingdon",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "184 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/180289.png"
+   }
+}

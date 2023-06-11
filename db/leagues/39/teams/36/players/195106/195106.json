@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 195106,
+      "name": "Rodrigo Muniz",
+      "firstname": "Rodrigo",
+      "lastname": "Muniz Carvalho",
+      "age": 22,
+      "birth": {
+         "date": "2001-05-04",
+         "place": "São Domingos do Prata",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "183 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/195106.png"
+   }
+}

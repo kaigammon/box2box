@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 382930,
+      "name": "F. Okoh",
+      "firstname": "Ferdinand",
+      "lastname": "Okoh",
+      "age": 19,
+      "birth": {
+         "date": "2004-06-03",
+         "place": "London",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "171 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/382930.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 129707,
+      "name": "T. Francois",
+      "firstname": "Tyrese Jay",
+      "lastname": "Francois",
+      "age": 23,
+      "birth": {
+         "date": "2000-07-16",
+         "place": "Campbell Town",
+         "country": "Australia"
+      },
+      "nationality": "Australia",
+      "height": "173 cm",
+      "weight": "60 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/129707.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 337929,
+      "name": "G. Abbott",
+      "firstname": "George David",
+      "lastname": "Abbott",
+      "age": 18,
+      "birth": {
+         "date": "2005-08-17",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/337929.png"
+   }
+}

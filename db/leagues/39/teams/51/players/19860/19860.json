@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19860,
+      "name": "M. Clarke",
+      "firstname": "Matthew Edward",
+      "lastname": "Barkell Clarke",
+      "age": 27,
+      "birth": {
+         "date": "1996-09-22",
+         "place": "Ipswich",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "188 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19860.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 7722,
+      "name": "S. Kalajdzic",
+      "firstname": "Saša",
+      "lastname": "Kalajdžić",
+      "age": 26,
+      "birth": {
+         "date": "1997-07-07",
+         "place": null,
+         "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "200 cm",
+      "weight": "93 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/7722.png"
+   }
+}

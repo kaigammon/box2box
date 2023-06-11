@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 152418,
+      "name": "N. Ahamada",
+      "firstname": "Naouirou Mohamed",
+      "lastname": "Ahamada",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-29",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "183 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/152418.png"
+   }
+}

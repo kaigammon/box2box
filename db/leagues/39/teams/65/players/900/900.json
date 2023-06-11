@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 900,
+      "name": "J. Lingard",
+      "firstname": "Jesse Ellis",
+      "lastname": "Lingard",
+      "age": 31,
+      "birth": {
+         "date": "1992-12-15",
+         "place": "Warrington",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": "62 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/900.png"
+   }
+}

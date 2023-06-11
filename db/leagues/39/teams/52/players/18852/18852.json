@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18852,
+      "name": "L. Milivojević",
+      "firstname": "Luka",
+      "lastname": "Milivojević",
+      "age": 32,
+      "birth": {
+         "date": "1991-04-07",
+         "place": "Kragujevac",
+         "country": "Yugoslavia"
+      },
+      "nationality": "Serbia",
+      "height": "186 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18852.png"
+   }
+}

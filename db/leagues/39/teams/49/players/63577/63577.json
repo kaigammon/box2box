@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 63577,
+      "name": "M. Mudryk",
+      "firstname": "Mykhailo",
+      "lastname": "Mudryk",
+      "age": 22,
+      "birth": {
+         "date": "2001-01-05",
+         "place": "Krasnohrad",
+         "country": "Ukraine"
+      },
+      "nationality": "Ukraine",
+      "height": "175 cm",
+      "weight": "61 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/63577.png"
+   }
+}

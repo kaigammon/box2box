@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 908,
+      "name": "A. Martial",
+      "firstname": "Anthony Jordan",
+      "lastname": "Martial",
+      "age": 28,
+      "birth": {
+         "date": "1995-12-05",
+         "place": "Massy",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "181 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/908.png"
+   }
+}

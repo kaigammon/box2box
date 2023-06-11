@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162128,
+      "name": "W. Gnonto",
+      "firstname": "Degnand Wilfried",
+      "lastname": "Gnonto",
+      "age": 20,
+      "birth": {
+         "date": "2003-11-05",
+         "place": null,
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "172 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/162128.png"
+   }
+}

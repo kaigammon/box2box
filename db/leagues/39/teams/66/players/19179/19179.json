@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19179,
+      "name": "T. Mings",
+      "firstname": "Tyrone Deon",
+      "lastname": "Mings",
+      "age": 30,
+      "birth": {
+         "date": "1993-03-13",
+         "place": "Bath",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "196 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19179.png"
+   }
+}

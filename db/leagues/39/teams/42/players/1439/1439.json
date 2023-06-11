@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1439,
+      "name": "Héctor Bellerín",
+      "firstname": "Héctor",
+      "lastname": "Bellerín Moruno",
+      "age": 28,
+      "birth": {
+         "date": "1995-03-19",
+         "place": "Barcelona",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "178 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1439.png"
+   }
+}

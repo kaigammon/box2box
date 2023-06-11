@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 382167,
+      "name": "J. Wadham",
+      "firstname": "Jack",
+      "lastname": "Wadham",
+      "age": 20,
+      "birth": {
+         "date": "2003-02-25",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "183 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/382167.png"
+   }
+}

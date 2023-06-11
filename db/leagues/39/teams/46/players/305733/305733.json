@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 305733,
+      "name": "W. Alves",
+      "firstname": "William Thomas",
+      "lastname": "Alves",
+      "age": 18,
+      "birth": {
+         "date": "2005-05-04",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/305733.png"
+   }
+}

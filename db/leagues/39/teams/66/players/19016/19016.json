@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19016,
+      "name": "C. Chambers",
+      "firstname": "Calum",
+      "lastname": "Chambers",
+      "age": 28,
+      "birth": {
+         "date": "1995-01-20",
+         "place": "Petersfield",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "182 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19016.png"
+   }
+}

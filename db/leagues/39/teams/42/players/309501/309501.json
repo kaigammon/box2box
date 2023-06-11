@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 309501,
+      "name": "A. Cozier-Duberry",
+      "firstname": "Amario",
+      "lastname": "Cozier-Duberry",
+      "age": 18,
+      "birth": {
+         "date": "2005-05-29",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/309501.png"
+   }
+}

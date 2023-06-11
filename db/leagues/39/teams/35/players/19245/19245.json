@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19245,
+      "name": "M. Tavernier",
+      "firstname": "Marcus Joseph",
+      "lastname": "Tavernier",
+      "age": 24,
+      "birth": {
+         "date": "1999-03-22",
+         "place": "Leeds",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "178 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19245.png"
+   }
+}

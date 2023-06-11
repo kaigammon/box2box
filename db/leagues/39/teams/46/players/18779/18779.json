@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18779,
+      "name": "H. Choudhury",
+      "firstname": "Hamza",
+      "lastname": "Dewan Choudhury",
+      "age": 26,
+      "birth": {
+         "date": "1997-10-01",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "178 cm",
+      "weight": "64 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18779.png"
+   }
+}

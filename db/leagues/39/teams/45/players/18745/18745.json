@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18745,
+      "name": "Rúben Vinagre",
+      "firstname": "Rúben Gonçalo Silva",
+      "lastname": "Nascimento Vinagre",
+      "age": 24,
+      "birth": {
+         "date": "1999-04-09",
+         "place": "Charneca de Caparica",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "174 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18745.png"
+   }
+}

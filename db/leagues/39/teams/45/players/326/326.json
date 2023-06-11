@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 326,
+      "name": "Allan",
+      "firstname": "Allan",
+      "lastname": "Marques Loureiro",
+      "age": 32,
+      "birth": {
+         "date": "1991-01-08",
+         "place": "Rio de Janeiro",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "174 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/326.png"
+   }
+}

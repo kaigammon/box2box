@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2734,
+      "name": "P. Billing",
+      "firstname": "Philip",
+      "lastname": "Anyanwu Billing",
+      "age": 27,
+      "birth": {
+         "date": "1996-06-11",
+         "place": "Lagos",
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "193 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2734.png"
+   }
+}

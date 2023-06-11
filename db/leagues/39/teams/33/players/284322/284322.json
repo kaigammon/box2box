@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284322,
+      "name": "K. Mainoo",
+      "firstname": "Kobbie",
+      "lastname": "Mainoo",
+      "age": 18,
+      "birth": {
+         "date": "2005-04-19",
+         "place": "Stockport",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/284322.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 325967,
+      "name": "O. Hammond",
+      "firstname": "Oliver Jack",
+      "lastname": "Hammond",
+      "age": 21,
+      "birth": {
+         "date": "2002-11-13",
+         "place": null,
+         "country": "Wales"
+      },
+      "nationality": "Wales",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/325967.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 116117,
+      "name": "M. Caicedo",
+      "firstname": "Moisés Isaac",
+      "lastname": "Caicedo Corozo",
+      "age": 22,
+      "birth": {
+         "date": "2001-11-02",
+         "place": "Santo Domingo",
+         "country": "Ecuador"
+      },
+      "nationality": "Ecuador",
+      "height": "178 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/116117.png"
+   }
+}

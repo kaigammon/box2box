@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 886,
+      "name": "Diogo Dalot",
+      "firstname": "José Diogo",
+      "lastname": "Dalot Teixeira",
+      "age": 24,
+      "birth": {
+         "date": "1999-03-18",
+         "place": "Braga",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "183 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/886.png"
+   }
+}

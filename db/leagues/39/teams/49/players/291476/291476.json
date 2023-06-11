@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 291476,
+      "name": "D. Fofana",
+      "firstname": "David Datro",
+      "lastname": "Fofana",
+      "age": 21,
+      "birth": {
+         "date": "2002-12-22",
+         "place": null,
+         "country": "Côte d'Ivoire"
+      },
+      "nationality": "Côte d'Ivoire",
+      "height": "181 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/291476.png"
+   }
+}

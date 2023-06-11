@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 151754,
+      "name": "L. Clarkson",
+      "firstname": "Leighton",
+      "lastname": "Owen Clarkson",
+      "age": 22,
+      "birth": {
+         "date": "2001-10-19",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": "62 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/151754.png"
+   }
+}

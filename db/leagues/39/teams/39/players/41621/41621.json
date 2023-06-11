@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 41621,
+      "name": "Matheus Nunes",
+      "firstname": "Matheus Luiz",
+      "lastname": "Nunes",
+      "age": 25,
+      "birth": {
+         "date": "1998-08-27",
+         "place": "Rio de Janeiro",
+         "country": "Brazil"
+      },
+      "nationality": "Portugal",
+      "height": "184 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/41621.png"
+   }
+}

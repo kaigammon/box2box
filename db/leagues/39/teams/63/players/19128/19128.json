@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19128,
+      "name": "J. Harrison",
+      "firstname": "Jack David",
+      "lastname": "Harrison",
+      "age": 27,
+      "birth": {
+         "date": "1996-11-20",
+         "place": "Stoke-on-Trent",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19128.png"
+   }
+}

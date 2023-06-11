@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2807,
+      "name": "R. Freuler",
+      "firstname": "Remo Marco",
+      "lastname": "Freuler",
+      "age": 31,
+      "birth": {
+         "date": "1992-04-15",
+         "place": "Ennenda",
+         "country": "Switzerland"
+      },
+      "nationality": "Switzerland",
+      "height": "181 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2807.png"
+   }
+}

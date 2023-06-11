@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 347066,
+      "name": "E. Pollock",
+      "firstname": "Euan",
+      "lastname": "Pollock",
+      "age": 21,
+      "birth": {
+         "date": "2002-10-03",
+         "place": "Dorchester",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "173 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/347066.png"
+   }
+}

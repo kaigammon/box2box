@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 286,
+      "name": "J. Matip",
+      "firstname": "Job Joël André",
+      "lastname": "Matip",
+      "age": 32,
+      "birth": {
+         "date": "1991-08-08",
+         "place": "Bochum",
+         "country": "Germany"
+      },
+      "nationality": "Cameroon",
+      "height": "195 cm",
+      "weight": "90 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/286.png"
+   }
+}

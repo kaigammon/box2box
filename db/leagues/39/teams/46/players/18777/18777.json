@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18777,
+      "name": "M. Albrighton",
+      "firstname": "Marc Kevin",
+      "lastname": "Albrighton",
+      "age": 34,
+      "birth": {
+         "date": "1989-11-18",
+         "place": "Tamworth",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18777.png"
+   }
+}

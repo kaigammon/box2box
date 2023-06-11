@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 863,
+      "name": "R. Bentancur",
+      "firstname": "Rodrigo",
+      "lastname": "Bentancur Colmán",
+      "age": 26,
+      "birth": {
+         "date": "1997-06-25",
+         "place": "Nueva Helvecia",
+         "country": "Uruguay"
+      },
+      "nationality": "Uruguay",
+      "height": "187 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/863.png"
+   }
+}

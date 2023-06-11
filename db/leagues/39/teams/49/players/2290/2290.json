@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2290,
+      "name": "N. Kanté",
+      "firstname": "N'Golo",
+      "lastname": "Kanté",
+      "age": 32,
+      "birth": {
+         "date": "1991-03-29",
+         "place": "Paris",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "168 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2290.png"
+   }
+}

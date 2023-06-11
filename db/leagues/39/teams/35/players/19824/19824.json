@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19824,
+      "name": "J. Zemura",
+      "firstname": "Jordan Bhekithemba",
+      "lastname": "Zemura",
+      "age": 24,
+      "birth": {
+         "date": "1999-11-14",
+         "place": null,
+         "country": "Zimbabwe"
+      },
+      "nationality": "Zimbabwe",
+      "height": "173 cm",
+      "weight": "63 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19824.png"
+   }
+}

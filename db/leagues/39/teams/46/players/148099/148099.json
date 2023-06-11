@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 148099,
+      "name": "K. Dewsbury-Hall",
+      "firstname": "Kiernan Frank",
+      "lastname": "Dewsbury-Hall",
+      "age": 25,
+      "birth": {
+         "date": "1998-09-06",
+         "place": "Shepshed",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "178 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/148099.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 978,
+      "name": "K. Havertz",
+      "firstname": "Kai Lukas",
+      "lastname": "Havertz",
+      "age": 24,
+      "birth": {
+         "date": "1999-06-11",
+         "place": "Aachen",
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "193 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/978.png"
+   }
+}

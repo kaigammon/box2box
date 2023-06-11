@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284248,
+      "name": "M. Frauendorf",
+      "firstname": "Melkamu Benjamin Daniel",
+      "lastname": "Frauendorf",
+      "age": 19,
+      "birth": {
+         "date": "2004-01-12",
+         "place": null,
+         "country": "Ethiopia"
+      },
+      "nationality": "Germany",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/284248.png"
+   }
+}

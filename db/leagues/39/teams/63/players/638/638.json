@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 638,
+      "name": "I. Poveda-Ocampo",
+      "firstname": "Ian Carlo",
+      "lastname": "Poveda-Ocampo",
+      "age": 23,
+      "birth": {
+         "date": "2000-02-09",
+         "place": "London",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "156 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/638.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 136723,
+      "name": "N. Madueke",
+      "firstname": "Chukwunonso Tristan",
+      "lastname": "Madueke",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-10",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "176 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/136723.png"
+   }
+}

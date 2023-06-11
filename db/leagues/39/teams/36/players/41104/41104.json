@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 41104,
+      "name": "João Palhinha",
+      "firstname": "João Maria",
+      "lastname": "Lobo Alves Palhinha Gonçalves",
+      "age": 28,
+      "birth": {
+         "date": "1995-07-09",
+         "place": "Lisbon",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "190 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/41104.png"
+   }
+}

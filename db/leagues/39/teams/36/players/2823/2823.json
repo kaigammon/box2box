@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2823,
+      "name": "S. Lukić",
+      "firstname": "Saša",
+      "lastname": "Lukić",
+      "age": 27,
+      "birth": {
+         "date": "1996-08-13",
+         "place": "Šabac",
+         "country": "Serbia"
+      },
+      "nationality": "Serbia",
+      "height": "183 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2823.png"
+   }
+}

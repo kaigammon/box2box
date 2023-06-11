@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2298,
+      "name": "C. Hudson-Odoi",
+      "firstname": "Callum James",
+      "lastname": "Hudson-Odoi",
+      "age": 23,
+      "birth": {
+         "date": "2000-11-07",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "182 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2298.png"
+   }
+}

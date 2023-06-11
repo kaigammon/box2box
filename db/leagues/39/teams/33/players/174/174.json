@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 174,
+      "name": "C. Eriksen",
+      "firstname": "Christian",
+      "lastname": "Dannemann Eriksen",
+      "age": 31,
+      "birth": {
+         "date": "1992-02-14",
+         "place": "Middelfart",
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "182 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/174.png"
+   }
+}

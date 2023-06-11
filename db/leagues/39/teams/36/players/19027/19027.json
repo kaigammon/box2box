@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19027,
+      "name": "N. Kebano",
+      "firstname": "Neeskens",
+      "lastname": "Kebano",
+      "age": 31,
+      "birth": {
+         "date": "1992-03-10",
+         "place": "Montereau",
+         "country": "France"
+      },
+      "nationality": "Congo DR",
+      "height": "170 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19027.png"
+   }
+}

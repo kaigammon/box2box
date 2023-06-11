@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 174174,
+      "name": "T. Ablade",
+      "firstname": "Terry",
+      "lastname": "Ablade",
+      "age": 22,
+      "birth": {
+         "date": "2001-10-12",
+         "place": "Accra",
+         "country": "Ghana"
+      },
+      "nationality": "Finland",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/174174.png"
+   }
+}

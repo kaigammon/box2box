@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 311334,
+      "name": "F. Buonanotte",
+      "firstname": "Facundo Valentín",
+      "lastname": "Buonanotte",
+      "age": 19,
+      "birth": {
+         "date": "2004-12-23",
+         "place": null,
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "174 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/311334.png"
+   }
+}

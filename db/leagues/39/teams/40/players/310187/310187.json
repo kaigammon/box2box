@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 310187,
+      "name": "Stefan Bajčetić",
+      "firstname": "Stefan",
+      "lastname": "Bajčetić Maquieira",
+      "age": 19,
+      "birth": {
+         "date": "2004-10-22",
+         "place": null,
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/310187.png"
+   }
+}

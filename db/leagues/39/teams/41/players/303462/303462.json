@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 303462,
+      "name": "K. Doyle",
+      "firstname": "Kamari",
+      "lastname": "Doyle",
+      "age": 18,
+      "birth": {
+         "date": "2005-08-01",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/303462.png"
+   }
+}

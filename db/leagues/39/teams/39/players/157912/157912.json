@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 157912,
+      "name": "B. Traoré",
+      "firstname": "Boubacar",
+      "lastname": "Traoré",
+      "age": 22,
+      "birth": {
+         "date": "2001-08-20",
+         "place": "Bamako",
+         "country": "Mali"
+      },
+      "nationality": "Mali",
+      "height": "183 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/157912.png"
+   }
+}

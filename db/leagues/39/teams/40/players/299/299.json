@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 299,
+      "name": "Fabinho",
+      "firstname": "Fábio Henrique",
+      "lastname": "Tavares",
+      "age": 30,
+      "birth": {
+         "date": "1993-10-23",
+         "place": "Campinas",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "188 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/299.png"
+   }
+}

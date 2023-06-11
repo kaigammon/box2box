@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 162904,
+      "name": "R. Williams",
+      "firstname": "Rhys",
+      "lastname": "Williams",
+      "age": 22,
+      "birth": {
+         "date": "2001-02-03",
+         "place": "Preston",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "195 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/162904.png"
+   }
+}

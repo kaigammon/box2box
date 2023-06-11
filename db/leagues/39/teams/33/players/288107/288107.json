@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 288107,
+      "name": "C. McNeill",
+      "firstname": "Charlie Martin",
+      "lastname": "McNeill",
+      "age": 20,
+      "birth": {
+         "date": "2003-09-09",
+         "place": "Droylsden",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "181 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/288107.png"
+   }
+}

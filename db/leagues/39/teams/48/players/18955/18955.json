@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18955,
+      "name": "D. Ings",
+      "firstname": "Daniel William John",
+      "lastname": "Ings",
+      "age": 31,
+      "birth": {
+         "date": "1992-07-23",
+         "place": "Winchester",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "178 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18955.png"
+   }
+}

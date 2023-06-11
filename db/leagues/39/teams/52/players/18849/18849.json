@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18849,
+      "name": "J. McArthur",
+      "firstname": "James",
+      "lastname": "McFarlane McArthur",
+      "age": 36,
+      "birth": {
+         "date": "1987-10-07",
+         "place": "Glasgow",
+         "country": "Scotland"
+      },
+      "nationality": "Scotland",
+      "height": "178 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18849.png"
+   }
+}

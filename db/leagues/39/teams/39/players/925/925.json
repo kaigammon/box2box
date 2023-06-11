@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 925,
+      "name": "Gonçalo Guedes",
+      "firstname": "Gonçalo Manuel",
+      "lastname": "Ganchinho Guedes",
+      "age": 27,
+      "birth": {
+         "date": "1996-11-29",
+         "place": "Benavente",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "179 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/925.png"
+   }
+}

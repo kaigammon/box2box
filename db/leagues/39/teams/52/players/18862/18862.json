@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18862,
+      "name": "N. Clyne",
+      "firstname": "Nathaniel Edwin",
+      "lastname": "Clyne",
+      "age": 32,
+      "birth": {
+         "date": "1991-04-05",
+         "place": "Stockwell",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18862.png"
+   }
+}

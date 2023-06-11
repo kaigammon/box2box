@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18746,
+      "name": "M. Gibbs-White",
+      "firstname": "Morgan Anthony",
+      "lastname": "Gibbs-White",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-27",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "171 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18746.png"
+   }
+}

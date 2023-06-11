@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284414,
+      "name": "R. Mundle",
+      "firstname": "Romaine Lee",
+      "lastname": "Mundle",
+      "age": 20,
+      "birth": {
+         "date": "2003-04-24",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/284414.png"
+   }
+}

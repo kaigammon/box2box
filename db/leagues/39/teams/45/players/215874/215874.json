@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 215874,
+      "name": "T. Cannon",
+      "firstname": "Thomas Christopher",
+      "lastname": "Cannon",
+      "age": 21,
+      "birth": {
+         "date": "2002-12-28",
+         "place": "Aintree",
+         "country": "England"
+      },
+      "nationality": "Republic of Ireland",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/215874.png"
+   }
+}

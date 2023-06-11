@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 290,
+      "name": "V. van Dijk",
+      "firstname": "Virgil",
+      "lastname": "van Dijk",
+      "age": 32,
+      "birth": {
+         "date": "1991-07-08",
+         "place": "Breda",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "195 cm",
+      "weight": "92 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/290.png"
+   }
+}

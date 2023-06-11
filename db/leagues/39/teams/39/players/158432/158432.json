@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 158432,
+      "name": "C. Campbell",
+      "firstname": "Chem",
+      "lastname": "Campbell",
+      "age": 21,
+      "birth": {
+         "date": "2002-12-30",
+         "place": null,
+         "country": "Wales"
+      },
+      "nationality": "Wales",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/158432.png"
+   }
+}

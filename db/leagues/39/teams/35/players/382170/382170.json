@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 382170,
+      "name": "M. Kinsey-Wellings",
+      "firstname": "Maxwell",
+      "lastname": "Kinsey-Wellings",
+      "age": 18,
+      "birth": {
+         "date": "2005-02-02",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/382170.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2926,
+      "name": "Y. Tielemans",
+      "firstname": "Youri Marion",
+      "lastname": "Tielemans",
+      "age": 26,
+      "birth": {
+         "date": "1997-05-07",
+         "place": "Ukkel",
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "176 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2926.png"
+   }
+}

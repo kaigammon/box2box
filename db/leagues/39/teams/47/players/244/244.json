@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 244,
+      "name": "S. Bergwijn",
+      "firstname": "Steven Charles",
+      "lastname": "Bergwijn",
+      "age": 26,
+      "birth": {
+         "date": "1997-10-08",
+         "place": "Amsterdam",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "175 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/244.png"
+   }
+}

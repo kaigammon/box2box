@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2990,
+      "name": "I. Gueye",
+      "firstname": "Idrissa Gana",
+      "lastname": "Gueye",
+      "age": 34,
+      "birth": {
+         "date": "1989-09-26",
+         "place": "Dakar",
+         "country": "Senegal"
+      },
+      "nationality": "Senegal",
+      "height": "174 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2990.png"
+   }
+}

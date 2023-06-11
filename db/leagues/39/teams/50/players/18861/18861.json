@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18861,
+      "name": "N. Aké",
+      "firstname": "Nathan Benjamin",
+      "lastname": "Aké",
+      "age": 28,
+      "birth": {
+         "date": "1995-02-18",
+         "place": "Den Haag",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "180 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18861.png"
+   }
+}

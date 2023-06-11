@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 90590,
+      "name": "G. Rutter",
+      "firstname": "Georginio",
+      "lastname": "Rutter",
+      "age": 21,
+      "birth": {
+         "date": "2002-04-20",
+         "place": "Vannes",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "182 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/90590.png"
+   }
+}

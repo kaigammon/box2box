@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 129712,
+      "name": "A. Mighten",
+      "firstname": "Alexander Cole",
+      "lastname": "Mighten",
+      "age": 21,
+      "birth": {
+         "date": "2002-04-11",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/129712.png"
+   }
+}

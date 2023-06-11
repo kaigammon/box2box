@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22094,
+      "name": "W. Fofana",
+      "firstname": "Wesley Tidjan",
+      "lastname": "Fofana",
+      "age": 23,
+      "birth": {
+         "date": "2000-12-17",
+         "place": null,
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "190 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/22094.png"
+   }
+}

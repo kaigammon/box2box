@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1465,
+      "name": "P. Aubameyang",
+      "firstname": "Pierre-Emerick Emiliano Franço",
+      "lastname": "Aubameyang",
+      "age": 34,
+      "birth": {
+         "date": "1989-06-18",
+         "place": "Laval",
+         "country": "France"
+      },
+      "nationality": "Gabon",
+      "height": "187 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1465.png"
+   }
+}

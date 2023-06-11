@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284060,
+      "name": "L. Laing",
+      "firstname": "Levi Alexander",
+      "lastname": "Laing",
+      "age": 20,
+      "birth": {
+         "date": "2003-04-12",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/284060.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19281,
+      "name": "A. Semenyo",
+      "firstname": "Antoine Serlom",
+      "lastname": "Semenyo",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-07",
+         "place": "London",
+         "country": "England"
+      },
+      "nationality": "Ghana",
+      "height": "185 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19281.png"
+   }
+}

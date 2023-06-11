@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 6716,
+      "name": "A. Mac Allister",
+      "firstname": "Alexis",
+      "lastname": "Mac Allister",
+      "age": 25,
+      "birth": {
+         "date": "1998-12-24",
+         "place": "La Pampa",
+         "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "176 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/6716.png"
+   }
+}

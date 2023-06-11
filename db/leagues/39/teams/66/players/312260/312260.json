@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 312260,
+      "name": "K. Young",
+      "firstname": "Kadan",
+      "lastname": "Young",
+      "age": 17,
+      "birth": {
+         "date": "2006-01-19",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "176 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/312260.png"
+   }
+}

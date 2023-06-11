@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 3339,
+      "name": "C. Doucouré",
+      "firstname": "Cheick Oumar",
+      "lastname": "Doucouré",
+      "age": 23,
+      "birth": {
+         "date": "2000-01-08",
+         "place": "Bamako",
+         "country": "Mali"
+      },
+      "nationality": "Mali",
+      "height": "180 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/3339.png"
+   }
+}

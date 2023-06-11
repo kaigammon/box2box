@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18753,
+      "name": "Adama Traoré",
+      "firstname": "Adama",
+      "lastname": "Traoré Diarra",
+      "age": 27,
+      "birth": {
+         "date": "1996-01-25",
+         "place": "L'Hospitalet de Llobregat",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "178 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18753.png"
+   }
+}

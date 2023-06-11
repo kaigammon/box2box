@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20589,
+      "name": "B. Mbeumo",
+      "firstname": "Bryan Tetsadong Marceau",
+      "lastname": "Mbeumo",
+      "age": 24,
+      "birth": {
+         "date": "1999-08-07",
+         "place": "Avallon",
+         "country": "France"
+      },
+      "nationality": "Cameroon",
+      "height": "173 cm",
+      "weight": "64 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/20589.png"
+   }
+}

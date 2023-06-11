@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 204033,
+      "name": "J. Hodge",
+      "firstname": "Joseph Shaun",
+      "lastname": "Hodge",
+      "age": 21,
+      "birth": {
+         "date": "2002-09-14",
+         "place": "Manchester",
+         "country": "England"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "172 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/204033.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18883,
+      "name": "D. Solanke",
+      "firstname": "Dominic Ayodele",
+      "lastname": "Solanke-Mitchell",
+      "age": 26,
+      "birth": {
+         "date": "1997-09-14",
+         "place": "Reading",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "187 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18883.png"
+   }
+}

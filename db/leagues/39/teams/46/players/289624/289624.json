@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 289624,
+      "name": "S. Braybrooke",
+      "firstname": "Samuel Charles",
+      "lastname": "Braybrooke",
+      "age": 19,
+      "birth": {
+         "date": "2004-03-12",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/289624.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 641,
+      "name": "O. Zinchenko",
+      "firstname": "Oleksandr",
+      "lastname": "Volodymyrovych Zinchenko",
+      "age": 27,
+      "birth": {
+         "date": "1996-12-15",
+         "place": "Radomyshl",
+         "country": "Ukraine"
+      },
+      "nationality": "Ukraine",
+      "height": "175 cm",
+      "weight": "64 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/641.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18929,
+      "name": "D. McNeil",
+      "firstname": "Dwight James Matthew",
+      "lastname": "McNeil",
+      "age": 24,
+      "birth": {
+         "date": "1999-11-22",
+         "place": "Rochdale",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "183 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18929.png"
+   }
+}

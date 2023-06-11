@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47380,
+      "name": "Marc Cucurella",
+      "firstname": "Marc",
+      "lastname": "Cucurella Saseta",
+      "age": 25,
+      "birth": {
+         "date": "1998-07-22",
+         "place": "Alella",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "172 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47380.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 697,
+      "name": "M. Solomon",
+      "firstname": "Manor",
+      "lastname": "Solomon",
+      "age": 24,
+      "birth": {
+         "date": "1999-07-24",
+         "place": "Kfar Saba",
+         "country": "Israel"
+      },
+      "nationality": "Israel",
+      "height": "170 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/697.png"
+   }
+}

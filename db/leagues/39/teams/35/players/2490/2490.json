@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2490,
+      "name": "J. Lerma",
+      "firstname": "Jefferson Andrés",
+      "lastname": "Lerma Solís",
+      "age": 29,
+      "birth": {
+         "date": "1994-10-25",
+         "place": "Cerrito",
+         "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "179 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2490.png"
+   }
+}

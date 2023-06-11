@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284419,
+      "name": "M. Forbes",
+      "firstname": "Michael",
+      "lastname": "Forbes",
+      "age": 19,
+      "birth": {
+         "date": "2004-04-29",
+         "place": null,
+         "country": "Northern Ireland"
+      },
+      "nationality": "Northern Ireland",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/284419.png"
+   }
+}

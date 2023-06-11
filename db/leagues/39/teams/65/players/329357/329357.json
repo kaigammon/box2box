@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 329357,
+      "name": "Z. Abbott",
+      "firstname": "Zach",
+      "lastname": "Abbott",
+      "age": 17,
+      "birth": {
+         "date": "2006-05-13",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/329357.png"
+   }
+}

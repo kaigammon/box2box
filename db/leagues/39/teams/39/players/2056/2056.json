@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2056,
+      "name": "Pablo Sarabia",
+      "firstname": "Pablo",
+      "lastname": "Sarabia García",
+      "age": 31,
+      "birth": {
+         "date": "1992-05-11",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "174 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2056.png"
+   }
+}

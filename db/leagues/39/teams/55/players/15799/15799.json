@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 15799,
+      "name": "F. Onyeka",
+      "firstname": "Ogochukwu  Frank",
+      "lastname": "Onyeka",
+      "age": 25,
+      "birth": {
+         "date": "1998-01-01",
+         "place": "Maiduguri",
+         "country": "Nigeria"
+      },
+      "nationality": "Nigeria",
+      "height": "183 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/15799.png"
+   }
+}

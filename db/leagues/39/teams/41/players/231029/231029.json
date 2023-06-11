@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 231029,
+      "name": "N. Tella",
+      "firstname": "Nathan Adewale Temitayo",
+      "lastname": "Tella",
+      "age": 24,
+      "birth": {
+         "date": "1999-07-05",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/231029.png"
+   }
+}

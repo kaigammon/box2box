@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 382160,
+      "name": "D. Adu-Adjei",
+      "firstname": "Daniel",
+      "lastname": "Adu-Adjei",
+      "age": 18,
+      "birth": {
+         "date": "2005-06-21",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "177 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/382160.png"
+   }
+}

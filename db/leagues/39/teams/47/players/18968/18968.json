@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18968,
+      "name": "Y. Bissouma",
+      "firstname": "Yves",
+      "lastname": "Bissouma",
+      "age": 27,
+      "birth": {
+         "date": "1996-08-30",
+         "place": "Issia",
+         "country": "Côte d'Ivoire"
+      },
+      "nationality": "Mali",
+      "height": "182 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18968.png"
+   }
+}

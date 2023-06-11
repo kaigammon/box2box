@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 894,
+      "name": "A. Young",
+      "firstname": "Ashley Simon",
+      "lastname": "Young",
+      "age": 38,
+      "birth": {
+         "date": "1985-07-09",
+         "place": "Stevenage",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/894.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19842,
+      "name": "L. Taylor",
+      "firstname": "Lyle James Alfred",
+      "lastname": "Taylor",
+      "age": 33,
+      "birth": {
+         "date": "1990-03-29",
+         "place": "Greenwich",
+         "country": "England"
+      },
+      "nationality": "Montserrat",
+      "height": "188 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19842.png"
+   }
+}

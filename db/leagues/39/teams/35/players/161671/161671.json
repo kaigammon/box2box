@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 161671,
+      "name": "I. Zabarnyi",
+      "firstname": "Illia",
+      "lastname": "Zabarnyi",
+      "age": 21,
+      "birth": {
+         "date": "2002-09-01",
+         "place": "Kyiv",
+         "country": "Ukraine"
+      },
+      "nationality": "Ukraine",
+      "height": "189 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/161671.png"
+   }
+}

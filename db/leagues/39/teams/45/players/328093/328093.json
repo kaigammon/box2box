@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 328093,
+      "name": "I. Samuels-Smith",
+      "firstname": "Ishé",
+      "lastname": "Samuels-Smith",
+      "age": 17,
+      "birth": {
+         "date": "2006-06-05",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/328093.png"
+   }
+}

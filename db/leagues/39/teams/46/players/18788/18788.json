@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18788,
+      "name": "J. Vardy",
+      "firstname": "Jamie Richard",
+      "lastname": "Vardy",
+      "age": 36,
+      "birth": {
+         "date": "1987-01-11",
+         "place": "Sheffield",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "179 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18788.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21996,
+      "name": "A. Baba",
+      "firstname": "Abdul Rahman",
+      "lastname": "Baba",
+      "age": 29,
+      "birth": {
+         "date": "1994-07-02",
+         "place": "Tamale",
+         "country": "Ghana"
+      },
+      "nationality": "Ghana",
+      "height": "180 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/21996.png"
+   }
+}

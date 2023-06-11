@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2289,
+      "name": "Jorginho",
+      "firstname": "Jorge Luiz",
+      "lastname": "Frello Filho",
+      "age": 32,
+      "birth": {
+         "date": "1991-12-20",
+         "place": "Imbituba",
+         "country": "Brazil"
+      },
+      "nationality": "Italy",
+      "height": "180 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2289.png"
+   }
+}

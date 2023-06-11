@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 180,
+      "name": "O. Skipp",
+      "firstname": "Oliver William",
+      "lastname": "Skipp",
+      "age": 23,
+      "birth": {
+         "date": "2000-09-16",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/180.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 149564,
+      "name": "L. Cundle",
+      "firstname": "Luke James",
+      "lastname": "Cundle",
+      "age": 21,
+      "birth": {
+         "date": "2002-04-26",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/149564.png"
+   }
+}

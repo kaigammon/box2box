@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 691,
+      "name": "Tetê",
+      "firstname": "Mateus Cardoso",
+      "lastname": "Lemos Martins",
+      "age": 23,
+      "birth": {
+         "date": "2000-02-15",
+         "place": "Alvorada",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "175 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/691.png"
+   }
+}

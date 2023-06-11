@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 378868,
+      "name": "C. McFarlane",
+      "firstname": "Callum",
+      "lastname": "McFarlane",
+      "age": 20,
+      "birth": {
+         "date": "2003-09-08",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/378868.png"
+   }
+}

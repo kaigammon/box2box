@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 147,
+      "name": "Philippe Coutinho",
+      "firstname": "Philippe",
+      "lastname": "Coutinho Correia",
+      "age": 31,
+      "birth": {
+         "date": "1992-06-12",
+         "place": "Rio de Janeiro",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "172 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/147.png"
+   }
+}

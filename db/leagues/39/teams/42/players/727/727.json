@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 727,
+      "name": "R. Nelson",
+      "firstname": "Reiss Luke",
+      "lastname": "Nelson",
+      "age": 24,
+      "birth": {
+         "date": "1999-12-10",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/727.png"
+   }
+}

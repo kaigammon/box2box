@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18843,
+      "name": "J. Schlupp",
+      "firstname": "Jeffrey",
+      "lastname": "Schlupp",
+      "age": 31,
+      "birth": {
+         "date": "1992-12-23",
+         "place": "Hamburg",
+         "country": "Germany"
+      },
+      "nationality": "Ghana",
+      "height": "178 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18843.png"
+   }
+}

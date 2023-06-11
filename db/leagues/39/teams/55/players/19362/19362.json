@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19362,
+      "name": "J. Dasilva",
+      "firstname": "Pelenda Joshua Tunga",
+      "lastname": "Dasilva",
+      "age": 25,
+      "birth": {
+         "date": "1998-10-23",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "184 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19362.png"
+   }
+}

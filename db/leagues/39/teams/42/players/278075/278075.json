@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 278075,
+      "name": "C. Cîrjan",
+      "firstname": "Cătălin Ionuț",
+      "lastname": "Cîrjan",
+      "age": 21,
+      "birth": {
+         "date": "2002-12-01",
+         "place": "Domnești",
+         "country": "Romania"
+      },
+      "nationality": "Romania",
+      "height": "174 cm",
+      "weight": "60 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/278075.png"
+   }
+}

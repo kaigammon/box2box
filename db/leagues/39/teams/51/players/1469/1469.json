@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1469,
+      "name": "D. Welbeck",
+      "firstname": "Daniel Nii",
+      "lastname": "Tackie Mensah Welbeck",
+      "age": 33,
+      "birth": {
+         "date": "1990-11-26",
+         "place": "Manchester",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "185 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1469.png"
+   }
+}

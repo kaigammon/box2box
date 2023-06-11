@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 30544,
+      "name": "G. Scamacca",
+      "firstname": "Gianluca",
+      "lastname": "Scamacca",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-01",
+         "place": "Roma",
+         "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "196 cm",
+      "weight": "85 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/30544.png"
+   }
+}

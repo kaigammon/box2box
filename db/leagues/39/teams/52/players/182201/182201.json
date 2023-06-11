@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 182201,
+      "name": "T. Mitchell",
+      "firstname": "Tyrick Kwon",
+      "lastname": "Mitchell",
+      "age": 24,
+      "birth": {
+         "date": "1999-09-01",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/182201.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 37161,
+      "name": "L. Sinisterra",
+      "firstname": "Luis Fernando",
+      "lastname": "Sinisterra Lucumí",
+      "age": 24,
+      "birth": {
+         "date": "1999-06-17",
+         "place": "Santander de Quilichao",
+         "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "172 cm",
+      "weight": "60 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/37161.png"
+   }
+}

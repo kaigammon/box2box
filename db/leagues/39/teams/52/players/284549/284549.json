@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284549,
+      "name": "J. Whitworth",
+      "firstname": "Joseph Charles",
+      "lastname": "Whitworth",
+      "age": 19,
+      "birth": {
+         "date": "2004-02-29",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/284549.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 334725,
+      "name": "D. Sadi",
+      "firstname": "Dominic",
+      "lastname": "Sadi",
+      "age": 20,
+      "birth": {
+         "date": "2003-09-02",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "174 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/334725.png"
+   }
+}

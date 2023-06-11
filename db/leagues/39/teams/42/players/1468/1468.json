@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1468,
+      "name": "E. Nketiah",
+      "firstname": "Edward",
+      "lastname": "Keddar Nketiah",
+      "age": 24,
+      "birth": {
+         "date": "1999-05-30",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1468.png"
+   }
+}

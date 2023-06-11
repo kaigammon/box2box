@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 26475,
+      "name": "D. Undav",
+      "firstname": "Deniz",
+      "lastname": "Undav",
+      "age": 27,
+      "birth": {
+         "date": "1996-07-19",
+         "place": null,
+         "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "179 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/26475.png"
+   }
+}

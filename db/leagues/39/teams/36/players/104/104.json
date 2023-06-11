@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 104,
+      "name": "Carlos Vinícius",
+      "firstname": "Carlos Vinícius",
+      "lastname": "Alves Morais",
+      "age": 28,
+      "birth": {
+         "date": "1995-03-25",
+         "place": "Rio de Janeiro",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "190 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/104.png"
+   }
+}

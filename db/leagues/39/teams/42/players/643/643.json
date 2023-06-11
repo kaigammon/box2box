@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 643,
+      "name": "Gabriel Jesus",
+      "firstname": "Gabriel Fernando",
+      "lastname": "de Jesus",
+      "age": 26,
+      "birth": {
+         "date": "1997-04-03",
+         "place": "São Paulo",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "175 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/643.png"
+   }
+}

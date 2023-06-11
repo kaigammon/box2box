@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 288116,
+      "name": "K. Casey",
+      "firstname": "Kaelan",
+      "lastname": "Casey",
+      "age": 19,
+      "birth": {
+         "date": "2004-10-28",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/288116.png"
+   }
+}

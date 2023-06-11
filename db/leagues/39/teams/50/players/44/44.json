@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 44,
+      "name": "Rodri",
+      "firstname": "Rodrigo",
+      "lastname": "Hernández Cascante",
+      "age": 27,
+      "birth": {
+         "date": "1996-06-22",
+         "place": "Madrid",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "190 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/44.png"
+   }
+}

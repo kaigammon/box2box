@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47341,
+      "name": "Marc Roca",
+      "firstname": "Marc",
+      "lastname": "Roca Junqué",
+      "age": 27,
+      "birth": {
+         "date": "1996-11-26",
+         "place": "Vilafranca del Penedès",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "184 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/47341.png"
+   }
+}

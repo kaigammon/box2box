@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 283,
+      "name": "T. Alexander-Arnold",
+      "firstname": "Trent John",
+      "lastname": "Alexander-Arnold",
+      "age": 25,
+      "birth": {
+         "date": "1998-10-07",
+         "place": "Liverpool",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/283.png"
+   }
+}

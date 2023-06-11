@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 275170,
+      "name": "Danilo",
+      "firstname": "Danilo",
+      "lastname": "dos Santos de Oliveira",
+      "age": 22,
+      "birth": {
+         "date": "2001-04-29",
+         "place": "Salvador",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "176 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/275170.png"
+   }
+}

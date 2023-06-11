@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1150,
+      "name": "T. Adams",
+      "firstname": "Tyler Shaan",
+      "lastname": "Adams",
+      "age": 24,
+      "birth": {
+         "date": "1999-02-14",
+         "place": "Wappingers Falls",
+         "country": "USA"
+      },
+      "nationality": "USA",
+      "height": "173 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1150.png"
+   }
+}

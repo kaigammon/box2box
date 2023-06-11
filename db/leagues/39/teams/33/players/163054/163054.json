@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 163054,
+      "name": "S. Shoretire",
+      "firstname": "Shola",
+      "lastname": "Maxwell Shoretire",
+      "age": 19,
+      "birth": {
+         "date": "2004-02-02",
+         "place": "Newcastle",
+         "country": "Nigeria"
+      },
+      "nationality": "England",
+      "height": "170 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/163054.png"
+   }
+}

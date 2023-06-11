@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 106086,
+      "name": "K. Balmer",
+      "firstname": "Kofi",
+      "lastname": "Balmer",
+      "age": 23,
+      "birth": {
+         "date": "2000-09-19",
+         "place": null,
+         "country": "Northern Ireland"
+      },
+      "nationality": "Northern Ireland",
+      "height": "183 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/106086.png"
+   }
+}

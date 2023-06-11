@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18785,
+      "name": "N. Mendy",
+      "firstname": "Nampalys",
+      "lastname": "Mendy",
+      "age": 31,
+      "birth": {
+         "date": "1992-06-23",
+         "place": "La Seyne-sur-Mer",
+         "country": "France"
+      },
+      "nationality": "Senegal",
+      "height": "167 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18785.png"
+   }
+}

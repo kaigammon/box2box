@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1904,
+      "name": "B. Kamara",
+      "firstname": "Boubacar Bernard",
+      "lastname": "Kamara",
+      "age": 24,
+      "birth": {
+         "date": "1999-11-23",
+         "place": "Marseille",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "184 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1904.png"
+   }
+}

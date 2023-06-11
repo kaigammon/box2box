@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2507,
+      "name": "M. Almirón",
+      "firstname": "Miguel Ángel",
+      "lastname": "Almirón Rejala",
+      "age": 29,
+      "birth": {
+         "date": "1994-02-10",
+         "place": "Asunción",
+         "country": "Paraguay"
+      },
+      "nationality": "Paraguay",
+      "height": "174 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2507.png"
+   }
+}

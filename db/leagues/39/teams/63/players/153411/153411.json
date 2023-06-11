@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 153411,
+      "name": "C. Drameh",
+      "firstname": "Cody Callum Pierre",
+      "lastname": "Drameh",
+      "age": 22,
+      "birth": {
+         "date": "2001-12-08",
+         "place": "London",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/153411.png"
+   }
+}

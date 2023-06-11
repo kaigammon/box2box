@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22233,
+      "name": "B. Soumaré",
+      "firstname": "Boubakary",
+      "lastname": "Soumaré",
+      "age": 24,
+      "birth": {
+         "date": "1999-02-27",
+         "place": "Noisy-le-Sec",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "188 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/22233.png"
+   }
+}

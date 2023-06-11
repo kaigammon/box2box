@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1165,
+      "name": "Matheus Cunha",
+      "firstname": "Matheus Santos",
+      "lastname": "Carneiro da Cunha",
+      "age": 24,
+      "birth": {
+         "date": "1999-05-27",
+         "place": "João Pessoa",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "184 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1165.png"
+   }
+}

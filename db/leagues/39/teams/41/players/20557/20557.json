@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20557,
+      "name": "I. Diallo",
+      "firstname": "Ibrahima",
+      "lastname": "Diallo",
+      "age": 24,
+      "birth": {
+         "date": "1999-03-08",
+         "place": "Tours",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "179 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/20557.png"
+   }
+}

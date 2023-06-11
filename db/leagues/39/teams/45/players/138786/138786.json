@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 138786,
+      "name": "E. Simms",
+      "firstname": "Ellis Reco",
+      "lastname": "Simms",
+      "age": 22,
+      "birth": {
+         "date": "2001-01-05",
+         "place": "Oldham",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "191 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/138786.png"
+   }
+}

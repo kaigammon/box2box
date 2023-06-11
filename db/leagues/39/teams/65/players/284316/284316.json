@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284316,
+      "name": "B. Fewster",
+      "firstname": "William Charles",
+      "lastname": "Storm Fewster",
+      "age": 20,
+      "birth": {
+         "date": "2003-07-31",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/284316.png"
+   }
+}

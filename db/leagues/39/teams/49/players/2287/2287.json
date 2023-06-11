@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2287,
+      "name": "R. Barkley",
+      "firstname": "Ross",
+      "lastname": "Barkley",
+      "age": 30,
+      "birth": {
+         "date": "1993-12-05",
+         "place": "Liverpool",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "189 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2287.png"
+   }
+}

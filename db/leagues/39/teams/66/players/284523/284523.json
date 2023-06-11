@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284523,
+      "name": "S. Swinkels",
+      "firstname": "Sil",
+      "lastname": "Laurentius Swinkels",
+      "age": 19,
+      "birth": {
+         "date": "2004-01-06",
+         "place": null,
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "190 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/284523.png"
+   }
+}

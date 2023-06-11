@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 127472,
+      "name": "N. Phillips",
+      "firstname": "Nathaniel Harry",
+      "lastname": "Phillips",
+      "age": 26,
+      "birth": {
+         "date": "1997-03-21",
+         "place": "Bolton",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "190 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/127472.png"
+   }
+}

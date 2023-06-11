@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284408,
+      "name": "S. Perkins",
+      "firstname": "Sonny",
+      "lastname": "Tufail Perkins",
+      "age": 19,
+      "birth": {
+         "date": "2004-02-10",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "178 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/284408.png"
+   }
+}

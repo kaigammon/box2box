@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19366,
+      "name": "O. Watkins",
+      "firstname": "Oliver George Arthur",
+      "lastname": "Watkins",
+      "age": 28,
+      "birth": {
+         "date": "1995-12-30",
+         "place": "Torbay",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "180 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19366.png"
+   }
+}

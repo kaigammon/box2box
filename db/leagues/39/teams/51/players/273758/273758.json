@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 273758,
+      "name": "I. Samuels",
+      "firstname": "Imari-Narain",
+      "lastname": "Che Hines-Samuels",
+      "age": 20,
+      "birth": {
+         "date": "2003-02-05",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/273758.png"
+   }
+}

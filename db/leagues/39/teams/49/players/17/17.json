@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 17,
+      "name": "C. Pulišić",
+      "firstname": "Christian Mate",
+      "lastname": "Pulišić",
+      "age": 25,
+      "birth": {
+         "date": "1998-09-18",
+         "place": "Hershey",
+         "country": "USA"
+      },
+      "nationality": "USA",
+      "height": "179 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/17.png"
+   }
+}

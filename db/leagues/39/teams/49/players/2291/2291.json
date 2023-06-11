@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2291,
+      "name": "M. Kovačić",
+      "firstname": "Mateo",
+      "lastname": "Kovačić",
+      "age": 29,
+      "birth": {
+         "date": "1994-05-06",
+         "place": "Linz",
+         "country": "Austria"
+      },
+      "nationality": "Croatia",
+      "height": "177 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2291.png"
+   }
+}

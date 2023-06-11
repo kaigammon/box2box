@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19720,
+      "name": "T. Chalobah",
+      "firstname": "Trevoh Thomas",
+      "lastname": "Chalobah",
+      "age": 24,
+      "birth": {
+         "date": "1999-07-05",
+         "place": "Freetown",
+         "country": "Sierra Leone"
+      },
+      "nationality": "England",
+      "height": "190 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19720.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1161,
+      "name": "E. Smith Rowe",
+      "firstname": "Emile",
+      "lastname": "Smith Rowe",
+      "age": 23,
+      "birth": {
+         "date": "2000-07-28",
+         "place": "Croydon",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "182 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1161.png"
+   }
+}

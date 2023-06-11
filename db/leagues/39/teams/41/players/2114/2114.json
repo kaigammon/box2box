@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2114,
+      "name": "M. Djenepo",
+      "firstname": "Moussa",
+      "lastname": "Djenepo",
+      "age": 25,
+      "birth": {
+         "date": "1998-06-15",
+         "place": "Bamako",
+         "country": "Mali"
+      },
+      "nationality": "Mali",
+      "height": "177 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/2114.png"
+   }
+}

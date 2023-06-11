@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19127,
+      "name": "A. Forshaw",
+      "firstname": "Adam John",
+      "lastname": "Forshaw",
+      "age": 32,
+      "birth": {
+         "date": "1991-10-08",
+         "place": "Liverpool",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "174 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19127.png"
+   }
+}

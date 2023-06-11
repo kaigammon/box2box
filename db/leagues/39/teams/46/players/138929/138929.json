@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 138929,
+      "name": "L. Brunt",
+      "firstname": "Lewis",
+      "lastname": "Brunt",
+      "age": 23,
+      "birth": {
+         "date": "2000-11-06",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/138929.png"
+   }
+}

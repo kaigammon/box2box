@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 335116,
+      "name": "K. Šekularac",
+      "firstname": "Kristian",
+      "lastname": "Šekularac",
+      "age": 20,
+      "birth": {
+         "date": "2003-12-07",
+         "place": null,
+         "country": "Switzerland"
+      },
+      "nationality": "Switzerland",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/335116.png"
+   }
+}

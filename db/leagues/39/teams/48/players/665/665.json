@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 665,
+      "name": "M. Cornet",
+      "firstname": "Gnaly Albert Maxwel",
+      "lastname": "Cornet",
+      "age": 27,
+      "birth": {
+         "date": "1996-09-27",
+         "place": "Bregbo",
+         "country": "Côte d'Ivoire"
+      },
+      "nationality": "Côte d'Ivoire",
+      "height": "179 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/665.png"
+   }
+}

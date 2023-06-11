@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 21090,
+      "name": "Diego Carlos",
+      "firstname": "Diego Carlos",
+      "lastname": "Santos Silva",
+      "age": 30,
+      "birth": {
+         "date": "1993-03-15",
+         "place": "Barra Bonita",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "186 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/21090.png"
+   }
+}

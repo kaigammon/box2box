@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 20649,
+      "name": "Y. Wissa",
+      "firstname": "Yoane",
+      "lastname": "Wissa",
+      "age": 27,
+      "birth": {
+         "date": "1996-09-03",
+         "place": "Epinay-sous-Sénart",
+         "country": "France"
+      },
+      "nationality": "Congo DR",
+      "height": "176 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/20649.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19043,
+      "name": "T. Kongolo",
+      "firstname": "Terence",
+      "lastname": "Kongolo",
+      "age": 29,
+      "birth": {
+         "date": "1994-02-14",
+         "place": "Fribourg",
+         "country": "Switzerland"
+      },
+      "nationality": "Netherlands",
+      "height": "188 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19043.png"
+   }
+}

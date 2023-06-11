@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1605,
+      "name": "Daniel Podence",
+      "firstname": "Daniel",
+      "lastname": "Castelo Podence",
+      "age": 28,
+      "birth": {
+         "date": "1995-10-21",
+         "place": "Oeiras",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "165 cm",
+      "weight": "58 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1605.png"
+   }
+}

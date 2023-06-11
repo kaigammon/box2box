@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284487,
+      "name": "Wanya Marçal",
+      "firstname": "Wanya",
+      "lastname": "Marçal-Madivadua",
+      "age": 21,
+      "birth": {
+         "date": "2002-10-19",
+         "place": "Leicester",
+         "country": "England"
+      },
+      "nationality": "Portugal",
+      "height": "181 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/284487.png"
+   }
+}

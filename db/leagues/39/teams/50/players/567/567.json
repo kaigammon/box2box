@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 567,
+      "name": "Rúben Dias",
+      "firstname": "Rúben",
+      "lastname": "dos Santos Gato Alves Dias",
+      "age": 26,
+      "birth": {
+         "date": "1997-05-14",
+         "place": "Amadora",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "186 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/567.png"
+   }
+}

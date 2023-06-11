@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 547,
+      "name": "D. van de Beek",
+      "firstname": "Donny",
+      "lastname": "van de Beek",
+      "age": 26,
+      "birth": {
+         "date": "1997-04-18",
+         "place": "Nijkerkerveen",
+         "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "184 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/547.png"
+   }
+}

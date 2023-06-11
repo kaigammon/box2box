@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 22166,
+      "name": "M. Sarr",
+      "firstname": "Malang Mamadou William Georges",
+      "lastname": "Sarr",
+      "age": 24,
+      "birth": {
+         "date": "1999-01-23",
+         "place": "Nice",
+         "country": "France"
+      },
+      "nationality": "France",
+      "height": "183 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/22166.png"
+   }
+}

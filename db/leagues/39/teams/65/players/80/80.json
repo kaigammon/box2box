@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 80,
+      "name": "E. Dennis",
+      "firstname": "Emmanuel Bonaventure",
+      "lastname": "Dennis",
+      "age": 26,
+      "birth": {
+         "date": "1997-11-15",
+         "place": "Abuja",
+         "country": "Nigeria"
+      },
+      "nationality": "Nigeria",
+      "height": "175 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/80.png"
+   }
+}

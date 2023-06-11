@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18739,
+      "name": "W. Boly",
+      "firstname": "Willy-Arnaud",
+      "lastname": "Zobo Boly",
+      "age": 32,
+      "birth": {
+         "date": "1991-02-03",
+         "place": "Melun",
+         "country": "France"
+      },
+      "nationality": "Côte d'Ivoire",
+      "height": "195 cm",
+      "weight": "92 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18739.png"
+   }
+}

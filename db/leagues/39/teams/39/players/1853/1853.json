@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1853,
+      "name": "Bruno Jordão",
+      "firstname": "Bruno André",
+      "lastname": "Cavaco Jordão",
+      "age": 25,
+      "birth": {
+         "date": "1998-10-12",
+         "place": null,
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "180 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/1853.png"
+   }
+}

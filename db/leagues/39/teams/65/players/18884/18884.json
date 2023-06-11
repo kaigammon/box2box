@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18884,
+      "name": "S. Surridge",
+      "firstname": "Samuel William",
+      "lastname": "Surridge",
+      "age": 25,
+      "birth": {
+         "date": "1998-07-28",
+         "place": "Slough",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "191 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18884.png"
+   }
+}

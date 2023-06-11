@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18762,
+      "name": "T. Davies",
+      "firstname": "Thomas",
+      "lastname": "Davies",
+      "age": 25,
+      "birth": {
+         "date": "1998-06-30",
+         "place": "Liverpool",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "180 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18762.png"
+   }
+}

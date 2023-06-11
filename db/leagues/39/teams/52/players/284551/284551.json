@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284551,
+      "name": "J. Wells-Morrison",
+      "firstname": "Jack Campbell",
+      "lastname": "Wells-Morrison",
+      "age": 19,
+      "birth": {
+         "date": "2004-02-18",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/284551.png"
+   }
+}

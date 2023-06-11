@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 371,
+      "name": "Felipe",
+      "firstname": "Felipe Augusto",
+      "lastname": "de Almeida Monteiro",
+      "age": 34,
+      "birth": {
+         "date": "1989-05-16",
+         "place": "Mogi das Cruzes",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "190 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/371.png"
+   }
+}

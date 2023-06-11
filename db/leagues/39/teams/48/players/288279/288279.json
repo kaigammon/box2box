@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 288279,
+      "name": "Luizão",
+      "firstname": "Luiz Gustavo",
+      "lastname": "Oliveira da Silva",
+      "age": 21,
+      "birth": {
+         "date": "2002-03-08",
+         "place": null,
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "187 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/288279.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2677,
+      "name": "João Moutinho",
+      "firstname": "João Filipe",
+      "lastname": "Iria Santos Moutinho",
+      "age": 37,
+      "birth": {
+         "date": "1986-09-08",
+         "place": "Portimão",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "170 cm",
+      "weight": "61 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/2677.png"
+   }
+}

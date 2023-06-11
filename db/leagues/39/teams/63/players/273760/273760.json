@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 273760,
+      "name": "A. Miller",
+      "firstname": "Amari Miquel",
+      "lastname": "Miller",
+      "age": 21,
+      "birth": {
+         "date": "2002-11-04",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "174 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/273760.png"
+   }
+}

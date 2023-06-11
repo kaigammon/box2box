@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 278085,
+      "name": "S. Edozie",
+      "firstname": "Samuel Ikechukwu",
+      "lastname": "Edozie",
+      "age": 20,
+      "birth": {
+         "date": "2003-01-28",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/278085.png"
+   }
+}

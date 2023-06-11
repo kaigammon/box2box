@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19610,
+      "name": "O. Richards",
+      "firstname": "Omar",
+      "lastname": "Tyrell Crawford Richards",
+      "age": 25,
+      "birth": {
+         "date": "1998-02-15",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "174 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19610.png"
+   }
+}

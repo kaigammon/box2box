@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 946,
+      "name": "K. Mbabu",
+      "firstname": "Melingo Kevin",
+      "lastname": "Mbabu",
+      "age": 28,
+      "birth": {
+         "date": "1995-04-19",
+         "place": "Chêne-Bougeries",
+         "country": "Switzerland"
+      },
+      "nationality": "Switzerland",
+      "height": "184 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/946.png"
+   }
+}

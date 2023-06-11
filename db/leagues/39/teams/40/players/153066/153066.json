@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 153066,
+      "name": "Fábio Carvalho",
+      "firstname": "Fábio Leandro",
+      "lastname": "Freitas Gouveia Carvalho",
+      "age": 21,
+      "birth": {
+         "date": "2002-08-30",
+         "place": null,
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "170 cm",
+      "weight": "62 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/153066.png"
+   }
+}

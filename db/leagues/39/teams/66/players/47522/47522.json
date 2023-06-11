@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 47522,
+      "name": "Douglas Luiz",
+      "firstname": "Douglas Luiz",
+      "lastname": "Soares de Paulo",
+      "age": 25,
+      "birth": {
+         "date": "1998-05-09",
+         "place": "Rio de Janeiro",
+         "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "175 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/47522.png"
+   }
+}

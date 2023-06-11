@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18778,
+      "name": "H. Barnes",
+      "firstname": "Harvey Lewis",
+      "lastname": "Barnes",
+      "age": 26,
+      "birth": {
+         "date": "1997-12-09",
+         "place": "Burnley",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "174 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18778.png"
+   }
+}

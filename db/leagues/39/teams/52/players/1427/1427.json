@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1427,
+      "name": "A. Lokonga",
+      "firstname": "Albert-Mboyo",
+      "lastname": "Sambi Lokonga",
+      "age": 24,
+      "birth": {
+         "date": "1999-10-22",
+         "place": null,
+         "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "173 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1427.png"
+   }
+}

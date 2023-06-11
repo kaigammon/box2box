@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 3246,
+      "name": "N. Pépé",
+      "firstname": "Nicolas",
+      "lastname": "Pépé",
+      "age": 28,
+      "birth": {
+         "date": "1995-05-29",
+         "place": "Mantes-la-Jolie",
+         "country": "France"
+      },
+      "nationality": "Côte d'Ivoire",
+      "height": "183 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/3246.png"
+   }
+}

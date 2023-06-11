@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284446,
+      "name": "F. Potts",
+      "firstname": "Freddie",
+      "lastname": "Potts",
+      "age": 20,
+      "birth": {
+         "date": "2003-09-12",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/284446.png"
+   }
+}

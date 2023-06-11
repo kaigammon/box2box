@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19825,
+      "name": "J. Aribo",
+      "firstname": "Joseph Oluwaseyi Temitope",
+      "lastname": "Ayodele-Aribo",
+      "age": 27,
+      "birth": {
+         "date": "1996-07-21",
+         "place": "London",
+         "country": "England"
+      },
+      "nationality": "Nigeria",
+      "height": "183 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19825.png"
+   }
+}

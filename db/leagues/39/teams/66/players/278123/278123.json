@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 278123,
+      "name": "S. Revan",
+      "firstname": "Sebastian",
+      "lastname": "Revan",
+      "age": 20,
+      "birth": {
+         "date": "2003-07-14",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "181 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/278123.png"
+   }
+}

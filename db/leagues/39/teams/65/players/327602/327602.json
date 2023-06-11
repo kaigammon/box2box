@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 327602,
+      "name": "D. Osong",
+      "firstname": "Detlef Esapa",
+      "lastname": "Osong",
+      "age": 19,
+      "birth": {
+         "date": "2004-09-21",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/327602.png"
+   }
+}

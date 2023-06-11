@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284409,
+      "name": "D. Mubama",
+      "firstname": "Divin Saku",
+      "lastname": "Mubama",
+      "age": 19,
+      "birth": {
+         "date": "2004-10-25",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/284409.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 69257,
+      "name": "J. Furlong",
+      "firstname": "Walter James",
+      "lastname": "Byrne Furlong",
+      "age": 21,
+      "birth": {
+         "date": "2002-06-07",
+         "place": "Dublin",
+         "country": "Republic of Ireland"
+      },
+      "nationality": "Republic of Ireland",
+      "height": "178 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/69257.png"
+   }
+}

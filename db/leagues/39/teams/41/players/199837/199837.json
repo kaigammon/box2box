@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 199837,
+      "name": "K. Sulemana",
+      "firstname": "Kamaldeen",
+      "lastname": "Sulemana",
+      "age": 21,
+      "birth": {
+         "date": "2002-02-15",
+         "place": "Techiman",
+         "country": "Ghana"
+      },
+      "nationality": "Ghana",
+      "height": "175 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/199837.png"
+   }
+}

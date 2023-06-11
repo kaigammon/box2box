@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 303019,
+      "name": "N. Fraser",
+      "firstname": "Nathan John Mark",
+      "lastname": "Fraser",
+      "age": 18,
+      "birth": {
+         "date": "2005-02-22",
+         "place": "Wolverhampton",
+         "country": "England"
+      },
+      "nationality": "Republic of Ireland",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/303019.png"
+   }
+}

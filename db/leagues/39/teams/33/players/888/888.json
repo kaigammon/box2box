@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 888,
+      "name": "P. Jones",
+      "firstname": "Phil Anthony",
+      "lastname": "Jones",
+      "age": 31,
+      "birth": {
+         "date": "1992-02-21",
+         "place": "Preston",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "180 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/888.png"
+   }
+}

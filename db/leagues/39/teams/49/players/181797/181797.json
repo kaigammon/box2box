@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 181797,
+      "name": "B. Humphreys",
+      "firstname": "Bashir",
+      "lastname": "Humphreys",
+      "age": 20,
+      "birth": {
+         "date": "2003-03-15",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/181797.png"
+   }
+}

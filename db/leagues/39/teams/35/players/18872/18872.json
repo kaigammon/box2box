@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18872,
+      "name": "L. Cook",
+      "firstname": "Lewis John",
+      "lastname": "Cook",
+      "age": 26,
+      "birth": {
+         "date": "1997-02-03",
+         "place": "York",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "175 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18872.png"
+   }
+}

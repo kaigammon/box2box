@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19015,
+      "name": "J. Bryan",
+      "firstname": "Joseph Edward",
+      "lastname": "Bryan",
+      "age": 30,
+      "birth": {
+         "date": "1993-09-17",
+         "place": "Bristol",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "170 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/19015.png"
+   }
+}

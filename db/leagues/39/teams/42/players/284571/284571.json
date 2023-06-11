@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284571,
+      "name": "C. Sagoe",
+      "firstname": "Charles Kwame",
+      "lastname": "Sagoe Junior",
+      "age": 19,
+      "birth": {
+         "date": "2004-07-24",
+         "place": null,
+         "country": "Ghana"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/284571.png"
+   }
+}

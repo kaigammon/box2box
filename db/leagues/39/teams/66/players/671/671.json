@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 671,
+      "name": "B. Traoré",
+      "firstname": "Bertrand Isidore",
+      "lastname": "Traoré",
+      "age": 28,
+      "birth": {
+         "date": "1995-09-06",
+         "place": "Bobo-Dioulasso",
+         "country": "Burkina Faso"
+      },
+      "nationality": "Burkina Faso",
+      "height": "181 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/671.png"
+   }
+}

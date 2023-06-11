@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 295,
+      "name": "A. Lallana",
+      "firstname": "Adam David",
+      "lastname": "Lallana",
+      "age": 35,
+      "birth": {
+         "date": "1988-05-10",
+         "place": "St Albans",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "172 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/295.png"
+   }
+}

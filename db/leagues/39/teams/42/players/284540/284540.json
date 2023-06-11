@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284540,
+      "name": "Mauro Bandeira",
+      "firstname": "Mauro",
+      "lastname": "Gomes Bandeira",
+      "age": 19,
+      "birth": {
+         "date": "2004-04-19",
+         "place": "Loures",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "178 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/284540.png"
+   }
+}

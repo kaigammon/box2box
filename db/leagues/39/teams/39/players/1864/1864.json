@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1864,
+      "name": "Pedro Neto",
+      "firstname": "Pedro",
+      "lastname": "Lomba Neto",
+      "age": 23,
+      "birth": {
+         "date": "2000-03-09",
+         "place": "Viana do Castelo",
+         "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "172 cm",
+      "weight": "62 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1864.png"
+   }
+}

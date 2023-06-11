@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 31057,
+      "name": "H. Traorè",
+      "firstname": "Hamed Junior",
+      "lastname": "Traorè",
+      "age": 23,
+      "birth": {
+         "date": "2000-02-16",
+         "place": null,
+         "country": "Côte d'Ivoire"
+      },
+      "nationality": "Côte d'Ivoire",
+      "height": "184 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/31057.png"
+   }
+}

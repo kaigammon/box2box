@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1370,
+      "name": "A. Ayew",
+      "firstname": "André Morgan",
+      "lastname": "Rami Ayew",
+      "age": 34,
+      "birth": {
+         "date": "1989-12-17",
+         "place": "Lille",
+         "country": "France"
+      },
+      "nationality": "Ghana",
+      "height": "175 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/1370.png"
+   }
+}

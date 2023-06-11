@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19354,
+      "name": "E. Konsa",
+      "firstname": "Ezri",
+      "lastname": "Konsa Ngoyo",
+      "age": 26,
+      "birth": {
+         "date": "1997-10-23",
+         "place": "London",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "183 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/19354.png"
+   }
+}

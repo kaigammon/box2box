@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 339138,
+      "name": "D. Taylor",
+      "firstname": "Dale",
+      "lastname": "Taylor",
+      "age": 20,
+      "birth": {
+         "date": "2003-12-12",
+         "place": null,
+         "country": "Northern Ireland"
+      },
+      "nationality": "Northern Ireland",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/339138.png"
+   }
+}

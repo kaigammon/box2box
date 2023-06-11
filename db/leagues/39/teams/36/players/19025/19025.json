@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 19025,
+      "name": "T. Cairney",
+      "firstname": "Tom",
+      "lastname": "Cairney",
+      "age": 32,
+      "birth": {
+         "date": "1991-01-20",
+         "place": "Nottingham",
+         "country": "England"
+      },
+      "nationality": "Scotland",
+      "height": "185 cm",
+      "weight": "84 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/19025.png"
+   }
+}

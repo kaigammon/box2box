@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 288106,
+      "name": "Marc Jurado",
+      "firstname": "Marc",
+      "lastname": "Jurado Gómez",
+      "age": 19,
+      "birth": {
+         "date": "2004-04-13",
+         "place": "Sabadell",
+         "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "178 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/288106.png"
+   }
+}

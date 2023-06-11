@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18846,
+      "name": "A. Wan-Bissaka",
+      "firstname": "Aaron",
+      "lastname": "Wan-Bissaka",
+      "age": 26,
+      "birth": {
+         "date": "1997-11-26",
+         "place": "London",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "183 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/18846.png"
+   }
+}

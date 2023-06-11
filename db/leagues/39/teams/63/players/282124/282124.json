@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 282124,
+      "name": "D. Gyabi",
+      "firstname": "Darko Boateng",
+      "lastname": "Gyabi",
+      "age": 19,
+      "birth": {
+         "date": "2004-02-18",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "196 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/282124.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 327603,
+      "name": "A. Gibson-Hammond",
+      "firstname": "Alex",
+      "lastname": "Gibson-Hammond",
+      "age": 21,
+      "birth": {
+         "date": "2002-11-10",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/327603.png"
+   }
+}

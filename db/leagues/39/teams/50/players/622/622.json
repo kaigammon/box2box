@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 622,
+      "name": "Aymeric Laporte",
+      "firstname": "Aymeric Jean Louis Gérard Alph",
+      "lastname": "Laporte",
+      "age": 29,
+      "birth": {
+         "date": "1994-05-27",
+         "place": "Agen",
+         "country": "France"
+      },
+      "nationality": "Spain",
+      "height": "189 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/622.png"
+   }
+}

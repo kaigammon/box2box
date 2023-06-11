@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18766,
+      "name": "D. Calvert-Lewin",
+      "firstname": "Dominic Nathaniel",
+      "lastname": "Calvert-Lewin",
+      "age": 26,
+      "birth": {
+         "date": "1997-03-16",
+         "place": "Sheffield",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "187 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/18766.png"
+   }
+}

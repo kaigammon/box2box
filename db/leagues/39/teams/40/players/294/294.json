@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 294,
+      "name": "N. Keïta",
+      "firstname": "Naby Laye",
+      "lastname": "Keïta",
+      "age": 28,
+      "birth": {
+         "date": "1995-02-10",
+         "place": "Conakry",
+         "country": "Guinea"
+      },
+      "nationality": "Guinea",
+      "height": "172 cm",
+      "weight": "64 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/294.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 171059,
+      "name": "J. Baptiste",
+      "firstname": "Jamal Marcus",
+      "lastname": "Baptiste",
+      "age": 20,
+      "birth": {
+         "date": "2003-11-11",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/171059.png"
+   }
+}

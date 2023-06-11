@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 1455,
+      "name": "A. Iwobi",
+      "firstname": "Alexander Chuka",
+      "lastname": "Iwobi",
+      "age": 27,
+      "birth": {
+         "date": "1996-05-03",
+         "place": "Lagos",
+         "country": "Nigeria"
+      },
+      "nationality": "Nigeria",
+      "height": "180 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/1455.png"
+   }
+}

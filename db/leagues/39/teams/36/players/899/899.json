@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 899,
+      "name": "Andreas Pereira",
+      "firstname": "Andreas Hugo",
+      "lastname": "Hoelgebaum Pereira",
+      "age": 27,
+      "birth": {
+         "date": "1996-01-01",
+         "place": "Duffel",
+         "country": "Belgium"
+      },
+      "nationality": "Brazil",
+      "height": "178 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/899.png"
+   }
+}

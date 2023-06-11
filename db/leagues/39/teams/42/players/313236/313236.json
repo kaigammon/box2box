@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 313236,
+      "name": "E. Nwaneri",
+      "firstname": "Ethan Chidiebere",
+      "lastname": "Nwaneri",
+      "age": 16,
+      "birth": {
+         "date": "2007-03-21",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "165 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/313236.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 15812,
+      "name": "P. Onuachu",
+      "firstname": "Ebere Paul",
+      "lastname": "Onuachu",
+      "age": 29,
+      "birth": {
+         "date": "1994-05-28",
+         "place": "Owerri",
+         "country": "Nigeria"
+      },
+      "nationality": "Nigeria",
+      "height": "201 cm",
+      "weight": "98 kg",
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/15812.png"
+   }
+}

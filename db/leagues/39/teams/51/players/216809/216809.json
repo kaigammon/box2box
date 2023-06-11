@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 216809,
+      "name": "C. Peupion",
+      "firstname": "Cameron Paul Jacques",
+      "lastname": "Peupion",
+      "age": 21,
+      "birth": {
+         "date": "2002-09-23",
+         "place": "Sydney",
+         "country": "Australia"
+      },
+      "nationality": "Australia",
+      "height": "175 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/216809.png"
+   }
+}

@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 935,
+      "name": "Rodrigo",
+      "firstname": "Rodrigo",
+      "lastname": "Moreno Machado",
+      "age": 32,
+      "birth": {
+         "date": "1991-03-06",
+         "place": "Rio de Janeiro",
+         "country": "Brazil"
+      },
+      "nationality": "Spain",
+      "height": "182 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/935.png"
+   }
+}

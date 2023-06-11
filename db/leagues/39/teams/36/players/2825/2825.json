@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2825,
+      "name": "A. Mitrović",
+      "firstname": "Aleksandar",
+      "lastname": "Mitrović",
+      "age": 29,
+      "birth": {
+         "date": "1994-09-16",
+         "place": "Smederevo",
+         "country": "Serbia"
+      },
+      "nationality": "Serbia",
+      "height": "189 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2825.png"
+   }
+}

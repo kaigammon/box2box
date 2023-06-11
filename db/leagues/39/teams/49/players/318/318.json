@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 318,
+      "name": "K. Koulibaly",
+      "firstname": "Kalidou",
+      "lastname": "Koulibaly",
+      "age": 32,
+      "birth": {
+         "date": "1991-06-20",
+         "place": "Saint-Dié-des-Vosges",
+         "country": "France"
+      },
+      "nationality": "Senegal",
+      "height": "195 cm",
+      "weight": "89 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/318.png"
+   }
+}

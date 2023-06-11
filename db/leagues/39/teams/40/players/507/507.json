@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 507,
+      "name": "Thiago Alcântara",
+      "firstname": "Thiago",
+      "lastname": "Alcântara do Nascimento",
+      "age": 32,
+      "birth": {
+         "date": "1991-04-11",
+         "place": "San Pietro Vernotico",
+         "country": "Italy"
+      },
+      "nationality": "Spain",
+      "height": "174 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media-3.api-sports.io/football/players/507.png"
+   }
+}

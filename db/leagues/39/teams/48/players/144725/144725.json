@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 144725,
+      "name": "K. Simon-Swyer",
+      "firstname": "Kamarai",
+      "lastname": "Simon-Swyer",
+      "age": 21,
+      "birth": {
+         "date": "2002-12-04",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-1.api-sports.io/football/players/144725.png"
+   }
+}

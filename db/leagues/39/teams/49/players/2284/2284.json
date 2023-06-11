@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 2284,
+      "name": "Emerson",
+      "firstname": "Emerson",
+      "lastname": "Palmieri dos Santos",
+      "age": 29,
+      "birth": {
+         "date": "1994-08-03",
+         "place": "Santos",
+         "country": "Brazil"
+      },
+      "nationality": "Italy",
+      "height": "176 cm",
+      "weight": "63 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/2284.png"
+   }
+}

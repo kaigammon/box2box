@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18943,
+      "name": "J. Vestergaard",
+      "firstname": "Jannik",
+      "lastname": "Vestergaard",
+      "age": 31,
+      "birth": {
+         "date": "1992-08-03",
+         "place": "København",
+         "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "199 cm",
+      "weight": "98 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18943.png"
+   }
+}

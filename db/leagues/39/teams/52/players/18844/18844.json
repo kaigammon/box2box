@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18844,
+      "name": "J. Tomkins",
+      "firstname": "James Oliver Charles",
+      "lastname": "Tomkins",
+      "age": 34,
+      "birth": {
+         "date": "1989-03-29",
+         "place": "Basildon",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "192 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18844.png"
+   }
+}

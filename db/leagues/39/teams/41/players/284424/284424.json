@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 284424,
+      "name": "D. Edwards",
+      "firstname": "Diamond",
+      "lastname": "Diamond Lazane Edwards",
+      "age": 20,
+      "birth": {
+         "date": "2003-09-18",
+         "place": null,
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/284424.png"
+   }
+}

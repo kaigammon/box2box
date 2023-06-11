@@ -1,0 +1,19 @@
+{
+   "player": {
+      "id": 18806,
+      "name": "W. Hughes",
+      "firstname": "William James",
+      "lastname": "Hughes",
+      "age": 28,
+      "birth": {
+         "date": "1995-04-17",
+         "place": "Surrey",
+         "country": "England"
+      },
+      "nationality": "England",
+      "height": "185 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media-2.api-sports.io/football/players/18806.png"
+   }
+}
