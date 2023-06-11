@@ -1,11 +1,16 @@
 const api = require('../../api');
 const io = require('../../io');
 const path = require("path");
+const config = require('../config.json');
+const axios = require('axios');
+const rateLimit = require('axios-rate-limit');
+
+const http = rateLimit(axios.create(), { ...config.rateLimit });
 
 const populateTeamsForLeague = async (apiKey, apiHost, league) => {
   console.log(`populating teams for league ${league}`);
   if (io.directoryIsEmpty({ league }, 'teams')) {
-    const { response } = await api.getData("teams", apiKey, apiHost, "GET", {
+    const { response } = await api.getData(http, "teams", apiKey, apiHost, "GET", {
       league,
     });
 
